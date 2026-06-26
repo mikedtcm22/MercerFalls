@@ -3,39 +3,57 @@ aliases: []
 created: 2026-06-25T00:00:00.000Z
 domain: PCs
 pc_class: Cleric
-source: [Session 0 player notes (2026-06)]
-status: provisional
+source: [Session 0 player notes (2026-06), "Gern arc & Awakening-test design (conversation, 2026-06)"]
+status: canonical
 tags: [embers, pc, gern, order-chaos, cleric]
 title: Gern
 type: pc
 visibility: dm-only
 ---
 
-Up: [[The Party]] · the inherited cage
+Up: [[The Party]] · the inherited cage / the swing vote
 
 > [!danger] DM-only
-> DM read for the character. Awakening test & full battle plan are TBD (to lock after more development).
+> The DM's attack plan for the character — read, Awakening test, and how to pressure him. The cosmology read and the test are locked; sheet specifics (the religion's name, the exact ideal/flaw wording) follow the player as he's built out.
 
 # Gern
 
-Cleric · homeschooled kid from a strict, wealthy, **[[Order and Chaos|Order]]-native religious family** (Scientology-coded; exact doctrine TBD). Lives in [[The Districts|the Heights]]. *(Player still building him out — Session 0 read.)*
+Cleric · homeschooled kid from a strict, wealthy, **[[Order and Chaos|Order]]-native religious family** (Scientology-coded; exact doctrine TBD). Lives in [[The Districts|the Heights]]. Ideal: *there's a right way to live, and I'd rather find it than be comfortable* (earnest seeker). Flaw: *he trades conviction for inclusion, and can't yet tell being included from being liked.*
 
-## The read — Order inherited whole
-Gern is the cleanest Order-native in the party, and special because his Order was **handed to him before he could consent** — a totalizing religion that answers every question in advance and tells you what to want. He's never met an alternative, so there's no friction to push against — which is exactly why "**looking at the world with new eyes this summer**" is his whole engine. He's trying to get out, make real friends, build a social life he's never had (started a little last summer; a few people know him).
-- **His danger:** the obvious "escape" from Order is straight into Chaos's arms. He's the PC most primed to hear Chaos's pitch as *liberation*, because for him it literally would be — the same error [[Old Man]] made, but rebelling against *reality-as-he-was-taught*, a much bigger fall. He starts from the most enclosed place, so he can go furthest.
-- **The Cleric irony:** divine power handed to him by an entity of ambiguous benevolence at the exact moment he's trying to leave the faith his parents handed him. Did he trade one unseen power-granting authority for another? Does the ember feel like proof his parents were right — or wrong?
-- **Social layer (his non-cosmic lever):** his friendships have been *purchased* by amenities — the backyard pool, the new SNES the day it dropped, all the fun toys. He knows, somewhere, that people come for the stuff. His stakes: **authentic connection vs. transactional belonging** — which rhymes with the cosmology (does anything you have actually belong to you, or was it given to keep you in place?).
+## The read — conviction vs. belonging
+Gern's whole life is an **inherited Order**: a strict, total religion that decided what's true and good before he could weigh in, plus friendships **purchased** by amenities (the backyard pool, the day-one SNES, all the toys). He has never *chosen* a belief or a friend — both were issued to him — and he half-knows the friends come for the stuff. He's the most enclosed of the four and the most socially starved; "**new eyes this summer**" is his engine — his first real reach for connection.
 
-## At the mill
-A **dare**, taken at face value and *gladly* — he says yes because being included in anything is the prize, and (the sad, sweet part) he can't even conceive it's a setup. Establishes his whole tragedy and hope in one beat. Structurally the most isolated PC: reachable in the web only through [[Bash Whitlock]] (their mother-arranged playdates). Once school resumes, the homeschooled-outsider angle creates fresh dynamics — he'll be in a different situation than the rest of the party.
+The conflict the campaign pressures: **conviction and belonging are in tension, and belonging alone rings hollow.** What Gern actually wants is *connection* — quality, not quantity — but the sheltered kid's instinct, handed his first taste of real social life, is to **sacrifice conviction to maximize belonging**: agree with everyone, soften whatever he believes, be whatever the room wants. It buys a crowd and no connection. Real connection costs more — the **risk that someone won't share, or will be hostile to, what he believes** — and the courage to take that risk is his arc.
+- **The Order jaw** is the cage he came in: total inherited certainty (the doctrine decides) and belonging-by-conformity (church, or any crowd, on the condition he not be *too much himself*).
+- **The Chaos jaw** is the one he's primed to fall for. The pitch — *rules are cages, you owe them nothing, just be free* — lands on Gern as **gospel**, because it's the first alternative anyone has ever offered him. He'll mistake **tearing down his upbringing for freedom** (the same error [[Old Man]] made, from a far more enclosed start — a longer fall). It's a con: he'd swap one totalizing answer ("the doctrine decides") for another ("nothing decides, do as you like"), both sparing him the work of judging.
+- **The third position** is *discernment + courage*: keep what's true in what he was given, discard what isn't, and hold convictions he **chose and can defend even when they cost him the room** — and find the connection that only exists once he's been *seen*. Resolution (locked direction): **he ends up continuing the path that was imposed — a life of conviction — but now consciously chosen, on his own terms,** after a detour through some genuinely destructive rebellion.
 
-## TBD
-- **Awakening test** — likely a fork around imposed-worldview vs. new-eyes, or transactional vs. real belonging.
-- **Full battle plan** (through-line / early lean / crisis & turn).
-- The **religion's name & doctrine**, and its true relationship to [[Order and Chaos]] / [[The Entity]] — decide whether it's nonsense or stumbled onto something (even 2% right is interesting).
+**The Cleric irony** is the vehicle: divine power handed to him by an entity of ambiguous benevolence at the exact moment he's trying to leave the faith his parents handed him. Did he trade one unseen power-granting authority for another? By the end his magic should feel like it flows from his **own** conviction, not an inherited or borrowed one. (Decide eventually how his religion relates to the real [[The Entity|cosmology]] — even 2% right is interesting.)
 
-## Relationships
-[[Bash Whitlock]] (mother-arranged playdates) · [[The Party]].
+## Awakening test — "The Obelisk and the Two Gates" (locked)
+A pulley sits at his hands. A massive, sturdy stone **obelisk** — a relic of his received faith — hangs by rope above the center of a **balance**, a spinning saw to either side. Two tall gates, each topped by a pan: one fronts a **warm party** (faces turned toward him, a kept seat, laughter); the other a **dark cave-mouth** (nothing). At decision time the party is the obvious magnet and the cave looks like pure exile. Carved at the pulley:
+
+> *This was set upon you before you could answer.*
+> *You did not carve it; you were carved to carry it.*
+> *Now the cutting is yours.*
+> *Bury it in the dark, or raise it to the light.*
+
+He hauls the obelisk over one pan; that saw cuts the rope; the relic drops — far too huge to ever move again — sealing that gate **with the obelisk standing in the doorway**, while the far gate counterweights open. Irreversible: no retrieval, no take-back.
+- **"Raise it to the light"** (haul it over the *party* gate): the obelisk stands lit in the party's doorway, **displayed to the whole crowd**; that door seals; the cave gate opens. His only way on is **into the dark** — but a little way in, his approach draws **one or two figures who turn toward him** (they have faces, but none he'll be able to place afterward). One steps in, embraces him, and the **ember kindles between them.** Connection isn't the reward after the prize; **connection *is* the prize.**
+- **"Bury it in the dark"** (haul it over the *cave* gate): the obelisk seals the dark, **seen by no one**; the party gate opens; he walks into the warmth. The ember sits in a corner **no one faces** — and as he nears it, the reveal: **the ember is the source of all the room's light and heat**, while every partygoer is turned the other way, transfixed by something banal in the direction of the entrance. They were never welcoming him; they were just **facing his way.** He claims real fire from a room full of people who never once looked at him.
+
+Then Gern himself dissolves from the scene with his ember (the figures simply remain). See [[The Ember Chamber]], [[The Embers]].
+
+**Same ember either way; [[The Entity|Chaos]] doesn't care which gate.** The tell, in retrospect: "raise it to the light" *sounds* like the brave, virtuous choice — and it is the one that leads to being seen — yet it costs the welcome and routes him through apparent exile; "bury it in the dark" *sounds* like cowardly concealment, and it buys the warm room that turns out hollow. The room **never advertised** that the welcome was people facing past him, or that the dark was where someone actually turned around. (Held latent, never stated: the obelisk is his **parents'** faith for now — whichever way he hauls it, he acts on an *inherited* thing; the campaign converts it into a *chosen* one. Optional callback: the relic's light is a specific color that later reads unmistakably as *his*.)
+
+## Battle plan
+- **Through-line — The Open Seat.** Gern's temptation doesn't arrive as an object (the way [[Bash Whitlock|Bash]]'s does through his gear) — it arrives as **belonging on offer.** Every group in town will keep a seat for him if he'll dim himself to fit it: the party, his family's church, and above all [[The Community Center]]. The recurring shape is Gern **filing down a conviction to keep the warmth** — and the warmth ringing hollow. He is the party's genuine **swing vote**, the PC most like [[Wesley's Recruits|the recruits]], because he wants exactly what [[Wesley Crane|Wesley]] sells.
+- **Early/mid lean — the kid-sized mirror (no cosmology needed).** Run *transactional vs. authentic belonging* at the table early and often. Let him **buy his way in** (amenities, agreeing to things he doesn't believe, playing the agreeable new kid) and let the hollowness land — surrounded, unseen. Then plant moments where **holding a conviction would cost him the group**, and make the cost real (someone cools, a clique closes). His first taste of the third door is the first time he **risks the clash and someone responds to the real him** — likeliest inside [[The Party]], who've seen him at his least guarded.
+- **Crisis & turn — the destructive rebellion, then discernment.** Wesley's machine offers Gern the **total, warm belonging he's never had** in exchange for adopting the frame — the party-gate of his Awakening made real. Intoxicated by his first true alternative to his parents' faith, Gern **tears the inherited religion down and lurches toward Chaos / the community center**, mistaking demolition for freedom — his on-screen "broke bad," the destructive-rebellion phase the arc runs *through*. The turn is **discernment**: he realizes he only swapped one total answer for another, and that **both** the church and the community center sell belonging on the condition of concealment. He **reclaims a life of conviction — chosen, defensible, his —** and the connection that survives the clash turns out to be the one that was real all along. Cleric beat to hit at the turn: his power stops feeling borrowed.
+- **Reserve assets.** His **parents / the church** (the Order lever — they'll take him back if he stops asking questions; aim it when he's most lost). The **amenities / purchased-belonging** pattern (a fast, legible way to dramatize hollow connection). **[[Wesley Crane]] / [[The Community Center]]** (the Chaos-coded belonging-machine, and Gern's strongest pull toward the recruit fate). The **homeschool→school transition** (when everyone goes back to school in the fall, Gern is the outsider again — a structural loneliness spike to time a temptation against; note he'll be in a different daily situation than the rest of the party).
+
+## At the mill / relationships
+Gern came to the mill on a **dare**, taken gladly and at face value — being included is the whole prize, and he can't conceive it's a setup ([[Tank]]'s crew's prank, architected by [[Ricky Vance]]; see [[Session 1 — The Dare]], [[The Party]]). Structurally the most isolated PC, reachable in the relationship web only through [[Bash Whitlock]] (their mother-arranged playdates). The prank-reveal hits him hard precisely *because* being included meant so much.
 
 ## Source
-Session 0 player notes (2026-06).
+Session 0 player notes (2026-06); Gern arc & Awakening-test design (conversation, 2026-06). See [[Order and Chaos]], [[The Embers]], [[The Entity]], [[The Ember Chamber]].
