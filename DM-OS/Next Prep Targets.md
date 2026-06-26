@@ -26,11 +26,11 @@ Up: [[DM-OS & Prep]]
 
 ## Tier 2 — Required for Episode 1 (DM-side, parallel with PC creation)
 
-**Floor 1 dungeon prep:** equipment-rack contents (calibrated post-PC), the **young [[The Watcher|Watcher]]** stat block (spore-release-on-death hook), Buzzsaw Room stat blocks (mooks + lieutenant + sigil-spawned reinforcements via [[Wesley's Sigils]]), the Floor 1 wandering monster table with the L2+ flee rule, the [[The Keystone Tablet]] introduction beat, Floor 1 keystone protection specifics (glyph-lock + Compass-Keystone deep guardian), and the **stone of quietude** (dungeon side). See [[Dungeon Mechanics]], [[Floor Reset and the Intelligence Gradient]], [[The Ember Chamber]].
+**Floor 1 dungeon prep:** equipment-rack contents (calibrated post-PC), the **young [[The Hush|Hush]]** stat block (spore-release-on-death hook), Buzzsaw Room stat blocks (mooks + lieutenant + sigil-spawned reinforcements via [[Wesley's Sigils]]), the Floor 1 wandering monster table with the L2+ flee rule, the [[The Keystone Tablet]] introduction beat, Floor 1 keystone protection specifics (glyph-lock + Compass-Keystone deep guardian), and the **stone of quietude** (dungeon side). See [[Dungeon Mechanics]], [[Floor Reset and the Intelligence Gradient]], [[The Ember Chamber]].
 
-**Episode 1 topside prep:** [[Russ]]'s full character sketch; the Watcher's source-film specifics; the **adult Watcher** stat block (sound-tracking mechanic); spore-tracking implementation; the stone of quietude (lore side); [[Ricky Vance]]'s evidence trail; **Ricky's friends** as the in-town pressure mechanism; the **hooded-figure recognition arc** (the slow [[Wesley Crane]] connection). See [[Episode 1 — The Watcher]], [[The Mill Sector]].
+**Episode 1 topside prep:** [[Russ]]'s full character sketch; the Hush's source-film specifics; the **adult Hush** stat block (sound-tracking mechanic); spore-tracking implementation; the stone of quietude (lore side); [[Ricky Vance]]'s evidence trail; **Ricky's friends** as the in-town pressure mechanism; the **hooded-figure recognition arc** (the slow [[Wesley Crane]] connection). See [[Episode 1 — The Hush]], [[The Mill Sector]].
 
-**Session structure:** [[Session 1 — The Dare]] block-by-block walkthrough; [[Episode 1 — The Watcher|Session 2]] structure (topside investigation, the [[Russ]]-at-[[Panels]] scene, the Ricky-friends confrontation, optional dungeon return, the Watcher climax).
+**Session structure:** [[Session 1 — The Dare]] block-by-block walkthrough; [[Episode 1 — The Hush|Session 2]] structure (topside investigation, the [[Russ]]-at-[[Panels]] scene, the Ricky-friends confrontation, optional dungeon return, the Hush climax).
 
 ## Tier 3 — Locked After PC Creation
 
