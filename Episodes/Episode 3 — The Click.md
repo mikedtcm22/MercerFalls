@@ -24,8 +24,8 @@ Up: [[Episodes]]
 Pick whatever feels good — a residue creature, a sleepwalking outbreak, a corrupted dog pack, a thing in the river. The monster is chosen at prep time; [[The Fourth Recruit]] is connected to it (witness, hunted, or tied to its source).
 
 ## The function — click 1
-This episode delivers **click 1** in the three-phase [[The Pattern Recognition Arc]]: the PCs notice that [[Episode 1 — The Watcher|Episode 1]]'s creature, [[Episode 2 — The Hungry House|Episode 2]]'s basement chamber, and *this* episode's source share something **visual and physically present at all three sites**.
-- **Recommended click clue: dungeon-stone material.** The Watcher's teeth weren't bone; the Hungry House had a piece in the basement; this week's source has it again. By the third occurrence even an inattentive party clocks "this stuff keeps showing up." The PCs realize the dungeon is leaking — not just monsters, but *objects, materials, itself.*
+This episode delivers **click 1** in the three-phase [[The Pattern Recognition Arc]]: the PCs notice that [[Episode 1 — The Hush|Episode 1]]'s creature, [[Episode 2 — The Hungry House|Episode 2]]'s basement chamber, and *this* episode's source share something **visual and physically present at all three sites**.
+- **Recommended click clue: dungeon-stone material.** The Hush's teeth weren't bone; the Hungry House had a piece in the basement; this week's source has it again. By the third occurrence even an inattentive party clocks "this stuff keeps showing up." The PCs realize the dungeon is leaking — not just monsters, but *objects, materials, itself.*
 
 They don't yet know if anyone is *causing* it. See [[Cosmology Seeds]].
 
@@ -41,7 +41,7 @@ Structurally distinct from Episodes 1, 2, and 4: those feature an established Ri
 - **Botched rescue / dismissed witness** → 1 (Wary) or 0 (Hostile); flees to Wesley fast
 - **Total failure (person hollowed)** → worst case; goes hard into Wesley's orbit, near-0 at equinox
 
-After this episode [[Wesley Crane]] begins paying attention to the Fourth Recruit and counter-cultivates if there's a PC bond to erode. See [[The Disposition Tracker|The Negotiation System]].
+After this episode [[Wesley Crane]] begins paying attention to the Fourth Recruit and counter-cultivates if there's a PC bond to erode. See [[The Negotiation System]].
 
 ## Links
 [[The Fourth Recruit]] · [[Wesley's Recruits]] · [[The Pattern Recognition Arc]] · [[Cosmology Seeds]] · [[Episode 2 — The Hungry House]] · [[Episode 4 — The Mirror]] · [[The Bizarro Plot]] · [[Wesley's Summer Calendar]]
