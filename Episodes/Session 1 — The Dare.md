@@ -1,24 +1,24 @@
 ---
+aliases: [The Dare, Session One]
+created: 2026-06-14T00:00:00.000Z
+domain: Episodes
+featured_rival: "[[Ricky Vance]]"
+monster: "[[The Hush]]"
+sessions: Session 1
+source: [campaign bible v0.4 §17 (line 1377), session-prep Episode-1 chase & awakening, session-prep Episode-1 prep reference]
+status: canonical
+tags: [embers, episode, opener, the-hush]
 title: Session 1 — The Dare
 type: episode
-domain: Episodes
-status: canonical
 visibility: dm-only
-aliases: [The Dare, Session One]
-tags: [embers, episode, opener, watcher]
-source: ["campaign bible v0.4 §17 (line 1377)", "session-prep Episode-1 chase & awakening", "session-prep Episode-1 prep reference"]
-created: 2026-06-14
-window: "Mid-June (campaign opener)"
-sessions: "Session 1"
-featured_rival: "[[Ricky Vance]]"
-monster: "[[The Watcher]]"
+window: Mid-June (campaign opener)
 ---
 
 # Session 1 — The Dare
 
 Up: [[Episodes]]
 
-**The campaign's cold open: kids dared to spend the night at the abandoned mill, chased by a thing that hunts by sound, descend through the hatch, claim their embers, push a pre-cleared floor, glimpse a robed figure at a buzzsaw-room sigil — and wake up in their own beds with powers they shouldn't have.** Runs 3–4 hours (the long exception; everything after is ~1.5h). Part one of [[Episode 1 — The Watcher]].
+**The campaign's cold open: kids dared to spend the night at the abandoned mill, chased by a thing that hunts by sound, descend through the hatch, claim their embers, push a pre-cleared floor, glimpse a robed figure at a buzzsaw-room sigil — and wake up in their own beds with powers they shouldn't have.** Runs 3–4 hours (the long exception; everything after is ~1.5h). Part one of [[Episode 1 — The Hush]].
 
 ## The five-block structure (bible §17)
 | Block | Time | Content |
@@ -31,7 +31,7 @@ Up: [[Episodes]]
 
 **Block 1 — Texture & Dare.** Three-sentence PC cameos of a normal late-summer day (what we're protecting; school starts in a week or two). Bullies issue the dare and chain the gate; [[Ricky Vance]] is among them (don't tell players he's a future recruit). Ask each PC why they accept.
 
-**Block 2 — Mill grounds & chase.** Atmospheric wrongness at [[The Mill]]; then the chaser appears. Run as a **chase, not combat** — kids with no powers. Detailed design lives in the chase doc: a *pursuit clock with condition states* (CLEAR / STRAINED / MAULED), 3 beats outside → bar the blast furnace → a search stretch (find the transistor **radio**, the "quiet stone" notice, the way down) → 2 beats inside → down the hatch. "Caught" is never lethal. The radio quietly arms the **sound-misdirection** tactic reused against [[The Watcher]] in Session 2.
+**Block 2 — Mill grounds & chase.** Atmospheric wrongness at [[The Mill]]; then the chaser appears. Run as a **chase, not combat** — kids with no powers. Detailed design lives in the chase doc: a *pursuit clock with condition states* (CLEAR / STRAINED / MAULED), 3 beats outside → bar the blast furnace → a search stretch (find the transistor **radio**, the "quiet stone" notice, the way down) → 2 beats inside → down the hatch. "Caught" is never lethal. The radio quietly arms the **sound-misdirection** tactic reused against [[The Hush]] in Session 2.
 
 **Block 3 — The awakening.** Per the chase/awakening doc this lands *here, before* the Pillared Reach. Antechamber: each PC catches a different ember-cue; the wall opens onto [[The Ember Chamber]]. The room reads **charged, vital, too-alive** (Chaos, not calm). Each PC is offered a two-object choice; the ember manifests as the reply (Heroic Inspiration if the pick is true to the sheet — flaws count). The locked surge→settle passage establishes the fire vocabulary. Each PC **dissolves into motes** as they claim — the same visual as hollowing — and re-forms in the antechamber; equipment waits in a mundane **niche**. See [[The Embers]].
 
@@ -40,12 +40,12 @@ Up: [[Episodes]]
 **Block 5 — The wake-up reveal.** Cut to black on the kill. PCs wake in their own beds — survivors the next morning, the dead two mornings later (the [[Death, TPK, and the Lost Day|lost day]] on auto-pilot), sigil-escapees the next morning. The world is normal; the warmth is real; they have powers. End on the question *what do we do now?* and don't answer it.
 
 > [!danger] DM-only
-> The robed figure is Wesley; the PCs don't know that. Lock 2–3 physical **tells** (height medium, build lean, weathered-dark hood color, one tell like a watch/shoe/smell) that will recur when Wesley appears at the community center — the recognition is the table's to make across Episodes 1–6. Per Episode-1 prep, the figure does **not** turn, speak, or acknowledge them (the prep ref's Buzzsaw choreography); the bible's "You poor things" line is the canonical opener if a speaking beat is wanted. The chamber's chalk and the cleared floor read as background; **Wesley is not on the hook for the Watcher** (4-question Q4 deliberately skipped — see [[The Pattern Recognition Arc]]).
+> The robed figure is Wesley; the PCs don't know that. Lock 2–3 physical **tells** (height medium, build lean, weathered-dark hood color, one tell like a watch/shoe/smell) that will recur when Wesley appears at the community center — the recognition is the table's to make across Episodes 1–6. Per Episode-1 prep, the figure does **not** turn, speak, or acknowledge them (the prep ref's Buzzsaw choreography); the bible's "You poor things" line is the canonical opener if a speaking beat is wanted. The chamber's chalk and the cleared floor read as background; **Wesley is not on the hook for the Hush** (4-question Q4 deliberately skipped — see [[The Pattern Recognition Arc]]).
 >
-> Episode-1 prep also seeds a hollowing victim (named "Wendell Pace" in prep, no canon note yet) dissolving in the Pillared Reach alongside a **young Watcher** whose death spores mark one PC's voice — the bridge to the Session 2 hunt.
+> Episode-1 prep also seeds a hollowing victim (named "Wendell Pace" in prep, no canon note yet) dissolving in the Pillared Reach alongside a **young Hush** whose death spores mark one PC's voice — the bridge to the Session 2 hunt.
 
 ## Links
-[[The Watcher]] · [[The Ember Chamber]] · [[Wesley's Sigils]] · [[Ricky Vance]] · [[Wesley Crane]] · [[Episode 1 — The Watcher]] · [[The Bizarro Plot]] · [[The Countdown Structure]]
+[[The Hush]] · [[The Ember Chamber]] · [[Wesley's Sigils]] · [[Ricky Vance]] · [[Wesley Crane]] · [[Episode 1 — The Hush]] · [[The Bizarro Plot]] · [[The Countdown Structure]]
 
 ## Source
 Campaign Bible v0.4 §17 (Session 1: The Dare, line 1377); session-prep `Episode-1/embers_session_1_chase_and_awakening.md` and `embers_session_1_prep_reference.md`.
