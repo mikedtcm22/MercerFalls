@@ -23,13 +23,23 @@ Up: [[Episodes]]
 ## The five-block structure (bible §17)
 | Block | Time | Content |
 |---|---|---|
-| 1 | 0–15 | Texture cameos + the dare setup |
+| 1 | 0–15 | Texture cameos + the four-reasons dare/prank setup |
 | 2 | 15–45 | Mill grounds, the chase, descent through the hatch |
 | 3 | 45–75 | [[The Ember Chamber|The ember chamber]] and class-acquisition |
 | 4 | 75–150 | Pre-cleared floor, first combat, Wesley sighting, buzzsaw room |
 | 5 | 150–180 | The wake-up reveal |
 
-**Block 1 — Texture & Dare.** Three-sentence PC cameos of a normal late-summer day (what we're protecting; school starts in a week or two). Bullies issue the dare and chain the gate; [[Ricky Vance]] is among them (don't tell players he's a future recruit). Ask each PC why they accept.
+**Block 1 — Texture & Dare.** Three-sentence PC cameos of a normal late-summer day (what we're protecting; school starts in a week or two). Then the hook that brings the four together — *the same night, four different reasons* (the full origin lives in [[The Party]]):
+
+- **[[Tank]] — it's his prank.** He and his crew talked up a night at the mill to scare two younger kids into bailing inside an hour; he's in to impress the crew, not from cruelty. The prank was [[Ricky Vance|Ricky]]'s idea.
+- **[[Bash Whitlock|Bash]] — took the "dare" to ingratiate himself with Tank.** He's been angling to get close to Tank (a protector; and a phreaked second phone line).
+- **[[Gern]] — took the "dare" gladly, at face value.** Being included is the whole prize; he can't conceive it's a setup.
+- **[[Old Man]] — coincidence + quiet mercy.** Brooding in the nearby woods, he attached himself to the "adventuring party" — part people-watching, part because he clocked the prank and moved to soften it.
+
+[[Ricky Vance]] chains the gate and leaves, meaning to circle back and watch them chicken out (don't tell players he's a future recruit). Let each PC voice their own reason — and let the prankster, the targets, and the bystander all stand in the same group without yet knowing what that means.
+
+> [!danger] DM-only — the prank under the dare
+> The "dare" is really [[Tank]]'s crew's **prank** on [[Bash Whitlock|Bash]] and [[Gern]], architected by [[Ricky Vance]]. That makes the party's very formation a hidden fracture: when Bash & Gern realize they were set up (Tank in on it, Ricky behind it), the bond has to be **earned across it** (~Ep 2–3). [[Old Man]] already knows — his Ideal goes on trial when he has to choose between protecting Tank with silence and the little kids with the truth. And Ricky **comes back** to witness the chickening-out, finds the grounds empty (the party's already fled below), and goes looking — which is how he ends up alone when the adult [[The Hush]] breaks off the hatch and takes him (his cold-open hunt next session; he survives raw → recruit arc). See [[The Party]], [[Ricky Vance]].
 
 **Block 2 — Mill grounds & chase.** Atmospheric wrongness at [[The Mill]]; then the chaser appears. Run as a **chase, not combat** — kids with no powers. Detailed design lives in the chase doc: a *pursuit clock with condition states* (CLEAR / STRAINED / MAULED), 3 beats outside → bar the blast furnace → a search stretch (find the transistor **radio**, the "quiet stone" notice, the way down) → 2 beats inside → down the hatch. "Caught" is never lethal. The radio quietly arms the **sound-misdirection** tactic reused against [[The Hush]] in Session 2.
 
@@ -45,7 +55,7 @@ Up: [[Episodes]]
 > Episode-1 prep also seeds a hollowing victim (named "Wendell Pace" in prep, no canon note yet) dissolving in the Pillared Reach alongside a **young Hush** whose death spores mark one PC's voice — the bridge to the Session 2 hunt.
 
 ## Links
-[[The Hush]] · [[The Ember Chamber]] · [[Wesley's Sigils]] · [[Ricky Vance]] · [[Wesley Crane]] · [[Episode 1 — The Hush]] · [[The Bizarro Plot]] · [[The Countdown Structure]]
+[[The Party]] · [[Old Man]] · [[Bash Whitlock]] · [[Gern]] · [[Tank]] · [[The Hush]] · [[The Ember Chamber]] · [[Wesley's Sigils]] · [[Ricky Vance]] · [[Wesley Crane]] · [[Episode 1 — The Hush]] · [[The Bizarro Plot]] · [[The Countdown Structure]]
 
 ## Source
-Campaign Bible v0.4 §17 (Session 1: The Dare, line 1377); session-prep `Episode-1/embers_session_1_chase_and_awakening.md` and `embers_session_1_prep_reference.md`.
+Campaign Bible v0.4 §17 (Session 1: The Dare, line 1377); session-prep `Episode-1/embers_session_1_chase_and_awakening.md` and `embers_session_1_prep_reference.md`; Session 0 player notes (2026-06) — the four-reasons origin.
