@@ -39,7 +39,7 @@ Curios on the gaming-table shelves: most decor, a meaningful minority real. Name
 > **Filter-touched, not Filter-broken** (bible §12, §14). He half-hears anomalous info and reframes it — the "too specific" reframe ("*I mean, like a costume at the mall?*") is the tell; fire it exactly once in the Episode 1 first-contact scene. He is the **only adult in town quietly distrustful of [[Wesley Crane]]** — his half-strength Filter picks up what the town's suppresses. Reserved payoff when his break lands: "*I knew that guy was bad news.*" He is the leading candidate for the first significant [[The Reality Filter]] break (bible §20 item 23); the trigger scene is open (candidates: Annie, the Mirror, Wesley-recognition, the cumulative research weight). Delicious irony to hold: he's an expert on visible, killable monsters — the real horror is invisible and unkillable. *He is an expert on the wrong subject.*
 
 ## Connections
-[[Panels]] · [[The Nightmare Engine]] · [[The Reality Filter]] · [[The 1991 Mill Incident]] · [[The Mercer Mirror]] · [[Wesley Crane]] · [[Gear and Items]] · [[Episode 1 — The Watcher]] · [[Episode 4 — The Mirror]]
+[[Panels]] · [[The Nightmare Engine]] · [[The Reality Filter]] · [[The 1991 Mill Incident]] · [[The Mercer Mirror]] · [[Wesley Crane]] · [[Gear and Items]] · [[Episode 1 — The Hush]] · [[Episode 4 — The Mirror]]
 
 ## Source
 campaign bible v0.4 §12 (Russ at Panels, 1202), §14 (1290) · Russ character sketch (`mercer_falls_russ_character_sketch.md`) · bizarro plot v5 §7 (Ep4)
