@@ -42,7 +42,7 @@ Discovered through play, not taught here:
 | A — Setting & Mechanics | Pitch, 1990s vibe, char-creation flavor, the Stretch system, Time Points concept |
 | B — Character Creation | Collaborative; class-flavored hooks foreshadow the Awakening; DM notes each PC's evocative detail |
 | C — Party Assembly | "Do you know each other? How?"; anchor relationships; *most likely stopping point* |
-| D — Cold Open | The drifter cooking beans, the knocked can, the woods going still — foreshadows [[The Watcher]]'s sound-MO |
+| D — Cold Open | The drifter cooking beans, the knocked can, the woods going still — foreshadows [[The Hush]]'s sound-MO |
 | E — The Dare | Bullies, gate, padlock, sunrise return; [[Ricky Vance]] present; ask each PC why they accept |
 | F — The Camping Lull | Spotlight moments; mill grounds; tension; closes on a screech |
 | G — The Chase | Funnel to the blast furnace; environmental beckoning; end at the open hatch |
