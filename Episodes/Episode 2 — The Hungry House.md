@@ -39,13 +39,13 @@ Marcy's late brother **Tommy** was friends with Henry Voss before 1991; she stil
 - **Has the conversation but doesn't go deep** → stays at **2**, trending up
 - **Doesn't engage her** → stays at **2**; Wesley works her from there
 
-After this episode [[Wesley Crane]] begins counter-cultivating Marcy. See [[The Disposition Tracker|The Negotiation System]].
+After this episode [[Wesley Crane]] begins counter-cultivating Marcy. See [[The Negotiation System]].
 
 ## Resolution
 Pure town episode (the chamber is in the basement): **destroy the dungeon-stone** (closing the annex) or **extract it** (localized residue dispersal). Either works. The basement chamber holds a creature or two — small dungeon-natives like Floor 1.
 
 ## Links
-[[The Hungry House]] · [[Henry Voss]] · [[Marcy Hauer]] · [[Earl]] · [[Earl's Pawn Shop]] · [[The Sinclair Station]] · [[Hollowed Townspeople]] · [[The 1991 Mill Incident]] · [[Episode 1 — The Watcher]] · [[Episode 3 — The Click]] · [[The Bizarro Plot]] · [[The Pattern Recognition Arc]] · [[Wesley's Summer Calendar]]
+[[The Hungry House]] · [[Henry Voss]] · [[Marcy Hauer]] · [[Earl]] · [[Earl's Pawn Shop]] · [[The Sinclair Station]] · [[Hollowed Townspeople]] · [[The 1991 Mill Incident]] · [[Episode 1 — The Hush]] · [[Episode 3 — The Click]] · [[The Bizarro Plot]] · [[The Pattern Recognition Arc]] · [[Wesley's Summer Calendar]]
 
 ## Source
 Wesley Bizarro Plot v5 §7 Episode 2 (lines 275–305).
