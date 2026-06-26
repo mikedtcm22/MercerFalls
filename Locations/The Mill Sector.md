@@ -32,7 +32,7 @@ Named/known rooms:
 - **Compass Cradle (Room 16)** — holds the **Compass-Keystone**, reached via the Stutter Stair's hidden landing; guarded by a "deep guardian" (TBD).
 - **Bell Junction** — destination of the one-way painted door.
 - **Counting Room** / **Down-Stairs Chamber** — the latter against a bite wall.
-- **Pillared Reach** — where the young [[The Watcher]] is encountered.
+- **Pillared Reach** — where the young [[The Hush]] is encountered.
 - **Buzzsaw Room** — the Session-1 climax chamber (see below); against a bite wall.
 
 See [[The Keystone Tablet]] for what the two Floor-1 keystones do.
@@ -46,7 +46,7 @@ Floors 2-5 await detailed design (built one at a time as each comes online). Ste
 The Act-1 climax is partial access to **floor 6**, repulsed before significant exploration. After [[The Mercer Gate]] opens at the equinox, the Mill sector's floors 1-5 stop being campaign-active (explored, mapped, drained).
 
 ## Connections
-[[The Dungeon]] · [[The Mill]] · [[The Dungeon's Surface Footprint]] · [[The Mercer Gate]] · [[The Keystone Tablet]] · [[Wesley's Sigils]] · [[Dungeon Mechanics]] · [[Floor Reset and the Intelligence Gradient]] · [[Forensic Delving]] · [[The Watcher]] · [[Session 1 — The Dare]] · [[The Ember Chamber]]
+[[The Dungeon]] · [[The Mill]] · [[The Dungeon's Surface Footprint]] · [[The Mercer Gate]] · [[The Keystone Tablet]] · [[Wesley's Sigils]] · [[Dungeon Mechanics]] · [[Floor Reset and the Intelligence Gradient]] · [[Forensic Delving]] · [[The Hush]] · [[Session 1 — The Dare]] · [[The Ember Chamber]]
 
 ## Source
 Campaign Bible v0.4, §3 (fragmented arcs), §10 (Dungeon Mechanics, Floor Reset), §17 (Session 1: Floor 1 and Buzzsaw), §20 (Recently Closed: Floor 1 layout and keystone locations).
