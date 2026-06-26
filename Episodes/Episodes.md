@@ -14,7 +14,7 @@ created: 2026-06-14
 
 Up: [[Embers of the Gathering Hollows — Overview]]
 
-The session-by-session **foreground of play** — each a Monster-of-the-Week with town investigation and (usually) dungeon resolution, paced against [[Wesley's Summer Calendar]]. Episode 1 is fully runnable; later episodes are sketches that get prepped 1–2 ahead, so most carry `provisional` or `stub` status. The catalog is a **menu of options**, not a railroad: adapt to what the PCs are interested in. Each episode features a Rival whose [[The Disposition Tracker|disposition]] the PCs shape, cashing in at [[The Equinox Arc]]. See [[The Bizarro Plot]] and [[The Pattern Recognition Arc]] for the throughlines.
+The session-by-session **foreground of play** — each a Monster-of-the-Week with town investigation and (usually) dungeon resolution, paced against [[Wesley's Summer Calendar]]. Episode 1 is fully runnable; later episodes are sketches that get prepped 1–2 ahead, so most carry `provisional` or `stub` status. The catalog is a **menu of options**, not a railroad: adapt to what the PCs are interested in. Each episode features a Rival whose [[The Negotiation System|disposition]] the PCs shape, cashing in at [[The Equinox Arc]]. See [[The Bizarro Plot]] and [[The Pattern Recognition Arc]] for the throughlines.
 
 ## The episodes in order
 
@@ -22,7 +22,7 @@ The session-by-session **foreground of play** — each a Monster-of-the-Week wit
 |---|---|---|
 | [[Session 0]] | Before play | — (onboarding) |
 | [[Session 1 — The Dare]] | Mid-June (opener) | [[Ricky Vance]] |
-| [[Episode 1 — The Watcher]] | Mid-June (Sessions 1–2) | [[Ricky Vance]] |
+| [[Episode 1 — The Hush]] | Mid-June (Sessions 1–2) | [[Ricky Vance]] |
 | [[Episode 2 — The Hungry House]] | Late June | [[Marcy Hauer]] |
 | [[Episode 3 — The Click]] | Mid-July | [[The Fourth Recruit]] (emerges here) |
 | [[Episode 4 — The Mirror]] | Late July | [[Eddie Park]] |
@@ -35,7 +35,7 @@ The session-by-session **foreground of play** — each a Monster-of-the-Week wit
 ## Member notes
 - **[[Session 0]]** — pre-play onboarding: D&D basics, char creation, era, the Stretch system, marching order.
 - **[[Session 1 — The Dare]]** — the 5-block opener: dare → mill chase → ember chamber → pre-cleared floor + buzzsaw + Wesley sighting → wake-up reveal.
-- **[[Episode 1 — The Watcher]]** — the dare-night creature comes home; town investigation + Ricky's disposition; Wesley fingerprint *none.*
+- **[[Episode 1 — The Hush]]** — the dare-night creature comes home; town investigation + Ricky's disposition; Wesley fingerprint *none.*
 - **[[Episode 2 — The Hungry House]]** — Henry Voss's feeding house; introduces Earl; plants the 1991-survivor thread.
 - **[[Episode 3 — The Click]]** — the first click (dungeon-stone at all sites); the Fourth Recruit emerges; monster open.
 - **[[Episode 4 — The Mirror]]** — the Mercer Mirror at Panels; Eddie enters orbit; Russ's 1991-sister anchor lands.
