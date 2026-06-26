@@ -47,7 +47,7 @@ The endgame's exact level-20 shape (the "no passive income" / third-position the
 
 ## Recently Closed (since bible v0.3)
 
-The [[The Nightmare Engine|Nightmare Engine]] (dungeon curates monsters from local culture; PC pop-culture research is standard); Floor 1 spatial layout/contents and keystone locations; [[Russ]]'s monster-research-hub role; [[Episode 1 — The Watcher|Episode 1]] framing (the Watcher is the MOTW; Ricky-friends pressure replaces police; Wesley not the cause of the Watcher's escape); the four-prompt **episode-design framework**.
+The [[The Nightmare Engine|Nightmare Engine]] (dungeon curates monsters from local culture; PC pop-culture research is standard); Floor 1 spatial layout/contents and keystone locations; [[Russ]]'s monster-research-hub role; [[Episode 1 — The Hush|Episode 1]] framing (the Hush is the MOTW; Ricky-friends pressure replaces police; Wesley not the cause of the Hush's escape); the four-prompt **episode-design framework**.
 
 ## Source
 Campaign Bible v0.4 §20 (Outstanding Questions); Town Reference v0.3 §17 (Outstanding Items); Bizarro Plot v5 §13 (Open Questions / Provisional Choices). Priority backlog: [[Next Prep Targets]].
