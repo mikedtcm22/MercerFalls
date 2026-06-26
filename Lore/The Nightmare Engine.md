@@ -55,9 +55,9 @@ Work backwards from a cultural source, not forwards from mechanics. For each mon
 - **Some entities don't follow this rule.** The deepest-floor creatures — particularly past [[The Mercer Gate]] — are **not curated**, not from human culture, with no source, no vulnerability, and no name a human ever gave. The campaign's late-game cosmic-horror payoff: the filing system has limits.
 - **Improvised solutions can work.** Lean yes-and — accept the invocation (retroactively establishing the source) or rule the creature is from a source where it doesn't apply.
 
-## Worked Example: The Watcher
+## Worked Example: The Hush
 
-[[The Watcher]] (Episode 1's antagonist) is drawn from a B-movie about an eyeless predator that hunts by sound. Russ can ID it on sight from a description. Canonical vulnerability: **total silence in a confined space** (straight from the film's climax) — the intel the PCs walk out of Panels with. The Watcher's *young* (in the Pillared Reach, with a spore-tracking mechanic tying the descent to the topside plot) is the dungeon's permitted **extrapolation** from the source, not a feature of it. See [[Episode 1 — The Watcher]].
+[[The Hush]] (Episode 1's antagonist) is drawn from a B-movie about an eyeless predator that hunts by sound. Russ can ID it on sight from a description. Canonical vulnerability: **total silence in a confined space** (straight from the film's climax) — the intel the PCs walk out of Panels with. The Hush's *juvenile* (in the Pillared Reach, with a spore-tracking mechanic tying the descent to the topside plot) is the dungeon's permitted **extrapolation** from the source, not a feature of it. See [[Episode 1 — The Hush]].
 
 ## Source
-Campaign Bible v0.4, §4 (The Nightmare Engine — Order-Chaos framing, locality/catchment, investigation mechanic, Russ as hub, edge cases, the Watcher example).
+Campaign Bible v0.4, §4 (The Nightmare Engine — Order-Chaos framing, locality/catchment, investigation mechanic, Russ as hub, edge cases, the Hush example).
