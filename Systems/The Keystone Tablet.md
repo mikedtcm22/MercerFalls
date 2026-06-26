@@ -32,7 +32,7 @@ A flat stone tablet roughly hand-sized, with **two recessed slots** sized to rec
 
 - **Each floor has its own pair** (one map, one compass) hidden on that floor.
 - Acquisition varies by floor — guarded, puzzle/trap reward, or deep exploration. This is why speedrunning isn't free (see [[Dungeon Mechanics]]).
-- **Floor 1's keystones are NOT pre-loaded.** The *tablet itself* is found during a delve (likely late [[Episode 1 — The Watcher]] or in [[Episode 2 — The Hungry House]]), and the PCs hunt down Floor 1's keystones across early delves.
+- **Floor 1's keystones are NOT pre-loaded.** The *tablet itself* is found during a delve (likely late [[Episode 1 — The Hush]] or in [[Episode 2 — The Hungry House]]), and the PCs hunt down Floor 1's keystones across early delves.
 
 ## Player-Facing Map Handouts
 
