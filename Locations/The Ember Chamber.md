@@ -30,10 +30,10 @@ Inside: each ember visible (embedded in walls, on pedestals, floating in alcoves
 **The equipment rack.** One wall is lined with weapons, armor, focuses, pouches, and instruments — the entity's parallel gift. As each PC takes their ember, it **warms differently** near items calibrated to that character's starter equipment; the ember is "voting," and the PC reaches for what calls to them. This is the **only "magic appearance" of gear in the campaign** — everything afterward is in-fiction acquired (see [[Gear and Items]]). PCs leave the chamber **armed**, Level 1, with full class abilities. When the last ember is taken, the chamber closes and they're in the dungeon proper.
 
 > [!danger] DM-only
-> The embers are extrusions of [[The Entity]] (the contained Chaos), ~80% Chaos / 20% Order in composition ([[The Embers]]). The chamber's grant is the entity's first intervention; the [[The Keystone Tablet]] is the second beat in the same channel. The Session-1 establishing passage ("a slow warmth in your chest... it is not going out") locks the fire vocabulary for the whole campaign. See [[Session 1 — The Dare]], [[Episode 1 — The Watcher]].
+> The embers are extrusions of [[The Entity]] (the contained Chaos), ~80% Chaos / 20% Order in composition ([[The Embers]]). The chamber's grant is the entity's first intervention; the [[The Keystone Tablet]] is the second beat in the same channel. The Session-1 establishing passage ("a slow warmth in your chest... it is not going out") locks the fire vocabulary for the whole campaign. See [[Session 1 — The Dare]], [[Episode 1 — The Hush]].
 
 ## Connections
-[[The Embers]] · [[The Entity]] · [[Gear and Items]] · [[The Keystone Tablet]] · [[The Mill Sector]] · [[Session 1 — The Dare]] · [[Episode 1 — The Watcher]] · [[The Dungeon]]
+[[The Embers]] · [[The Entity]] · [[Gear and Items]] · [[The Keystone Tablet]] · [[The Mill Sector]] · [[Session 1 — The Dare]] · [[Episode 1 — The Hush]] · [[The Dungeon]]
 
 ## Source
 Campaign Bible v0.4, §5 (The Ember-Chamber, The Entity's Other Gifts), §17 (Session 1, Block 3), §12 (Starter Equipment via the Awakening).
