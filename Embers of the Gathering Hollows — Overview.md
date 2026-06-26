@@ -31,7 +31,7 @@ The metaphysics under everything: [[The Dungeon]] as an agency-eating machine, [
 Geography and locations, surface and hidden: [[Mercer Falls, Ohio]], [[The Mill]], [[Mercer Lake]], [[The River and the Falls]], [[The Mercer Mansion]], [[The Mercer Gate]], [[The Dungeon's Surface Footprint]], [[The Districts]], [[The Wrongness Layer]], plus establishments ([[Panels]], [[Marco's Diner]], [[The Community Center]], [[Earl's Pawn Shop]], [[The Sinclair Station]], [[The Hungry House]], [[The Fishing Dock]]) and dungeon space ([[The Ember Chamber]], [[The Mill Sector]]).
 
 ### [[Cast & NPCs]] — the people
-[[Wesley Crane]] (Act 1 antagonist), [[Russ]], the recruits ([[Marcy Hauer]], [[Ricky Vance]], [[Eddie Park]], [[The Fourth Recruit]]), [[Sam]] (bloodline anchor), the adherents ([[Mike and Doug Tinsmith]], [[Phyllis Harrow]]), [[Henry Voss]], [[Elias Mercer]], [[Mrs. Devereaux]], [[Earl]], [[The Antique Dealer]].
+[[Wesley Crane]] (Act 1 antagonist), [[Russ]], the recruits ([[Marcy Hauer]], [[Ricky Vance]], [[Eddie Park]], [[The Fourth Recruit]]), [[Sam]] (bloodline anchor), the adherents ([[Mike and Doug Tinsmith]], [[Phyllis Harrow]]), [[Henry Voss]], [[Elias Mercer]], [[Mrs. Devereaux]], [[Earl]], [[The Antique Dealer]]. Player characters live in [[The Party]].
 
 ### [[Factions & Groups]]
 [[The Party]], [[Wesley's Recruits]], [[Wesley's Adherents]], [[The Other Party (Rival or Evil)]], [[Mercer Falls Historical Society]], [[The Mercer Gentleman's Club]], [[Hollowed Townspeople]].
@@ -43,10 +43,10 @@ Geography and locations, surface and hidden: [[Mercer Falls, Ohio]], [[The Mill]
 [[The Bizarro Plot]], [[Wesley's Summer Calendar]], [[The Three Ritual Items]], [[The Equinox Ritual]], [[Aftermath Branches]] (Rival vs Evil fork), [[The Pattern Recognition Arc]], [[The Keystone Theft]], [[Where the PCs Can Disrupt]], [[Cosmology Seeds]], [[The Countdown Structure]].
 
 ### [[Episodes]] — the monster-of-the-week catalog
-[[Session 0]], [[Session 1 — The Dare]], [[Episode 1 — The Watcher]], [[Episode 2 — The Hungry House]], [[Episode 3 — The Click]], [[Episode 4 — The Mirror]], [[Episode 5 — Storm-That-Doesn't-Move]], [[Episode 6 — First Real Wesley Suspicion]], [[Episode 7 — The Breather]], [[Episode 8 — Wesley Confirmed]], [[The Equinox Arc]].
+[[Session 0]], [[Session 1 — The Dare]], [[Episode 1 — The Hush]], [[Episode 2 — The Hungry House]], [[Episode 3 — The Click]], [[Episode 4 — The Mirror]], [[Episode 5 — Storm-That-Doesn't-Move]], [[Episode 6 — First Real Wesley Suspicion]], [[Episode 7 — The Breather]], [[Episode 8 — Wesley Confirmed]], [[The Equinox Arc]].
 
 ### [[Bestiary]]
-[[The Watcher]], [[The Mercer Mirror]], [[The Storm-That-Doesn't-Move]].
+[[The Hush]], [[The Mercer Mirror]], [[The Storm-That-Doesn't-Move]].
 
 ### [[Player-Facing Materials]] — safe to show players
 [[Player Sourcebook]], [[Character Creation Guide]], [[Dungeoneering Rules]], [[Negotiation Rules Reference]], [[The Campaign Pitch]], [[Pre-Generated Characters]].
