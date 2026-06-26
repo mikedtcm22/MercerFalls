@@ -23,7 +23,7 @@ Up: [[Factions & Groups]]
 Each is a real kid with a real wound that Wesley reframes as insight. All four start the campaign at **disposition 2 (Neutral)** and each is anchored to an episode where the PCs first meet them. Investing [[Time Points]] builds a PC bond; Wesley counter-cultivates after the featured episode, reframing PC kindness as condescension.
 
 - **[[Marcy Hauer]]** (16) — the public devotee. Brother died in [[The 1991 Mill Incident]]; Wesley gave her grandmother's eulogy. Runs the community center front desk. Featured Episode 2 ([[Episode 2 — The Hungry House]]).
-- **[[Ricky Vance]]** (17) — the bully who came back. A dare-night bully the Filter didn't fully wipe; the most wedge-able recruit and the most likely to escalate to violence. Featured Episode 1 ([[Episode 1 — The Watcher]]).
+- **[[Ricky Vance]]** (17) — the bully who came back. A dare-night bully the Filter didn't fully wipe; the most wedge-able recruit and the most likely to escalate to violence. Featured Episode 1 ([[Episode 1 — The Hush]]).
 - **[[Eddie Park]]** (15) — the lonely brilliance. Haunts the [[The Mercer Mansion]] library annex; unknowingly adjacent to the sealed Mercer papers. Connects Wesley to [[Sam]]. Featured Episode 4 ([[Episode 4 — The Mirror]]).
 - **[[The Fourth Recruit]]** — identity NOT pre-locked (`tbd`). Designed at the moment Episode 3 ([[Episode 3 — The Click]]) is created, after the PCs' first two investigations shape who they'd plausibly fail to save. Good handling of Episode 3 can leave Wesley one recruit short.
 
