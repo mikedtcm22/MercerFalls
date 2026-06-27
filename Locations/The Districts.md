@@ -19,7 +19,7 @@ Up: [[Mercer Falls — Setting]]
 ## The Heights
 Old wealth on the lake's north and east shores. Doctors, lawyers, the bank president, the funeral-home owner, the attenuated descendants of [[The Mercer Gentleman's Club]] — many families three or four generations in town. Late-Victorian, Craftsman, a few mid-century moderns; stone property walls, old elms (a few diseased), private lakefront docks.
 
-The Heights is **largely insulated from the hollowing** — distance from the dungeon attenuates the [[The Reality Filter|Filter's]] grip, and this wealth was multi-generational, not mill-dependent. From inside it reads as "we made good choices"; late-campaign, with agency-loss data overlaid on the town map, it reads very differently. The Heights is where [[Sam]] most plausibly lives (held loose for PC creation).
+The Heights is **largely insulated from the hollowing** — distance from the dungeon attenuates the [[The Reality Filter|Filter's]] grip, and this wealth was multi-generational, not mill-dependent. From inside it reads as "we made good choices"; late-campaign, with agency-loss data overlaid on the town map, it reads very differently. The attenuated Mercer/Ferraro bloodline (→ [[Dominique Ferraro]]) most plausibly traces to a Heights family — though Dominique's own living situation is held loose, and her rootlessness ("welcome everywhere, member of nowhere") is a deliberate character point (see her note).
 
 ## The Flats
 Working-class residential. Wraps the lake's southeast shore and runs south through the river corridor, ending at the mill bluff's east flank. **Pine Street is the spine** — along the river, one block east of and parallel to Main Street. Small pre-war frame houses, some duplexes, a few boarded up; the 1991 mill closure hit hardest here.
@@ -38,7 +38,7 @@ The commercial spine running south from the mill bluff along Main Street, with t
 > The district map *is* the agency-loss map. The Heights' insulation and the Flats' devastation are both consequences of distance from [[The Dungeon's Surface Footprint]] and of which families depended on the mill. PC residence (held loose until PC creation) sets which NPCs and casualties they already know.
 
 ## Connections
-[[Mercer Falls, Ohio]] · [[The Community Center]] · [[Marco's Diner]] · [[Panels]] · [[The Sinclair Station]] · [[Earl's Pawn Shop]] · [[The Hungry House]] · [[Henry Voss]] · [[Mike and Doug Tinsmith]] · [[Wesley Crane]] · [[Sam]] · [[The Wrongness Layer]]
+[[Mercer Falls, Ohio]] · [[The Community Center]] · [[Marco's Diner]] · [[Panels]] · [[The Sinclair Station]] · [[Earl's Pawn Shop]] · [[The Hungry House]] · [[Henry Voss]] · [[Mike and Doug Tinsmith]] · [[Wesley Crane]] · [[Dominique Ferraro]] · [[The Wrongness Layer]]
 
 ## Source
 Town Reference v0.3, §9 (The Districts), §10 (Downtown Locations).
