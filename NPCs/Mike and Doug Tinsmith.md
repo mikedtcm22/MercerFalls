@@ -26,13 +26,14 @@ Brothers, mid-50s. Longtime community-center volunteers, fully inside [[Wesley C
 - **Doug**, present at the harvest but not hollowed there, is *more* committed afterward. He is hollowed in the **mid-August first Weight attempt** and dies a few days later in a household accident (a ladder fall).
 - **Cover stories are accurate** — Mike really drowned, Doug really fell off a ladder. [[The Reality Filter]] handles the question of *why* multiple community-center adults died inside ~6 weeks.
 
-Mike's hollowing window is when [[Sam]] emerges (Sam knew Mike and is quietly investigating his death — see [[Episode 5 — Storm-That-Doesn't-Move]]).
+> [!note] Orphaned thread — TBD
+> Mike's death was originally the window where **Sam** emerged as an adult investigator. That thread is **dissolved** (Sam folded into [[Dominique Ferraro]], who is present from Act 1's start, not a discovered adult). Whether anyone now investigates Mike's death from the adult side — or whether [[Episode 5 — Storm-That-Doesn't-Move]] carries it some other way — is **TBD**.
 
 > [!danger] DM-only
 > **Investigable signs.** Each adherent's reconstitution-and-walk-home from [[The Mill]] is *witnessable* by PCs at the mill or along the route on the right night. Each chamber where one was hollowed shows **fading residue** for a day or two (see [[The Dungeon]] / [[Hollowing and Agency-Loss]]); past the fade window, only secondary signs remain. The above-ground accidents are investigable — the wrongness is in the *absence of attention* that killed them.
 
 ## Connections
-[[Wesley's Adherents]] · [[Wesley Crane]] · [[The Community Center]] · [[The Three Ritual Items]] · [[The Fishing Dock]] · [[The Mill]] · [[Sam]] · [[Phyllis Harrow]] · [[Hollowing and Agency-Loss]] · [[The Reality Filter]] · [[Episode 5 — Storm-That-Doesn't-Move]]
+[[Wesley's Adherents]] · [[Wesley Crane]] · [[The Community Center]] · [[The Three Ritual Items]] · [[The Fishing Dock]] · [[The Mill]] · [[Phyllis Harrow]] · [[Hollowing and Agency-Loss]] · [[The Reality Filter]] · [[Episode 5 — Storm-That-Doesn't-Move]]
 
 ## Source
-wesley bizarro plot v5 §4 (Tinsmiths, 159)
+wesley bizarro plot v5 §4 (Tinsmiths, 159); Sam dissolution (conversation, 2026-06)
