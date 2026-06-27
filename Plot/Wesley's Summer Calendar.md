@@ -24,10 +24,10 @@ Up: [[Plot & Structure]]
 | Approx. window | Wesley action |
 |---|---|
 | Mid-June (Session 1 lands) | Tally Stone already retrieved in a solo delve a week before Session 1 |
-| Late June – early July | Recruit cultivation: [[Marcy Hauer]] established, [[Eddie Park]] deepening, [[Sam]] contact intensifying, [[Ricky Vance]] just started showing up |
+| Late June – early July | Recruit cultivation under way: [[Ricky Vance]] just started showing up; [[Eddie Park]] deepening; [[Zander Pruitt]] and [[Ren Sołtys]] per their (TBD) debut windows. [[Dominique Ferraro]] starting to spend more time at the center |
 | Mid-July | **Decoy sigils unlock** (Surfeit threshold from PC deaths in Sessions 1–4); Wesley starts placing decoys |
 | Late July | **Cornerstone: Floor 2 dust-harvest delve.** [[Mike and Doug Tinsmith]] — Mike hollowed; **Gathered Dust** retrieved. Mike drowns ~4 days later |
-| Early August | Cultivation continues. Ricky full-time at center; Sam meeting Wesley regularly |
+| Early August | Cultivation continues. Ricky deeper in; [[Dominique Ferraro]] drawn further into the center's inner circle — Wesley beginning to treat her as more than a volunteer (the apprentice/heir track) |
 | Early–mid August | **Cornerstone: Keystone Theft.** Wesley reaches the Floor 3 *map* keystone first, steals it, leaves a chalked taunt (see [[The Keystone Theft]]) |
 | Mid-August | **Cornerstone: First Weight attempt.** Doug Tinsmith hollowed; **Weight NOT retrieved** (Wesley aborts via sigil). Doug dies ~days later |
 | Late August | School starts. Daily budget compresses to 2 Day / 2 Night (see [[Time Points]]) |
@@ -44,9 +44,11 @@ Four moves are **fixed commitments** Wesley will make absent disruption. Each of
 - **Second Weight attempt (early Sept)** → Phyllis's hollowing → [[Episode 8 — Wesley Confirmed]]. **Succeeds** — Weight retrieved.
 - **Keystone theft (early–mid Aug)** — a different kind of cornerstone: not a hollowing but a direct antagonist beat, slotted as its own mini-arc between [[Episode 5 — Storm-That-Doesn't-Move]] and [[Episode 6 — First Real Wesley Suspicion]]. See [[The Keystone Theft]].
 
+*(Note: the four recruits' debut episodes beyond Ricky's Ep1 are not yet locked, and each recruit needs one hollowed-and-survived event somewhere in Act 1 — situational, see [[Wesley's Recruits]]. [[Dominique Ferraro]]'s drift runs quietly across the whole calendar and is **exempt** from the hollowing qualifier. Her precise beat-seeding is TBD.)*
+
 ## Otherwise, Low-Key
 
 Beyond the cornerstones, Wesley's summer is quiet: he runs the community center, has dinners, gives a Sunday sermon, stays exactly as charming as last year. The PCs may not see him for whole stretches. That deniability is the point.
 
 ## Source
-Wesley's Bizarro Plot v5 §2 (Wesley's Summer Calendar). Item detail in [[The Three Ritual Items]]; sigil mechanics in [[Wesley's Sigils]].
+Wesley's Bizarro Plot v5 §2 (Wesley's Summer Calendar). Item detail in [[The Three Ritual Items]]; sigil mechanics in [[Wesley's Sigils]]; Sam → Dominique reframe (conversation, 2026-06).
