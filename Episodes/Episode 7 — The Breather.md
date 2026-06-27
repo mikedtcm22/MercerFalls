@@ -31,13 +31,14 @@ By now the Wesley investigation is cooking in the PCs' minds; an episode that *d
 ## Disposition layer
 Good for **incidental relationship maintenance** — low-key Time Points investments that lift disposition by 1 step without the weight of a confrontation:
 - A quiet day catching up with [[Ricky Vance|Ricky]] at [[Marco's Diner|the diner]]
-- Sitting with [[Marcy Hauer|Marcy]] in her grandmother's garden
+- A low-key thread with [[Zander Pruitt|Zander]] or [[Ren Sołtys|Ren]] that has nothing to do with Wesley
 - A small research thread with [[Eddie Park|Eddie]] that *isn't* about Wesley
+- An easy afternoon with [[Dominique Ferraro|Dominique]] — which *reads* as wholesome downtime and is also a quiet place to seed her drift (she mentions how much time she's been spending at the center lately)
 
 The campaign rewards this kind of investment cumulatively. See [[The Disposition Tracker|The Negotiation System]].
 
 ## Links
-[[Ricky Vance]] · [[Marcy Hauer]] · [[Eddie Park]] · [[Sam]] · [[Marco's Diner]] · [[Mercer Lake]] · [[Episode 6 — First Real Wesley Suspicion]] · [[Episode 8 — Wesley Confirmed]] · [[The Bizarro Plot]] · [[Wesley's Summer Calendar]]
+[[Ricky Vance]] · [[Zander Pruitt]] · [[Ren Sołtys]] · [[Eddie Park]] · [[Dominique Ferraro]] · [[Marco's Diner]] · [[Mercer Lake]] · [[Episode 6 — First Real Wesley Suspicion]] · [[Episode 8 — Wesley Confirmed]] · [[The Bizarro Plot]] · [[Wesley's Summer Calendar]]
 
 ## Source
-Wesley Bizarro Plot v5 §7 Episode 7 (lines 416–424).
+Wesley Bizarro Plot v5 §7 Episode 7 (lines 416–424); roster/Sam update (conversation, 2026-06).
