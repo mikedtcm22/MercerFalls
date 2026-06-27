@@ -26,17 +26,17 @@ A heavy stone door of dungeon-stone construction at the end of a short stone pas
 The spell requires three elements simultaneously to undo:
 
 1. **Materials from the dungeon** — specific objects retrieved from the Mill or Lake sectors that act as ritual ingredients. Wesley has collected these for years via hollowed adherents at the mill; his [[The Community Center|community-center]] sigil-paired site processes them into ritual-ready form. (See [[The Three Ritual Items]] — the **Weight** is the dungeon-side "lock" component.)
-2. **A blood relative of Elias Mercer** — even an attenuated descendant, present as the bloodline component. **[[Sam]]** is canonically an attenuated Mercer descendant and Wesley's intended bloodline-witness.
-3. **Witnesses** — probably four hollowed-but-conscious ritual participants: [[Wesley's Recruits]] (Marcy, Ricky, Eddie, and the fourth seat). Their summer hollowing is instrumental — the Gate's accounting needs hollowed witnesses, not volitional ones. The shards they receive are a *side-effect* of the accounting, not its purpose. **The Rival/Evil party emerges as a byproduct, not as Wesley's goal.**
+2. **A blood relative of Elias Mercer** — even an attenuated descendant, present as the bloodline component. **[[Dominique Ferraro]]** is canonically an attenuated Mercer descendant (via the Ferraro line) and Wesley's intended bloodline anchor — and, unlike the recruits, **exempt from the hollowing qualifier** (the lock needs her *blood*, not a hollowing).
+3. **Witnesses** — four hollowed-but-conscious ritual participants: [[Wesley's Recruits]] ([[Ricky Vance]], [[Zander Pruitt]], [[Ren Sołtys]], [[Eddie Park]]). The qualifier is "the Gathering Hollows" — the Gate's accounting needs participants who've been **hollowed-and-survived**, not volitional ones. The anti-embers they receive are structurally a *side-effect* of the accounting — but secretly the side Wesley most wants (see [[Wesley Crane]] → *The Work* / ritual-as-human-trials). **The Rival/Evil party emerges as a byproduct, not as the gate's stated purpose.**
 
 ## Confrontation architecture
-The **Gate opens whether Wesley lives or dies** — the campaign's central commitment to player agency. If the PCs reach the equinox without killing Wesley, he enters first. If they kill him pre-equinox, [[Sam]] (radicalized, holding bloodline access) completes a more desperate ritual. If they disrupt it mid-execution, the Gate cracks but doesn't fully open, creating a partially-unlocked Act-3 condition. The campaign is not "stop Wesley"; it is "what happens when the Gate opens, regardless of who opens it." See [[The Equinox Ritual]], [[Aftermath Branches]].
+The **Gate opens whether Wesley lives or dies** — the campaign's central commitment to player agency. If the PCs reach the equinox without killing Wesley, he enters first. If they kill him pre-equinox, [[Dominique Ferraro]] (his heir, holding bloodline access) completes a more desperate ritual — *unless she herself is pulled back* (the one way to keep the Gate sealed; see [[Aftermath Branches]]). If they disrupt it mid-execution, the Gate cracks but doesn't fully open, creating a partially-unlocked Act-3 condition. The campaign is not "stop Wesley"; it is "what happens when the Gate opens, regardless of who opens it." See [[The Equinox Ritual]], [[Aftermath Branches]].
 
 ## Act 2's driving question
 Once open, Act 2 is a **race**: Wesley (or his successor) and the PCs both descend the Mercer sector into the unified Tier-2 floors, both searching for *the thing the Gate was guarding* — held loose, a canonical "Lore that breaks its possessor" living deep in the Tier-2 system. It is the *destination* of the descent the Gate makes possible, not directly behind the Gate.
 
 ## Connections
-[[The Mercer Mansion]] · [[The Dungeon's Surface Footprint]] · [[Elias Mercer]] · [[Wesley Crane]] · [[Sam]] · [[Wesley's Recruits]] · [[The Three Ritual Items]] · [[The Equinox Ritual]] · [[The Keystone Theft]] · [[Aftermath Branches]]
+[[The Mercer Mansion]] · [[The Dungeon's Surface Footprint]] · [[Elias Mercer]] · [[Wesley Crane]] · [[Dominique Ferraro]] · [[Wesley's Recruits]] · [[The Three Ritual Items]] · [[The Equinox Ritual]] · [[The Keystone Theft]] · [[Aftermath Branches]]
 
 ## Source
 Town Reference v0.3, §8 (The Mercer Gate). Campaign Bible v0.4, §6 (Wesley Crane).
