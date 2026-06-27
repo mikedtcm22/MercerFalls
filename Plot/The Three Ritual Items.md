@@ -17,7 +17,7 @@ Up: [[Plot & Structure]]
 **The three dungeon-extracted materials [[Wesley Crane]] needs for [[The Equinox Ritual]] — one from each of the upper Mill-sector floors, each retrieval a cornerstone of [[Wesley's Summer Calendar]].**
 
 > [!danger] DM-only
-> These items are the first of the ritual's three lock elements (the others are [[Sam]] as bloodline anchor and the four witness-recruits). Their summer retrieval — and the PCs' chance to deny them — directly sets the [[The Equinox Ritual|Ritual Progress Track]] starting count. See [[Aftermath Branches]].
+> These items are the first of the ritual's three lock elements (the others are [[Dominique Ferraro]] as bloodline anchor and the four witness-recruits). Their summer retrieval — and the PCs' chance to deny them — directly sets the [[The Equinox Ritual|Ritual Progress Track]] starting count. See [[Aftermath Branches]].
 
 ## The Triad Theme
 
