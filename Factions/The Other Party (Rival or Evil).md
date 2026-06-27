@@ -46,14 +46,14 @@ The central question of the equinox encounter is **whether the Rivals receive em
 
 | Recruits at 4+ | Result | Embers (see [[Order and Chaos]]) | Reachable? |
 |---|---|---|---|
-| 3+ | **Rival Party** (success) | ~80% **Chaos** / 20% Order — mirror of the PCs | Yes — reachable as future allies |
+| 3+ | **Rival Party** (success) | ~80% Order / 20% Chaos — the PCs' *mirror* (same magnitude, opposite pole) | Yes — reachable as future allies |
 | 2 | **Compromised toward Rival** | mixed / degraded | Partly — some members reachable |
 | 1 | **Compromised toward Evil** | mostly anti-ember | Mostly not |
 | 0 | **Evil Party** (failure) | ~100% Order anti-embers (like Wesley) | No — radicalized |
 | **[[Dominique Ferraro]] reached (4+)** | **Ritual cannot complete — gate stays sealed** | recruits may still get rival-type embers from the entity | Yes — she's pulled back |
 
 ## Reachability — the throughline
-The split is cosmological. The success-path **Rival Party** is mixed-cosmology, **chaos-dominant like the PCs**, retaining enough self to be reachable as future allies (fire-vocabulary: *uneven, guttering, struggling to catch*). The failure-path **Evil Party** has pure-Order anti-embers and is functionally [[Wesley Crane|Wesley]]'s peers (*too-bright, fierce, uncontrolled*) — not theoretically reachable, only cooperable if first broken out of their relic by external force, and even then there may not be enough of the original kids left. Compromised parties land in between, recoverable with significant effort.
+The split is cosmological. The success-path **Rival Party** is mixed-cosmology — **Order-dominant (the PCs' mirror), but with enough Chaos infused to retain self** and be reachable as future allies (fire-vocabulary: *uneven, guttering, struggling to catch*). They stay Wesley's Order-side kids; what a strong PC campaign buys is the ~20% Chaos that keeps them *alive* rather than radicalized — the cosmological form of the foil design (a party that reflects the PCs, opposite pole). The failure-path **Evil Party** has pure-Order anti-embers and is functionally [[Wesley Crane|Wesley]]'s peers (*too-bright, fierce, uncontrolled*) — not theoretically reachable, only cooperable if first broken out of their relic by external force, and even then there may not be enough of the original kids left. Compromised parties land in between, recoverable with significant effort.
 
 **[[Dominique Ferraro]] is the exception to the whole table.** She kept full agency (never hollowed, never handed over the wheel — she was offered one of her own), so she isn't won by Time-Points disposition like the recruits; she's reachable *only* if a PC refuses the woman-in-the-van misdirection and **sees her** — confronts the person who chose in and could choose out, not the trusted asset. Reaching her is the single highest-leverage outcome: she's the bloodline anchor *and* the continuation, so pulling her back unseals the gate. She is the rival party's one reachable heart; [[Wesley Crane|Wesley]] himself is not reachable at all. If the ritual succeeds, she's **corrupted, not sacrificed** — she continues life as a corrupted heir.
 
