@@ -21,6 +21,7 @@ The campaign's hidden metaphysics — the load-bearing secrets the players uncov
 - [[High Concept]] — the elevator pitch and the themes; *agency is the answer*. **(mixed)**
 - [[The Dungeon]] — a machine, not a mind: eats agency, Wesley is its user, intrinsic daily reset, residue, reads glyphs, punishes patience.
 - [[Order and Chaos]] — the cosmology: Order built the dungeon to contain Chaos; agency-eating as Order's "shitty solution"; the Y2K expiration.
+- [[The Cast and the Permanent Cast]] — the Order error at human scale: a cast that never comes off is control wearing help's face; [[Wesley Crane]]'s worldview, and the generator for each Rival's pressure-point ↔ saving-grace. **(design key)**
 - [[The Entity]] — the contained Chaos that is the PCs' "benevolent" patron; it wants out; the hidden Surfeit cost.
 - [[The Embers]] — fragments of the entity in the PCs' chests; fire vocabulary, 80/20 composition, tuning-fork sense, ember-chamber, class acquisition.
 - [[The Nightmare Engine]] — the dungeon curates monsters from local culture; the player research mechanic; Russ as research hub.
