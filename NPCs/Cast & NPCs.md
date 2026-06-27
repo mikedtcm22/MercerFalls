@@ -19,18 +19,21 @@ The people of Mercer Falls — the warm, well-liked antagonist who is also the d
 ### Antagonist
 - [[Wesley Crane]] — the dungeon's current Order-side user; charismatic community-center leader, secretly being consumed; Act 1 antagonist on a long arc to Chaos's champion. *dm-only.*
 
-### Recruits ([[Wesley's Recruits]])
-- [[Marcy Hauer]] — 16, the public devotee; artist, grief-shaped; featured Ep2.
-- [[Ricky Vance]] — 17, the bully who came back; the Filter couldn't fully clean him; featured Ep1.
-- [[Eddie Park]] — 15, the lonely brilliance; library-annex haunt; [[Sam]]'s cousin; featured Ep4.
-- [[The Fourth Recruit]] — TBD; created by Episode 3, not before it.
-- [[Sam]] — the bloodline anchor; an attenuated Mercer descendant and a PC's older relative; surprise recruit whose Interest 4+ alone can stop the ritual; featured Ep5.
+### Recruits ([[Wesley's Recruits]]) — each a PC's inverted-mirror foil
+- [[Ricky Vance]] — 17, the cool "Iceman" technician masking a chaotic home life; [[Tank]]'s foil; featured Ep1. *dm-only.*
+- [[Zander Pruitt]] — small, underestimated improviser (Warlock); [[Bash Whitlock|Bash]]'s foil (Chaos vs. Bash's Order); debut TBD. *dm-only.*
+- [[Ren Sołtys]] — contemplative Wood-Elf Shadow Monk who reads people to *vanish*; [[Old Man]]'s foil; debut TBD. *dm-only.*
+- [[Eddie Park]] — rock-bottom kid "born again" into Wesley's center (Paladin); [[Gern]]'s foil; *being rebuilt*, debut TBD. *dm-only.*
+
+### Heir / bloodline anchor
+- [[Dominique Ferraro]] — ~18, [[Bash Whitlock|Bash]]'s maternal cousin (attenuated Mercer blood via the Ferraro line); established early as the PCs' aboveground "heart"/woman-in-the-van, secretly groomed as [[Wesley Crane|Wesley]]'s apprentice & intellectual heir, and the ritual's bloodline anchor — reaching her seals the gate. Replaces the dissolved "Sam" placeholder. *dm-only.*
 
 ### Adherents ([[Wesley's Adherents]])
 - [[Mike and Doug Tinsmith]] — mid-50s brothers; hollowed and dead within weeks (drowning, ladder fall) to harvest ritual items.
 - [[Phyllis Harrow]] — 50s widow, recent recruit; hollowed in the early-September Weight attempt.
 
 ### Townsfolk & Allies
+- [[Marcy Hauer]] — 16, community-center fixture (grief-group regular / front desk); *formerly slotted as a recruit, now a non-rival NPC.*
 - [[Henry Voss]] — hollowed 1991 mill survivor at the Sinclair counter; his house is [[The Hungry House]].
 - [[Russ]] — owner of [[Panels]], the monster-research hub; Filter-touched, the only adult who distrusts Wesley.
 - [[Mrs. Devereaux]] — late-60s Historical Society curator; possessive; inner-archive keyholder.
