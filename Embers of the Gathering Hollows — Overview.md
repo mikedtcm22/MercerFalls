@@ -25,13 +25,13 @@ Start here, then follow links. The navigation backbone is **Maps of Content (MOC
 ## The domains
 
 ### [[Lore & Cosmology]] — the hidden truth (mostly DM-only)
-The metaphysics under everything: [[The Dungeon]] as an agency-eating machine, [[Order and Chaos]], [[The Entity]] (the contained Chaos that is the PCs' "benevolent" patron), [[The Embers]], [[The Nightmare Engine]], [[The Reality Filter]], [[Hollowing and Agency-Loss]], and [[The 1991 Mill Incident]].
+The metaphysics under everything: [[The Dungeon]] as an agency-eating machine, [[Order and Chaos]], [[The Entity]] (the contained Chaos that is the PCs' "benevolent" patron), [[The Embers]], [[The Nightmare Engine]], [[The Reality Filter]], [[Hollowing and Agency-Loss]], [[The Cast and the Permanent Cast]], and [[The 1991 Mill Incident]].
 
 ### [[Mercer Falls — Setting]] — the place
 Geography and locations, surface and hidden: [[Mercer Falls, Ohio]], [[The Mill]], [[Mercer Lake]], [[The River and the Falls]], [[The Mercer Mansion]], [[The Mercer Gate]], [[The Dungeon's Surface Footprint]], [[The Districts]], [[The Wrongness Layer]], plus establishments ([[Panels]], [[Marco's Diner]], [[The Community Center]], [[Earl's Pawn Shop]], [[The Sinclair Station]], [[The Hungry House]], [[The Fishing Dock]]) and dungeon space ([[The Ember Chamber]], [[The Mill Sector]]).
 
 ### [[Cast & NPCs]] — the people
-[[Wesley Crane]] (Act 1 antagonist), [[Russ]], the recruits ([[Marcy Hauer]], [[Ricky Vance]], [[Eddie Park]], [[The Fourth Recruit]]), [[Sam]] (bloodline anchor), the adherents ([[Mike and Doug Tinsmith]], [[Phyllis Harrow]]), [[Henry Voss]], [[Elias Mercer]], [[Mrs. Devereaux]], [[Earl]], [[The Antique Dealer]]. Player characters live in [[The Party]].
+[[Wesley Crane]] (Act 1 antagonist), [[Russ]], the recruits ([[Ricky Vance]], [[Zander Pruitt]], [[Ren Sołtys]], [[Eddie Park]]), [[Dominique Ferraro]] (Wesley's apprentice/heir & the ritual's bloodline anchor), the adherents ([[Mike and Doug Tinsmith]], [[Phyllis Harrow]]), [[Henry Voss]], [[Elias Mercer]], [[Mrs. Devereaux]], [[Earl]], [[The Antique Dealer]]. Player characters live in [[The Party]].
 
 ### [[Factions & Groups]]
 [[The Party]], [[Wesley's Recruits]], [[Wesley's Adherents]], [[The Other Party (Rival or Evil)]], [[Mercer Falls Historical Society]], [[The Mercer Gentleman's Club]], [[Hollowed Townspeople]].
@@ -60,7 +60,7 @@ Geography and locations, surface and hidden: [[Mercer Falls, Ohio]], [[The Mill]
 ## Live & next
 
 - **Immediate prep** is tracked in [[Next Prep Targets]] (Tiers 1–7) and open threads in [[Outstanding Design Questions]].
-- Many entities are **locked after PC creation** (Sam, residences, the Rivals' final motivations/pitfalls, the gear stash). Those notes are marked `status: tbd` or `provisional`.
+- Many entities are **locked after PC creation** (residences, the Rivals' final motivations/pitfalls, the gear stash). Those notes are marked `status: tbd` or `provisional`. *(The old "Sam" bloodline-anchor placeholder has been resolved into [[Dominique Ferraro]].)*
 - This vault is the integrated layer over the source documents in [[Source Documents]]; the originals remain the authoritative long-form record, and each note's `source` property points back to them.
 
 ## Conventions in one breath
