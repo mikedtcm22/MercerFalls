@@ -22,7 +22,7 @@ On [[The River and the Falls|the river]], roughly two miles southeast of town, r
 ## In play (Episode 5, late July-early August)
 **The monster:** a localized weather phenomenon over the dock — a storm-cloud that **doesn't move with the wind**, rain falling only in a ~40-foot circle. The water within is *wrong*: fish that swim in surface dead, and people who enter feel briefly hollowed ("wait, why did I come here?") before the [[The Reality Filter|Filter]] restores them. See [[The Storm-That-Doesn't-Move]].
 
-**Town investigation:** Mike's death is officially a fishing accident, but he had no business not seeing the current that killed him. The investigation reveals he was a [[The Community Center|community-center]] volunteer — **the first time [[Wesley Crane|Wesley's]] name and a townsperson's death become legibly connected** — and surfaces **[[Sam]]** (who knew Mike and is quietly looking into the death). Mike's brother **Doug** starts spending more time at the community center; he's the next adherent hollowed.
+**Town investigation:** Mike's death is officially a fishing accident, but he had no business not seeing the current that killed him. The investigation reveals he was a [[The Community Center|community-center]] volunteer — **the first time [[Wesley Crane|Wesley's]] name and a townsperson's death become legibly connected**. (The old "an adult investigator surfaces here" beat — formerly Sam — is **dissolved and TBD**; see [[Episode 5 — Storm-That-Doesn't-Move]].) Mike's brother **Doug** starts spending more time at the community center; he's the next adherent hollowed.
 
 **Resolution:** disperse the storm by clearing the source-chamber on Floor 2 (the residue's origin) or by a localized cleansing at the dock (requiring dungeon-delved materials).
 
@@ -30,7 +30,7 @@ On [[The River and the Falls|the river]], roughly two miles southeast of town, r
 > The storm is **residue spillover** — the [[The Three Ritual Items|Gathered Dust]] Wesley harvested from Mike's Floor-2 hollowing chamber escaping back up through Mike's death-site. It is the PCs' first sustained look at agency-loss as a *force*, not just a state ([[Hollowing and Agency-Loss]]). Wesley fingerprint: **clear** — the bizarro-plot cornerstone. The cold spot here is [[The Wrongness Layer|wrongness]] from bedrock proximity, distinct from the Lake entrance (see [[The Dungeon's Surface Footprint]]).
 
 ## Connections
-[[The River and the Falls]] · [[Mercer Lake]] · [[Mike and Doug Tinsmith]] · [[Episode 5 — Storm-That-Doesn't-Move]] · [[The Storm-That-Doesn't-Move]] · [[Sam]] · [[Wesley Crane]] · [[The Community Center]] · [[The Three Ritual Items]] · [[The Wrongness Layer]] · [[Hollowing and Agency-Loss]]
+[[The River and the Falls]] · [[Mercer Lake]] · [[Mike and Doug Tinsmith]] · [[Episode 5 — Storm-That-Doesn't-Move]] · [[The Storm-That-Doesn't-Move]] · [[Wesley Crane]] · [[The Community Center]] · [[The Three Ritual Items]] · [[The Wrongness Layer]] · [[Hollowing and Agency-Loss]]
 
 ## Source
 Town Reference v0.3, §11 (Lake Establishments, the fishing dock). Bizarro Plot v5, §7 (Episode 5).
