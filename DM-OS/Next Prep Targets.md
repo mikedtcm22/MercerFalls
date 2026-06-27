@@ -34,19 +34,21 @@ Up: [[DM-OS & Prep]]
 
 ## Tier 3 — Locked After PC Creation
 
-[[Sam]]'s exact relation/name/personality/job (with the radicalizability constraint and negotiation profile); NPC connections to PCs (parents, siblings, friends, teachers — built at [[Session 0]]); class-appropriate ember puzzles; PC connections to the bullies / [[Wesley's Recruits|recruits]] / [[The Community Center]] / [[The Mill]]; the four Rivals' final motivations/pitfalls as foils; the gear-stash location(s); the DM-facing per-Rival tracking sheet template.
+- **[[Dominique Ferraro]] deep-dive.** The old "Sam" question (relation/name/job) is **resolved** — she's ~18, [[Bash Whitlock|Bash]]'s maternal cousin, attenuated Mercer blood via the Ferraro line, Wesley's apprentice/heir and the ritual's bloodline anchor. Still to build: her drift-seeding beats across Act 1, when the **heir reveal** lands (a late-Act-1 gut-punch, *not* Ep5), how players are made to love free-Dominique first, and her reachability/negotiation profile (reached only by being *seen*).
+- The **four Rivals' pressure-point ↔ saving-grace builds** as PC foils, off [[The Cast and the Permanent Cast]] — [[Ricky Vance]], [[Zander Pruitt]], [[Ren Sołtys]], [[Eddie Park]] (Eddie's full rebuild as a rock-bottom Paladin is pending). Includes which recruit gets the one *manufactured* hollowing.
+- NPC connections to PCs (parents, siblings, friends, teachers — built at [[Session 0]]); class-appropriate ember puzzles; PC connections to the bullies / [[Wesley's Recruits|recruits]] / [[The Community Center]] / [[The Mill]]; the gear-stash location(s); the DM-facing per-Rival tracking sheet template.
 
 ## Tier 4 — Required for Episodes 2–3 (early summer in fiction)
 
-Town locations and NPCs (diner [[Marco's Diner]], [[Panels]] with [[Russ]], the library annex in [[The Mercer Mansion]], [[The Community Center]], the school) plus 2–3 named **[[Hollowed Townspeople]]**; [[Earl]] at [[Earl's Pawn Shop]] (Episode 2); [[Episode 2 — The Hungry House]] design ([[Henry Voss]] as 1991 survivor, [[Marcy Hauer]] featured); [[Episode 3 — The Click]] design (pick the monster, lock the click clue — **[[The Fourth Recruit]]'s identity emerges here**); Floor 2 stat blocks/keystones; first uncommon magic items ([[Gear and Items]]).
+Town locations and NPCs (diner [[Marco's Diner]], [[Panels]] with [[Russ]], the library annex in [[The Mercer Mansion]], [[The Community Center]], the school) plus 2–3 named **[[Hollowed Townspeople]]**; [[Earl]] at [[Earl's Pawn Shop]] (Episode 2); [[Episode 2 — The Hungry House]] design ([[Henry Voss]] as 1991 survivor; **featured-rival slot TBD** — [[Marcy Hauer|Marcy]] demoted to a non-rival NPC); [[Episode 3 — The Click]] design (pick the monster, lock the click clue — **featured-rival slot open; the old "Fourth Recruit" is dissolved**); Floor 2 stat blocks/keystones; first uncommon magic items ([[Gear and Items]]).
 
 ## Tier 5 — Mid-Summer Prep (Mike Tinsmith's hollowing + the keystone theft)
 
-Surfeit thresholds formalized; the **mill above-ground** as a Time-Points-investigable site ([[The Mill]], [[Time Points]]); Floor 3 stat blocks/keystones + first rare+ magic weapon/armor; the **[[The Keystone Theft|Wesley keystone-theft beat]]**; Episodes 4–5 design ([[Mike and Doug Tinsmith|Mike]]'s hollowing → [[Episode 5 — Storm-That-Doesn't-Move]], [[Eddie Park]] featured in [[Episode 4 — The Mirror]], [[Sam]] emerges Ep5); the **[[Negotiation Rules Reference|player-facing negotiation one-pager]]**; the [[The Antique Dealer|antique dealer]] stub before Episode 4.
+Surfeit thresholds formalized; the **mill above-ground** as a Time-Points-investigable site ([[The Mill]], [[Time Points]]); Floor 3 stat blocks/keystones + first rare+ magic weapon/armor; the **[[The Keystone Theft|Wesley keystone-theft beat]]**; Episodes 4–5 design ([[Mike and Doug Tinsmith|Mike]]'s hollowing → [[Episode 5 — Storm-That-Doesn't-Move]]; [[Eddie Park]] debut **TBD**; **Sam dissolved — [[Dominique Ferraro]] is present from the start, not an Ep5 emergence**); the **[[Negotiation Rules Reference|player-facing negotiation one-pager]]**; the [[The Antique Dealer|antique dealer]] stub before Episode 4.
 
 ## Tier 6 — Equinox Arc Prep (defer until Episode 6+)
 
-[[The Mercer Mansion]] layout (library annex, basement + [[The Mercer Gate]] area, third-floor Society offices); the **Mercer papers** (surface artifacts at least); **[[The Equinox Ritual|equinox ritual]] specifics** (the three-element lock with [[The Three Ritual Items]], gate-opening, side-effect anti-ember formation, the multi-character negotiation-as-combat); **Wesley's combat profile** at the equinox.
+[[The Mercer Mansion]] layout (library annex, basement + [[The Mercer Gate]] area, third-floor Society offices); the **Mercer papers** (surface artifacts at least); **[[The Equinox Ritual|equinox ritual]] specifics** (the three-element lock with [[The Three Ritual Items]], gate-opening, the modified human-trial / anti-ember formation, the multi-character negotiation-as-combat); **Wesley's combat profile** at the equinox.
 
 ## Tier 7 — Long-Term (defer until needed)
 
