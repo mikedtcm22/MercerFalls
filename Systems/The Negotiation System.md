@@ -39,7 +39,7 @@ Players are not told the rules exist at the start. The system is exposed in stag
 
 ## The Disposition Tracker
 
-Each Rival (the four future Rival Party members + [[Sam]]) has a single numeric **disposition track on a 0–5 scale**, maintained DM-side across the whole campaign. Disposition is **read at the equinox to set that Rival's starting Interest and Patience** for the climactic negotiation.
+Each of the four recruits ([[Ricky Vance]], [[Zander Pruitt]], [[Ren Sołtys]], [[Eddie Park]]) has a single numeric **disposition track on a 0–5 scale**, maintained DM-side across the whole campaign. Disposition is **read at the equinox to set that recruit's starting Interest and Patience** for the climactic negotiation. ([[Dominique Ferraro]] is *not* tracked this way — see the special case below.)
 
 ### Disposition → Starting Attitude
 
@@ -54,20 +54,20 @@ Each Rival (the four future Rival Party members + [[Sam]]) has a single numeric 
 
 ### Starting Dispositions
 
-- **All four Rivals** ([[Marcy Hauer]], [[Ricky Vance]], [[Eddie Park]], [[The Fourth Recruit]]) **start at 2 (Neutral)** — no relationship with the PCs yet. Their featured episode tips them from baseline.
-- **[[Sam]] starts at 3 (Sympathetic)** — a PC's family member; the bond is already there.
+- **All four recruits** ([[Ricky Vance]], [[Zander Pruitt]], [[Ren Sołtys]], [[Eddie Park]]) **start at 2 (Neutral)** — no relationship with the PCs yet. Their featured episode tips them from baseline.
+- **[[Dominique Ferraro]] — the special case.** She is the PCs' trusted friend and aboveground "heart," so her *apparent* warmth is high — but she's Wesley's heir, not a recruit being won, and she keeps full agency the whole way. She isn't moved by Time-Points like the recruits; at the equinox she's reachable **only** by a PC who refuses the woman-in-the-van misdirection and confronts her as a person. Reaching her (Interest 4+) seals the gate regardless of the others. See [[Dominique Ferraro]], [[The Other Party (Rival or Evil)]].
 
 ### What Moves the Dial
 
-1. **The featured episode interaction.** Each Rival has a designated early episode (assignments in [[The Bizarro Plot]]). Well-handled lands them at Sympathetic+ ; botched lands them at Wary/Hostile.
-2. **Time Points investment** in the Rival — each meaningful investment can shift disposition 1 step. Reaching 4–5 needs sustained investment *plus* a key emotional moment (see [[Time Points]]).
+1. **The featured episode interaction.** Each recruit has a designated early episode (assignments in [[The Bizarro Plot]]). Well-handled lands them at Sympathetic+ ; botched lands them at Wary/Hostile.
+2. **Time Points investment** in the recruit — each meaningful investment can shift disposition 1 step. Reaching 4–5 needs sustained investment *plus* a key emotional moment (see [[Time Points]]).
 3. **Wesley's counter-cultivation** (below) can erode it.
 4. **Witnessed PC actions** outside the relationship — casual cruelty or genuine heroism others see.
 
-Disposition is **private to the DM**; players get narrative cues, not numbers (Marcy seems warmer; Eddie's body language tighter; Ricky won't meet your eyes).
+Disposition is **private to the DM**; players get narrative cues, not numbers (Zander seems warmer; Eddie's body language tighter; Ricky won't meet your eyes).
 
 > [!danger] DM-only — Wesley's counter-cultivation
-> Once [[Wesley Crane]] notices a PC-Rival bond (a 1–2 Time-Point lag gives PCs a small unimpeded window), he works to lower disposition: reframing kindness as condescension, inventing PC motives ("they just need the library access"), withholding the bond, direct slander. **Each successful counter-action drops disposition 1 step.** PCs can recover lost ground by addressing the specific story Wesley planted and doubling down on the bond. Wesley also **feeds misinformation** to PCs researching a Rival — a fake "motivation" that's really a pitfall. Track which discovered motivations/pitfalls are real vs. Wesley-planted.
+> Once [[Wesley Crane]] notices a PC-Rival bond (a 1–2 Time-Point lag gives PCs a small unimpeded window), he works to lower disposition: reframing kindness as condescension, inventing PC motives, withholding the bond, direct slander. **Each successful counter-action drops disposition 1 step.** PCs can recover lost ground by addressing the specific story Wesley planted and doubling down on the bond. Wesley also **feeds misinformation** to PCs researching a Rival — a fake "motivation" that's really a pitfall. Track which discovered motivations/pitfalls are real vs. Wesley-planted. *(Note: with [[Dominique Ferraro]], the dynamic inverts — the party hands her trust and follow-ups, and she uses them to pull recruits toward Wesley. See her note.)*
 
 ## Discovering Motivations/Pitfalls
 
@@ -81,7 +81,7 @@ The climax at the [[The Mercer Mansion|Mercer Estate]] runs as **multi-character
 - **Wesley's actions:** Counter-argue a Rival · Progress the ritual (+1 segment) · Attack a PC (sparingly). **Wesley is not negotiable** — too hollowed; treated as Hostile (Interest 1 / Patience 1), no reachable motivations. He's the opposing campaign, not a target.
 - **Ritual Progress Track:** 5 segments, **starts filled with the number of intact ritual elements the PCs left in place** (up to 5 if they disrupted nothing). Track full = ritual completes.
 
-**Resolution per Rival** by final Interest: 5 = breaks with Wesley, may help · 4 = refuses to participate fully, no anti-ember · 2–3 = conflicted, Compromised anti-ember · 0–1 = full anti-ember, Evil Party member. Aftermath shape is set by how many Rivals hit Interest 4+ (3+ = Rival Party path … 0 = Evil Party path). **[[Sam]] at Interest 4+ seals the gate regardless of all others.** A Rival who hits Interest 5 *before* the track fills becomes a DM-run ally arguing the others over — the payoff for early disposition investment.
+**Resolution per Rival** by final Interest: 5 = breaks with Wesley, may help · 4 = refuses to participate fully, no anti-ember · 2–3 = conflicted, Compromised anti-ember · 0–1 = full anti-ember, Evil Party member. Aftermath shape is set by how many recruits hit Interest 4+ (3+ = Rival Party path … 0 = Evil Party path). **[[Dominique Ferraro]] reached (Interest 4+) seals the gate regardless of all others.** A Rival who hits Interest 5 *before* the track fills becomes a DM-run ally arguing the others over — the payoff for early disposition investment.
 
 ## Source
-Campaign Bible v0.4, §9 (The Negotiation System; Disposition Tracker §9/710; Equinox Negotiation-as-Combat §9/813).
+Campaign Bible v0.4, §9 (The Negotiation System; Disposition Tracker §9/710; Equinox Negotiation-as-Combat §9/813); Sam → Dominique reframe (conversation, 2026-06).
