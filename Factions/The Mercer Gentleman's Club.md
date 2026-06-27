@@ -24,10 +24,10 @@ Up: [[Factions & Groups]]
 The club is the social tissue around Mercer's hidden history. In the campaign's buried canon, **Mercer was the dungeon's previous user** — the one who ran the machine before [[Wesley Crane]], who built [[The Mill]] over the dungeon's south entrance as cover, and who was eventually consumed by it the way Wesley is being consumed now. The club is the human network adjacent to that secret, and a plausible thread connecting present-day Heights families to the Mercer occult layer.
 
 > [!danger] DM-only
-> [[Sam]] is canonically a Mercer bloodline descendant. The gentleman's-club / Mercer-family layer is the connective tissue that makes the bloodline plotline cohere, which is why it matters more now that Mercer is the previous user and Sam is the ritual's bloodline anchor.
+> [[Dominique Ferraro]] is canonically an attenuated Mercer bloodline descendant (via the Ferraro line). The gentleman's-club / Mercer-family layer is the connective tissue that makes the bloodline plotline cohere — and the most likely thread by which the Ferraros carry the diluted blood — which matters more now that Mercer is the previous user and Dominique is the ritual's bloodline anchor.
 
 ## Status — held loose
-Per Bible §20 (Outstanding Question 17): the club's **existence is established, but specific contemporary descendants are TBD.** Do not invent named members. This note is `provisional`; flesh out particular descendants only when the bloodline / Heights content is designed.
+Per Bible §20 (Outstanding Question 17): the club's **existence is established, but specific contemporary descendants are TBD.** Do not invent named members. This note is `provisional`; flesh out particular descendants only when the bloodline / Heights content is designed (the Ferraro→Mercer linkage in particular is TBD).
 
 ## Source
 Campaign Bible v0.4 §2 (Setting, line 57), §20 (Outstanding Question 17, line 1641). Town Reference v0.3 §9 (The Heights).
