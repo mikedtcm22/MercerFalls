@@ -26,7 +26,7 @@ Up: [[Cast & NPCs]]
 ## Profile
 17. A jock and one of [[Tank]]'s crew — the wide receiver to Tank's linebacker, offense to defense, a natural pairing with a natural edge of competition. He **proposed the prank** on the night of [[Session 1 — The Dare]] (scare [[Bash Whitlock|Bash]] and [[Gern]] off the mill grounds inside an hour). Cool under pressure, technically precise, high game-IQ — the kid who never looks rattled.
 
-The control is a costume. His father is **active military and almost never home** — always needed for something he can't talk about — so the house is held together by a **frazzled mom** and by Ricky, who keeps every plate of his life spinning by *emulating the absent man:* be disciplined, be unflappable, be the steady hand the household is missing. He is parentified into playing his own father. **Military school** was Dad's old standing disciplinary threat — almost certainly never serious, but Ricky is exactly the kind of kid who amplifies a thing like that.
+The control is a costume. His father, **[[Wade Vance]]**, is **active military and almost never home** — always needed for something he can't talk about — so the house is held together by a **frazzled mom** and by Ricky, who keeps every plate of his life spinning by *emulating the absent man:* be disciplined, be unflappable, be the steady hand the household is missing. He is parentified into playing his own father. **Military school** was Dad's old standing disciplinary threat — almost certainly never serious, but Ricky is exactly the kind of kid who amplifies a thing like that.
 
 ## The foil — [[Tank]]'s inverted mirror
 Both are elite athletes over-functioning for a father; the masks are reversed.
@@ -39,7 +39,7 @@ Tank launders his wanting through an audience; Ricky launders his fear through a
 He chained the gate and left, meaning to circle back and watch Bash & Gern lose their nerve; he found the grounds **empty** (the party had already fled below) and went looking — which left him alone when the adult [[The Hush]] broke off the hatch and took *him* instead. **[[Episode 1 — The Hush]] runs as a two-session pilot:** Session 1 is the PCs' prologue (they never learn Ricky was taken); **Session 2 cold-opens on Ricky's capture, from his POV** — the players discover what happened to the kid who set them up.
 
 ## The rescue (Session 2 climax)
-The town's cover story is "his dad shipped him off to military school." The truth: the Hush has him, and **his father has gone missing too — because he's out searching.** Dad's bond to his son is strong enough to **break the [[The Reality Filter|Filter]]'s fog** (the same way grief broke [[Russ]]) — he's the second Filter-resistant adult the PCs meet, and his military training is *why* he can track the creature when no other adult will. When the PCs narrow down the Hush's den, they run into him there, and he plays a hand in the rescue (exact role flexes to how the players run the scene).
+The town's cover story is "his dad shipped him off to military school." The truth: the Hush has him, and **his father, [[Wade Vance]], has gone missing too — because he's out searching.** Dad's bond to his son is strong enough to **break the [[The Reality Filter|Filter]]'s fog** (the same way grief broke [[Russ]]) — he's the second Filter-resistant adult the PCs meet, and his military training is *why* he can track the creature when no other adult will. When the PCs narrow down the Hush's den, they run into him there, and he plays a hand in the rescue (exact role flexes to how the players run the scene).
 
 **Most of the glory goes to Dad** — so the rescue does *not* ingratiate Ricky with the party, and he will never publicly admit the kids he set up pulled him out (that would detonate the Iceman image he survives by). Outcome bands set his disposition:
 - **Clean** (Ricky unscathed, Dad unhurt) → a small, *private* uptick: no public warmth ever, but later, when he could easily throw a PC under the bus, he doesn't. Neutral → Sympathetic.
@@ -65,11 +65,11 @@ Not the Hush captivity. [[Wesley Crane|Wesley]] gets to him fast; before long Ri
 - **Reachable through:** peer-trust shown in chaos; [[Tank]]-recognition; naming what's true without pity — *"you knew that night was wrong before any of us did."*
 - **Wesley's counter-cultivation** (after Ep1): reframes PC respect as condescension — *"they only see who you used to be"* — and, if the rescue went badly, leans on the wounded-father guilt: *"they did that to him."*
 
-> [!note] Seed — Dad's unit (Tier-3 faction idea)
-> Floated: Ricky's father serves in a **secret / black military branch** — explains the permanent absence, the can't-talk-about-it, and the tracking competence, and is a candidate faction to introduce around Tier 3 to shake the board up. Held as a seed; name and details TBD. (Dad himself still needs a stub note + a name.)
+> [!note] Dad — [[Wade Vance]]
+> Ricky's father is statted as an Ep1 rescue ally — an absentee-military cover over a classified-operator truth ("whoa, Ricky's dad is a badass"), Filter-broken by love but *trained* enough to act on it. His **unit** is a Tier-3 faction seed (a mundane, cosmology-blind, extremely capable human outfit). See his note.
 
 ## Connections
-[[Tank]] · [[The Party]] · [[Bash Whitlock]] · [[Gern]] · [[Wesley's Recruits]] · [[Wesley Crane]] · [[The Hush]] · [[The Reality Filter]] · [[Russ]] · [[The Community Center]] · [[The Cast and the Permanent Cast]] · [[Session 1 — The Dare]] · [[Episode 1 — The Hush]] · [[The Negotiation System]] · [[The Other Party (Rival or Evil)]] · [[The Equinox Ritual]]
+[[Tank]] · [[The Party]] · [[Bash Whitlock]] · [[Gern]] · [[Wade Vance]] · [[Wesley's Recruits]] · [[Wesley Crane]] · [[The Hush]] · [[The Reality Filter]] · [[Russ]] · [[The Community Center]] · [[The Cast and the Permanent Cast]] · [[Session 1 — The Dare]] · [[Episode 1 — The Hush]] · [[The Negotiation System]] · [[The Other Party (Rival or Evil)]] · [[The Equinox Ritual]]
 
 ## Source
 wesley bizarro plot v5 §3 (Ricky, 99) · campaign bible v0.4 §9 (Rival Sketches, 754) · Session 0 player notes (2026-06) · Ricky deep-dive: Tank-mirror, the Vance-dad rescue, pressure-point ↔ saving-grace (conversation, 2026-06)
