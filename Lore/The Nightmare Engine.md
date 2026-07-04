@@ -47,6 +47,14 @@ Research returns **concrete, actionable intel** — name, behavior, vulnerabilit
 
 Work backwards from a cultural source, not forwards from mechanics. For each monster: pick a **primary source** (write it in notes); define the **stated vulnerability** (the canonical kill condition); define **one secondary tell** (a sound, smell, visual, tic) bridging encounter to research; **plant the source** somewhere reachable (Russ's shop, a library, a kid at school, late-night TV, a bedroom poster), ideally via more than one route. Invented sources are fine — pick evocative titles. Monster *strength* is not governed by this rule; calibrate to the encounter as normal.
 
+**Reskinning existing stat blocks (the default move).** The fastest way to build under this rule is often to run it *backwards*: take a mechanically convenient D&D stat block and dress it as a local nightmare, keeping the numbers and swapping the skin. A pack of gnolls becomes the **Dogmen** of Midwest campfire legend; a bugbear becomes the thing that lives under the overpass. The stat block is invisible to the players — only the skin, the secondary tell, and the source they research are real to them. This is the campaign's standing habit: **D&D mechanics, Mercer Falls flavor.** (Mundane weapons and armor are the one exception — those stay D&D-flavored; see [[Gear and Items]].)
+
+## Floor Lair Themes
+
+Each dungeon floor carries a **loose lair theme** — one creature type (occasionally two) that has claimed the floor as territory — layered with ambient wanderers that don't belong to the theme. The theme gives a floor a legible identity ("this is the pack floor," "the drowned floor"), ties its rooms together, and lets returning players build territorial intuition. It should fit both the cultural catchment (above) and the floor's tone, and it sets the spine of that floor's wandering table; ambient wanderers and the occasional apex round it out (see [[Dungeon Mechanics]], Encounter-Type Discipline, for how the table is rolled).
+
+**Floor 1 — "the pack floor."** Territory theme: **pack predators.** The organized core are the **Dogmen** (reskinned gnolls — rank-and-file Gnoll, CR 1/2; a Gnoll Pack Lord, CR 2, as alpha), holding the floor as a hunting range. Around them roam unaligned feral beasts: some weaker than the dogmen (feral strays, Giant Hyena, CR 1), some stronger — that even the dogmen give ground to (candidates: dire wolves / worgs, death dogs CR 1; the exact "thing they fear" TBD). The Pit Room's (9) sleeping wolves belong to this theme, as do the two dead dogmen in the [[The Octagonal Vestibule|Vestibule]] (Wesley's pre-clear). Register: **beast, not heavy-supernatural** — deliberately pitched below [[The Hush]] (Episode 1's curated apex, which sits atop this food chain). Full wandering table and stat spread: build with the Floor-1 bestiary. See [[The Mill Sector]].
+
 ## Edge Cases
 
 - **Can't spawn what no one imagined.** Bounded by Mercer Falls' cultural exposure.
@@ -60,4 +68,4 @@ Work backwards from a cultural source, not forwards from mechanics. For each mon
 [[The Hush]] (Episode 1's antagonist) is drawn from a B-movie about an eyeless predator that hunts by sound. Russ can ID it on sight from a description. Canonical vulnerability: **total silence in a confined space** (straight from the film's climax) — the intel the PCs walk out of Panels with. The Hush's *juvenile* (in the Pillared Reach, with a spore-tracking mechanic tying the descent to the topside plot) is the dungeon's permitted **extrapolation** from the source, not a feature of it. See [[Episode 1 — The Hush]].
 
 ## Source
-Campaign Bible v0.4, §4 (The Nightmare Engine — Order-Chaos framing, locality/catchment, investigation mechanic, Russ as hub, edge cases, the Hush example).
+Campaign Bible v0.4, §4 (The Nightmare Engine — Order-Chaos framing, locality/catchment, investigation mechanic, Russ as hub, edge cases, the Hush example). Reskinning pattern and Floor Lair Themes (incl. Floor 1 "the pack floor"): design conversation, 2026-07.
