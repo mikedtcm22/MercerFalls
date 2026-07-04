@@ -35,6 +35,14 @@ Up: [[Game Systems]]
 > [!danger] DM-only — the only "magic appearance" of gear in the campaign
 > Starter gear materializes at the moment of awakening in the [[The Ember Chamber|ember chamber]] (Session 1) on an equipment rack — a room that *prepared itself for them*. As each PC takes their [[The Embers|ember]] through their class-flavored interaction, the ember "votes" by warming near certain items; the PC reaches for what calls to them (for classes with equipment choices, the rack presents both options). Consequence: **PCs leave the ember chamber armed** (the buzzsaw room is their first fight with the new gear), and **equipment is permanently theirs** — real, physical, travels home, wakes up in their bedroom; the Filter rationalizes its presence to parents. Every subsequent acquisition is in-fiction.
 
+## Loot Leaves the Dungeon (persistence rule)
+
+**Anything a PC carries out of the dungeon to the surface persists — loot is real, physical, and theirs**, the same way starter gear and found keystones travel home. The [[The Reality Filter]] rationalizes its topside presence. This is deliberate policy: if players suspected placed items might evaporate, they'd stop engaging with everything in the dungeon and the whole dungeon-turn economy would sag (see the [[Dungeon Mechanics|Stretch-Worth Principle]]).
+
+There is deliberately **no "nothing leaves the dungeon" rule.** Some artifacts leaving the dungeon carry **weird topside effects** — a lamp that never burns down, a photographic plate that shouldn't exist, an item that behaves impossibly in daylight — and future stories will sometimes turn explicitly on exactly that.
+
+Distinguish this from the daily **[[Floor Reset and the Intelligence Gradient|floor reset]]**, which governs what's there when you *re-enter*: items *left in* the dungeon between delves don't persist (they reset away), and fixed architecture-class dressing *restocks* (e.g. the renewable relics of [[The Cataloguing Office]]). Restock-in-place and carried-out-persistence are compatible — a room can refill its exhibit on reset *and* let you keep what you carried out last time. The governor on renewable nodes is value, not a hard rule: generic supplies/curios restock (low practical yield); marquee one-off items are taken once.
+
 ## The Gear Stash
 
 Universal early-session house policy: **heavy or weird gear lives somewhere other than the PCs' bedrooms.** Candidate spots: a lax-household garage; a locked basement room at [[Panels]] (rapport-gated, comes online when [[Russ]] is a real ally); a buried footlocker in the woods near [[The Mill]]; a school locker; a treehouse/barn loft; a cash-paid self-storage unit. Established **collaboratively** in early sessions; PCs suit up here before delves. A sword in a duffel through downtown is fine; a chain shirt under a hoodie in August is a roleplay-friction point (the Filter's visibility gradient — see [[The Reality Filter]]).
@@ -66,4 +74,4 @@ Rare and meaningful, not a shopping list:
 There is **no Identify spell** in this setting — learning what an item does is its own small investigation arc per item. Channels: **experimentation** (risky — misuse side effects); **Mercer's papers / library annex research** (a 1910 ledger may match the description); **Filter-broken hollowed adherents** (weird surfacing knowledge); **[[Russ]]** (recognizes a *type* even without specifics — also the monster-research hub for [[The Nightmare Engine]]); the **Mercer mansion display collection** (comparison-as-research). Players never have a fully-mapped inventory — always wondering whether the weird thing also does *that*.
 
 ## Source
-Campaign Bible v0.4, §12 (Weapons, Armor, and Items; Russ at Panels §12/1202). Reality-filter cover: §14 / [[The Reality Filter]].
+Campaign Bible v0.4, §12 (Weapons, Armor, and Items; Russ at Panels §12/1202). Reality-filter cover: §14 / [[The Reality Filter]]. Loot-persistence rule: design conversation, 2026-07.
