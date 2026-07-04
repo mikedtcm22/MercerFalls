@@ -49,6 +49,14 @@ Daily reset means PCs re-encounter the "same" room. To avoid tedium, every encou
 
 **Strategic implication:** an experienced party plans routes to avoid known guardians, bypass triggers, and only fight wandering monsters that find them — picking which fixed encounters to engage per delve by resource budget and reward.
 
+## The Stretch-Worth Principle (global room-design rule)
+
+**Every room offers at least one Stretch worth spending.** From Floor 1 forward, each room in the dungeon must contain at least one thing that would give one or two PCs a concrete reason to spend a Stretch there — loot to lift, something to inspect or forensically read, a trap to disarm, a puzzle or lock to work, a creature to fight, a mechanism to trigger. These can mix and stack (a trap guarding loot; a puzzle that pays out in lore).
+
+This is an **opportunity, not an obligation.** Players may always choose to keep moving and ignore what a room offers — a legitimate (and, given the Stretch/wandering-roll economy, sometimes correct) call. The bar is that the *option* is always present and worth weighing: a room that offers nothing to do is a design gap to fill, not to ship. A pure pass-through corridor is the one thing the dungeon should never contain.
+
+Pairs with the Encounter-Type Discipline above (the "thing to do" is often, but not always, an encounter) and the Stretch economy (every Stretch spent risks a wandering roll, so the reward has to be worth the exposure). Applied per-room across the build-out — see [[The Mill Sector]] for the Floor-1 roster.
+
 ## Fast-Combat (2d10)
 
 For repeat encounters the DM *may* offer fast-combat: skip the table, lock in a probabilistic resource cost. **Only offered** when the encounter was previously cleared **at the party's current level** AND is type Triggered or Guardian (never wandering, sigil, or boss). Above-level clears from a lower level don't qualify. Each PC rolls 2d10:
@@ -96,4 +104,4 @@ Location-based, not timer-based. Returning to the entrance is the way out.
 - **Wesley's Sigil** is the anti-ember-exclusive mirror of Surfacing (dungeon-flavored, costs persistent monsters) — not available to PCs. See [[Wesley's Sigils]].
 
 ## Source
-Campaign Bible v0.4, §10 (Dungeon Mechanics). Player-facing complement: [[Dungeoneering Rules]].
+Campaign Bible v0.4, §10 (Dungeon Mechanics). Player-facing complement: [[Dungeoneering Rules]]. The Stretch-Worth Principle: design conversation, 2026-07.
