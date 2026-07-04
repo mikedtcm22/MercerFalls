@@ -20,6 +20,14 @@ Up: [[Lore & Cosmology]]
 
 When a person is "killed" in the dungeon, they don't actually die there. At the moment of "death" the **deciding part is taken**, the body dissolves into motes that drift up and vanish, and the body **reconstitutes at the dungeon's entrance** some indeterminate time later. (D&D shorthand calls this "death"/"dying" because it lines up with hit points hitting zero — but the underlying event is hollowing. See [[The Embers]], [[Death, TPK, and the Lost Day]].)
 
+## Natives Don't Hollow (monster death)
+
+Hollowing is what the dungeon does to **visitors** — the people it wants agency from (PCs, townsfolk, adherents). Its own **native monsters are not hollowed when killed.** They simply die: the corpse **stays where it fell** — it does not dissolve into motes or reconstitute at the entrance — and lies there until the next daily [[Floor Reset and the Intelligence Gradient|reset]] clears it away. So dungeon corpses can be **searched and looted** mid-delve, and anything carried out persists ([[Gear and Items]]). Design reason: the loot impulse is core to dungeon play and shouldn't be denied.
+
+Two consequences worth flagging:
+- **The dissolve is a diagnostic.** A body that dissolves into upward motes was a *person*; a body that stays and can be looted was a *native*. A party that clocks the difference has a real forensic tell (was that thing in the dark ever human?).
+- **A monster corpse you didn't make is a read.** A fresh native corpse means someone else was here recently and killed it — in Session 1, [[Wesley Crane|Wesley]]'s pre-clear leaves exactly these (e.g. the two dead pack-beasts in the Floor-1 Vestibule; see [[The Mill Sector]]). Corpses still don't persist *through* reset (they clear like blood and drag-marks — see [[The Dungeon]]); they just don't vanish *mid-delve* the way a hollowed person's body does.
+
 ## The Dissolve and the Walk Home
 
 For an ember-bearer, the ember intervenes visibly — narrate in fire vocabulary (see [[The Embers]]):
@@ -62,4 +70,4 @@ Many of Mercer Falls' missing-persons cases are agency-loss casualties; some are
 | **Die outside the dungeon** | **Permanent death** (ember goes inert) |
 
 ## Source
-Campaign Bible v0.4, §3 (hollowing, the walk home, death-comes-later) and §13 (Death, TPK, and the Lost Day — the dissolve, reconstitution, lost-day table play).
+Campaign Bible v0.4, §3 (hollowing, the walk home, death-comes-later) and §13 (Death, TPK, and the Lost Day — the dissolve, reconstitution, lost-day table play). Native-monster death (corpses stay and are lootable; the dissolve as diagnostic): design conversation, 2026-07.
