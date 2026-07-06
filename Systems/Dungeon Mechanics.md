@@ -93,15 +93,15 @@ So Level 3 is granted while still on Floor 2, the moment the down-stairs are dis
 
 ## Speedrunning
 
-PCs *may* push to Floor 5 fast and ignore the town — a valid strategic choice the campaign supports. Floor design must **not** make it easy (keystones protected, down-stairs need real exploration without the compass — see [[The Keystone Tablet]]). **The cost is topside:** every delve commits the whole day (see [[Time Points]]); aggressive delving starves investigations and relationships, NPCs go unsaved, [[The Bizarro Plot|the bizarro plot]] proceeds unchecked, the town gets worse. The DM makes the cost visible, not railroady.
+PCs *may* push to Floor 5 fast and ignore the town — a valid strategic choice the campaign supports. Floor design must **not** make it easy (keystones protected, down-stairs need real exploration without the compass — see [[The Keystone Tablet]]). **The cost is topside:** every delve costs 3 Time Points and can strand you home late (see [[Time Points]], [[Death, TPK, and the Lost Day]]); aggressive delving starves investigations and relationships, NPCs go unsaved, [[The Bizarro Plot|the bizarro plot]] proceeds unchecked, the town gets worse. The DM makes the cost visible, not railroady.
 
 ## Retreating
 
-Location-based, not timer-based. Returning to the entrance is the way out.
+Location-based, not timer-based. Returning to the entrance is the way out. However you leave **of your own free will**, the dungeon's time dilation spits you onto the [[The Mill|mill]] grounds a fixed **3-Time-Point dwell** after you entered (see [[Death, TPK, and the Lost Day]] and [[Time Points]]); being **hollowed** returns you as if no time passed at all — you pay in agency instead.
 
 - **Soft Retreat:** travel back through cleared floors; Stretches and wandering rolls happen normally. The deeper you went, the longer the trip.
-- **Surfacing Ritual (panic button):** any PC, as their Stretch Activity, makes a **DC 15 ability check (Wisdom or Charisma — player picks flavor)**. Entity-flavored escape — your [[The Embers|ember]] pulls you out (*the warmth in your chest catches and surges, and the dungeon releases you*). **Success:** whole party wakes at home, each gains 1 level of exhaustion. **Failure:** next wandering roll is automatic and uses the harder end of the table.
-- **Wesley's Sigil** is the anti-ember-exclusive mirror of Surfacing (dungeon-flavored, costs persistent monsters) — not available to PCs. See [[Wesley's Sigils]].
+- **Surfacing Ritual (panic button):** any PC, as their Stretch Activity, makes a **DC 15 ability check (Wisdom or Charisma — player picks flavor)**. Entity-flavored escape — your [[The Embers|ember]] pulls you out (*the warmth in your chest catches and surges, and the dungeon releases you*). **Success:** the ember carries the whole party all the way out — deposited **home** rather than onto the grounds — at the usual 3-TP dwell after entry (so you can still surface late if you went in short), each gaining **1 level of exhaustion**. **Failure:** next wandering roll is automatic and uses the harder end of the table.
+- **Wesley's Sigil** is the anti-ember-exclusive mirror of Surfacing (dungeon-flavored, costs persistent monsters); the portal moves you through *space*, not time, so it still bills the 3-TP dwell — not available to PCs except as an escape ridden in the moment (see [[Wesley's Sigils]], [[Session 1 — The Dare]]).
 
 ## Source
-Campaign Bible v0.4, §10 (Dungeon Mechanics). Player-facing complement: [[Dungeoneering Rules]]. The Stretch-Worth Principle: design conversation, 2026-07.
+Campaign Bible v0.4, §10 (Dungeon Mechanics). Player-facing complement: [[Dungeoneering Rules]]. The Stretch-Worth Principle: design conversation, 2026-07. The 3-TP dwell / time-dilation cross-reference: conversation, 2026-06.
