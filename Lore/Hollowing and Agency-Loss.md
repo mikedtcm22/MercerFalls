@@ -36,15 +36,17 @@ For an ember-bearer, the ember intervenes visibly — narrate in fire vocabulary
 
 The light is [[The Entity]]'s substance being spent; the motes are the bearer's **agency** being routed to the dungeon; the shimmer is **residue** (an ember-bearer leaves only a faint trace — see [[The Dungeon]]). **Don't pause the encounter** — the others keep fighting.
 
-**Reconstitution.** Minutes to an hour later the body re-coalesces at the entrance: same clothes, same gear, glassy-eyed, silent, unresponsive to its own name, the chest-warmth now *cold ash, banked too long*. It then **walks home on autopilot** — route-correct, climbing fences, ignoring traffic, weather, and people — lets itself in, and goes to bed.
+**Reconstitution.** The body re-coalesces at the entrance — same clothes, same gear, glassy-eyed, silent, unresponsive to its own name, the chest-warmth now *cold ash, banked too long* — **as if almost no time has passed in the world.** (The hollowed pay in *agency*, not in time; free-willed delvers, by contrast, are held a fixed dwell before release — see [[Death, TPK, and the Lost Day]].) It then **walks home on autopilot** — route-correct, climbing fences, ignoring traffic, weather, and people — lets itself in, and goes to bed.
 
 **The walk is witnessable** (the "dungeon walk of shame") — by townsfolk (whom [[The Reality Filter]] handles), or by PCs and other ember-bearers (who are *not* Filtered and will remember). A major forensic channel that needs no dungeon entry: stake out the mill or the route home and watch adherent walks, recruit walks, eventually each other's. See [[Forensic Delving]].
 
 ## The Lost Day
 
-The hollowed person wakes the next morning (two mornings on a TPK) in their own bed, body intact, no memory of the walk or the dungeon. **The part that decides is gone for a week or longer, sometimes permanently.** They go on auto-pilot — *present without will* — show up to scheduled things, walk past everything else, take calls and say almost nothing, give the noncommittal answer where intervention was needed. Anything time-locked (Wesley's countdown, NPC plots) advances without them. The Filter covers the rest.
+The hollowed person wakes in their own bed, body intact, with no memory of the walk home or of the dungeon, and goes on auto-pilot — *present without will* — showing up to scheduled things, walking past everything else, taking calls and saying almost nothing, giving the noncommittal answer where intervention was needed. Anything time-locked (Wesley's countdown, NPC plots) advances without them. The Filter covers the rest.
 
-**At the table the lost day is narrated, not skipped**, with the dead player present as pure witness — one or two stinging beats, not a play-by-play. See [[Death, TPK, and the Lost Day]] for full table procedure (single death, TPK montage, temporally fractured parties).
+**How long the will stays gone depends on who was hollowed.** For an unprotected person (townsfolk, adherents) **the deciding part is gone for a week or longer — sometimes permanently.** For an ember-bearing PC the ember blunts it to a **lost day:** they lose control of the rest of that day and all of the next, then come back to themselves — keeping every memory up to the moment they dropped, with only the walk home and the lost day itself blank. Full game costs and table procedure live in [[Death, TPK, and the Lost Day]].
+
+**At the table the lost day is narrated, not skipped**, with the dead player present as pure witness — one or two stinging beats, not a play-by-play (single death, TPK montage, and temporally fractured parties all detailed in [[Death, TPK, and the Lost Day]]).
 
 ## Time-Loss Is the Symptom
 
@@ -62,12 +64,7 @@ Many of Mercer Falls' missing-persons cases are agency-loss casualties; some are
 
 ## Cost Summary
 
-| Outcome | Cost |
-|---|---|
-| Survive a delve | Rest of today (no further Time Points) |
-| One+ PCs die, others survive | Dead PCs lose tomorrow; survivors lose only today |
-| TPK | All PCs lose tomorrow |
-| **Die outside the dungeon** | **Permanent death** (ember goes inert) |
+Game costs are kept in one place to avoid drift — see **[[Death, TPK, and the Lost Day]]** for the current model: a free-willed delve bills a flat **3-Time-Point dwell** (you're released onto the mill grounds that long after entry), **hollowing** costs 0 TP but forfeits control of the rest of today and all of tomorrow, and **death outside the dungeon is permanent** (the ember goes inert).
 
 ## Source
-Campaign Bible v0.4, §3 (hollowing, the walk home, death-comes-later) and §13 (Death, TPK, and the Lost Day — the dissolve, reconstitution, lost-day table play). Native-monster death (corpses stay and are lootable; the dissolve as diagnostic): design conversation, 2026-07.
+Campaign Bible v0.4, §3 (hollowing, the walk home, death-comes-later) and §13 (Death, TPK, and the Lost Day — the dissolve, reconstitution, lost-day table play). Native-monster death (corpses stay and are lootable; the dissolve as diagnostic): design conversation, 2026-07. Reconciled to the 3-TP dwell / near-instant-reconstitution model (conversation, 2026-06).
