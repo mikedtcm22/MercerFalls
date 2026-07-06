@@ -16,7 +16,7 @@ Up: [[Game Systems]]
 
 **The campaign runs on a hard tonal split: a Persona-like Town Mode and a roguelike Dungeon Mode. They use different mechanics, different pacing, different player headspace — and which one you engage on any given day is the load-bearing decision of the campaign.**
 
-The two modes do not bleed into each other. The dungeon doesn't make you do tax math; the town doesn't make you fight wandering monsters. The hinge between them is [[Time Points]]: a dungeon delve costs the whole day, so every delve is a day *not* spent in town.
+The two modes do not bleed into each other. The dungeon doesn't make you do tax math; the town doesn't make you fight wandering monsters. The hinge between them is [[Time Points]]: a dungeon delve bills a flat **3 Time Points** (and strands you home late if you went in short), so heavy delving is time *not* spent in town — the trade-off that drives the whole campaign.
 
 ## Town Mode (Persona-like)
 
@@ -32,12 +32,12 @@ The two modes do not bleed into each other. The dungeon doesn't make you do tax 
 - **Resource attrition** — HP, spell slots, hit dice, consumables, torch oil (see [[Dungeon Mechanics]]).
 - Tactical pushing; push-your-luck pacing on the 10-Minute Stretch system (see [[Dungeoneering Rules]]).
 - **TPK is the expected outcome of many delves.** It's an attrition genre, not a survival one.
-- **Death is agency-theft, not real death** — hollowing, not dying (see [[Hollowing and Agency-Loss]], [[Death, TPK, and the Lost Day]]). The [[The Embers|embers]] intervene and pull the cost forward into a lost day.
-- **No Time Points exist in the dungeon.** The Persona layer is fully off.
+- **Death is agency-theft, not real death** — hollowing, not dying (see [[Hollowing and Agency-Loss]], [[Death, TPK, and the Lost Day]]). The [[The Embers|embers]] intervene; a free-willed exit pays the cost in *time* (the 3-TP dwell, released onto the mill grounds), a hollowing pays it in *agency* (a lost day).
+- **You don't spend Time Points *inside* the dungeon** — you're on the 10-Minute Stretch clock, the Persona layer off — but the delve itself bills its 3 TP against your day on the way out (see [[Time Points]]).
 
 ## Why the Split Matters
 
-The two modes pull in opposite directions, and the friction between them *is* the game. A party that delves too often starves its relationships and misses critical NPC events; a party that never delves falls behind on XP, items, and dungeon-side investigation. The pressure is about **frequency of delving**, not depth of any one delve (see [[Time Points]] and [[Dungeon Mechanics]] — Speedrunning).
+The two modes pull in opposite directions, and the friction between them *is* the game. A delve claims a big bite of your day — 3 Time Points, and a risk of coming home late — so leaning on the dungeon starves relationships and misses critical NPC events, while never delving falls behind on XP, items, and dungeon-side investigation. The pressure is about **how often you delve and how much of your day it eats**, not the depth of any one delve (a delve always costs 3 TP regardless of how far you push — see [[Time Points]] and [[Dungeon Mechanics]] — Speedrunning).
 
 ## Source
-Campaign Bible v0.4, §7 (The Two Modes of Play).
+Campaign Bible v0.4, §7 (The Two Modes of Play); reconciled to the 3-TP delve dwell (conversation, 2026-06).
