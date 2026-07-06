@@ -14,7 +14,7 @@ created: 2026-06-14
 
 Up: [[Game Systems]]
 
-**Town Mode runs on Time Points: each PC has a daily pool split into Day and Night. Spending them buys depth of engagement, not just success — and a dungeon delve costs the whole day. This is the Persona layer of [[The Two Modes of Play]].**
+**Town Mode runs on Time Points: each PC has a daily pool split into Day and Night. Spending them buys depth of engagement, not just success — and a dungeon delve bills a flat three of them. This is the Persona layer of [[The Two Modes of Play]].**
 
 ## Standard Budgets
 
@@ -47,16 +47,22 @@ Most activities use thresholds, not flat costs — **spending more buys depth, n
 
 This makes depth-of-engagement a meaningful choice ("Do I really *talk* to Mrs. Patel today, or just check on her?"). Researching a Rival's motivations is itself a Time Points investment — see [[The Negotiation System]].
 
-## Delves Cost the Whole Day
+## Delves Cost 3 Time Points
 
-A delve commits the whole day. There are no partial entries.
+A dungeon delve bills **3 Time Points** — but *how* you leave decides how you pay (full model in [[Death, TPK, and the Lost Day]]).
 
-- **Cannot enter** the dungeon if any Time Points have been spent that day.
-- **Exit alive:** the rest of today is rest only.
-- **TPK:** lose tomorrow too — an auto-pilot day; wake up the day after.
-- **A PC dies (no TPK):** that PC alone loses tomorrow.
+- **Entering costs 1 TP.** As long as a PC has at least one point left — day or night — they can always go in. There is **no "spent too much to enter" lockout.**
+- **A successful, free-willed exit costs 3 TP total,** drawn from wherever the PC has them (day pool first, then night). The dungeon's time dilation spits free-willed delvers back onto the [[The Mill|mill]] grounds a fixed 3-TP dwell after they entered — **no partial-delve refund** (leave early and it still costs 3).
+- **Enter short and you surface late.** Go in with fewer than 3 TP and the delve still bills 3, so you come home **unexpectedly late** by however far underwater you were — a little over, a little late; way over, out till dawn. That's the whole cost of a **night delve:** you entered with no runway, so you don't surface until morning.
+- **Hollowed / TPK: you pay 0 TP** (you reconstitute as if no time passed) **but lose control of the rest of today and all of tomorrow** to auto-pilot. Cheaper on the sheet, far dearer in agency — the trap. See [[Death, TPK, and the Lost Day]].
 
-(See [[Death, TPK, and the Lost Day]] for what a lost day plays like.) The lockout makes delving a one-shot daily commitment — see [[The Two Modes of Play]] for the frequency tension.
+So the classic permutation works: on a summer day (4 Day / 2 Night) a kid could spend 3 Day points on investigation and still delve on the remaining Day + Night points — *if* their home life lets them slip back out without a check-in in between.
+
+## The Check-In, and Bending the Rules
+
+Whether a family expects the kid home **between the day and night blocks** is a **per-PC, per-episode** variable, not a global rule — it turns on home life *and* what's on that day's calendar. Some nights the house is empty and the two pools flow together freely; other nights a planned family dinner makes skipping the check-in a real problem *even if the kid is home before nine.* This lets the DM dial an episode's domestic pressure per character just by deciding what each family has going on — and it means the same delve costs different kids different things. (It's also a quiet recruit-grooming vector: the kid on the tightest leash pays the most to keep up — exactly the friction [[Wesley Crane|Wesley]] reads for.)
+
+Every rule here **bends in the fiction, with a trade-off.** The classic move: all four kids tell their parents they're at a sleepover at one of the others' houses, so nobody's expected home — buying a consequence-free night delve on 1 TP each. The catch is the delayed fuse: if one set of parents compares notes with another, the whole cover unravels retroactively. Workarounds are earned through roleplay; the trade-off is the point.
 
 ## Location-Introduction Meta-Rule
 
@@ -73,4 +79,4 @@ The town has **no weapons shop** and most magic gear comes from the dungeon (see
 **Scale:** a typical Floor-2 delve yields $50–200 in resellable antiques; a great score ~$500. PCs aren't getting rich — just enough to stay supplied and occasionally save for something at Russ's back room.
 
 ## Source
-Campaign Bible v0.4, §8 (In-Town Mechanics: Time Points, incl. the Money Loop at §8/663).
+Campaign Bible v0.4, §8 (In-Town Mechanics: Time Points, incl. the Money Loop at §8/663); 3-TP delve dwell + check-in/bendable-rules layer (conversation, 2026-06).
