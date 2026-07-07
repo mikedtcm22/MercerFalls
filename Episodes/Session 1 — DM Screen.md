@@ -131,7 +131,7 @@ Up: [[Episodes]]
   - ✗ *Throw it off* — cancel that disadvantage (or gain ADVANTAGE on a strong success) with noise elsewhere — a thrown object, the radio. → *"Someone lobs a bolt across the yard; it clatters off a hopper car, and the clicking pours away toward the noise. Go. Now."*
 
 **Caught & Damage**
-- *Caught (grip):* 1d4–1d6; an ally must spend their action to break the PC free; pushes toward MAULED. Never lethal here.
+- *Caught (grip):* 1d4–1d6; an ally must spend their action to break the PC free; pushes condition toward MAULED. Never lethal here.
 - *MAULED into inside chase:* start with 1d4 wear + a sprained ankle (disadvantage on Athletics) until the Awakening clears it.
 - *Serious bungle (nat 1 / run of fails):* a real but non-gating cost — dropped pack, broken flashlight, twisted ankle. Never the last light source.
 - *The Awakening:* clears chase wear — HP top-up + removal of chase-inflicted conditions.
@@ -237,16 +237,17 @@ Up: [[Episodes]]
 
 ## Beat 7 — The Awakening
 
-**Summary:** Together, then four private stations. The relic for acting; Inspiration for authenticity.
+**Summary:** Together in the made chamber, then FOUR private stations — each a locked, bespoke set piece built from that character's deepest question. The relic comes for acting; the tell is retrospective.
 
 **Outline**
-- TOGETHER first: the made chamber — charged, vital, reinvigorating, NOT calm (read **"Awakening Room"**). The inscription rings the room — read it aloud (legible, riddle-cryptic).
-- Then FOUR private stations, one kid at a time. Each is pulled to a spot unmistakably for them; the others see them go still and "elsewhere," not what they experience.
-- Privately: a short WRITTEN question resolves (on stone / behind the eyes — only they see it) → two objects, neither is the relic → they reach → the relic manifests as the reply. *(Per-PC forks: Appendix A prompt.)*
-- NO WRONG ANSWER: the relic comes fully no matter which they reach for (reward for acting). Heroic Inspiration is the ONLY thing keyed to the values-aligned reach (including honest flaw-play). Play the room as equally pleased either way — the indifference is the buried tell; never narrate it.
-- Read **"Surge → Settle"** per kid, varied. Then they dissolve into motes and are gone — WITNESSED (same face as hollowing; primes the Buzzsaw room). Last kid goes alone.
+- TOGETHER first: the made chamber — charged, vital, reinvigorating, NOT calm (read **"Awakening Room"**). The shared inscription rings the room — read it aloud (legible, riddle-cryptic).
+- Then FOUR private stations, one kid at a time. Each is *pulled* to a scene that is unmistakably built for them — a recreated place from their life, staged as a machine. The others see them go still and "elsewhere," not what they experience. Order is flexible; follow table energy.
+- Each station carries **diegetic written text** (an inscription, posters, a post-it) — hand it over or read it verbatim; the room speaks in writing, never in voice.
+- **Universal rules:** NO WRONG ANSWER — the ember comes fully whichever branch they take; the reward is for *acting*. Chaos is equally pleased either way (the indifference is the buried tell — never narrate it; every test's real answer is the option the machine doesn't contain). Heroic Inspiration goes to playing the moment honestly true to the sheet — values OR flaws (Bash's test names its aligned branch explicitly; for the others, reward authentic engagement).
+- Read **"Surge → Settle"** per kid, varied, at the moment of claiming. Then each **dissolves into motes** and is gone — WITNESSED by the others (same face as hollowing; primes the Buzzsaw room). The last kid goes alone.
+- The four tests below are LOCKED. Full character arcs and the reads behind each test: [[Old Man]], [[Bash Whitlock]], [[Gern]], [[Tank]].
 
-**Read-alouds**
+**Read-alouds (shared)**
 
 > **The Inscription** *(rings the chamber — read aloud to the table)*
 > *You were made small, so the world could hold you still.*
@@ -261,10 +262,94 @@ Up: [[Episodes]]
 >
 > *DM note: reinvigoration, NOT calm. Chase wear clears here. The room is MADE — deliberate, addressed to them, responsive — unlike the raw mill-stone behind them.*
 
-> **Surge → Settle** *(read once per PC at acquisition — LOCKED passage, vary lightly)*
+> **Surge → Settle** *(read once per PC at the moment of claiming — LOCKED passage, vary lightly)*
 > It floods in — sharp, electric, more than you're ready for, like a breath of pure cold air pulled too fast. And then it banks. The surge folds down into something low and steady in your chest, a warmth that wasn't there before and isn't going anywhere. It will be there in the morning. It will be there next week. It is not going out.
 >
 > *DM note: never name the relic. Fire/warmth vocabulary only.*
+
+---
+
+### Station 1 — Old Man: "The Pit and the Spring" *(locked)*
+
+**The scene.** He's at the bottom of a pit. A rope-ladder hangs out of reach overhead. He stands on a platform mounted on a great **compression spring** — and beside him on the platform, a **stone statue of a thing he loves**. The exit, and the ember, are **below** — in either case.
+
+**The station inscription** *(diegetic — carve it where he can read it)*:
+> *You were made the floor, so the rest could stand.*
+> *But the world is not a scale, and weight was never love.*
+> *Lie down beneath it and it rises only as far as stone.*
+> *Or let go — and find what was under you the whole time.*
+
+**The two branches:**
+- **Step off himself** *(self-sacrifice)* — his weight gone, the platform launches the statue up toward the ceiling… which is **dead stone**. A statue can't climb a ladder; the rise is **futile**. And where he now stands, the exit is at his feet — the ember with it.
+- **Unload the statue** *(save himself)* — the platform launches HIM up to the ladder… which dead-ends. He climbs back down, and the exit — and the ember — were below the whole time.
+
+**Up is always the false promise; the way out was under the weight.**
+
+*DM-only — the tell:* the room asks the one question that has defined his life (*carry them, or save myself?*) and is **equally pleased either way** — it rewards even the *futile* sacrifice. The real answer — keep what he loves **with** him — was never on the menu. That absence is the point; don't gesture at it.
+
+---
+
+### Station 2 — Bash: "The Basement: the Box and the Rig" *(locked)*
+
+**The scene.** His own basement, recreated down to the smell. **Two devices on opposite walls; touch one, and the other dissolves** (mote-fade — the same visual he'll see again tonight).
+- **The black box:** sealed, seamless, impenetrable — and it *works*. Its screen shows the near future; one slider; no way in. The one system he can't open.
+- **The open rig:** wires bare, alive, throwing static — and inside the static, a **voice** (maybe [[Dominique Ferraro|Dom]]'s) surfacing and dropping, surfacing and dropping.
+
+**The post-it** *(diegetic — stuck between them; it survives the choice)*:
+> *one of these works.*
+> *the other just wants to talk.*
+> *you already know which one you've been chasing — go.*
+
+**The two branches:**
+- **The rig** — the ember is **wedged in the machinery**; he has to *work* it free with his hands. As he does, the static clears to Dom's voice — *"…you were right, man, you were always—"* — and cuts off.
+- **The box** — the screen shows him **finding the ember behind an air vent**, the next few seconds of his own future. He enacts it; it's exactly there; and the box goes **inert** — the miracle spent.
+
+*DM-only — the tell:* **aligned = the rig** (the unreadable, the person — this is the test with an explicit aligned branch; it earns the Inspiration). The cruelty in retrospect: the room *nudged* him — the post-it — toward a sealed system he could never open, and asked him to dissolve a voice that might be Dom's to get it.
+
+---
+
+### Station 3 — Gern: "The Obelisk and the Two Gates" *(locked)*
+
+**The scene.** A **pulley** sits at his hands. Above the center of a great **balance** hangs a massive, sturdy stone **obelisk** — a relic of his received faith — with a **spinning saw** to either side of it. Two tall gates, each topped by a weighing-pan: one gate fronts a **warm party** (faces turned toward him, a kept seat, laughter through the bars); the other fronts a **dark cave-mouth** (nothing). At decision time the party is the obvious magnet and the cave looks like pure exile.
+
+**Carved at the pulley** *(diegetic)*:
+> *This was set upon you before you could answer.*
+> *You did not carve it; you were carved to carry it.*
+> *Now the cutting is yours.*
+> *Bury it in the dark, or raise it to the light.*
+
+**The mechanism:** he hauls the obelisk over one pan; that side's saw cuts the rope; the relic **drops** — far too huge to ever move again — sealing that gate **with the obelisk standing in the doorway**, while the far gate counterweights open. **Irreversible.** No retrieval, no take-back.
+
+**The two branches:**
+- **"Raise it to the light"** *(haul it over the PARTY gate)* — the obelisk stands lit in the party's doorway, **displayed to the whole crowd**; that door seals; the cave gate opens. His only way on is **into the dark** — but a little way in, his approach draws **one or two figures who turn toward him** (they have faces, but none he'll be able to place afterward). One steps in and **embraces him** — and the **ember kindles between them.** Connection isn't the reward after the prize; **connection IS the prize.**
+- **"Bury it in the dark"** *(haul it over the CAVE gate)* — the obelisk seals the dark, **seen by no one**; the party gate opens; he walks into the warmth. The ember sits in a corner **no one faces** — and as he nears it, the reveal: **the ember is the source of all the room's light and heat**, while every partygoer is turned the other way, transfixed by something banal in the direction of the entrance. They were never welcoming him; they were just **facing his way.** He claims real fire from a room full of people who never once looked at him.
+
+Then Gern dissolves from the scene with his ember (the figures simply remain).
+
+*DM-only — the tell:* **same ember either way; Chaos doesn't care which gate.** In retrospect: "raise it to the light" *sounds* like the brave choice — and it IS the one that leads to being seen — yet it costs the welcome and routes him through apparent exile; "bury it in the dark" *sounds* like cowardly concealment, and buys the warm room that turns out hollow. The room **never advertised** either truth. *(Held latent, never stated: the obelisk is his PARENTS' faith for now — whichever way he hauls it, he acts on an inherited thing; the campaign converts it into a chosen one. Optional callback: the relic's light is a specific color that later reads unmistakably as HIS.)*
+
+---
+
+### Station 4 — Tank: "The Pep Rally" *(locked)*
+
+**The scene.** The **school gym**, dressed for tomorrow's pep rally — posters laid out on the floor overnight. Two exits, each barred by a gate: one opens onto the electric **stadium** (game-night roar, the thrill of the sport); the other onto a large, beautiful, **empty banquet hall** with a **throne on a high dais** visible through it. Two **performance-stations** — each a thing the room *watches him do*, not a control he operates:
+- **Friends-station — the trick shot.** An easy, flashy shot at a hoop — the casual flex. Easy check; and on a miss, **the ball snaps back into his hand before the miss can resolve** — the room won't *let* the flex fail (an eerie property of the space, not a dice rescue). Its exposed gearing runs visibly toward the **STADIUM** gate.
+- **Dad-station — the power-clean.** A loaded barbell he must clean off the floor and rack on a wall catch. **Tough Athletics check** (suggest DC 13–15); **failure is allowed** — he resets and grinds until it's done. Its exposed gearing runs visibly toward the **THRONE** gate.
+
+**The posters** *(diegetic — found on the floor)*:
+> *(center / preamble)* **Big day today, Tank. / They want a show. He wants a champion. / Go give somebody what they came for.**
+>
+> *(friends-station)* **They love how easy you make it look. / Never let them see it cost you.**
+>
+> *(dad-station)* **They're counting on you to be the best. / Never let them down.**
+
+A player reads it cleanly going in: flick the easy shot for the stadium, or grind the lift for the throne. He performs one.
+
+**The twist:** whichever station he works, **the same gate lifts — the THRONE**; the stadium gate never moves. The exposed gearing lets him catch, a half-second early, that **both chains always fed the throne axle** — discoverable, not a GM cheat; the room reveals its true shape. On the dais the ember manifests as a **crown**; he picks it up and it resonates as his. Then Tank dissolves from the scene with his ember.
+
+**Staging:** from the throne, the **stadium stays audible and visible through its still-barred gate** — he ends enthroned, elevated, looking at the warmth he never reached. "Be the best / rise above" cashes out as a lonely seat overlooking the crowd he can hear but not join.
+
+*DM-only — the tell:* the **asymmetry IS the characterization** — the dad-station permits visible, repeated failure (and makes him earn it); the friends-station *forbids* failure (the flex can never be seen to miss). One path lets the effort show; the other's whole premise is *don't let them see you try*. And **Chaos doesn't care which station** — to it they're the same move: performance aimed at an audience, agency outsourced; the ember rewards the *doing*, blind to *whose goal he was doing it for*. The **absent third station** — do it because HE wants it, with no one to play to — is the option the machine structurally can't contain, and the posters never offer (every line is an imperative to perform for someone). *(Held latent: a crown is what the dad-dream looks like cashed out — elevated, admired, alone.)*
 
 ---
 
@@ -581,22 +666,24 @@ Up: [[Episodes]]
 
 ---
 
-## Appendix A — The Awakening AI panel (for the dashboard's per-PC fork generator)
+## Appendix A — The Awakening AI panel (LEGACY — guest/late-joining PCs only)
+
+*The four core tests are now locked and bespoke (Beat 7); this generator is retained only in case a guest or replacement PC ever needs an Awakening on short notice, and for the dashboard's AI-panel feature.*
 
 **World context (stable):**
 > WORLD: "Embers of the Gathering Hollows" — a D&D 5e cosmic-horror campaign set in Mercer Falls, Ohio, summer 1996. The player characters are kids. Tone: the world reads as REAL first, WRONG second; restraint over shock; understatement over spectacle.
 > THE EMBERS: relics that grant the PCs their class abilities; manifestations of CHAOS. NEVER named in-fiction — never use the word "ember" in read-aloud text; fire/warmth vocabulary only (coals, banked stoves, a warmth in the chest, something that catches and does not go out). Acquisition = SURGE then SETTLE.
 > THE AWAKENING ROOM: charged, vital, almost too-alive — REINVIGORATION, not calm or safety. Air like the prickle before a storm; moving, over-saturated light with no source; a low live-wire thrum in teeth and breastbone.
-> THE CHAOS-DIALOGUE: at acquisition each PC is addressed by Chaos and presented a choice between TWO objects — NEITHER is the relic. Chaos asks a question; the PC's choice is the ANSWER; the relic manifests as the REPLY, emerging from or igniting between whatever they chose. The two objects: evocative, symbolic, a genuine values-fork true to the character. The choice best aligned with the player's STATED ideals/bond/flaw earns Heroic Inspiration along with the relic — including honestly playing a FLAW. No choice denies the relic.
+> THE TEST: each PC is pulled to a private station — a recreated place from their life, staged as a machine — that poses their deepest question as a physical choice with two branches. Diegetic written text (an inscription, posters, a note) frames it; the room speaks in writing, never in voice. NEITHER branch is wrong: the ember comes fully for acting, and Chaos is equally pleased either way — the tell, in retrospect, is that the machine never contained the real answer. The branch most honestly true to the player's STATED ideals/bond/flaw earns Heroic Inspiration — including honestly playing a FLAW.
 > DO NOT: invent new cosmology; name the relic; make the room feel cozy or safe.
 
 **Prompt template (input = one PC's stated top value / motivation / ideal / bond / flaw):**
-> Propose ONE awakening mini-puzzle for that character using the Chaos-dialogue mechanic. Return exactly: **THE TWO OBJECTS** (describe both symbolic objects — neither is the relic; a genuine values-fork true to the stated trait) / **THE ALIGNED CHOICE** (which object earns Heroic Inspiration and one sentence why; honest flaw-play counts) / **THE REPLY (read-aloud)** (one line, the relic manifesting from the chosen object as Chaos's answer; fire/warmth vocabulary only). Constraints: established tone (real first, wrong second; reinvigoration not calm); no new cosmology; under ~130 words.
+> Propose ONE awakening test for that character in the style above. Return exactly: **THE STATION** (the recreated place and its machine — two branches as physical actions) / **THE WRITTEN TEXT** (the diegetic inscription/posters/note, verbatim) / **THE TWO BRANCHES** (what each choice does and how the ember manifests in each) / **THE TELL** (DM-only: what the machine structurally left off the menu, and which branch is the honest one). Constraints: established tone (real first, wrong second; reinvigoration not calm); no new cosmology; fire/warmth vocabulary only for the relic; under ~250 words.
 
 ---
 
 ## Links
-[[Session 1 — The Dare]] · [[Episode 1 — The Hush]] · [[The Mill Sector]] · [[The Cataloguing Office]] · [[The Octagonal Vestibule]] · [[The Expedition Post]] · [[The Spiked Corridor]] · [[The Pillared Reach]] · [[The Buzzsaw Room]] · [[The Ember Chamber]] · [[The Hush]] · [[Wesley's Sigils]] · [[Death, TPK, and the Lost Day]] · [[Time Points]] · [[The Nightmare Engine]] · [[Dungeon Mechanics]]
+[[Session 1 — The Dare]] · [[Episode 1 — The Hush]] · [[The Mill Sector]] · [[The Cataloguing Office]] · [[The Octagonal Vestibule]] · [[The Expedition Post]] · [[The Spiked Corridor]] · [[The Pillared Reach]] · [[The Buzzsaw Room]] · [[The Ember Chamber]] · [[The Hush]] · [[Wesley's Sigils]] · [[Death, TPK, and the Lost Day]] · [[Time Points]] · [[The Nightmare Engine]] · [[Dungeon Mechanics]] · [[Old Man]] · [[Bash Whitlock]] · [[Gern]] · [[Tank]]
 
 ## Source
-Compiled 2026-07-06 from the Session-1 DM dashboard (HTML) + vault canon: [[Session 1 — The Dare]] (five-block structure, split wake-up), the six delve-room notes (rooms 2/3/11/12/13/14), [[The Nightmare Engine]] (pack-floor theme), [[Death, TPK, and the Lost Day]] (3-TP dwell / two currencies), and the grounds-finds design menu (conversation, 2026-07). DCs, damage values, wave pacing, and outcome-handling rulings originate here and in the dashboard — this note is their canonical home.
+Compiled 2026-07-06 from the Session-1 DM dashboard (HTML) + vault canon: [[Session 1 — The Dare]] (five-block structure, split wake-up), the six delve-room notes (rooms 2/3/11/12/13/14), [[The Nightmare Engine]] (pack-floor theme), [[Death, TPK, and the Lost Day]] (3-TP dwell / two currencies), the grounds-finds design menu (conversation, 2026-07), and the four locked Awakening tests from the PC notes ([[Old Man]] — The Pit and the Spring; [[Bash Whitlock]] — The Basement: the Box and the Rig; [[Gern]] — The Obelisk and the Two Gates; [[Tank]] — The Pep Rally). DCs, damage values, wave pacing, and outcome-handling rulings originate here and in the dashboard — this note is their canonical home; the Awakening tests' canonical homes are the PC notes.
