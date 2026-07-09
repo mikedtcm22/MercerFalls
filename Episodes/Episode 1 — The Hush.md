@@ -4,10 +4,10 @@ created: 2026-06-14T00:00:00.000Z
 domain: Episodes
 featured_rival: "[[Ricky Vance]]"
 monster: "[[The Hush]]"
-sessions: Sessions 1–2
-source: [wesley bizarro plot v5 §7 Ep1 (lines 237–273), session-prep Episode-1 prep reference]
+sessions: Session 1 (standalone)
+source: [wesley bizarro plot v5 §7 Ep1 (lines 237–273), session-prep Episode-1 prep reference, pilot split 2026-07]
 status: canonical
-tags: [embers, episode, the-hush, ricky]
+tags: [embers, episode, the-hush, ricky, origin]
 title: Episode 1 — The Hush
 type: episode
 visibility: dm-only
@@ -18,43 +18,28 @@ window: Mid-June
 
 Up: [[Episodes]]
 
-**The campaign's first full MOTW, run as a two-session pilot (longer than the ~1.5h standard). Session 1 is the PCs' prologue and dungeon descent ([[Session 1 — The Dare]]); Session 2 cold-opens on [[Ricky Vance|Ricky]]'s capture, turns the dare-night creature loose on the town, introduces [[Time Points]], and culminates in a night hunt that doubles as a rescue.** Featured Rival: [[Ricky Vance]] (starting disposition 2 — Neutral). Wesley fingerprint level: **none**.
+**The campaign's opening episode: the dare, the mill chase, the ember awakening, the pre-cleared delve, the buzzsaw, and the split wake-up. A standalone origin — it ends the moment the PCs wake, changed, either on the mill grounds at dawn or in their own beds a day later. Featured Rival seeded here: [[Ricky Vance]]. Wesley fingerprint level: none.**
 
-## Session 1 — the prologue
-Run [[Session 1 — The Dare]] — the five-block opener ending on the wake-up. The Hush chases on the mill grounds; the PCs escape down the hatch; the adult gets into [[The Mill]] but **breaks off at the hatch** — it hears [[Ricky Vance]] and takes him instead — and doesn't follow into the dungeon. After the TPK-or-escape the PCs wake at home — **the Hush is still loose, and the PCs have no idea Ricky was taken.** (The Hush caches him alive; he is *not* dungeon-touched — see below.)
+> [!note] Restructure (2026-07) — the pilot is now two standalone episodes
+> This was the first half of a two-session pilot. It is now **Episode 1 on its own, ending at the wake-up.** The morning-after town investigation and the rescue of Ricky from the adult Hush have been split out into their own episode: **[[Episode 2 — The Hush]].**
+> *Pending cleanup (awaiting go-ahead): this note likely wants renaming to **Episode 1 — The Dare**, since "The Hush" now names the rescue episode; and the downstream episodes renumber +1 (Hungry House → 3, and so on). Until then, links that used to point here for the rescue should point to [[Episode 2 — The Hush]].*
 
-## Session 2 — cold open + the hunt-rescue
-**Cold open: Ricky's capture, from his POV** — the same dare night, just after the party fled below. The players watch the kid who set them up get hunted and taken. Then town-mode opens and [[Time Points]] are introduced. Something bad has surfaced in a PC's life (a pet killed, a sibling chased, a body found near the woods). Investigation paths:
-- Variants of "I saw something near the mill last week" (dog walker, paperboy, gas-station attendant)
-- The sheriff isn't following up — official line "wild dog" (the [[The Reality Filter|Filter]])
-- A mom mentions last spring's bicyclist who never came home (the Hush's previous, never-found kill)
-- Tracking the woods: a blood trail, deep gouges in tree bark at chest height
+## What happens (the run)
+Run [[Session 1 — The Dare]] — the five-block opener — with [[Session 1 — DM Screen]] as the at-table reference. In brief: the chained-gate cold open → the Hush circles the grounds and the chase begins → flee to the blast furnace, search it, down the hatch → the Lying Wall → the Awakening (four bespoke stations) → the pre-cleared Floor-1 delve (Cataloguing Office → Vestibule → Expedition Post → Spiked Corridor → Pillared Reach → Buzzsaw) → [[Wesley Crane|Wesley]]'s sigil, the wave, the closing escape window → the split wake-up. **The episode ends there** — on the grounds at dawn (free-willed exits) or in their own beds with a lost day (the hollowed). See [[Death, TPK, and the Lost Day]].
 
-The PCs identify the creature's hunting style by mid-investigation (research runs through [[Russ]] at [[Panels]] — the [[The Nightmare Engine|Nightmare Engine]]'s first in-play demonstration: walk in with a description, walk out with the kill condition), then track it to its **den** — where it has **cached Ricky alive**, and where **Ricky's father is already waiting**, having hunted the thing down himself. The climax is a tough fight (even with the sound-misdirection trick) that is *also* a rescue. See **Ricky's disposition outcomes** below.
+## The Hush's role here
+On the grounds it is the **chaser** — it cannot be meaningfully fought (Session 1 is a chase, not a battle). It gets into [[The Mill]] but **breaks off at the hatch** and does not follow into the dungeon. The **juvenile** in the Pillared Reach is a separate instance the party can kill; cornered, it releases a defensive spore that leaves a lingering acoustic **mark** on one PC's voice. Both of those seed [[Episode 2 — The Hush]].
 
-> [!danger] DM-only
-> **Two threads converge on the den.** (1) *Supernatural-personal:* the adult Hush, tracking the spore-marked PC's voice from the Session-1 juvenile, stalks at night. (2) *Social:* **Ricky has vanished.** The [[The Reality Filter|Filter]] closes the case fast — *"his dad shipped him off to military school"* — and the absence of **both** Ricky and his father seems to confirm it. Ricky's bully clique pushes their own fiction: that a PC **snitched to Ricky's dad about the dare**, and *that's* why he got sent away — and they make that PC's life hell. First sustained social-pressure beat.
->
-> **The truth (the rescue):** the Hush has Ricky cached alive in its den, and **his father, [[Wade Vance]], is missing because he's been searching** — his bond to his son is strong enough to break the Filter's fog (the way grief broke [[Russ]]; he's the *second* Filter-resistant adult the PCs meet), and his military training is why he can track the creature when no other adult will. He converges on the den with the PCs and plays a hand in the kill/rescue (role flexes to how the players run it), revealing in the process that he is far more than the absentee dad the town wrote him off as (see [[Wade Vance]]). **Most of the glory goes to Dad** — so the rescue does *not* publicly ingratiate Ricky with the party, and resolving the disappearance here means it does **not** dangle into [[Episode 2 — The Hungry House]] (though the clique's resentment can linger).
->
-> **Ricky is not hollowed here.** The den is a monster's cache, not a dungeon pocket — no embers, no lost-day mechanic, no lore dump. The abduction is pure terror (total helplessness, the thing he's built himself against); the Filter blurs the specifics, but the helplessness sticks and is what drives him to [[Wesley Crane|Wesley]]. His *hollowed-and-survived* qualifier comes later, on a Wesley delve (see [[Ricky Vance]]).
->
-> **Optional second delve** for the *stone of quietude* (Mercer-era Silence artifact; leading candidate location the Pillared Reach); makes the climax easier but is never required. See [[The Keystone Tablet]] / [[Gear and Items]].
+> [!danger] DM-only — the hand-off to Episode 2
+> Why the adult breaks off at the hatch: it hears [[Ricky Vance]] out on the grounds — alone, louder, easier than four kids gone quiet behind metal — and **takes him instead.** The PCs don't know this happened. That capture is the cold open of [[Episode 2 — The Hush]] (Ricky's POV — the other side of the receding clicks). The kids also, unknowingly, **killed the very young the adult was provisioning**, which is the engine of Episode 2's rescue clock. Full rescue, blame, and Ricky's disposition outcomes now live in [[Episode 2 — The Hush]].
 
-## Ricky's disposition outcomes
-Set by **how the rescue goes** (and whether the PCs engage it at all). He'll never thank them publicly — admitting the kids he set up saved him would detonate his image:
-- **Clean** (PCs help; Ricky unscathed, Dad unhurt) → a small *private* uptick: no public warmth, but later he won't throw a PC under the bus when he easily could. **2 → 3 (Sympathetic).**
-- **Messy** (PCs help but it's rough; **Dad gravely wounded** in the chaos) → Ricky blames the party → **1 (Wary)**, or **0 (Hostile)** if it got ugly. Thematically this is the worst kind of confirmation for him — see [[Ricky Vance]] (the lever).
-- **Disaster** (egregious botch only) → **Dad dies** → **0 (Hostile)**, a hard accelerant into Wesley. *(Reserve the father's death for a later, higher-stakes beat — the players barely know him yet.)*
-- **Disengaged** (the PCs never connect the threads, leaving Dad to it) → stays **2 (Neutral)**; no bond, Wesley works him from scratch.
-
-Naming the prank / dare night as ammo at any point is a pitfall (shame, doubly loaded because it also exposes the fracture inside [[The Party]]). After this episode [[Wesley Crane]] starts paying attention to Ricky and to the engaged PCs; his counter-cultivation begins. See [[The Negotiation System]].
-
-## Aftermath & seeds
-The Hush's body in dawn light has a **tooth made of something that isn't bone** — dungeon-stone material, a [[Cosmology Seeds|cosmology seed]] to call back in [[Episode 3 — The Click]] (and the recurring-material clue in [[The Pattern Recognition Arc]]). Sheriff's report: "bear." Ricky comes home changed and withdrawn — which only makes the "military school" story feel true to the town. A hooded figure remains an open question (the slow-burn [[Wesley Crane]] recognition arc). The mill-area chalk reads as background ([[Wesley's Sigils|Tally Stone delve]] residue). **Ricky's father, [[Wade Vance]]**, now has a stub with a compact encounter statline (his silence is the counter to a sound-hunter) and a Tier-3 covert-unit seed — set up here, payable off later only if the players bite.
+## Aftermath & seeds (carried into Episode 2)
+- The **spore-marked PC** will be stalked at night by the adult Hush.
+- **Ricky is missing** — the town settles on "his dad shipped him to military school," and the clique blames a PC for snitching.
+- Whatever the PCs carried out of the dungeon **persists** (the proof on the nightstand); the shared secret and [[Dominique Ferraro|Dominique]] are what reassemble the loose group next episode.
 
 ## Links
-[[The Hush]] · [[Ricky Vance]] · [[Wade Vance]] · [[Russ]] · [[Panels]] · [[The Mill]] · [[The Reality Filter]] · [[Session 1 — The Dare]] · [[Episode 2 — The Hungry House]] · [[The Bizarro Plot]] · [[The Pattern Recognition Arc]] · [[Wesley's Summer Calendar]] · [[The Negotiation System]] · [[The Cast and the Permanent Cast]]
+[[Session 1 — The Dare]] · [[Session 1 — DM Screen]] · [[Episode 2 — The Hush]] · [[The Hush]] · [[Ricky Vance]] · [[Wade Vance]] · [[The Mill]] · [[The Reality Filter]] · [[Wesley Crane]] · [[Wesley's Sigils]] · [[Death, TPK, and the Lost Day]] · [[The Party]] · [[Episodes]]
 
 ## Source
-Wesley Bizarro Plot v5 §7 Episode 1 (lines 237–273); session-prep `Episode-1/embers_session_1_prep_reference.md`; Ricky deep-dive — 2-session pilot, the Vance-dad rescue + Wade Vance (conversation, 2026-06).
+Wesley Bizarro Plot v5 §7 Episode 1 (lines 237–273); session-prep `Episode-1` prep reference; pilot split into standalone Episode 1 (origin) + [[Episode 2 — The Hush]] (rescue) — conversation, 2026-07.
