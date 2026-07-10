@@ -25,6 +25,9 @@ The "how we run it" layer of the campaign: the operating system for prepping, ru
 - **[[Next Prep Targets]]** — the Tier 1–7 priority-ordered prep backlog.
 - **[[Outstanding Design Questions]]** — the open questions grouped (PC-dependent / mechanical / setting & lore / dungeon / long-term).
 
+### Skills (repeatable processes)
+- **[[Sketch It Out — Location Aids]]** — fires on *"sketch it out"* for a location; produces a player-orienting read-aloud + a matched Gemini image prompt in the locked house art style. The first of the DM-OS's "process → artifact" skills.
+
 ## Auto-index
 
 ```dataview
