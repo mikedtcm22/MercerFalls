@@ -4,7 +4,7 @@ aliases: []
 created: 2026-06-14T00:00:00.000Z
 disposition_start: 2
 domain: Cast
-featured_episode: Episode 1 — The Hush
+featured_episode: Episode 2 — The Hush
 role: recruit (Tank's inverted-mirror foil; the control-mask kid)
 source: [wesley bizarro plot v5 §3, campaign bible v0.4 §9, "Ricky deep-dive (conversation, 2026-06)"]
 status: canonical
@@ -36,15 +36,15 @@ Both are elite athletes over-functioning for a father; the masks are reversed.
 Tank launders his wanting through an audience; Ricky launders his fear through a costume of order. Because they're mirror images, **[[Tank]] (a PC) is uniquely able to see through Ricky** — the one person who knows what a mask that good is hiding. (Mechanically: Tank-led recognition is a strong reach on Ricky.)
 
 ## Dare night → the capture
-He chained the gate and left, meaning to circle back and watch Bash & Gern lose their nerve; he found the grounds **empty** (the party had already fled below) and went looking — which left him alone when the adult [[The Hush]] broke off the hatch and took *him* instead. **[[Episode 1 — The Hush]] runs as a two-session pilot:** Session 1 is the PCs' prologue (they never learn Ricky was taken); **Session 2 cold-opens on Ricky's capture, from his POV** — the players discover what happened to the kid who set them up.
+He chained the gate and left, meaning to circle back and watch Bash & Gern lose their nerve; he found the grounds **empty** (the party had already fled below) and went looking — which left him alone when the adult [[The Hush]] broke off the hatch and took *him* instead. The former two-session pilot has been **split into two episodes:** [[Session 1 — The Dare|Session 1 (The Dare)]] is the PCs' prologue (they never learn Ricky was taken); **[[Episode 2 — The Hush]] cold-opens on Ricky's capture, from his POV** — the players discover what happened to the kid who set them up.
 
-## The rescue (Session 2 climax)
+## The rescue (Episode 2 climax)
 The town's cover story is "his dad shipped him off to military school." The truth: the Hush has him, and **his father, [[Wade Vance]], has gone missing too — because he's out searching.** Dad's bond to his son is strong enough to **break the [[The Reality Filter|Filter]]'s fog** (the same way grief broke [[Russ]]) — he's the second Filter-resistant adult the PCs meet, and his military training is *why* he can track the creature when no other adult will. When the PCs narrow down the Hush's den, they run into him there, and he plays a hand in the rescue (exact role flexes to how the players run the scene).
 
 **Most of the glory goes to Dad** — so the rescue does *not* ingratiate Ricky with the party, and he will never publicly admit the kids he set up pulled him out (that would detonate the Iceman image he survives by). Outcome bands set his disposition:
 - **Clean** (Ricky unscathed, Dad unhurt) → a small, *private* uptick: no public warmth ever, but later, when he could easily throw a PC under the bus, he doesn't. Neutral → Sympathetic.
 - **Messy** (Ricky out, but Dad is **gravely wounded** in the chaos) → Ricky blames the party → Wary, or Hostile if it got ugly. See the lever below for why this cuts so deep.
-- **Disaster** (egregious failure only) → Dad dies; Hostile, and a hard accelerant into Wesley. *(Reserve the father's death for a later, higher-stakes beat — the players barely know him in Ep1.)*
+- **Disaster** (egregious failure only) → Dad dies; Hostile, and a hard accelerant into Wesley. *(Reserve the father's death for a later, higher-stakes beat — the players barely know him in Ep2.)*
 
 > [!note] No dungeon-touch here
 > Ricky is **not** hollowed by the Hush — the den is a monster's cache, not a dungeon pocket. We don't want ember/hollowing lore dumped on players who can't read it yet (or to accidentally protect the PCs via the pocket). The abduction is pure terror: total helplessness, the one thing Ricky has organized his whole self against. The Filter blurs the supernatural specifics afterward, but **the helplessness sticks** — and that's what drives him to Wesley.
@@ -63,13 +63,13 @@ Not the Hush captivity. [[Wesley Crane|Wesley]] gets to him fast; before long Ri
 - **Motivations (Interest up):** **Steadiness / a hand to anchor to** (he wants an authority — the party can be a *peer* anchor instead of a master); **Competence recognized** (he *is* good; treated as capable, not coddled); **his father** (a route reaches through the bond — *"your dad trusted you to hold your own"*).
 - **Pitfalls (Interest down):** **Pity / being managed** (coddling = the helplessness he can't stand; reads as contempt); **Public exposure of weakness** (anything threatening the Iceman image — above all, that Bash/Gern saved him); **using dare night / the prank as ammo** (shame, doubly loaded because it also names the fracture inside [[The Party]]).
 - **Reachable through:** peer-trust shown in chaos; [[Tank]]-recognition; naming what's true without pity — *"you knew that night was wrong before any of us did."*
-- **Wesley's counter-cultivation** (after Ep1): reframes PC respect as condescension — *"they only see who you used to be"* — and, if the rescue went badly, leans on the wounded-father guilt: *"they did that to him."*
+- **Wesley's counter-cultivation** (after Ep2): reframes PC respect as condescension — *"they only see who you used to be"* — and, if the rescue went badly, leans on the wounded-father guilt: *"they did that to him."*
 
 > [!note] Dad — [[Wade Vance]]
-> Ricky's father is statted as an Ep1 rescue ally — an absentee-military cover over a classified-operator truth ("whoa, Ricky's dad is a badass"), Filter-broken by love but *trained* enough to act on it. His **unit** is a Tier-3 faction seed (a mundane, cosmology-blind, extremely capable human outfit). See his note.
+> Ricky's father is statted as an Ep2 rescue ally — an absentee-military cover over a classified-operator truth ("whoa, Ricky's dad is a badass"), Filter-broken by love but *trained* enough to act on it. His **unit** is a Tier-3 faction seed (a mundane, cosmology-blind, extremely capable human outfit). See his note.
 
 ## Connections
-[[Tank]] · [[The Party]] · [[Bash Whitlock]] · [[Gern]] · [[Wade Vance]] · [[Wesley's Recruits]] · [[Wesley Crane]] · [[The Hush]] · [[The Reality Filter]] · [[Russ]] · [[The Community Center]] · [[The Cast and the Permanent Cast]] · [[Session 1 — The Dare]] · [[Episode 1 — The Hush]] · [[The Negotiation System]] · [[The Other Party (Rival or Evil)]] · [[The Equinox Ritual]]
+[[Tank]] · [[The Party]] · [[Bash Whitlock]] · [[Gern]] · [[Wade Vance]] · [[Wesley's Recruits]] · [[Wesley Crane]] · [[The Hush]] · [[The Reality Filter]] · [[Russ]] · [[The Community Center]] · [[The Cast and the Permanent Cast]] · [[Session 1 — The Dare]] · [[Episode 2 — The Hush]] · [[The Negotiation System]] · [[The Other Party (Rival or Evil)]] · [[The Equinox Ritual]]
 
 ## Source
-wesley bizarro plot v5 §3 (Ricky, 99) · campaign bible v0.4 §9 (Rival Sketches, 754) · Session 0 player notes (2026-06) · Ricky deep-dive: Tank-mirror, the Vance-dad rescue, pressure-point ↔ saving-grace (conversation, 2026-06)
+wesley bizarro plot v5 §3 (Ricky, 99) · campaign bible v0.4 §9 (Rival Sketches, 754) · Session 0 player notes (2026-06) · Ricky deep-dive: Tank-mirror, the Vance-dad rescue, pressure-point ↔ saving-grace (conversation, 2026-06). Episode 1 → Episode 2 reference fix after the pilot split (conversation, 2026-07).
