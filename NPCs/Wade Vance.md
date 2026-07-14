@@ -3,7 +3,7 @@ age: 40s
 aliases: [Mr. Vance, "Ricky's dad", Sergeant Vance]
 created: 2026-06-27T00:00:00.000Z
 domain: Cast
-role: Ricky's father; covert military operator (Ep1 encounter ally; Tier-3 faction seed)
+role: Ricky's father; covert military operator (Ep2 encounter ally; Tier-3 faction seed)
 source: ["Ricky deep-dive (conversation, 2026-06)"]
 status: canonical
 tags: [embers, npc, ally, military, filter-resistant, seed]
@@ -33,8 +33,8 @@ Up: [[Cast & NPCs]]
 ## Filter resistance — why he found what no one else could
 The town is fogged into "wild dog / shipped off to military school." Wade isn't. **Love broke the [[The Reality Filter|Filter]] for him** (the same attachment-rule that cracked [[Russ]]) — but where Russ is merely disquieted, Wade is *trained*, so he could act on it: he didn't just feel something was wrong, he tracked the thing to its den. A Filter-broken adult who is also lethally competent and motivated is rare — and, though he has no idea [[Wesley Crane|Wesley]] exists, exactly the kind of loose variable that could wreck an operation.
 
-## In Episode 1 — the rescue
-He converges on the Hush's den alongside the PCs (see [[Episode 1 — The Hush]]) and plays a hand in the kill. Mechanically he's a strong ally; *narratively* most of the **public** glory goes to him ("his dad saved him"), which is why the rescue doesn't ingratiate Ricky with the party in public — but the kids' actions decide the outcome, and that's what Ricky privately clocks. His fate sets Ricky's disposition and trajectory:
+## In Episode 2 — the rescue
+He converges on the Hush's den alongside the PCs (see [[Episode 2 — The Hush]]) and plays a hand in the kill. Mechanically he's a strong ally; *narratively* most of the **public** glory goes to him ("his dad saved him"), which is why the rescue doesn't ingratiate Ricky with the party in public — but the kids' actions decide the outcome, and that's what Ricky privately clocks. His fate sets Ricky's disposition and trajectory:
 - **Clean** (Wade unhurt): he lives — but duty pulls him away again, so Ricky's *true* anchor exists yet stays absent, and Wesley still has an opening (just a less raw one). Wade survives as a latent counterweight and a faction vector.
 - **Wounded** (the botch): the strong father becomes a **broken, present** one — laid up, diminished. This collapses Ricky's situation toward [[Tank]]'s (a once-mighty dad who's now a weight) without Tank's coping, and clears Wesley's path. It also removes the faction vector (an operator invalided out).
 - **Killed** (egregious failure only): the anchor is gone; the hardest shove into Wesley — and the strongest trigger for the seed below.
@@ -52,7 +52,7 @@ He converges on the Hush's den alongside the PCs (see [[Episode 1 — The Hush]]
 > Optional payoff, planted now and deniable. If the players light up at "who *is* this guy," there's a **classified outfit** behind him to bring in around Tier 3 — a mundane, cosmology-blind, extremely capable human faction operating on a totally different axis from [[Order and Chaos]], able to shake the board mid-campaign. Loose entry vectors (pick later, or never): (a) Wade goes missing/KIA and the unit comes looking for one of their own, walking into the anomaly blind; (b) Mercer Falls / the Mercer site is *already* on some old classified watchlist (a decades-long disappearance pattern, a flagged "signature"), making Wade's posting here not wholly coincidental; (c) Wade himself, after the rescue, quietly flags the town up his chain. Don't build it unless it earns its place.
 
 ## Connections
-[[Ricky Vance]] · [[The Hush]] · [[Episode 1 — The Hush]] · [[The Reality Filter]] · [[Russ]] (the other Filter-broken adult) · [[Wesley Crane]] · [[Cast & NPCs]]
+[[Ricky Vance]] · [[The Hush]] · [[Episode 2 — The Hush]] · [[The Reality Filter]] · [[Russ]] (the other Filter-broken adult) · [[Wesley Crane]] · [[Cast & NPCs]]
 
 ## Source
-Ricky deep-dive — the Vance-dad rescue + the covert-operator seed (conversation, 2026-06). Builds on [[Ricky Vance]], [[Episode 1 — The Hush]].
+Ricky deep-dive — the Vance-dad rescue + the covert-operator seed (conversation, 2026-06). Builds on [[Ricky Vance]], [[Episode 2 — The Hush]]. Episode 1 → Episode 2 reference fix after the pilot split (conversation, 2026-07).
