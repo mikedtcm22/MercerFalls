@@ -66,17 +66,17 @@ Every rule here **bends in the fiction, with a trade-off.** The classic move: al
 
 ## Location-Introduction Meta-Rule
 
-**Locations come online when an episode pulls them into focus.** Do not pre-publish a town map. PCs discover locations through investigation; once discovered, a location is available for future Time Points. The "available Mercer Falls" grows steadily — small early, expansive by equinox. This is the default introduction pattern for any new location ([[Panels]] early, [[Earl's Pawn Shop]] in [[Episode 2 — The Hungry House]], the [[The Sinclair Station]] when investigating 1991, the [[The Mercer Mansion]] basement at the equinox).
+**Locations come online when an episode pulls them into focus.** Do not pre-publish a town map. PCs discover locations through investigation; once discovered, a location is available for future Time Points. The "available Mercer Falls" grows steadily — small early, expansive by equinox. This is the default introduction pattern for any new location ([[Panels]] early, [[Jerry's Pawn Shop]] in [[Episode 2 — The Hush]], the [[The Sinclair Station]] when investigating 1991, the [[The Mercer Mansion]] basement at the equinox).
 
 ## The Money Loop
 
 The town has **no weapons shop** and most magic gear comes from the dungeon (see [[Gear and Items]]). The economy bridges mundane-supply cash needs through resale of period-anachronistic dungeon loot.
 
 - Dungeon yields resellable valuables — 1800s-era coins, small jewelry, antique watches, ceremonial pieces, occasional Mercer-marked artifacts.
-- **Conversion channels** (rough rate tiers): [[Earl's Pawn Shop]] (fast cash, low rates, no questions); [[The Antique Dealer]] (slower, better rates, asks questions); [[Russ]] at [[Panels]] (best rates once rapport is built, sometimes trades); **eBay** (launched Sept 1995, usable summer 1996 — needs dial-up + patience; best rates, takes days/weeks).
+- **Conversion channels** (rough rate tiers): [[Jerry's Pawn Shop]] (fast cash, low rates, no questions); [[The Antique Dealer]] (slower, better rates, asks questions); [[Russ]] at [[Panels]] (best rates once rapport is built, sometimes trades); **eBay** (launched Sept 1995, usable summer 1996 — needs dial-up + patience; best rates, takes days/weeks).
 - Cash buys mundane supplies through Hadley's General Store, sporting goods, hardware, and (mid-campaign, with transportation) the army surplus store.
 
 **Scale:** a typical Floor-2 delve yields $50–200 in resellable antiques; a great score ~$500. PCs aren't getting rich — just enough to stay supplied and occasionally save for something at Russ's back room.
 
 ## Source
-Campaign Bible v0.4, §8 (In-Town Mechanics: Time Points, incl. the Money Loop at §8/663); 3-TP delve dwell + check-in/bendable-rules layer (conversation, 2026-06).
+Campaign Bible v0.4, §8 (In-Town Mechanics: Time Points, incl. the Money Loop at §8/663); 3-TP delve dwell + check-in/bendable-rules layer (conversation, 2026-06). Earl → Jerry pawn-shop rename and earlier Episode 2 — The Hush debut (conversation, 2026-07).
