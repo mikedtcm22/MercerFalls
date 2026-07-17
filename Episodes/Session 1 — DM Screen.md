@@ -326,7 +326,7 @@ Up: [[Episodes]]
 
 Then Gern dissolves from the scene with his ember (the figures simply remain).
 
-*DM-only — the tell:* **same ember either way; Chaos doesn't care which gate.** In retrospect: "raise it to the light" *sounds* like the brave choice — and it IS the one that leads to being seen — yet it costs the welcome and routes him through apparent exile; "bury it in the dark" *sounds* like cowardly concealment, and buys the warm room that turns out hollow. The room **never advertised** either truth. *(Held latent, never stated: the obelisk is his PARENTS' faith for now — whichever way he hauls it, he acts on an inherited thing; the campaign converts it into a chosen one. Optional callback: the relic's light is a specific color that later reads unmistakably as HIS.)*
+*DM-only — the tell:* **same ember either way; Chaos doesn't care which gate.** In retrospect: "raise it to the light" *sounds* like the brave choice — and it IS the one that leads to being seen — yet it costs the welcome and routes him through apparent exile; "bury it in the dark" *sounds* like cowardly concealment, and buys the warm room that turns out hollow. The room **never advertised** either truth. *(Held latent, never stated: the obelisk is his PARENTS' faith for now — whichever way he hauls it, he acts on an inherited thing; the campaign converts it into a chosen one. Optional callback: the relic's light is a specific color that later reads unmistakably as HIS. The faith itself — [[Certaintism]] — pays off in the crawl at the Pillared Reach; see Beat 13.)*
 
 ---
 
@@ -389,7 +389,7 @@ A player reads it cleanly going in: flick the easy shot for the stadium, or grin
 > **Still on the Clock** *(trigger once or twice as they work the room)*
 > Somewhere down the row, a ledger page turns itself over with a small papery tick. And as you pass the tripod, the camera's shutter clicks — once, softly — like a door deciding to notice you.
 >
-> *DM note: the operation files THEM too — a plate exposed tonight, developed later, shows the party standing in the office.*
+> *DM note: the operation files THEM too — a plate exposed tonight, developed later, shows the party standing in the office. (If Gern is attending to the room, this is the optional second [[Certaintism]] rhyme — a century-old operation that Accounts for everything it finds; hold it unless the table reaches for it.)*
 
 **Checks — working the room**
 - **Read the ledgers** — DC 12 Investigation or History; a Stretch of reading.
@@ -543,8 +543,9 @@ A player reads it cleanly going in: flick the easy shot for the stadium, or grin
 - The thing killing him is a YOUNG version of what hunted them topside — eyeless, sound-hunting, nesting here. The dying man is the dragged man from the corridor (the blood was his). Its voice-mimicry can throw HIS cries — or a PC's own name — from the wrong direction as they cross.
 - THE CHOICE (the room's size is the pressure): **RUSH** in — it's far; they likely can't make it in time, and rushing is LOUD. **WATCH** from cover — they witness the kill (their first hollowing), then it turns toward the nearest sound: them. **SLIP** past — a sound-discipline gauntlet, not a shadow one.
 - The fight inverts everything: darkness doesn't help (it has no eyes). Hide in SILENCE, not shadow. Control your noise; bait it; SPLIT its attention. This is the fight they'll research topside and re-fight against the ADULT in Session 2.
-- The man dies hollowed ON-SCREEN either way (**"He Comes Apart"**). ONLY exception: spring the instant they enter AND roll hot on round one → they pull him off it alive — barely — and he dies in the Buzzsaw instead (next beat).
+- The man dies hollowed ON-SCREEN either way (**"He Comes Apart"**) — and leaves a **nullprint**: a very visible, seared human-shaped residue on the stone. ONLY exception: spring the instant they enter AND roll hot on round one → they pull him off it alive — barely — and he dies in the Buzzsaw instead (next beat).
 - On ITS death: the defensive spore — CON save, and a lingering acoustic MARK on one PC's voice. Let the fight decide who. That mark is the Session-2 hook: the adult tracks the marked voice into town.
+- **Gern seed ([[Certaintism]]):** the nullprint is the one planted touchpoint of Gern's family faith in the crawl — he recognizes the shape ("Figure 9"). Deliver it privately; see the DM note under "He Comes Apart."
 
 **Read-alouds**
 
@@ -554,9 +555,10 @@ A player reads it cleanly going in: flick the easy shot for the stadium, or grin
 > *DM note: they enter FAR from the action — the distance is the dilemma. If they hesitate, let the mimicry work: his cry, or one of their own names, arriving from the wrong quarter, timbre right, affect wrong.*
 
 > **He Comes Apart** *(the hollowing — read when the young Hush finishes him)*
-> The screaming stops before you're sure it's stopped. Where the man went down there's a light with no fire in it — his body letting go of itself, coming apart into motes that lift like ash off a bonfire, drifting up past the pillar-tops, and gone. What's left on the stone where he fell: nothing. Not even the shape of him. The thing crouched there lifts its head — a head with no eyes, with great pale fans swept back where ears should be — and goes very, very still. It's listening.
+> The screaming stops before you're sure it's stopped. Where the man went down there's a light with no fire in it — his body letting go of itself, coming apart into motes that lift like ash off a bonfire and drift up past the pillar-tops, and gone. But he doesn't leave clean. Seared into the stone where he fell, plain as a hand pressed into wet cement, is the shape of him — a pale, scorched outline, arms a little open, a whole person burned down to a stain on the floor. It sits there and it does not fade. The thing crouched over it lifts its head — a head with no eyes, with great pale fans swept back where ears should be — and goes very, very still. It's listening.
 >
-> *DM note: no ember-fire — he's no bearer; just the motes. The party's first witnessed hollowing, and the same dissolve they each did in the Awakening. Don't connect it for them. Person dissolves; native stays — the corpse they're about to make demonstrates the other half.*
+> *DM note: no ember-fire — he's no bearer; just the motes, and the mark left behind. That mark is a **nullprint** — the residue a hollowed NPC leaves seared into the ground (it rhymes with the ash-stains ringing the Buzzsaw platform in room 14 — same phenomenon, older). The person reconstitutes at the entrance; the nullprint stays. This is the party's first witnessed hollowing, and the motes are the same dissolve they each did in the Awakening — but note for later that THEY leave almost nothing, where this man leaves a full print.*
+> *Gern ([[Certaintism]]): hand him the recognition PRIVATELY — he's seen this exact shape before, "Figure 9" in his family's scripture, the diagram his mother drilled him on. Then let him react in front of the others and explain nothing; the horror is "were my parents right?" (Full script + the low-residue misread in [[Certaintism]].) "Nullprint" is a fine word to let the table start using in-game once Gern names it — it doesn't replace "hollowing," it's just what these kids would call the mark based on what they know.*
 
 **Checks — sound is the terrain**
 - **Move quiet** — DC 12 Stealth. Silence, not shadow; darkness is worthless against it. ✓ Unlocated — reposition, flank, line up the far door unheard. ✗ It orients — advantage on its next move against whoever made the sound. → *"The fans spread. The clicking stops. In the new silence you can hear exactly how loud you just were."*
@@ -564,7 +566,7 @@ A player reads it cleanly going in: flick the easy shot for the stadium, or grin
 - **Rush it (loud)** — no check to run, but rushing is noise: everyone who moved loud grants it advantage against them this round. The trade is real — the only way to reach the man in time is to give it every one of your positions.
 - **Death-spore** — CON save DC 12, everyone adjacent when it dies. ✗ Poisoned (1d4, disadvantage on the next hour's checks — clears with rest). Either way: one PC's VOICE takes a lingering acoustic mark (let the fight pick who — whoever killed it, whoever was closest, whoever screamed). They can't hear it. The adult can.
 
-**Treasure** *(the corpse STAYS — a native; the man it killed left nothing at all)*
+**Treasure** *(the corpse STAYS — a native; the man it killed left nothing but his nullprint)*
 - **A tooth made of something that isn't bone** (INFO) — pry it loose. Stone — but not any stone topside, and exactly the stone of these walls. LEAVES the dungeon: a trophy, a sample, and a thread they'll see again this summer. (The same tell will be on the adult's corpse in Session 2.)
 - **Nest leavings** (MINOR) — the far reaches; a Stretch to search. Earlier prey's effects — a rusted lunch pail, a wallet gone to felt, a ring of keys to doors that no longer exist. Sad, saleable, and quietly a body count.
 
@@ -596,7 +598,7 @@ A player reads it cleanly going in: flick the easy shot for the stadium, or grin
 > **The Millrace** *(on entering Room 14)*
 > The last door opens onto noise: a long chamber split down its length by a chasm, fifteen feet down to black water moving fast enough to shout. Narrow iron catwalks lattice the gap — single file, rails you wouldn't lean on. At one end, a great sealed sluice-gate weeps rust. And on a raised platform at the far end, a robed figure kneels with his back mostly to you, finishing something drawn on the stone in chalk that catches your light wrong. Around the platform's base there are stains. Pale ones. In shapes you don't want to name, because some of them have arms.
 >
-> *DM note: DC 15 Perception for the face — unremarkable, medium build, lean; deliver your locked tells. He does not turn, does not acknowledge them beyond what comes next.*
+> *DM note: DC 15 Perception for the face — unremarkable, medium build, lean; deliver your locked tells. He does not turn, does not acknowledge them beyond what comes next. Those pale arm-shaped stains are old nullprints (see Beat 13) — the platform is where a lot of people have come apart; a player who saw Wendell's fresh print will feel the rhyme.*
 
 > **"You Poor Things"** *(the trigger — when they're committed to the catwalks, or call out)*
 > The figure stands — unhurried, a man finishing a chore — and for one moment the hood tilts your way. "You poor things," he says, in a voice you'd trust to give you directions. Then he steps onto the chalk, and the chalk takes him: no flash, no thunder, just a man there and then not, like a light switched off. The glyph doesn't go dark. It goes bright. And the first thing through it comes fast and low and wrong — and it is not alone.
@@ -683,7 +685,7 @@ A player reads it cleanly going in: flick the easy shot for the stadium, or grin
 ---
 
 ## Links
-[[Session 1 — The Dare]] · [[Episode 1 — The Hush]] · [[The Mill Sector]] · [[The Cataloguing Office]] · [[The Octagonal Vestibule]] · [[The Expedition Post]] · [[The Spiked Corridor]] · [[The Pillared Reach]] · [[The Buzzsaw Room]] · [[The Ember Chamber]] · [[The Hush]] · [[Wesley's Sigils]] · [[Death, TPK, and the Lost Day]] · [[Time Points]] · [[The Nightmare Engine]] · [[Dungeon Mechanics]] · [[Old Man]] · [[Bash Whitlock]] · [[Gern]] · [[Tank]]
+[[Session 1 — The Dare]] · [[Episode 1 — The Hush]] · [[The Mill Sector]] · [[The Cataloguing Office]] · [[The Octagonal Vestibule]] · [[The Expedition Post]] · [[The Spiked Corridor]] · [[The Pillared Reach]] · [[The Buzzsaw Room]] · [[The Ember Chamber]] · [[The Hush]] · [[Certaintism]] · [[Wesley's Sigils]] · [[Death, TPK, and the Lost Day]] · [[Time Points]] · [[The Nightmare Engine]] · [[Dungeon Mechanics]] · [[Old Man]] · [[Bash Whitlock]] · [[Gern]] · [[Tank]]
 
 ## Source
-Compiled 2026-07-06 from the Session-1 DM dashboard (HTML) + vault canon: [[Session 1 — The Dare]] (five-block structure, split wake-up), the six delve-room notes (rooms 2/3/11/12/13/14), [[The Nightmare Engine]] (pack-floor theme), [[Death, TPK, and the Lost Day]] (3-TP dwell / two currencies), the grounds-finds design menu (conversation, 2026-07), and the four locked Awakening tests from the PC notes ([[Old Man]] — The Pit and the Spring; [[Bash Whitlock]] — The Basement: the Box and the Rig; [[Gern]] — The Obelisk and the Two Gates; [[Tank]] — The Pep Rally). DCs, damage values, wave pacing, and outcome-handling rulings originate here and in the dashboard — this note is their canonical home; the Awakening tests' canonical homes are the PC notes.
+Compiled 2026-07-06 from the Session-1 DM dashboard (HTML) + vault canon: [[Session 1 — The Dare]] (five-block structure, split wake-up), the six delve-room notes (rooms 2/3/11/12/13/14), [[The Nightmare Engine]] (pack-floor theme), [[Death, TPK, and the Lost Day]] (3-TP dwell / two currencies), the grounds-finds design menu (conversation, 2026-07), and the four locked Awakening tests from the PC notes ([[Old Man]] — The Pit and the Spring; [[Bash Whitlock]] — The Basement: the Box and the Rig; [[Gern]] — The Obelisk and the Two Gates; [[Tank]] — The Pep Rally). DCs, damage values, wave pacing, and outcome-handling rulings originate here and in the dashboard — this note is their canonical home; the Awakening tests' canonical homes are the PC notes. Beat 13 nullprint + Certaintism seed and Beat 14 nullprint rhyme added 2026-07 (see [[Certaintism]], [[The Pillared Reach]]).
