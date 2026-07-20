@@ -42,7 +42,7 @@ Fellow [[The Districts|Flats]] kid with [[Tank]] (same street); his recent slack
 ## Episode 1 — played (Awakening choice)
 > [!note] Sessions 1–2 — full account in [[Episode 1 — The Dare — Play Log]]
 > **"The Pit and the Spring."** He **stepped off the platform himself** (self-sacrifice), ignoring the rope-ladder overhead; the statue — of his **mother** — rose and the ember lay in the door beneath. **Read:** the load-bearing / self-erasing answer, the futile sacrifice the room rewards regardless; the aligned "keep what he loves *with* him" was never offered. Ember taken.
-> **Ep-1 exit:** in the [[The Buzzsaw Room|Buzzsaw]], he leapt at the Dogman Lieutenant and shoved it into the river, going over with it; struck his head and **dissolved** (dungeon "death" — reconstitution / lost-day reading pending, see the play log).
+> **Ep-1 exit:** in the [[The Buzzsaw Room|Buzzsaw]], he leapt at the Dogman Lieutenant and shoved it into the river, going over with it; struck his head and was **hollowed** (the ember-mediated dungeon "death"). He reconstituted at the entrance, walked home glassy-eyed on autopilot, and slept it off — **recovering after the lost day** (keeps ember, XP, loot, and memory up to the moment he dropped). See [[Death, TPK, and the Lost Day]] and the play log.
 
 ## Source
 [[Source Documents]] — embers_old_man_arc_and_battle_plan.md; embers_awakening_scene_design.md. Awakening choice recorded from play (Sessions 1–2): [[Episode 1 — The Dare — Play Log]].
