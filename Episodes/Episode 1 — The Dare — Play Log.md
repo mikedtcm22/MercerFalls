@@ -56,24 +56,27 @@ The party ran the pre-cleared floor in the exact designed order:
 - **[[Old Man]]** — leapt at the Lieutenant, shoved it off the catwalk into the river and went over with it; struck his head on debris and **dissolved** the same way.
 - **[[Bash Whitlock|Bash]] & [[Gern]]** — the last two standing, they went through the far **destabilizing archway** (the NW portal), Gern following Bash rather than be left alone.
 
-> [!danger] DM decisions pending (Section B — carried to the next reconciliation pass)
-> Both feed [[Episode 2 — The Hush]]'s opening state:
-> 1. **What was the archway?** [[The Buzzsaw Room]]'s design makes the NW portal "the only out" → taking it = escaping = the split wake-up, and the *whole party is topside* for Episode 2. The table's phrasing ("investigate the destabilizing opening," "deeper darkness") can read as going *deeper* (Floor 2), which would open Episode 2 on a **split party**. Decide before prepping Episode 2.
-> 2. **Tank & Old Man's "deaths."** Per [[Death, TPK, and the Lost Day]] a dungeon death reconstitutes at the entrance (lost day, not hollowed). Confirm — it's what puts **Tank (the spore-marked kid) topside and stalkable** for [[Episode 2 — The Hush]].
+> [!note] Resolved — DM ruling (canon-consistent with [[Death, TPK, and the Lost Day]])
+> 1. **The archway was the way out.** Bash & Gern took a **free-willed exit** through the NW portal — the dungeon spat them onto the [[The Mill|mill]] grounds after the fixed **3-TP dwell**; entering at night with no runway, they **woke on the grounds at dawn.** The whole party is topside for [[Episode 2 — The Hush]].
+> 2. **Tank & Old Man were hollowed** — the ember-mediated dungeon "death." They **reconstituted at the entrance almost at once** (~1 TP; the hollowed pay in agency, not time), walked home **glassy-eyed on autopilot**, and slept in their own beds. As ember-bearers they **recover after the lost day** (rest of the night + the next day on autopilot); they keep their embers, XP, loot-to-date, and every memory **up to the moment they dropped** — losing only the walk home and the lost day.
+> Because the hollowed return "instantly" (dead of night) while the free-willed pair are held the full dwell (dawn), the two groups **didn't cross paths at the mill** — exactly as the system intends.
+
+> [!danger] DM-only — Episode-2 timing wrinkle
+> Bash & Gern wake clear-headed at dawn; **Tank & Old Man are on lost-day autopilot the following day** (flat, present-without-will). If Episode 2's town-time opens the day after the dare, the **marked kid is on autopilot while the bereaved adult [[The Hush|Hush]] begins hunting his voice** (Track B). Decide whether to lean into that (eerie — he can't respond) or open Episode 2 once the lost day clears.
 
 ## Reconciliation log — canon updated from this play
-Done this pass (Section A):
+Done this pass:
 - **[[The Hush]]** — the juvenile is **killed** in the [[The Pillared Reach|Reach]] (resolves the dead-young / surviving-juvenile contradiction); the spore-mark landed on **[[Tank]]**.
 - **[[The Pillared Reach]]** — narrow-save branch taken (juvenile killed, Wendell saved); spore target = Tank.
-- **[[Wendell Pace]]** — survived the Reach, **hollowed on-screen at the [[The Buzzsaw Room|Buzzsaw]]**; locked as the **school janitor / [[Marco's Diner]] busser** the party already knew; promoted to canonical.
-- PC notes ([[Old Man]], [[Bash Whitlock]], [[Gern]], [[Tank]]) — Awakening stations fired; **choices recorded** (above and in each note).
+- **[[Wendell Pace]]** — survived the Reach, **hollowed on-screen at the [[The Buzzsaw Room|Buzzsaw]]**; locked as the **school janitor / [[Marco's Diner]] busser** the party already knew; promoted to canonical. (Non-bearer → stays hollowed, unlike the PCs.)
+- PC notes ([[Old Man]], [[Bash Whitlock]], [[Gern]], [[Tank]]) — Awakening stations fired; **choices recorded**.
+- **Ending resolved (DM ruling):** archway = free-willed exit (Bash & Gern woke on the grounds at dawn); Tank & Old Man **hollowed → reconstituted → lost day → recover**; whole party topside for Episode 2. Consistent with [[Death, TPK, and the Lost Day]].
 
-Still open (Section B/D — next pass):
-- The **archway fork** and the **death-mechanic** confirmation (above).
+Still open (next pass):
 - **The Quiet Rock = the [[The Hush|stone of quietude]]** — play handed you the in-world lead (Photo #2). Lock Marv's identity and where the stone is now; it's an [[Episode 2 — The Hush]] asset against the adult.
 - **Certaintism naming** — the table used "Certainology / Certainology Workbooks"; the vault uses [[Certaintism]] / "Figure 9." Reconcile.
 - **Darkvision split** (Bash & Tank yes, Gern no) — lock the mechanic (ember vs. race).
 - Hygiene: the **Overview** episode list, Episode 1's `sessions` field, and [[Wade Vance]]'s stale "Episode 1" framing.
 
 ## Source
-`session-1` and `session-2` transcripts (AI synthesis) reconciled against the Episode 1 design notes; Episode 1 recap conversation, 2026-07. See [[Episode 1 — The Dare]], [[Session 1 — DM Screen]].
+`session-1` and `session-2` transcripts (AI synthesis) reconciled against the Episode 1 design notes; Episode 1 recap conversation, 2026-07. Ending ruling (archway = free-willed exit; Tank & Old Man hollowed → lost day) per DM, consistent with [[Death, TPK, and the Lost Day]]. See [[Episode 1 — The Dare]], [[Session 1 — DM Screen]].
