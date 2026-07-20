@@ -41,5 +41,10 @@ Aligned = the rig (the unreadable, the person). The tell: it nudged him (post-it
 ## Relationships
 Knows [[Gern]] via mother-arranged playdates (assigned, not chosen). Connected to [[Tank]] through [[Dominique Ferraro]] — Bash recruits Tank as a protector and to **phreak him a free second phone line**. At the mill on a **dare** — really to ingratiate himself with Tank. Deliberate foil to [[Old Man]]: the skeptic who distrusts the beautiful line beside the face who fools everyone with it. See [[The Party]].
 
+## Episode 1 — played (Awakening choice)
+> [!note] Sessions 1–2 — full account in [[Episode 1 — The Dare — Play Log]]
+> **"The Basement: the Box and the Rig."** He **turned the dial on the sealed Black Box** (the instrument that *works*), dissolving the open rig and the voice that might have been [[Dominique Ferraro|Dom]]; the screen showed the ember and he retrieved it — **under his futon** (the design's air-vent detail changed at the table). **Read:** the on-flaw / misaligned branch — "glowing beats talking," data over the person; he took exactly the bait the post-it nudged him toward. Ember taken.
+> **Ep-1 exit:** one of the last two standing in the [[The Buzzsaw Room|Buzzsaw]]; he went through the far **destabilizing archway** (the NW portal), [[Gern]] following. Whether that portal is the escape-window wake-up or a descent toward Floor 2 is a pending DM call — see the play log.
+
 ## Source
-[[Source Documents]] — embers_bash_whitlock_arc_and_battle_plan.md; embers_awakening_scene_design.md; Bash_Whitlock_character_description.docx.
+[[Source Documents]] — embers_bash_whitlock_arc_and_battle_plan.md; embers_awakening_scene_design.md; Bash_Whitlock_character_description.docx. Awakening choice recorded from play (Sessions 1–2): [[Episode 1 — The Dare — Play Log]].
