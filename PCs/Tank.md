@@ -77,5 +77,11 @@ Tank came to the mill on a **prank**, not a dare — to impress his jock crew (p
 ## TBD
 The **father's name** and specifics; how/when the prank-truth surfaces to Bash & Gern; whether Tank's arc runs through an explicit destructive-rebellion (Chaos-release) phase and how far (his version of the intensity question); final Ideal/Flaw wording with the player.
 
+## Episode 1 — played (Awakening choice)
+> [!note] Sessions 1–2 — full account in [[Episode 1 — The Dare — Play Log]]
+> **"The Pep Rally."** He **worked the Dad-station power-clean** (the barbell), grinding a lift beyond his previous best; the throne gate rose (as it does either way) and the ember manifested as a **crown** on the dais. **Read:** the dad-dream / Order path — the crown on the empty dais, elevated and alone. Ember taken.
+> **He is the spore-marked PC.** In the [[The Pillared Reach]] he inhaled the juvenile [[The Hush|Hush]]'s defensive spore (the strangely echoing cough), taking the lingering acoustic mark. Tank is the **pheromone-marked kid the adult Hush stalks in [[Episode 2 — The Hush]]** (Track B).
+> **Ep-1 exit:** dropped by the Dogman Lieutenant's arrow on the [[The Buzzsaw Room|Buzzsaw]] catwalk and **dissolved** (dungeon "death" — reconstitution / lost-day reading pending, see the play log). That is what puts the marked kid **topside** for Episode 2.
+
 ## Source
-Session 0 player notes (2026-06); Tank arc & Awakening-test design (conversation, 2026-06). See [[Order and Chaos]], [[The Embers]], [[The Entity]], [[The Ember Chamber]].
+Session 0 player notes (2026-06); Tank arc & Awakening-test design (conversation, 2026-06). See [[Order and Chaos]], [[The Embers]], [[The Entity]], [[The Ember Chamber]]. Awakening choice + spore-mark recorded from play (Sessions 1–2): [[Episode 1 — The Dare — Play Log]].
