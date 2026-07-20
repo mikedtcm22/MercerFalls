@@ -63,5 +63,11 @@ Then Gern himself dissolves from the scene with his ember (the figures simply re
 ## At the mill / relationships
 Gern came to the mill on a **dare**, taken gladly and at face value — being included is the whole prize, and he can't conceive it's a setup ([[Tank]]'s crew's prank, architected by [[Ricky Vance]]; see [[Session 1 — The Dare]], [[The Party]]). Structurally the most isolated PC, reachable in the relationship web only through [[Bash Whitlock]] (their mother-arranged playdates). The prank-reveal hits him hard precisely *because* being included meant so much.
 
+## Episode 1 — played (Awakening choice)
+> [!note] Sessions 1–2 — full account in [[Episode 1 — The Dare — Play Log]]
+> **"The Obelisk and the Two Gates."** He **dropped the obelisk on the dark side** ("bury it in the dark"), sealing the cave and opening the gate to the gathering. Inside, the crowd was transfixed *past* him and the ember sat where a lamp's bulb should be — he got the full hollow-welcome reveal in-fiction. **Read:** the on-flaw / misaligned branch — "trades conviction for inclusion"; the warm room that never once looked at him. Ember taken.
+> **Certaintism seed fired:** at the [[The Buzzsaw Room|Buzzsaw]], Gern **recognized Wendell's null-print** from his "**Certainology Workbooks**" (the planted [[Certaintism]] touchpoint; faith-name to reconcile — "Certainology" at the table vs. "Certaintism" in the vault).
+> **Ep-1 exit:** one of the last two standing; he followed [[Bash Whitlock|Bash]] through the far **destabilizing archway** rather than be left alone (portal reading pending — see the play log).
+
 ## Source
-Session 0 player notes (2026-06); Gern arc & Awakening-test design (conversation, 2026-06). See [[Order and Chaos]], [[The Embers]], [[The Entity]], [[The Ember Chamber]].
+Session 0 player notes (2026-06); Gern arc & Awakening-test design (conversation, 2026-06). See [[Order and Chaos]], [[The Embers]], [[The Entity]], [[The Ember Chamber]]. Awakening choice recorded from play (Sessions 1–2): [[Episode 1 — The Dare — Play Log]].
