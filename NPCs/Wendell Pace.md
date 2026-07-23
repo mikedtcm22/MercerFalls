@@ -29,13 +29,13 @@ Per the dungeon's death mechanic ([[Death, TPK, and the Lost Day]]), a body that
 He's a **seed**, not a plot node: he plants *dying below isn't final* before the players need to understand it. Incidental, never required.
 
 ## Where found (topside, Episode 2+)
-Now that play has fixed him as the **school janitor / [[Marco's Diner]] busser**, the natural topside re-encounter is at the diner (or around the school, though it's summer) — wherever the kids would clock the flat, *off* version of a man they know. He can also turn up **janitoring [[The Mercer Mansion]]** on a town-history trip (planting both a cordial [[Wesley Crane|Wesley]] and his hollowed victim in one room, connected by neither — see [[Episode 2 — The Hush — Town-Time Investigation Map]]), or shuffling the Flats near [[Jerry's Pawn Shop]].
+**Locked to [[Marco's Diner]].** Play fixed his identity as the **school janitor who busses tables at Marco's over the summer** (Bash knew him on sight), and Marco's is the party's hangout / reconvene stage — so the re-encounter is **near-guaranteed** there: the flat, *off* version of a man they watched hollow, going through the motions of dull table-work. The wrongness hides inside a job that already looks like going-through-the-motions, so it rewards the PC who actually looks. Keeping him here also leaves [[The Mercer Mansion|the Mansion]] as [[Wesley Crane|Wesley]]'s room alone (see [[Episode 2 — The Hush — Town-Time Investigation Map]]).
 
 > [!danger] DM-only
 > Wendell is **Wesley's** victim (Wesley brought him down) — a link the players cannot make yet and shouldn't. Hold it for the [[Wesley Crane]] recognition arc. His hollowing also quietly feeds [[Jerry]]'s "who's been acting strange" whisper-count and [[Jerry's Pawn Shop|the pawn shop]]'s hollowed-count ledger.
 
 ## Connections
-[[Wesley Crane]] · [[The Hush]] · [[The Pillared Reach]] · [[The Buzzsaw Room]] · [[Death, TPK, and the Lost Day]] · [[Marco's Diner]] · [[The Mercer Mansion]] · [[Episode 1 — The Dare]] · [[Episode 1 — The Dare — Play Log]] · [[Episode 2 — The Hush]]
+[[Wesley Crane]] · [[The Hush]] · [[The Pillared Reach]] · [[The Buzzsaw Room]] · [[Death, TPK, and the Lost Day]] · [[Marco's Diner]] · [[Episode 1 — The Dare]] · [[Episode 1 — The Dare — Play Log]] · [[Episode 2 — The Hush]]
 
 ## Source
-Session 1 prep (Wendell Pace, the janitor Wesley brought down; Pillared Reach / Buzzsaw Room). Topside-hollowed encounter promoted to an NPC seed: conversation 2026-07. **As played (Episode 1):** saved in the Reach, hollowed at the Buzzsaw; identity fixed as school janitor / Marco's busser — see [[Episode 1 — The Dare — Play Log]].
+Session 1 prep (Wendell Pace, the janitor Wesley brought down; Pillared Reach / Buzzsaw Room). Topside-hollowed encounter promoted to an NPC seed: conversation 2026-07. **As played (Episode 1):** saved in the Reach, hollowed at the Buzzsaw; identity fixed as school janitor / Marco's busser — see [[Episode 1 — The Dare — Play Log]]. Topside placement locked to Marco's (conversation, 2026-07).
