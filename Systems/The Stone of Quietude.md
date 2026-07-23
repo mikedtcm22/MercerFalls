@@ -40,12 +40,12 @@ This is the tool the Session-1 Marv's-Spot photo points toward, and the reason i
 It cuts both ways, and that's the point. Inside the sphere **the party is silenced too** — no shouted warnings, no verbal spells, everyone deafened, no one able to hear the thing they're fighting. A great equalizer against a sound-hunter and a disaster if used carelessly; reward the table that plans hand-signals and picks its moment.
 
 > [!danger] DM-only — acquisition, placement, cosmology
-> **The lead (F1).** If a PC pocketed the snapshot at Marv's Spot in [[Session 1 — The Dare]], reading it surfaces the stone's whereabouts. *Who reads it is still open* — [[Russ]] (fits his role) or the [[The Mercer Mansion|Mansion]] archive; pick before play.
+> **The lead (F1) — the *silence property,* not the location.** If a PC pocketed the snapshot at Marv's Spot in [[Session 1 — The Dare]], following it up surfaces the local tale of a dungeon relic that *drowns all sound around it.* The players already assume whatever's at that spot is **down in the dungeon** — so the useful revelation is **what it does** (silence), which a kid staring down a sound-hunter reads as a weapon. Read by **[[Russ]]** or the **[[The Library]]** (local history/geography); either works.
 > **Location — deliberately not the [[The Pillared Reach|Pillared Reach]].** Kept out of the juvenile's nest so the party can't trivialize the Session-1 encounter with it. It sits elsewhere in [[The Dungeon|the dungeon]] (**exact floor/room TBD**), reached by the optional delve in [[Episode 2 — The Hush]] — a flat 3-TP run that's never required and makes the climax easier if earned (see [[Episode 2 — The Hush — Town-Time Investigation Map]]).
 > **What it actually is.** Dungeon-Order tech — a crystallized scrap of the containment machine's *suppressive* function (silence as the muting of chaos, of agency's noise). Same light-and-sound-swallowing not-bone material as the Hush's tooth: a recurring dungeon-stone signature to call back in [[Cosmology Seeds]] / [[The Pattern Recognition Arc]] / [[Episode 3 — The Click]].
 
 ## Connections
-[[Gear and Items]] · [[The Hush]] · [[Episode 2 — The Hush]] · [[Episode 2 — The Hush — Town-Time Investigation Map]] · [[Session 1 — The Dare]] · [[The Dungeon]] · [[The Keystone Tablet]] · [[Cosmology Seeds]] · [[The Pattern Recognition Arc]]
+[[Gear and Items]] · [[The Hush]] · [[Episode 2 — The Hush]] · [[Episode 2 — The Hush — Town-Time Investigation Map]] · [[Session 1 — The Dare]] · [[The Dungeon]] · [[The Library]] · [[The Keystone Tablet]] · [[Cosmology Seeds]] · [[The Pattern Recognition Arc]]
 
 ## Source
-Item design — mechanics, activation, charge economy, and physical description (conversation, 2026-07). Fills the long-flagged "stone of quietude unbuilt" gap.
+Item design — mechanics, activation, charge economy, and physical description (conversation, 2026-07). F1 lead reframed to the *silence property* (not whereabouts), reader → Russ or the Library (conversation, 2026-07). Fills the long-flagged "stone of quietude unbuilt" gap.
