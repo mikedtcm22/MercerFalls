@@ -29,6 +29,10 @@ The mechanical engine of the campaign — how play actually runs at the table. E
 - [[Wesley's Sigils]] — real + decoy sigils, detection, leveling, banked abilities, anti-embers, and the Surfeit counter. **(dm-only)**
 - [[Gear and Items]] — stock-5e weapons/armor, the dungeon as source, starter gear via the Awakening, the stash, magic items, identifying. **(mixed)**
 
+## Items
+- [[The Stone of Quietude]] — a *Silence* magic item (stone-centered, throwable, 3 charges / 1d4 per long rest); the optional Episode-2 prize against the sound-hunting [[The Hush|Hush]]. **(mixed)**
+- [[The Hush-Hunting Graphic Novel]] — the den-tracking lore item [[Russ]] routes the PCs to (the [[The Library|Library]] or [[Jerry's Pawn Shop|Jerry's]]) when he can't find the lair himself. **(mixed)**
+
 ## Auto-index
 
 ```dataview
