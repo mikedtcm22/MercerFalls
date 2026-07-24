@@ -34,7 +34,7 @@ Three dials, no dice:
 ## What's worth a Stretch (loot is real and leaves the dungeon)
 Opportunity, not obligation — but the loot genuinely works and genuinely leaves, so players learn to trust that placed items are takeable:
 1. **Read the ledgers** (History/Investigation) — concrete intel: finds-by-floor foreshadowing what's deep, a partial old floor-map, early Mercer-papers material. Information persists in the players' Atlas notes (see [[The Keystone Tablet]]).
-2. **Take useful gear** that leaves with them — a lamp that never burns down (a minor "weird effect" item topside), fine calipers/dividers (tool advantage on a later glyph-lock), a loupe; tagged curios [[Earl's Pawn Shop|Earl]] will buy — a modest, deliberate faucet of odd artifacts into the topside world.
+2. **Take useful gear** that leaves with them — a lamp that never burns down (a minor "weird effect" item topside), fine calipers/dividers (tool advantage on a later glyph-lock), a loupe; tagged curios [[Jerry's Pawn Shop|Jerry]] will buy — a modest, deliberate faucet of odd artifacts into the topside world.
 3. **The plate camera** — take the freshly-exposed plate; developed later it shows the party in the office: an early "the dungeon is doing something to us" clue and a genuinely weird artifact that left the dungeon.
 4. **Wind the phonograph** — a dictation cylinder of a clerk's voice reading catalogue entries, flat and by the end not quite human. No mechanical payoff; a big tonal one.
 
@@ -52,7 +52,7 @@ The tools and paperwork map one-to-one onto what the PCs are about to do — map
 - **Optional DM texture (later delves):** faint signs a *modern* hand has worked these desks (a newer pencil, a coffee-ring among the 1880s teacups) — a forensic breadcrumb linking Wesley's present to Mercer's past, if you want to spatialize the "Wesley = Mercer's future" thread.
 
 ## Connections
-[[The Mill Sector]] · [[Elias Mercer]] · [[Wesley Crane]] · [[The Mercer Mansion]] · [[Forensic Delving]] · [[Gear and Items]] · [[Floor Reset and the Intelligence Gradient]] · [[The Keystone Tablet]] · [[Earl's Pawn Shop]] · [[The Nightmare Engine]] · [[Session 1 — The Dare]]
+[[The Mill Sector]] · [[Elias Mercer]] · [[Wesley Crane]] · [[The Mercer Mansion]] · [[Forensic Delving]] · [[Gear and Items]] · [[Floor Reset and the Intelligence Gradient]] · [[The Keystone Tablet]] · [[Jerry's Pawn Shop]] · [[The Nightmare Engine]] · [[Session 1 — The Dare]]
 
 ## Source
-Floor-1 map `Floor-1_96x86.png` (room 2) + design conversation, 2026-07. Elias-as-previous-user: [[Elias Mercer]]; campaign bible v0.4 §6. Portable-loot / persistence ruling: design conversation, 2026-07 (supersedes the earlier "gallery / nothing-leaves" proposal).
+Floor-1 map `Floor-1_96x86.png` (room 2) + design conversation, 2026-07. Elias-as-previous-user: [[Elias Mercer]]; campaign bible v0.4 §6. Portable-loot / persistence ruling: design conversation, 2026-07 (supersedes the earlier "gallery / nothing-leaves" proposal). Earl→Jerry (2026-07).
