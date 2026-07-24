@@ -24,7 +24,7 @@ The Heights is **largely insulated from the hollowing** — distance from the du
 ## The Flats
 Working-class residential. Wraps the lake's southeast shore and runs south through the river corridor, ending at the mill bluff's east flank. **Pine Street is the spine** — along the river, one block east of and parallel to Main Street. Small pre-war frame houses, some duplexes, a few boarded up; the 1991 mill closure hit hardest here.
 
-The Flats **bears the brunt of the hollowing**: [[Henry Voss]] is here, [[Mike and Doug Tinsmith]] were here, [[Earl's Pawn Shop]] serves it, and [[The Hungry House]] is on Pine Street. PCs from the Flats know everyone on the casualty list personally; PCs from the Heights probably don't.
+The Flats **bears the brunt of the hollowing**: [[Henry Voss]] is here, [[Mike and Doug Tinsmith]] were here, [[Jerry's Pawn Shop]] serves it, and [[The Hungry House]] is on Pine Street. PCs from the Flats know everyone on the casualty list personally; PCs from the Heights probably don't.
 
 ## Sycamore Subdivision
 Built 1992-93 on flat farmland southwest of downtown — ~60 houses, four floor plans, four exterior colors, no lake access, across the railroad tracks from the rest of town. Where new Mercer Falls families end up. Plausible PC residence; flexible NPC seeding.
@@ -38,7 +38,7 @@ The commercial spine running south from the mill bluff along Main Street, with t
 > The district map *is* the agency-loss map. The Heights' insulation and the Flats' devastation are both consequences of distance from [[The Dungeon's Surface Footprint]] and of which families depended on the mill. PC residence (held loose until PC creation) sets which NPCs and casualties they already know.
 
 ## Connections
-[[Mercer Falls, Ohio]] · [[The Community Center]] · [[Marco's Diner]] · [[Panels]] · [[The Sinclair Station]] · [[Earl's Pawn Shop]] · [[The Hungry House]] · [[Henry Voss]] · [[Mike and Doug Tinsmith]] · [[Wesley Crane]] · [[Dominique Ferraro]] · [[The Wrongness Layer]]
+[[Mercer Falls, Ohio]] · [[The Community Center]] · [[Marco's Diner]] · [[Panels]] · [[The Sinclair Station]] · [[Jerry's Pawn Shop]] · [[The Hungry House]] · [[Henry Voss]] · [[Mike and Doug Tinsmith]] · [[Wesley Crane]] · [[Dominique Ferraro]] · [[The Wrongness Layer]]
 
 ## Source
-Town Reference v0.3, §9 (The Districts), §10 (Downtown Locations).
+Town Reference v0.3, §9 (The Districts), §10 (Downtown Locations). Earl→Jerry (2026-07).
