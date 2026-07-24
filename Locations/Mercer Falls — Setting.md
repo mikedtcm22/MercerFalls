@@ -26,11 +26,12 @@ The places of *Embers of the Gathering Hollows*: the rust-belt lake town of [[Me
 
 ## Establishments
 - [[Panels]] — Russ's comic shop, back-room curio collection, monster-research hub.
-- [[Marco's Diner]] — downtown diner and default town-mode hangout.
+- [[Marco's Diner]] — downtown diner, default town-mode hangout, and the Wendell "death isn't death" reveal.
+- [[The Library]] — the town library; core Episode 2 research node (the disappearance pattern, the non-Russ kill backup, the silence-relic read, Hollis in the microfilm, the Mansion gateway).
 - [[The Community Center]] — Wesley's warm front, with a sigil-paired private back room.
-- [[Earl's Pawn Shop]] — the Flats pawn shop; the accidental witness with a hollowed-count ledger.
+- [[Jerry's Pawn Shop]] — the Flats pawn shop; trade node, town-whisper hub, and accidental witness with a hollowed-count ledger. *(Renamed from Earl's.)*
 - [[The Sinclair Station]] — gas station where the hollowed Henry Voss works the counter.
-- [[The Hungry House]] — Voss's Pine Street house turning into a dungeon annex (Episode 2).
+- [[The Hungry House]] — Voss's Pine Street house turning into a dungeon annex (the Hungry House episode).
 - [[The Fishing Dock]] — Mike Tinsmith's death site; a river cold spot (Episode 5).
 
 ## Dungeon Spaces
