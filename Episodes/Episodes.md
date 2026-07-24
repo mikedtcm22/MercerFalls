@@ -28,10 +28,11 @@ The **foreground of play** — Monster-of-the-Week episodes, each with town inve
 | 2 | [[Episode 2 — The Hush]] | Mid–late June | [[Ricky Vance]] |
 
 Episode 1 run materials: [[Session 1 — The Dare]] (run-sheet) · [[Session 1 — DM Screen]] (at-table screen).
+Episode 2 materials: [[Episode 2 — The Hush — Town-Time Investigation Map]] (Town-Time investigation map; the DM-screen content doc mirrors it).
 
 ## The bank (unnumbered, unordered — pull and place as the PCs pull you)
 
-- [[Episode — The Hungry House]] — Henry Voss's feeding house; introduces Earl; plants the 1991-survivor thread. *(Rival slot open — Marcy demoted to non-rival.)*
+- [[Episode — The Hungry House]] — Henry Voss's feeding house; brings [[Jerry]]'s ledger thread forward; plants the 1991-survivor thread. *(Rival slot open — Marcy demoted to non-rival.)*
 - [[Episode — The Click]] — the first "click" (dungeon-stone at all sites); monster open. *(Rival slot open — the old "Fourth Recruit" dissolved.)*
 - [[Episode — The Mirror]] — the Mercer Mirror at Panels; Russ's 1991-sister anchor lands. *([[Eddie Park]]'s debut being reworked.)*
 - [[Episode — Storm-That-Doesn't-Move]] — Mike Tinsmith's hollowing cornerstone; the dock residue-storm; Wesley's name surfaces. *(Rival slot TBD — Sam dissolved.)*
@@ -54,4 +55,4 @@ SORT type ASC, file.name ASC
 ```
 
 ## Source
-Wesley Bizarro Plot v5 §7 (Episode Catalog, lines 231–451); Campaign Bible v0.4 §17 (Session 1), §19 (Onboarding), §16 (Session Length); pilot split + unnumbered-bank convention + ordinal-stripping rename batch (conversation, 2026-07).
+Wesley Bizarro Plot v5 §7 (Episode Catalog, lines 231–451); Campaign Bible v0.4 §17 (Session 1), §19 (Onboarding), §16 (Session Length); pilot split + unnumbered-bank convention + ordinal-stripping rename batch (conversation, 2026-07); Episode 2 investigation-map wired in and Earl→Jerry (conversation, 2026-07).
