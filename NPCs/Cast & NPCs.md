@@ -20,7 +20,7 @@ The people of Mercer Falls — the warm, well-liked antagonist who is also the d
 - [[Wesley Crane]] — the dungeon's current Order-side user; charismatic community-center leader, secretly being consumed; Act 1 antagonist on a long arc to Chaos's champion. *dm-only.*
 
 ### Recruits ([[Wesley's Recruits]]) — each a PC's inverted-mirror foil
-- [[Ricky Vance]] — 17, the cool "Iceman" technician masking a chaotic home life; [[Tank]]'s foil; featured Ep1. *dm-only.*
+- [[Ricky Vance]] — 17, the cool "Iceman" technician masking a chaotic home life; [[Tank]]'s foil; featured [[Episode 2 — The Hush|Ep2]]. *dm-only.*
 - [[Zander Pruitt]] — small, underestimated improviser (Warlock); [[Bash Whitlock|Bash]]'s foil (Chaos vs. Bash's Order); debut TBD. *dm-only.*
 - [[Ren Sołtys]] — contemplative Wood-Elf Shadow Monk who reads people to *vanish*; [[Old Man]]'s foil; debut TBD. *dm-only.*
 - [[Eddie Park]] — rock-bottom kid "born again" into Wesley's center (Paladin); [[Gern]]'s foil; *being rebuilt*, debut TBD. *dm-only.*
@@ -37,7 +37,9 @@ The people of Mercer Falls — the warm, well-liked antagonist who is also the d
 - [[Henry Voss]] — hollowed 1991 mill survivor at the Sinclair counter; his house is [[The Hungry House]].
 - [[Russ]] — owner of [[Panels]], the monster-research hub; Filter-touched, the only adult who distrusts Wesley.
 - [[Mrs. Devereaux]] — late-60s Historical Society curator; possessive; inner-archive keyholder.
-- [[Earl]] — pawn-shop owner in The Flats; accidental witness keeping a hollowed-count ledger.
+- [[Jerry]] — pawn-shop owner in The Flats ([[Jerry's Pawn Shop]]); the town-whisper hub and accidental witness, keeping a hollowed-count ledger. *(Renamed from Earl.)*
+- [[Reverend Hollis]] — hardline preacher; the Episode 2 hooded-man **red herring**, self-concealing over the mill records at [[The Library]]; secretly right about Wesley. *mixed.*
+- [[Wendell Pace]] — school janitor / summer [[Marco's Diner|Marco's]] busser the PCs watched hollow; alive-and-*off* topside, the "death in the dungeon isn't death" seed. *mixed.*
 - [[The Antique Dealer]] — TBD older woman; Heights connections, Society auction history; slower-but-better resale channel.
 
 ### Historical
