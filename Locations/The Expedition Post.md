@@ -50,7 +50,7 @@ This room is where the floor's **first wandering-monster encounter is a certaint
   - an **ornate silver hand-mirror** — corner-checking, signal-flashing with reflected light, catching a gaze you'd rather not meet head-on; and sells as silver;
   - a **pair of signal whistles** — coordination across distance, and a two-edged toy on a floor where the pack hunts by sound (and the [[The Hush|Hush]] by nothing else) — a whistle can pull a monster off an ally or bring the wrong thing running;
   - a **box of ball bearings** — instant difficult terrain / knock-'em-down;
-  - a **jeweled stickpin** — small, unmistakably precious, the clean "fence this at [[Earl's Pawn Shop|Earl's]]" valuable (money-loop fuel).
+  - a **jeweled stickpin** — small, unmistakably precious, the clean "fence this at [[Jerry's Pawn Shop|Jerry's]]" valuable (money-loop fuel).
 
 All footlocker loot leaves the dungeon and persists ([[Gear and Items]]); the footlocker contents are one-time, the shelved supplies restock. The crate specimen is a one-time discovery.
 
@@ -58,7 +58,7 @@ All footlocker loot leaves the dungeon and persists ([[Gear and Items]]); the fo
 The dynamic map stays; wandering rolls keep landing fights here, and the room rewards knowing it — the party who remembers the platform's ladders, the barrels, the oil, and the winch-rope wins faster.
 
 ## Connections
-[[The Mill Sector]] · [[Elias Mercer]] · [[The Cataloguing Office]] · [[Combatscape Layers]] · [[The Nightmare Engine]] · [[Gear and Items]] · [[The Octagonal Vestibule]] · [[Wesley Crane]] · [[Earl's Pawn Shop]] · [[The Hush]] · [[Session 1 — The Dare]]
+[[The Mill Sector]] · [[Elias Mercer]] · [[The Cataloguing Office]] · [[Combatscape Layers]] · [[The Nightmare Engine]] · [[Gear and Items]] · [[The Octagonal Vestibule]] · [[Wesley Crane]] · [[Jerry's Pawn Shop]] · [[The Hush]] · [[Session 1 — The Dare]]
 
 ## Source
-Floor-1 map `Floor-1_96x86.png` (room 11) + drawn battle map `Screenshot_2026-07-11` + design conversation, 2026-07 (Expedition-Post reframe; the battle map — a tall timber platform on posts crossing the room with open floor beneath it, high ground optional via two diagonal corner ladders, barrels as floor-level cover, a far-corner freight shaft with the hoisted crate; S1 first fight as a real wandering roll; three finds — failed-spectator specimen in the crate, Elias's "Third Descent — Day 41" desk page, footlocker loot). Corrects the earlier "Mercer Antechamber / Mercer-sector shortcut" note: sector links are room 10 (Mercer Gate) and room 14 (Lake).
+Floor-1 map `Floor-1_96x86.png` (room 11) + drawn battle map `Screenshot_2026-07-11` + design conversation, 2026-07 (Expedition-Post reframe; the battle map — a tall timber platform on posts crossing the room with open floor beneath it, high ground optional via two diagonal corner ladders, barrels as floor-level cover, a far-corner freight shaft with the hoisted crate; S1 first fight as a real wandering roll; three finds — failed-spectator specimen in the crate, Elias's "Third Descent — Day 41" desk page, footlocker loot). Corrects the earlier "Mercer Antechamber / Mercer-sector shortcut" note: sector links are room 10 (Mercer Gate) and room 14 (Lake). Earl→Jerry (2026-07).
