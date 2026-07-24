@@ -24,7 +24,7 @@ Up: [[Game Systems]]
 | Rare+ magic weapons/armor | Dungeon (Floor 3+) or [[Russ]]'s back room (later) | D&D OR 90s |
 | Magic items (non-weapon/armor) | Dungeon (Floor 2+ uncommon), Russ's back room | D&D OR 90s, mix freely |
 | Mundane 90s supplies | Hadley's, sporting goods, hardware, eventually army surplus | Period-real |
-| Antique/collectible value | Dungeon → [[Earl's Pawn Shop|pawn]] / Russ / [[The Antique Dealer|dealer]] / eBay | Period-real |
+| Antique/collectible value | Dungeon → [[Jerry's Pawn Shop|pawn]] / Russ / [[The Antique Dealer|dealer]] / eBay | Period-real |
 
 **Real 90s firearms** (hunting rifles, shotguns) exist in fiction but aren't on the PCs' standard weapon list — they appear in specific narrative moments only. A firearm as a PC's primary weapon is a rare+ magic item (a blessed Beretta, an heirloom Winchester that never runs dry).
 
@@ -51,7 +51,7 @@ Universal early-session house policy: **heavy or weird gear lives somewhere othe
 
 1. **Dungeon loot** — primary D&D-flavor source; magic items too (rare, gated by depth).
 2. **Hadley's / sporting goods / hardware** — torches/flashlights, rope, batteries, lighter fluid, tools, hunting knives, bows, camping gear.
-3. **[[Earl's Pawn Shop]]** in The Flats (intro [[Episode 2 — The Hungry House]]) — asks no questions; buys dungeon antiques without provenance.
+3. **[[Jerry's Pawn Shop]]** in The Flats (debuts [[Episode 2 — The Hush]]) — asks no questions; buys dungeon antiques without provenance.
 4. **Army surplus store** at the strip mall (later unlock) — gas masks, tactical gear, ammo cans, boots, MREs; gated behind transportation.
 5. **[[Russ]]'s back room at [[Panels]]** (much later unlock) — high-end magic-item channel.
 
@@ -64,6 +64,7 @@ Rare and meaningful, not a shopping list:
 - **First uncommon non-weapon/armor magic item: Floor 2.** ~One per floor baseline, more if used cleverly.
 - **First rare+ magic weapons/armor: Floor 3.** 1–2 total across Act 1.
 - Items lean **period-anachronistic with Filter cover** OR **period-appropriate with hidden powers** — both used in balance.
+- **Episode items:** the [[The Stone of Quietude]] (a *Silence* artifact, the optional Ep2 prize) and the [[The Hush-Hunting Graphic Novel]] (a lore item) are tracked in their own notes.
 
 **Period-appropriate examples:** a Zippo that ignites at a thought (fire/Continual Flame focus); a pocket watch that warms near danger; a 1958 varsity jacket (+1 AC, cold resistance, "JIMMY" stitched in fading red); a Walkman whose one cassette casts a spell 1/day then needs a long rest to "rewind"; a heavy class ring (Ring of Protection). **D&D-flavored, Filter-covered:** a medieval dagger that thirsts for blood; a glass eye granting Truesight; standard items re-flavored (Bag of Holding = duffel/satchel; Driftglobe = hand-cranked lantern that needs no cranking; Immovable Rod, Alchemy Jug).
 
@@ -74,4 +75,4 @@ Rare and meaningful, not a shopping list:
 There is **no Identify spell** in this setting — learning what an item does is its own small investigation arc per item. Channels: **experimentation** (risky — misuse side effects); **Mercer's papers / library annex research** (a 1910 ledger may match the description); **Filter-broken hollowed adherents** (weird surfacing knowledge); **[[Russ]]** (recognizes a *type* even without specifics — also the monster-research hub for [[The Nightmare Engine]]); the **Mercer mansion display collection** (comparison-as-research). Players never have a fully-mapped inventory — always wondering whether the weird thing also does *that*.
 
 ## Source
-Campaign Bible v0.4, §12 (Weapons, Armor, and Items; Russ at Panels §12/1202). Reality-filter cover: §14 / [[The Reality Filter]]. Loot-persistence rule: design conversation, 2026-07.
+Campaign Bible v0.4, §12 (Weapons, Armor, and Items; Russ at Panels §12/1202). Reality-filter cover: §14 / [[The Reality Filter]]. Loot-persistence rule: design conversation, 2026-07. Earl→Jerry and pawn-shop debut → Episode 2 — The Hush (2026-07).
