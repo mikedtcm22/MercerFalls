@@ -28,22 +28,22 @@ Start here, then follow links. The navigation backbone is **Maps of Content (MOC
 The metaphysics under everything: [[The Dungeon]] as an agency-eating machine, [[Order and Chaos]], [[The Entity]] (the contained Chaos that is the PCs' "benevolent" patron), [[The Embers]], [[The Nightmare Engine]], [[The Reality Filter]], [[Hollowing and Agency-Loss]], [[The Cast and the Permanent Cast]], and [[The 1991 Mill Incident]].
 
 ### [[Mercer Falls — Setting]] — the place
-Geography and locations, surface and hidden: [[Mercer Falls, Ohio]], [[The Mill]], [[Mercer Lake]], [[The River and the Falls]], [[The Mercer Mansion]], [[The Mercer Gate]], [[The Dungeon's Surface Footprint]], [[The Districts]], [[The Wrongness Layer]], plus establishments ([[Panels]], [[Marco's Diner]], [[The Community Center]], [[Earl's Pawn Shop]], [[The Sinclair Station]], [[The Hungry House]], [[The Fishing Dock]]) and dungeon space ([[The Ember Chamber]], [[The Mill Sector]]).
+Geography and locations, surface and hidden: [[Mercer Falls, Ohio]], [[The Mill]], [[Mercer Lake]], [[The River and the Falls]], [[The Mercer Mansion]], [[The Mercer Gate]], [[The Dungeon's Surface Footprint]], [[The Districts]], [[The Wrongness Layer]], plus establishments ([[Panels]], [[Marco's Diner]], [[The Library]], [[The Community Center]], [[Jerry's Pawn Shop]], [[The Sinclair Station]], [[The Hungry House]], [[The Fishing Dock]]) and dungeon space ([[The Ember Chamber]], [[The Mill Sector]]).
 
 ### [[Cast & NPCs]] — the people
-[[Wesley Crane]] (Act 1 antagonist), [[Russ]], the recruits ([[Ricky Vance]], [[Zander Pruitt]], [[Ren Sołtys]], [[Eddie Park]]), [[Dominique Ferraro]] (Wesley's apprentice/heir & the ritual's bloodline anchor), the adherents ([[Mike and Doug Tinsmith]], [[Phyllis Harrow]]), [[Henry Voss]], [[Elias Mercer]], [[Mrs. Devereaux]], [[Earl]], [[The Antique Dealer]]. Player characters live in [[The Party]].
+[[Wesley Crane]] (Act 1 antagonist), [[Russ]], the recruits ([[Ricky Vance]], [[Zander Pruitt]], [[Ren Sołtys]], [[Eddie Park]]), [[Dominique Ferraro]] (Wesley's apprentice/heir & the ritual's bloodline anchor), the adherents ([[Mike and Doug Tinsmith]], [[Phyllis Harrow]]), [[Henry Voss]], [[Elias Mercer]], [[Mrs. Devereaux]], [[Jerry]], [[The Antique Dealer]], [[Reverend Hollis]] (the Ep2 red herring), [[Wendell Pace]] (the "death isn't death" seed). Player characters live in [[The Party]].
 
 ### [[Factions & Groups]]
 [[The Party]], [[Wesley's Recruits]], [[Wesley's Adherents]], [[The Other Party (Rival or Evil)]], [[Mercer Falls Historical Society]], [[The Mercer Gentleman's Club]], [[Hollowed Townspeople]].
 
 ### [[Game Systems]] — how it plays
-[[The Two Modes of Play]], [[Time Points]], [[The Negotiation System]], [[Dungeon Mechanics]], [[Floor Reset and the Intelligence Gradient]], [[Forensic Delving]], [[Death, TPK, and the Lost Day]], [[The Keystone Tablet]], [[Wesley's Sigils]], [[Gear and Items]].
+[[The Two Modes of Play]], [[Time Points]], [[The Negotiation System]], [[Dungeon Mechanics]], [[Floor Reset and the Intelligence Gradient]], [[Forensic Delving]], [[Death, TPK, and the Lost Day]], [[The Keystone Tablet]], [[Wesley's Sigils]], [[Gear and Items]], [[The Stone of Quietude]], [[The Hush-Hunting Graphic Novel]].
 
 ### [[Plot & Structure]] — the bizarro plot and the shape of Act 1
 [[The Bizarro Plot]], [[Wesley's Summer Calendar]], [[The Three Ritual Items]], [[The Equinox Ritual]], [[Aftermath Branches]] (Rival vs Evil fork), [[The Pattern Recognition Arc]], [[The Keystone Theft]], [[Where the PCs Can Disrupt]], [[Cosmology Seeds]], [[The Countdown Structure]].
 
 ### [[Episodes]] — the monster-of-the-week catalog
-[[Session 0]], [[Session 1 — The Dare]], [[Episode 1 — The Hush]], [[Episode 2 — The Hungry House]], [[Episode 3 — The Click]], [[Episode 4 — The Mirror]], [[Episode 5 — Storm-That-Doesn't-Move]], [[Episode 6 — First Real Wesley Suspicion]], [[Episode 7 — The Breather]], [[Episode 8 — Wesley Confirmed]], [[The Equinox Arc]].
+[[Session 0]], [[Session 1 — The Dare]], [[Episode 2 — The Hush]] ([[Episode 2 — The Hush — Town-Time Investigation Map|investigation map]]), [[Episode 1 — The Hush]], [[Episode 2 — The Hungry House]], [[Episode 3 — The Click]], [[Episode 4 — The Mirror]], [[Episode 5 — Storm-That-Doesn't-Move]], [[Episode 6 — First Real Wesley Suspicion]], [[Episode 7 — The Breather]], [[Episode 8 — Wesley Confirmed]], [[The Equinox Arc]]. *(Episode numbering is mid-rework; the live catalog lives in [[Episodes]].)*
 
 ### [[Bestiary]]
 [[The Hush]], [[The Mercer Mirror]], [[The Storm-That-Doesn't-Move]].
