@@ -27,7 +27,7 @@ Up: [[Plot & Structure]]
 - Decode Wesley's chalked glyphs as cartography (see [[Wesley's Sigils]]).
 - Read sigil-spawned encounters as evidence of Wesley's location and timing.
 - Distinguish real sigils from decoys (achievable by ~Ep5 if invested).
-- Read Earl's pawn-shop ledger to estimate the hollowed-townsperson count (see [[Earl's Pawn Shop]]).
+- Read Jerry's pawn-shop ledger to estimate the hollowed-townsperson count (see [[Jerry's Pawn Shop]]).
 
 ## Disposition-Building (the big lever)
 
@@ -42,7 +42,7 @@ The campaign's primary mechanism for converting summer effort into equinox-night
 ## Relationship-Side (other NPCs)
 
 - Build rapport with [[Russ]] at [[Panels]] — back-room collection access, eventually his Filter-break.
-- Build rapport with Earl — unlocks the hollowed-count ledger (see [[Earl's Pawn Shop]]).
+- Build rapport with [[Jerry]] — unlocks the hollowed-count ledger (see [[Jerry's Pawn Shop]]).
 - Help [[Mrs. Devereaux]] (board chair, mansion key-holder) with Society work — off-hours library annex access.
 
 ## Dungeon-Side
@@ -61,4 +61,4 @@ The campaign's primary mechanism for converting summer effort into equinox-night
 - **Most importantly:** show up with high-disposition Rivals, accumulated motivations/pitfalls intel, and items destroyed over the summer — all of which translate to mechanical advantage in [[The Equinox Ritual]] negotiation-as-combat.
 
 ## Source
-Wesley's Bizarro Plot v5 §10 (Where the PCs Can Disrupt); Sam → Dominique reframe (conversation, 2026-06).
+Wesley's Bizarro Plot v5 §10 (Where the PCs Can Disrupt); Sam → Dominique reframe (conversation, 2026-06); Earl→Jerry (2026-07).
