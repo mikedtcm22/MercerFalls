@@ -26,7 +26,7 @@ Up: [[DM-OS & Prep]]
 
 ## Tier 2 — Required for Episode 1 (DM-side, parallel with PC creation)
 
-**Floor 1 dungeon prep:** equipment-rack contents (calibrated post-PC), the **young [[The Hush|Hush]]** stat block (spore-release-on-death hook), Buzzsaw Room stat blocks (mooks + lieutenant + sigil-spawned reinforcements via [[Wesley's Sigils]]), the Floor 1 wandering monster table with the L2+ flee rule, the [[The Keystone Tablet]] introduction beat, Floor 1 keystone protection specifics (glyph-lock + Compass-Keystone deep guardian), and the **stone of quietude** (dungeon side). See [[Dungeon Mechanics]], [[Floor Reset and the Intelligence Gradient]], [[The Ember Chamber]].
+**Floor 1 dungeon prep:** equipment-rack contents (calibrated post-PC), the **young [[The Hush|Hush]]** stat block (defensive spore on being *driven off* — it survives wounded and pheromone-tags a PC, per [[The Hush]]), Buzzsaw Room stat blocks (mooks + lieutenant + sigil-spawned reinforcements via [[Wesley's Sigils]]), the Floor 1 wandering monster table with the L2+ flee rule, the [[The Keystone Tablet]] introduction beat, Floor 1 keystone protection specifics (glyph-lock + Compass-Keystone deep guardian), and the **stone of quietude** (dungeon side). See [[Dungeon Mechanics]], [[Floor Reset and the Intelligence Gradient]], [[The Ember Chamber]].
 
 **Episode 1 topside prep:** [[Russ]]'s full character sketch; the Hush's source-film specifics; the **adult Hush** stat block (sound-tracking mechanic); spore-tracking implementation; the stone of quietude (lore side); [[Ricky Vance]]'s evidence trail; **Ricky's friends** as the in-town pressure mechanism; the **hooded-figure recognition arc** (the slow [[Wesley Crane]] connection). See [[Episode 1 — The Hush]], [[The Mill Sector]].
 
@@ -40,7 +40,7 @@ Up: [[DM-OS & Prep]]
 
 ## Tier 4 — Required for Episodes 2–3 (early summer in fiction)
 
-Town locations and NPCs (diner [[Marco's Diner]], [[Panels]] with [[Russ]], the library annex in [[The Mercer Mansion]], [[The Community Center]], the school) plus 2–3 named **[[Hollowed Townspeople]]**; [[Earl]] at [[Earl's Pawn Shop]] (Episode 2); [[Episode 2 — The Hungry House]] design ([[Henry Voss]] as 1991 survivor; **featured-rival slot TBD** — [[Marcy Hauer|Marcy]] demoted to a non-rival NPC); [[Episode 3 — The Click]] design (pick the monster, lock the click clue — **featured-rival slot open; the old "Fourth Recruit" is dissolved**); Floor 2 stat blocks/keystones; first uncommon magic items ([[Gear and Items]]).
+Town locations and NPCs (diner [[Marco's Diner]], [[Panels]] with [[Russ]], the [[The Library|library]] and the library annex in [[The Mercer Mansion]], [[The Community Center]], the school) plus 2–3 named **[[Hollowed Townspeople]]**; [[Jerry]] at [[Jerry's Pawn Shop]] (debuts [[Episode 2 — The Hush]]); [[Episode 2 — The Hungry House]] design ([[Henry Voss]] as 1991 survivor; **featured-rival slot TBD** — [[Marcy Hauer|Marcy]] demoted to a non-rival NPC); [[Episode 3 — The Click]] design (pick the monster, lock the click clue — **featured-rival slot open; the old "Fourth Recruit" is dissolved**); Floor 2 stat blocks/keystones; first uncommon magic items ([[Gear and Items]]).
 
 ## Tier 5 — Mid-Summer Prep (Mike Tinsmith's hollowing + the keystone theft)
 
@@ -55,4 +55,4 @@ Surfeit thresholds formalized; the **mill above-ground** as a Time-Points-invest
 Acts 2–3 sigil ability unlocks ([[Wesley's Sigils]]); the Mercer sector's upper floors 1–5 (stub designs); Tier-2 unified dungeon design (floor 6+, the Lake entrance landing, the central Lore); Rival/Evil Party detailed dynamics (after the [[Aftermath Branches|equinox branch]] is set); the endgame third-position mechanism (level 20); [[Russ]]'s Filter-break trigger moment.
 
 ## Source
-Campaign Bible v0.4 §21 (Next Prep Targets, lines 1692–1774). Companion open items: [[Outstanding Design Questions]].
+Campaign Bible v0.4 §21 (Next Prep Targets, lines 1692–1774). Companion open items: [[Outstanding Design Questions]]. Earl→Jerry and young-Hush-survives corrections (conversation, 2026-07).
