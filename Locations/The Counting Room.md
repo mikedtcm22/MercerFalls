@@ -20,24 +20,26 @@ Up: [[The Mill Sector]]
 > Spoiler room, and the gate to the Map-Keystone (which sits in room 6). Off the Session-1 delve path.
 > **Name note:** "Counting Room" is the old roster label; the puzzle is spatial/cartographic now — rename candidate (see chat).
 
-## The room (what players see)
-Entering from [[The Switchbacks]] (4), a wide square chamber:
-- **Left:** a large **8×8 checkerboard** set into the floor — 64 alternating pale/dark flagstones, each ~5 ft, filling that side of the room.
-- **Center, ahead:** a waist-high **round stone pedestal**, its top face carved with a **smaller checkerboard matching the floor**, and a **door-shape marked at one edge** (currently the edge facing the far wall).
-- **Right:** a long, narrow **pit** running the length of the right wall, ~10 ft in, bottom beyond the light.
-- **Left wall, past the checkerboard:** a plain closed **door** (→ room 6).
+## The room (what players see on entry)
+Entering from [[The Switchbacks]] (4) at the room's **top-right corner**, a wide chamber:
+- **Dead ahead, across the room:** a waist-high **round stone pedestal**, standing alone. *(Its top face and markings are only apparent on closer inspection — see the puzzle; keep them out of the entry read-aloud.)*
+- **Right, along that wall (~10 ft in):** a long, narrow **pit**, bottom beyond the light.
+- **Left and ahead, across the floor:** a large **8×8 checkerboard** set into the stone — 64 alternating pale/dark flagstones, each ~5 ft.
+- **Far wall, past the checkerboard:** a plain closed **door** (→ room 6).
 
-## The puzzle (hidden — discovered by interaction, NOT read aloud)
-The pedestal is a **rotatable map of this room**. Its carved door-mark turns to point at any of the four walls; **three squares on the pedestal's little board rise**, and *which* three depends on the door-mark's facing. Each raised square corresponds to a **depressible tile on the real 8×8 floor** (stand on it / weight it). What the three tiles do depends on the pedestal's orientation:
+## The puzzle (hidden — discovered by inspection, NOT read aloud)
+**On inspecting the pedestal:** its top is carved with a **smaller checkerboard matching the floor**, with a **door-shape cut at one edge** (starting orientation: the door-mark faces the *far* wall, opposite the entrance), and the pedestal **rotates**.
+
+It's a **rotatable map of this room**. Turn the door-mark to point at any of the four walls and **three squares on the pedestal's little board rise**; *which* three depends on the facing. Each raised square keys to a **depressible tile on the real 8×8 floor** (stand on it / weight it). What the three tiles do depends on the pedestal's orientation:
 
 | Pedestal door-mark faces… | The three tiles… |
 |---|---|
-| **Left wall (= the real door's direction)** | **open the door to room 6** — the solution |
+| **The real door's wall (to the players' left)** | **open the door to room 6** — the solution |
 | **Far wall (opposite entrance)** — *starting orientation* | open a **secret wall panel → treasure** |
-| **Entrance (behind)** | do nothing (no tiles rise) |
-| **Right / pit wall** | are **spike-pit traps** ⚠ |
+| **Entrance wall** | do nothing (no tiles rise) |
+| **Pit wall (to the players' right)** | are **spike-pit traps** ⚠ |
 
-The spatial solve: recognize the pedestal is a map, notice its door-mark points at the *far* wall while the *real* door is to the **left**, rotate it to match reality, then read the three raised squares onto the real floor and trigger them. The **starting misalignment** is the hook: leave it as-is and the three tiles pop a treasure panel (a lucky accident), while idly trying the pit-wall facing eats spikes — so experimentation carries real stakes.
+The spatial solve: recognize the pedestal is a map, notice its door-mark points at the *far* wall while the *real* door is to the **left**, rotate it to match reality, then read the three raised squares onto the real floor and trigger them. The **starting misalignment** is the hook: leave it as-is and the tiles pop the treasure panel (a lucky accident), while idly trying the pit-wall facing eats spikes — experimentation carries real stakes.
 
 **Reset-safe / memory reward:** the carved map is permanent; the raised squares, pedestal orientation, floor tiles, and door/panel re-set nightly, so a party that solved it once walks the known circuit in seconds forever after.
 
@@ -49,4 +51,4 @@ Enormous: examining and orienting the pedestal, reading it onto the floor, and t
 *(Room 6, past the door, holds the Map-Keystone and the one-way door onward to the Bell Junction, 7.)*
 
 ## Source
-Floor-1 map `Floor-1_96x86.png` (room 5) + design conversation, 2026-07 (rotatable "map of the room" pedestal + 8×8 checkerboard floor + right-wall pit; align the pedestal's door-mark to the real door [left] → three floor tiles open the door to 6; misalignments yield treasure [far wall], nothing [entrance], or spike traps [pit wall]; Map-Keystone relocated from the pedestal to room 6). Supersedes the old "glyph-lock in the Map-Keystone Niche (6)" placeholder.
+Floor-1 map `Floor-1_96x86.png` + layout sketch (room 5) + design conversation, 2026-07 (entrance at the top-right corner; round rotatable "map of the room" pedestal dead-ahead; long pit along the right wall; 8×8 checkerboard floor to the left; door onward in the far wall. Align the pedestal's door-mark to the real door [left] → three floor tiles open the door to 6; misalignments give treasure [far wall], nothing [entrance], or spike traps [pit wall]; Map-Keystone relocated from the pedestal to room 6). Supersedes the old "glyph-lock in the Map-Keystone Niche (6)" placeholder.
