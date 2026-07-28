@@ -35,8 +35,8 @@ Height and bulk signal status in the pack — and the top of it dresses the part
 Use the SRD/MM **Gnoll** family as the chassis, dressed as dogmen:
 - **Rank-and-file:** Gnoll (CR 1/2) — crude blades; the pack-floor wandering-table core.
 - **Lieutenant:** modified **Gnoll Pack Lord** — warrior Str/Dex, keeps **Multiattack** and a **reach (whip) weapon**, **no Incite Rampage** (see [[The Buzzsaw Room]]).
-- **Chief:** Gnoll Pack Lord as-printed (CR 2) or heavier, for a later/deeper set-piece (the Floor-1 Chief in [[The Pit Room]] — stats TBD).
-- Ambient pack-floor company (not dogmen): the Pit Room (9) wolves, Giant Hyena, death dogs, and one stronger beast the dogmen fear (TBD).
+- **Chief:** the [[The Buzzsaw Room|Lieutenant]] chassis **+ Incite Rampage (Recharge 5–6)**, HP **52** — the Floor-1 **Dogman Chief** (full stat block locked in [[The Pit Room]]); heavier variants for later/deeper set-pieces.
+- Ambient pack-floor company (not dogmen): the [[The Pit Room|Pit Room]] (9) wolves — here a **Rampage variant** (replacing Pack Tactics, to feed the Chief's Incite Rampage) — plus Giant Hyena, death dogs, and one stronger beast the dogmen fear (TBD).
 
 ## First appearance
 Two **dead** dogmen lie in [[The Octagonal Vestibule]] in Session 1 — Wesley's clean pre-clear kills, lootable (native-death rule; see [[Hollowing and Agency-Loss]]) — the party's first look at the creature before they fight a live one (the guaranteed wandering roll in [[The Expedition Post]]).
@@ -45,4 +45,4 @@ Two **dead** dogmen lie in [[The Octagonal Vestibule]] in Session 1 — Wesley's
 [[Bestiary]] · [[The Nightmare Engine]] · [[The Mill Sector]] · [[The Octagonal Vestibule]] · [[The Expedition Post]] · [[The Buzzsaw Room]] · [[The Pit Room]] · [[The Hush]] · [[Hollowing and Agency-Loss]]
 
 ## Source
-Design conversation, 2026-07 (Dogman visual design locked — human-scaled, the human/dog clash carrying the wrongness, size-as-rank; a reskin of the gnoll family for Floor 1's pack theme. Chief regalia added 2026-07: pelt-mantle, bone-and-iron crown, trophy-cords — a warlord read at a glance).
+Design conversation, 2026-07 (Dogman visual design locked — human-scaled, the human/dog clash carrying the wrongness, size-as-rank; a reskin of the gnoll family for Floor 1's pack theme. Chief regalia added 2026-07: pelt-mantle, bone-and-iron crown, trophy-cords — a warlord read at a glance. Chief stat block locked 2026-07 in [[The Pit Room]]: Lieutenant chassis + Incite Rampage, HP 52; pit wolves are a Rampage variant).
