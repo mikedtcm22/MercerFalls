@@ -78,22 +78,23 @@ Distribution: ~21% painful (2–7), ~58% light (8–14), ~21% untouched-or-bette
 
 Once the party is **2+ levels above** a wandering monster's typical CR, that monster **flees by default**. Exceptions (DM call): mindless creatures (oozes, basic constructs) engage; pack-driven groups may engage; pre-committed guardians engage; cornered creatures fight desperately. By Levels 4–5 the lower-floor tables visibly empty out — Floor 1 becomes the party's territory. Chasing a fleeing monster costs a Stretch and a wandering roll.
 
-## Milestone Leveling (stairs-found)
+## Milestone Leveling (episode-based)
 
-Tied to descent — and granted when the down-stairs are **found**, not when the party descends.
+Leveling is a **narrative milestone tied to episodes**, not to dungeon descent. *(This replaces the earlier "stairs-found / per-floor" cadence — finding the down-stairs no longer grants a level.)*
 
 | PC Level | Trigger |
 |---|---|
-| 2 | Stairs to Floor 2 found |
-| 3 | Stairs to Floor 3 found |
-| 4 | Stairs to Floor 4 found |
-| 5 | Stairs to Floor 5 found |
+| 2 | End of **Episode 2 — The Hush** |
+| 3+ | Later episode milestones — schedule TBD, tuned to the arc |
 
-So Level 3 is granted while still on Floor 2, the moment the down-stairs are discovered. Plot pacing aligns (Level 2 by mid-July, Level 5 by equinox); aggressive delvers may outrun the calendar — tune to actual level. Levels 6+ tie to Tier-2 milestones (defer to Act 2).
+The party therefore runs Episode 1 and most of Episode 2 at **level 1**, reaching **level 2 at the end of Episode 2**. Encounter tuning follows the episode clock, not the floor: e.g., the [[The Pit Room]] Floor-1 guardian is built **Hard for level 2 / Deadly for level 1**, so a party that pushes to it before the end of Episode 2 is genuinely over its head. Because descent no longer grants levels, **speedrunning deep leaves the party badly under-levelled** — a natural brake that reinforces the topside costs below. Levels 6+ tie to Tier-2 milestones (defer to Act 2).
+
+> [!warning] Reconcile
+> Earlier pacing notes assumed the stairs-found cadence ("Level 2 by mid-July, Level 5 by equinox"). Any such references (plot / countdown / calendar notes) may need updating to the episode cadence.
 
 ## Speedrunning
 
-PCs *may* push to Floor 5 fast and ignore the town — a valid strategic choice the campaign supports. Floor design must **not** make it easy (keystones protected, down-stairs need real exploration without the compass — see [[The Keystone Tablet]]). **The cost is topside:** every delve costs 3 Time Points and can strand you home late (see [[Time Points]], [[Death, TPK, and the Lost Day]]); aggressive delving starves investigations and relationships, NPCs go unsaved, [[The Bizarro Plot|the bizarro plot]] proceeds unchecked, the town gets worse. The DM makes the cost visible, not railroady.
+PCs *may* push to Floor 5 fast and ignore the town — a valid strategic choice the campaign supports. Floor design must **not** make it easy (keystones protected, down-stairs need real exploration without the compass — see [[The Keystone Tablet]]), and under episode-based leveling a fast, deep party is **badly under-levelled** for what it meets. **The cost is also topside:** every delve costs 3 Time Points and can strand you home late (see [[Time Points]], [[Death, TPK, and the Lost Day]]); aggressive delving starves investigations and relationships, NPCs go unsaved, [[The Bizarro Plot|the bizarro plot]] proceeds unchecked, the town gets worse. The DM makes the cost visible, not railroady.
 
 ## Retreating
 
@@ -104,4 +105,4 @@ Location-based, not timer-based. Returning to the entrance is the way out. Howev
 - **Wesley's Sigil** is the anti-ember-exclusive mirror of Surfacing (dungeon-flavored, costs persistent monsters); the portal moves you through *space*, not time, so it still bills the 3-TP dwell — not available to PCs except as an escape ridden in the moment (see [[Wesley's Sigils]], [[Session 1 — The Dare]]).
 
 ## Source
-Campaign Bible v0.4, §10 (Dungeon Mechanics). Player-facing complement: [[Dungeoneering Rules]]. The Stretch-Worth Principle: design conversation, 2026-07. The 3-TP dwell / time-dilation cross-reference: conversation, 2026-06.
+Campaign Bible v0.4, §10 (Dungeon Mechanics). Player-facing complement: [[Dungeoneering Rules]]. The Stretch-Worth Principle: design conversation, 2026-07. The 3-TP dwell / time-dilation cross-reference: conversation, 2026-06. **Leveling changed from stairs-found/per-floor to episode-milestone (level 2 = end of Episode 2), 2026-07.**
