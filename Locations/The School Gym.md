@@ -14,7 +14,7 @@ visibility: mixed
 
 Up: [[Mercer Falls — Setting]]
 
-**The high school gymnasium and weight room, just west of downtown — [[Tank]]'s home ground, the football team's summer information exchange, and the one [[Time Points|Town-Time]] node where a kid can buy clarity with sweat. Improvised at the table in Session 3 because Tank went looking for it; promoted to a standing location.**
+**The high school gymnasium and weight room, just west of downtown — [[Tank]]'s home ground, the football team's summer information exchange, and the first [[Time Points|Town-Time]] node where a kid can buy clarity with sweat. Improvised at the table in Session 3 because Tank went looking for it; promoted to a standing location.**
 
 > [!note] Status
 > Created from play ([[Episode 2 — The Hush — Play Log|Session 3]]). The wider **school** has no note yet — it exists in canon only as this gym, [[Wendell Pace]]'s off-season employer, and a building west of downtown. Build the rest when an episode needs it.
@@ -28,19 +28,19 @@ Summer hours are informal. **Off-season workouts run a morning session (~an hour
 
 ## In play — what the gym is for
 
-**1. The football team's information exchange.** In summer this is the *only* place the team reliably congregates. Practice-squad kids desperate to ingratiate themselves upward will talk to anyone with status; coaches drift through. In Session 3 this is where [[Tank]] shut down the snitch rumor with a single **Intimidation 21**, and where the **defensive coordinator** handed over the detail that [[Patricia Vance]] is frightened and [[Ricky Vance|Ricky]] — who *never* misses the gym — hasn't been in. **Ricky's absence is more legible here than anywhere else in town,** because this is the room where it's abnormal.
+**1. The Workout** — the mechanic below. Primarily [[Tank]]'s node.
 
-**2. Public protection, performed.** Being *seen* here with Tank is social armor. Tank dragged [[Bash Whitlock|Bash]] in specifically so teammates would clock them together; two of them turned around and walked away rather than approach him. Cheap, effective, and entirely a performance — see the reading below.
+**2. The football team's information exchange.** In summer this is the *only* place the team reliably congregates. Practice-squad kids desperate to ingratiate themselves upward will talk to anyone with status; coaches drift through. In Session 3 this is where Tank shut down the snitch rumor with a single **Intimidation 21**, and where the **defensive coordinator** handed over the detail that [[Patricia Vance]] is frightened and [[Ricky Vance|Ricky]] — who *never* misses the gym — hasn't been in. **Ricky's absence is more legible here than anywhere else in town,** because this is the room where it's abnormal.
 
-**3. Tank's father's expectation.** Tank's dad tracks whether he's been in. Missing a day is a thing that gets noticed at home — which is how the [[Episode 2 — The Hush — Play Log|lost day]] first bit him.
+**3. Public protection, performed.** Being *seen* here with Tank is social armor. Tank dragged [[Bash Whitlock|Bash]] in specifically so teammates would clock them together; two of them turned around and walked away rather than approach him. Cheap and effective.
 
-**4. The Workout** — the mechanic below.
+**4. Tank's father's expectation.** Tank's dad tracks whether he's been in. Missing a day is a thing that gets noticed at home — which is how the [[Episode 2 — The Hush — Play Log|lost day]] first bit him.
 
 ---
 
 ## The Workout (mechanic)
 
-**A kid can spend [[Time Points|Time Points]] here to physically clear their head, converting effort into composure.** On the threshold-pricing chassis: declare the tier up front, make one check, and a bigger spend is a bigger bet.
+**Spend [[Time Points]] here to physically clear your head — converting effort into composure.** On the threshold-pricing chassis: declare the tier up front, make one check, and a bigger spend is a bigger bet.
 
 **The check.** One **Athletics** check to have genuinely *gotten a workout in* — not to lift a number, but to reach the point where the noise goes quiet.
 - **DC 10** for a character with **Athletics proficiency** (or a comparably athletic background) — this covers [[Tank]], and any future PC who's actually a body-first kid.
@@ -54,30 +54,24 @@ Summer hours are informal. **Off-season workouts run a morning session (~an hour
 | 2 | Advantage on your **next 2** |
 | 3 | Advantage on your **next 3** |
 
-- The DC **does not scale with the spend** — so a 3-point investment is a real gamble on one roll. *(Dial, if that reads too swingy: escalate the DC by tier — 10/12/14 for the athlete, 15/17/19 for everyone else.)*
+- The DC **does not scale with the spend** — so a 3-point investment is a real gamble on one roll. *(Dial, if that reads too swingy: escalate by tier — 10/12/14 for the athlete, 15/17/19 for everyone else.)*
 - **On a failure the points are spent and nothing is gained.** He didn't find it today.
 - **Charges expire at the end of the current block** (day or night). Clarity is a same-day good; you can't bank a Tuesday lift against a Friday conversation.
-- **Once per block per character.** A second session in the same day doesn't stack.
+- **Once per block per character.** A second session the same day doesn't stack.
 - Cap of **3 TP** — beyond that he's just wrecking himself, and it eats the whole day anyway.
 
-### The recommended layer: it only works when nobody's watching
-> [!note] Proposal — read the DM-only note below before deciding
-> **The Workout pays out only when the workout was for *himself*.** If the kid is working the room — building an alibi, performing protection, holding court, ingratiating, or otherwise using the gym as a social instrument — he gets whatever **social** result he earned and **no clarity charges.** He didn't clear his head; he was on stage.
->
-> Practically: ask *"who was that for?"* If the answer is anyone other than him, no advantage. It's not a gotcha — say it plainly at the table once, and let him choose knowingly thereafter. Both of Tank's Session-3 gym trips were instrumental (working the practice squad, then shielding Bash), so he'd have earned zero charges. That is the correct and interesting outcome.
+**Goes live in Session 4.** Tank's two Session-3 gym trips were story-driven and don't retro-apply — he wasn't going there for this. Introduce the option cleanly the next time he heads over.
+
+### Open dials
+- **Witnesses.** Currently they don't matter. The likeliest future adjustment is **witnesses modifying the DC** rather than negating the benefit — a room full of teammates makes it harder to actually get lost in the work (say +2 or +5), so the 5 a.m. solo lift becomes mechanically the *good* one without ever being the only one. Decide if and when the mechanic proves itself at the table.
+- **Parallel nodes for the other PCs.** If this lands, the obvious expansion is one clarity-node per kid, each gated on a different check and paying out a different attribute — [[Bash Whitlock|Bash]]'s workbench or basement rig, [[Gern]]'s study/devotions, [[Old Man]]'s creek or an hour with the Thunderbird. Same chassis, different currency, and each one quietly characterizes how that kid settles himself.
 
 > [!danger] DM-only — why this room, of all rooms
-> **[[Tank]]'s Awakening test was set in this gym.** "The Pep Rally" ([[The Ember Chamber]]) dressed *this exact space* — pep-rally posters laid out on the floor, two gates, the trick-shot station and the Dad-station power-clean — and whichever station he worked, **only the throne gate ever opened.** He ground the barbell and walked out with a crown on an empty dais, the stadium roar still audible through a gate that never lifted.
+> **[[Tank]]'s Awakening test was set in this gym.** "The Pep Rally" ([[The Ember Chamber]]) dressed *this exact space* — pep-rally posters laid out on the floor overnight, two gates, the trick-shot station and the Dad-station power-clean — and whichever station he worked, **only the throne gate ever opened.** He ground the barbell and walked out with a crown on an empty dais, the stadium roar still audible through a gate that never lifted.
 >
-> So every time Tank works out here now, he is standing in the room the machine built to show him his own trap. He almost certainly hasn't made the connection. **Let him make it himself**, in a quiet beat — a poster on the floor, the light through the high windows at the wrong hour, the wall catch on the rack.
+> So every time Tank works out here now, he is standing in the room the machine built to show him his own trap. He almost certainly hasn't made the connection. **Let him make it himself** — a poster on the floor, the light through the high windows at the wrong hour, the wall catch on the rack — and don't explain it.
 >
-> And the mechanic is the **absent third station.** Per [[Tank]]'s note, the option the machine structurally could not contain was *do it because you want it, with no one to play to* — every inscription in that room was an imperative to perform for someone. A rule that pays out **only for the unwitnessed, non-instrumental workout** puts that third station on his character sheet, priced in the campaign's own currency. It's the first place he can get a mechanical taste of the third door before he can articulate it, and it makes the DM's standing question — *who was that for?* — something the table asks out loud every time he spends a point here.
->
-> Don't lecture it. Just let the advantage quietly fail to materialize on the days he was performing, and let him notice the pattern.
-
-**Other characters.** Anyone can use it; the DC is simply higher, and the fiction should differ — [[Old Man]] doing burpees in his room at midnight because he *isn't normally this built* is the same instinct at a lower grade, and worth honoring if he pursues it. But the gym is Tank's turf socially, so a non-athlete kid alone in the weight room is conspicuous, and Tank's presence changes the room for them.
-
----
+> Keep the DM's standing question live behind every gym scene: *[[Tank|who was that for?]]* Both Session-3 trips were performances (working the practice squad, then shielding Bash). The absent third station in his Awakening — *do it because you want it, with no one to play to* — remains the thing the machine structurally couldn't offer, and the gym is where he'll eventually get to choose it on his own. That stays narrative for now, not mechanical.
 
 ## Hooks and open dials
 - **Who else is in the weight room** on a given morning is a cheap, renewable information tap for the rest of Act 1 — the team is the town's rumor mill in miniature.
@@ -90,4 +84,4 @@ Summer hours are informal. **Off-season workouts run a morning session (~an hour
 [[Tank]] · [[Ricky Vance]] · [[Patricia Vance]] · [[Wendell Pace]] · [[Time Points]] · [[The Districts]] · [[Marco's Diner]] · [[The Ember Chamber]] · [[Episode 2 — The Hush]] · [[Episode 2 — The Hush — Play Log]] · [[The 1991 Mill Incident]]
 
 ## Source
-Improvised at the table in Session 3 (2026-07-30) when [[Tank]]'s player went looking for the football team; see [[Episode 2 — The Hush — Play Log]]. The Workout mechanic per the DM's design (Athletics gate, TP-scaled advantage on WIS/CHA checks, DC 10 athlete / DC 15 otherwise), built onto the threshold-pricing chassis in [[Time Points]]; the unwitnessed-only condition and the Pep-Rally resonance proposed 2026-07-31 against [[Tank]]'s locked arc.
+Improvised at the table in Session 3 (2026-07-30) when [[Tank]]'s player went looking for the football team; see [[Episode 2 — The Hush — Play Log]]. The Workout mechanic per the DM's design (Athletics gate, TP-scaled advantage on WIS/CHA checks, DC 10 athlete / DC 15 otherwise), built onto the threshold-pricing chassis in [[Time Points]]. Held as a **pure utility node** per DM ruling 2026-07-31 — witnesses do not negate the benefit (may later modify the DC), prior story-driven trips don't retro-apply, and per-PC parallel nodes are the planned expansion if it lands.
