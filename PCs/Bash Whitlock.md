@@ -41,10 +41,17 @@ Aligned = the rig (the unreadable, the person). The tell: it nudged him (post-it
 ## Relationships
 Knows [[Gern]] via mother-arranged playdates (assigned, not chosen). Connected to [[Tank]] through [[Dominique Ferraro]] — Bash recruits Tank as a protector and to **phreak him a free second phone line**. At the mill on a **dare** — really to ingratiate himself with Tank. Deliberate foil to [[Old Man]]: the skeptic who distrusts the beautiful line beside the face who fools everyone with it. See [[The Party]].
 
+## Household & Time Points
+**Unmodified (confirmed, do not apply a modifier).** Bash's household is narratively lax and unsupervised — his mother works nights, and he has real freedom — but he has **not** taken the Lax Parents backstory mechanic, so his Time Points run standard baseline (per [[Time Points]]), not +1 Night. Session 3 played through several evening beats without his player invoking the extra point; keep it that way unless he explicitly picks it up later.
+
 ## Episode 1 — played (Awakening choice)
 > [!note] Sessions 1–2 — full account in [[Episode 1 — The Dare — Play Log]]
 > **"The Basement: the Box and the Rig."** He **turned the dial on the sealed Black Box** (the instrument that *works*), dissolving the open rig and the voice that might have been [[Dominique Ferraro|Dom]]; the screen showed the ember and he retrieved it — **under his futon** (the design's air-vent detail changed at the table). **Read:** the on-flaw / misaligned branch — "glowing beats talking," data over the person; he took exactly the bait the post-it nudged him toward. Ember taken.
-> **Ep-1 exit:** one of the last two standing in the [[The Buzzsaw Room|Buzzsaw]]; he went through the far **destabilizing archway** (the NW portal), [[Gern]] following. Whether that portal is the escape-window wake-up or a descent toward Floor 2 is a pending DM call — see the play log.
+> **Ep-1 exit:** one of the last two standing in the [[The Buzzsaw Room|Buzzsaw]]; he went through the far **destabilizing archway** (the NW portal), [[Gern]] following. Resolved as the free-willed exit — see the play log.
+
+## Episode 2 — played (Session 3)
+> [!note] Full account in [[Episode 2 — The Hush — Play Log]]
+> Cast **Sanctuary** on Gern the instant the accusation turned physical. Gave [[Dominique Ferraro|Dominique]] the **entire dungeon account** — including a live spell demonstration — which she filed as a very good magic trick and a wild story; landed the session's turning line, *"For the first time in my life, I can take care of myself."* Told Tank, once he learned the truth about the prank, exactly what he thought of it. Later stood as **Gern's one ally** when the Tome of Conviction was dismissed by the others. Tested Mage Hand's carry limit on gym equipment; devised the decoy-Ricky plan.
 
 ## Source
-[[Source Documents]] — embers_bash_whitlock_arc_and_battle_plan.md; embers_awakening_scene_design.md; Bash_Whitlock_character_description.docx. Awakening choice recorded from play (Sessions 1–2): [[Episode 1 — The Dare — Play Log]].
+[[Source Documents]] — embers_bash_whitlock_arc_and_battle_plan.md; embers_awakening_scene_design.md; Bash_Whitlock_character_description.docx. Awakening choice recorded from play (Sessions 1–2): [[Episode 1 — The Dare — Play Log]]. Household/TP modifier (confirmed unmodified) and Session-3 summary added 2026-07-31: [[Episode 2 — The Hush — Play Log]].
