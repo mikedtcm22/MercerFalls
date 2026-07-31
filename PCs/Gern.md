@@ -18,7 +18,7 @@ Up: [[The Party]] · the inherited cage
 
 # Gern
 
-Cleric · homeschooled kid from a strict, wealthy, **[[Order and Chaos|Order]]-native religious family** (Scientology-coded; exact doctrine TBD). Lives in [[The Districts|the Heights]]. Ideal: *there's a right way to live, and I'd rather find it than be comfortable* (earnest seeker). Flaw: *he trades conviction for inclusion, and can't yet tell being included from being liked.*
+Cleric · homeschooled kid from a strict, wealthy, **[[Order and Chaos|Order]]-native religious family** (Scientology-coded; see [[Certaintism]] for the locked doctrine). Lives in [[The Districts|the Heights]]. Ideal: *there's a right way to live, and I'd rather find it than be comfortable* (earnest seeker). Flaw: *he trades conviction for inclusion, and can't yet tell being included from being liked.*
 
 ## The read — conviction vs. belonging
 Gern's whole life is an **inherited Order**: a strict, total religion that decided what's true and good before he could weigh in, plus friendships **purchased** by amenities (the backyard pool, the day-one SNES, all the toys). He has never *chosen* a belief or a friend — both were issued to him — and he half-knows the friends come for the stuff. He's the most enclosed of the four and the most socially starved; "**new eyes this summer**" is his engine — his first real reach for connection.
@@ -28,7 +28,7 @@ The conflict the campaign pressures: **conviction and belonging are in tension, 
 - **The Chaos jaw** is the one he's primed to fall for. The pitch — *rules are cages, you owe them nothing, just be free* — lands on Gern as **gospel**, because it's the first alternative anyone has ever offered him. He'll mistake **tearing down his upbringing for freedom** (the same error [[Old Man]] made, from a far more enclosed start — a longer fall). It's a con: he'd swap one totalizing answer ("the doctrine decides") for another ("nothing decides, do as you like"), both sparing him the work of judging.
 - **The third position** is *discernment + courage*: keep what's true in what he was given, discard what isn't, and hold convictions he **chose and can defend even when they cost him the room** — and find the connection that only exists once he's been *seen*. Resolution (locked direction): **he ends up continuing the path that was imposed — a life of conviction — but now consciously chosen, on his own terms,** after a detour through some genuinely destructive rebellion.
 
-**The Cleric irony** is the vehicle: divine power handed to him by an entity of ambiguous benevolence at the exact moment he's trying to leave the faith his parents handed him. Did he trade one unseen power-granting authority for another? By the end his magic should feel like it flows from his **own** conviction, not an inherited or borrowed one. (Decide eventually how his religion relates to the real [[The Entity|cosmology]] — even 2% right is interesting.)
+**The Cleric irony** is the vehicle: divine power handed to him by an entity of ambiguous benevolence at the exact moment he's trying to leave the faith his parents handed him. Did he trade one unseen power-granting authority for another? By the end his magic should feel like it flows from his **own** conviction, not an inherited or borrowed one. See [[Certaintism]] for exactly how his doctrine reads the phenomena around him — and gets it backwards.
 
 ## Awakening test — "The Obelisk and the Two Gates" (locked)
 A pulley sits at his hands. A massive, sturdy stone **obelisk** — a relic of his received faith — hangs by rope above the center of a **balance**, a spinning saw to either side. Two tall gates, each topped by a pan: one fronts a **warm party** (faces turned toward him, a kept seat, laughter); the other a **dark cave-mouth** (nothing). At decision time the party is the obvious magnet and the cave looks like pure exile. Carved at the pulley:
@@ -63,11 +63,18 @@ Then Gern himself dissolves from the scene with his ember (the figures simply re
 ## At the mill / relationships
 Gern came to the mill on a **dare**, taken gladly and at face value — being included is the whole prize, and he can't conceive it's a setup ([[Tank]]'s crew's prank, architected by [[Ricky Vance]]; see [[Session 1 — The Dare]], [[The Party]]). Structurally the most isolated PC, reachable in the relationship web only through [[Bash Whitlock]] (their mother-arranged playdates). The prank-reveal hits him hard precisely *because* being included meant so much.
 
+## Household & Time Points
+**Strict parents (locked).** −1 Night TP per the [[Time Points]] backstory modifiers. Confirmed in play (Session 3) — Gern was out of the house on 1 Night point and went home rather than risk a parental consequence, same as [[Tank]]. Also grounds the mechanical bite of being the [[Episode 2 — The Hush|episode's named scapegoat]]: any further heat that reaches his parents can tighten this further.
+
 ## Episode 1 — played (Awakening choice)
 > [!note] Sessions 1–2 — full account in [[Episode 1 — The Dare — Play Log]]
 > **"The Obelisk and the Two Gates."** He **dropped the obelisk on the dark side** ("bury it in the dark"), sealing the cave and opening the gate to the gathering. Inside, the crowd was transfixed *past* him and the ember sat where a lamp's bulb should be — he got the full hollow-welcome reveal in-fiction. **Read:** the on-flaw / misaligned branch — "trades conviction for inclusion"; the warm room that never once looked at him. Ember taken.
-> **Certaintism seed fired:** at the [[The Buzzsaw Room|Buzzsaw]], Gern **recognized Wendell's null-print** from his "**Certainology Workbooks**" (the planted [[Certaintism]] touchpoint; faith-name to reconcile — "Certainology" at the table vs. "Certaintism" in the vault).
-> **Ep-1 exit:** one of the last two standing; he followed [[Bash Whitlock|Bash]] through the far **destabilizing archway** rather than be left alone (portal reading pending — see the play log).
+> **Certaintism seed fired:** at the [[The Buzzsaw Room|Buzzsaw]], Gern **recognized Wendell's null-print** from his scripture (the planted [[Certaintism]] touchpoint — Figure 9, made real).
+> **Ep-1 exit:** one of the last two standing; he followed [[Bash Whitlock|Bash]] through the far **destabilizing archway** rather than be left alone (resolved as the free-willed exit — see the play log).
+
+## Episode 2 — played (Session 3)
+> [!note] Full account in [[Episode 2 — The Hush — Play Log]]
+> Woke on the mill grounds beside Bash; recited the [[Certaintism|Affirmation]] on discovering the dungeon was real. Took the sole hit as **the accusation's named scapegoat** — Blake and Tyler cornered him alone, he rolled a **3** on Persuasion, and only Bash's mother watching from the window ended it. Brought the **Tome of Conviction** to the party that evening; the nullprint illustration matched Wendell's mark exactly, corroborated in front of everyone. Rolled a **10** on a religion check and surfaced the **dampening doctrine** — conviction can mitigate nullprinting — which, per [[Certaintism]], is now armed as the scripture that could justify either of his two false self-readings. Tank dismissed him outright; Old Man engaged only philosophically; only Bash took him seriously.
 
 ## Source
-Session 0 player notes (2026-06); Gern arc & Awakening-test design (conversation, 2026-06). See [[Order and Chaos]], [[The Embers]], [[The Entity]], [[The Ember Chamber]]. Awakening choice recorded from play (Sessions 1–2): [[Episode 1 — The Dare — Play Log]].
+Session 0 player notes (2026-06); Gern arc & Awakening-test design (conversation, 2026-06). See [[Order and Chaos]], [[The Embers]], [[The Entity]], [[The Ember Chamber]]. Awakening choice recorded from play (Sessions 1–2): [[Episode 1 — The Dare — Play Log]]. Household/TP modifier and Session-3 summary added 2026-07-31: [[Episode 2 — The Hush — Play Log]].
