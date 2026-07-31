@@ -39,10 +39,17 @@ The tell, cruel for him: the room asks the one question that's defined his life 
 ## Relationships
 Fellow [[The Districts|Flats]] kid with [[Tank]] (same street); his recent slacker turn put him near the jock hijinx. **Old Man and Tank are the same wound from opposite social positions** — both load-bearing kids carrying a parent's collapse. At the mill by **coincidence** (brooding in the nearby woods), he volunteered for the "adventuring party" — partly people-watching, partly because he clocked the prank and quietly moved to soften it. He knows it was a setup: a held truth he may have to weigh later. See [[The Party]].
 
+## Household & Time Points
+**Lax parents (locked).** +1 Night TP per the [[Time Points]] backstory modifiers. His household reads as genuinely unsupervised in play — he's the one with spare evening points most sessions, confirmed across Sessions 1–3. *(Per the campaign's lax-household mechanic, this comes with an ambient nightly rough-rest risk — see [[Time Points]] for the full trade-off.)*
+
 ## Episode 1 — played (Awakening choice)
 > [!note] Sessions 1–2 — full account in [[Episode 1 — The Dare — Play Log]]
 > **"The Pit and the Spring."** He **stepped off the platform himself** (self-sacrifice), ignoring the rope-ladder overhead; the statue — of his **mother** — rose and the ember lay in the door beneath. **Read:** the load-bearing / self-erasing answer, the futile sacrifice the room rewards regardless; the aligned "keep what he loves *with* him" was never offered. Ember taken.
 > **Ep-1 exit:** in the [[The Buzzsaw Room|Buzzsaw]], he leapt at the Dogman Lieutenant and shoved it into the river, going over with it; struck his head and was **hollowed** (the ember-mediated dungeon "death"). He reconstituted at the entrance, walked home glassy-eyed on autopilot, and slept it off — **recovering after the lost day** (keeps ember, XP, loot, and memory up to the moment he dropped). See [[Death, TPK, and the Lost Day]] and the play log.
 
+## Episode 2 — played (Session 3)
+> [!note] Full account in [[Episode 2 — The Hush — Play Log]]
+> Talked down [[Petey]]'s account of both the lost day and the adult Hush sighting; remained a **committed skeptic** throughout (Hume, the black swan) even while sitting on firsthand evidence he can't fully explain. Redeemed his **Epiphone Thunderbird** and picked up a **miner's helmet** at [[Jerry's Pawn Shop]]; cultivated **Timothy** at [[The Library]] into a standing research favor. Cast **Disguise Self as Ricky Vance** as the centerpiece of the party's (entirely self-invented) decoy plan. Closed the night reading *The Dark Tower* and *The Lion, the Witch and the Wardrobe* for a rhyme, landing on the "twin worlds, different rules" read of the dungeon.
+
 ## Source
-[[Source Documents]] — embers_old_man_arc_and_battle_plan.md; embers_awakening_scene_design.md. Awakening choice recorded from play (Sessions 1–2): [[Episode 1 — The Dare — Play Log]].
+[[Source Documents]] — embers_old_man_arc_and_battle_plan.md; embers_awakening_scene_design.md. Awakening choice recorded from play (Sessions 1–2): [[Episode 1 — The Dare — Play Log]]. Household/TP modifier and Session-3 summary added 2026-07-31: [[Episode 2 — The Hush — Play Log]].
