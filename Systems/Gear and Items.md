@@ -70,9 +70,16 @@ Rare and meaningful, not a shopping list:
 
 **Recommended Floor 2 uncommons:** *Immovable Rod* (rust-pitted iron rod), *Alchemy Jug* (90s thermos), *Bag of Holding* (backpack/satchel), *Driftglobe* (camping lantern), *Cloak of Many Fashions*, *Goggles of Night* (welding goggles), *Wand of Magic Detection* (divining rod / metal detector / flickering flashlight).
 
+## Mundane gear, acquired in play
+
+Not everything on the sheet is magic. A running list of ordinary-but-notable gear the party has picked up through Town-Time, worth tracking for continuity even though none of it is enchanted:
+
+- **Miner's helmet with a working lamp** ([[Old Man]], [[Jerry's Pawn Shop|Jerry's]], Session 3 — $20, "Tommy" scrawled inside). The party's first **hands-free light source** — worth remembering the next time someone needs both hands free in the dark. See [[Episode 2 — The Hush — Play Log]].
+- **Epiphone Thunderbird guitar** ([[Old Man]], redeemed from pawn, Session 3, traded for the dungeon-recovered lyre). Pure flavor swap — same recovered instrument, now period-appropriate to the character rather than medieval.
+
 ## Identifying Items (no Identify spell)
 
 There is **no Identify spell** in this setting — learning what an item does is its own small investigation arc per item. Channels: **experimentation** (risky — misuse side effects); **Mercer's papers / library annex research** (a 1910 ledger may match the description); **Filter-broken hollowed adherents** (weird surfacing knowledge); **[[Russ]]** (recognizes a *type* even without specifics — also the monster-research hub for [[The Nightmare Engine]]); the **Mercer mansion display collection** (comparison-as-research). Players never have a fully-mapped inventory — always wondering whether the weird thing also does *that*.
 
 ## Source
-Campaign Bible v0.4, §12 (Weapons, Armor, and Items; Russ at Panels §12/1202). Reality-filter cover: §14 / [[The Reality Filter]]. Loot-persistence rule: design conversation, 2026-07. Earl→Jerry and pawn-shop debut → Episode 2 — The Hush (2026-07).
+Campaign Bible v0.4, §12 (Weapons, Armor, and Items; Russ at Panels §12/1202). Reality-filter cover: §14 / [[The Reality Filter]]. Loot-persistence rule: design conversation, 2026-07. Earl→Jerry and pawn-shop debut → Episode 2 — The Hush (2026-07). **Mundane gear tracker added** (miner's helmet, guitar swap) from Session 3 play: 2026-07-31.
