@@ -25,10 +25,19 @@ The dungeon resets daily, between delves. This is intrinsic — [[Order and Chao
 - [[Wesley's Sigils|Wesley's sigils]] (real and decoy)
 - Wesley's chalk-cartography
 - Glyphs on the architecture itself
+- **[[Nullprints|Nullprints]]** — see the disambiguation below
 - Residue (semi-physical agency-substance; fades on its own hours-to-days timeline regardless of reset — see [[Forensic Delving]])
 - Found keystones (carried by PCs — see [[The Keystone Tablet]])
 
-**What does NOT persist:** drag marks, blood trails, ash-stains; spent supplies (torches, flares, wrappers); dropped personal effects and tools; monster corpses (and loot on them — **loot during the delve**).
+**What does NOT persist:** drag marks, blood trails, residue-ash and scorch; spent supplies (torches, flares, wrappers); dropped personal effects and tools; monster corpses (and loot on them — **loot during the delve**).
+
+> [!note] Nullprints are not ash — disambiguation
+> Three different marks get loosely called "the stain," and only one of them survives the night.
+> - **Residue** — semi-physical agency-substance hanging in the chamber. Fades hours-to-days on its own clock. Forensic gold; short-lived.
+> - **Residue-ash / scorch** (e.g. the ash-rings around the [[The Buzzsaw Room|Buzzsaw]] platform) — the *smoke*, physical soot. **Cleared by reset**, like blood and drag-marks.
+> - **[[Nullprints|The nullprint]]** — the machine's ledger entry, seared into the stone underneath. **Not cleared by reset.** It persists for months or years, and it fades only because **the dungeon is slowly eating it.** This is why [[Wendell Pace]]'s mark is still in [[The Pillared Reach]] and [[Lowell Brandt]]'s trail is still readable a year on.
+>
+> A dropped **notebook or personal effect does not persist** — which is why nothing a delver caches below survives the night, and why everything [[Lowell Brandt|Lowell]] ever brought out came home in his pockets instead.
 
 The daily reset operates independently of TPK — every morning is a fresh dungeon, never compounded (see [[Death, TPK, and the Lost Day]]).
 
@@ -54,4 +63,4 @@ Floor 1 is a knowable place; Floor 12 is a different dungeon every time — and 
 > When Wesley is **active**, the gradient operates as designed (shuffling on 3+, contents on 6+, layouts on 10+). When Wesley is **incapacitated** (injured, away, captured), the gradient-shuffle **stops** — the intrinsic daily reset continues, but deep floors come back *static*. Attentive PCs may notice: "Floor 5 is the same configuration today as yesterday — that shouldn't happen." This is the **late-Act-1 forensic handle** for tracking Wesley's status indirectly (pairs with the residue and sigil signals in [[Forensic Delving]]).
 
 ## Source
-Campaign Bible v0.4, §10 (Floor Reset §10/897; Floor Intelligence Gradient §10/918), cross-referencing §3 (The Dungeon's Nature — machine-not-mind, Wesley as user).
+Campaign Bible v0.4, §10 (Floor Reset §10/897; Floor Intelligence Gradient §10/918), cross-referencing §3 (The Dungeon's Nature — machine-not-mind, Wesley as user). **Nullprint / residue / residue-ash disambiguation added 2026-08** — see [[Nullprints]].
