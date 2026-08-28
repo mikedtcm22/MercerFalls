@@ -4,13 +4,13 @@ created: 2026-08-02T00:00:00.000Z
 domain: Episodes
 featured_rival: "[[Eddie Park]]"
 monster: "[[Ghosts]] — [[Lowell Brandt]]"
-source: ["conversation 2026-08 (Episode 3 break: ghost cosmology, Eddie rebuild, Hollis misdirection, the locket)", conversation 2026-08-14 (renumbered 3 → 4 after Session 4)]
+source: ["conversation 2026-08 (ghost cosmology, Eddie rebuild, Hollis misdirection, the locket)", conversation 2026-08-14 (renumbered 3 → 4), conversation 2026-08-28 (Ep3 handoff revised; print cluster cut)]
 status: outline
 tags: [embers, episode, ghosts, eddie, nullprint, outline]
 title: Episode 4 — The Crossing
 type: episode
 visibility: dm-only
-window: Early July 1996
+window: Mid July 1996
 ---
 
 # Episode 4 — The Crossing
@@ -20,12 +20,18 @@ Up: [[Episodes]]
 **The one-year memorial vigil for [[Lowell Brandt]] coincides with a man walking in front of a train. [[Ghosts]] enter the campaign as a recurring monster; the party learns what a [[Nullprints|nullprint]] actually is; and the monster of the week again exists *because of something [[Wesley Crane|Wesley]] did.* Featured Rival: [[Eddie Park]] (debut). Wesley fingerprint level: present, unattributed.**
 
 > [!note] Renumbered 3 → 4 (2026-08-14)
-> Session 4 resolved Episode 2 early and clean — Ricky rescued without [[Wade Vance|Wade]] or [[Patricia Vance|Patricia]], no delve, and [[Panels]], Grace Tabernacle and the [[Mercer Falls Historical Society|Historical Society]] all still unvisited. [[Episode 3 — Second Shift]] takes the Ep3 slot; this episode moves back one. Titles "The Crossing" / "The Vigil" remain interchangeable.
+> Session 4 resolved Episode 2 early and clean — Ricky rescued without [[Wade Vance|Wade]] or [[Patricia Vance|Patricia]], no delve, and [[Panels]], Grace Tabernacle and the [[Mercer Falls Historical Society|Historical Society]] all still unvisited. [[Episode 3 — Second Shift]] takes the Ep3 slot; this episode moves back one.
 
-> [!note] What Ep3 hands this episode
-> [[Episode 3 — Second Shift]] puts the party on the **print cluster at the foot of the [[The Spiral Stair Room|shaft stair]]** — seven 1991 outlines, **some dark and sunken, some pale ash** — with the colour difference deliberately *unexplained*. This episode is where that observation gets its answer. If they already counted the pale ones against the obituary count, they will arrive suspecting some of the 1991 men are alive; let that be right, and let the white ones be the ghosts.
+> [!danger] What Ep3 hands this episode — REVISED 2026-08-28
+> **The seven-print cluster is cut.** Nullprints now fade to nothing as the victim recovers ([[Nullprints]]), so the 1991 *survivors* left nothing — what remains of them is notches. The party arrives here **without** having seen a black/white contrast.
 >
-> Ep3 also fires the first **sigil-clear**, so the party already knows a drawn chalk figure can bind a monster. Wesley's fingerprint is now *two* episodes deep and still unattributed.
+> **What they do arrive with:**
+> - **The compounding curve, from [[Ren Sołtys|Ren]]'s notebook.** Every second entry is longer than the first; [[Henry Voss]]'s first *logged* entry is longer than anyone's second. They know hollowing is cumulative and that they are somehow exempt.
+> - **The first sigil-clear.** A drawn chalk figure can bind a monster. Wesley's fingerprint is two episodes deep and still unattributed.
+> - **[[The Recall]] and the persistence rule** — proven by their own graffiti experiment, which also proves the tally marks they've been following belong to a *person* crossing multiple resets.
+> - **[[Ren Sołtys|Ren]] is hollowed and gone for nine days**, which is all of this episode. She is not available as a resource, and the party is holding her notebook, which she cannot consent to them using.
+>
+> **So the colour tell is now a first-contact reveal here**, not a payoff. Lowell's print in [[The Pit Room]] is the first white one they've ever seen, and the black/white rule lands cold. That is a cleaner beat than the deduction it replaces — but it means **the tell must be teachable inside this episode.** The shoebox scraps or Mercer's register carry it.
 
 ## Design commitments
 
@@ -37,7 +43,9 @@ Up: [[Episodes]]
 
 **4. Lore leaks freely; attribution doesn't.** Hollowing, agency-loss, nullprints, and the machine all land in earnest this episode. *"Who is leading people down there"* does not.
 
-**5. [[Eddie Park|Eddie]] is the key witness, not the victim.** Deliberate variety against [[Ricky Vance|Ricky]]'s capture — and now doubly reinforced by [[Ren Sołtys|Ren]] playing the same role in Ep3. Two witness-rivals running, which makes the *third* rival's episode the place to vary the shape.
+**5. [[Eddie Park|Eddie]] is the key witness, not the victim.** Deliberate variety against [[Ricky Vance|Ricky]]'s capture — and doubly reinforced by [[Ren Sołtys|Ren]] playing the same role in Ep3. Two witness-rivals running, which makes the *third* rival's episode the place to vary the shape.
+
+**6. The "late" register belongs to this episode.** Reserved deliberately — Ep3's Siren calls in the opposite key (an invitation you don't have to earn). Lowell's possession is **debt**: expected, failing to arrive, someone waiting. Keep it exclusive.
 
 ## The paired-fact table (the misdirection engine)
 
@@ -50,28 +58,28 @@ Up: [[Episodes]]
 | **[[Eddie Park\|Eddie]]'s testimony:** the church made Lowell worse — the sessions, the shame. | **Lowell was emptying before the sessions began.** Eddie's timeline is compressed by grief. A careful chronology collapses the theory from inside the witness's own account — and only surfaces if the party treats him as a competent source. |
 | The Grace Tabernacle rolls have no record of Lowell after spring '95; the Center's volunteer list does. *He'd stopped attending — so what was he doing there at night?* | Same answer as row one. |
 
-**Keep the evidence damning and the man pathetic.** Hollis stonewalls out of humiliation (the sessions failed; the library digging is undignified), never out of menace. Per his note: shifty and petty, not sinister-competent. The gap between a strong circumstantial case and an obviously unimpressive man is what keeps him a herring — and it's the exact inverse of the Wesley reveal (a beloved, impressive man with no evidence against him at all). Those two shapes sitting side by side all summer is the point.
+**Keep the evidence damning and the man pathetic.** Hollis stonewalls out of humiliation (the sessions failed; the library digging is undignified), never out of menace. Shifty and petty, not sinister-competent. The gap between a strong circumstantial case and an obviously unimpressive man is what keeps him a herring — the exact inverse of the Wesley reveal (a beloved, impressive man with no evidence against him at all). Those two shapes side by side all summer is the point.
 
 > [!note] Live hook from Session 4
-> Hollis told Bash to **come back in a couple of days** for the sermon he was "germinating." That invitation is unclaimed and can open this episode cold.
+> Hollis told Bash to **come back in a couple of days** for the sermon he was "germinating." Still unclaimed as of Session 5, and can open this episode cold.
 
-**The line to build it on.** Wesley, asked about Hollis, refuses the bait: *"Reverend Hollis and I want the same thing for this town. We just disagree about the road."* Generous, exactly what a good man says, and **literally true.** Nobody at the table will notice for three months.
+**The line to build it on.** Wesley, asked about Hollis, refuses the bait: *"Reverend Hollis and I want the same thing for this town. We just disagree about the road."* Generous, exactly what a good man says, and **literally true.**
 
 ## The monster
 
 [[Lowell Brandt]] — full profile there; rules in [[Ghosts]].
 
-- **Anchor:** the mill-road **grade crossing**, half a mile short of the mill grounds. Old crossbucks, no gates, a signal scheduled for upgrade before the mill closed and then never upgraded. Two freights a week, late, serving somewhere one town over.
-- **Why here:** it's on his Tuesday route; it sits between the town and the dungeon so **every delve this summer crosses it**; and it's far enough from the mill grounds that he's the only thing in the dark — which is the only reason this case is solvable at all (per the [[The 1991 Mill Incident|1991]] ruling, the grounds are thick with ghosts nobody has ever separated out).
+- **Anchor:** the mill-road **grade crossing**, half a mile short of the mill grounds. Old crossbucks, no gates, a signal scheduled for upgrade before the mill closed and never upgraded. Two freights a week, late, serving somewhere one town over.
+- **Why here:** it's on his Tuesday route; it sits between town and the dungeon so **every delve this summer crosses it**; and it's far enough from the grounds that he's the only thing in the dark — the only reason this case is solvable (per the [[The 1991 Mill Incident|1991]] ruling, the grounds are thick with ghosts nobody has separated out).
 - **He is commuting, not hunting.** Possession drives a borrowed body toward the mill; his blind spot is the crossing itself.
 - **Lethal window: a train on approach.** ~90 seconds, twice a week. Otherwise he's dread. **The freight timetable is public** — a two-TP investigation that converts directly into survival.
 - **The visible loop:** a man in a work coat walking the ballast, stopping, **patting his coat pockets for something that isn't there.**
 
 ## Cold open — Ray Kubiak
 
-Third person, like Ricky's and Stan Prokop's. Two or three minutes. **Asymmetry is the goal:** the players should see a possession; the characters get a rumour about a bad crossing.
+Third person. Two or three minutes. **Asymmetry is the goal:** the players see a possession; the characters get a rumour about a bad crossing.
 
-*[[[Ray Kubiak]] — late forties, a [[Marco's Diner|Marco's]] regular so the party has plausibly seen him. Grace Tabernacle for twenty years, quietly drifting to the Center since spring. Alternates: Dale Ferris, Marty Voskuil.]*
+*[[[Ray Kubiak]] — late forties, a [[Marco's Diner|Marco's]] regular so the party has plausibly seen him. Grace Tabernacle for twenty years, quietly drifting to the Center since spring.]*
 
 1. Kubiak out the side door of Grace Tabernacle, hot-faced. He went to tell Hollis he was leaving. It got loud; people heard it through the door. It didn't feel how he'd imagined. Behind him through the glass, Hollis is still standing where he left him, not moving.
 2. Mill road. No lights past the [[The Sinclair Station|Sinclair]]. Warm, bugs, gravel.
@@ -86,38 +94,45 @@ Third person, like Ricky's and Stan Prokop's. Two or three minutes. **Asymmetry 
 
 **Cut. Don't show the train.**
 
-**Then hand them the paper.** Two paragraphs in the Mercer Falls Ledger, under the fold, with the word *apparently* in it — and on the same page, the notice for Saturday's one-year memorial vigil at the Community Center for **Lowell A. Brandt.** The players have the name in four minutes.
+**Then hand them the paper.** Two paragraphs in the Ledger, under the fold, with the word *apparently* in it — and on the same page, the notice for Saturday's one-year memorial vigil at the Community Center for **Lowell A. Brandt.**
 
 > [!note] Deliberate contrast with Ep3
-> Stan Prokop's walk **never made the paper** — the Filter swallowed it whole. Kubiak's death does, because a man hit by a train is unignorable. If the party notices that one made the Ledger and thirty nights of sleepwalking didn't, that is a real and correct read on how the Filter works, and worth rewarding.
+> The sleepwalking **never made the paper** — the Filter swallowed a week of it whole. Kubiak's death does, because a man hit by a train is unignorable. If the party notices that one made the Ledger and the other didn't, that's a real and correct read on how the Filter works. Reward it.
 
 ## The four acts
 
 ### Act 1 — The vigil, the rumour, the crossing
 - **The vigil should be genuinely moving.** Wesley's eulogy should be *good*. If the table isn't a little moved, it isn't working. Alma Brandt found support here when the church shamed her. Eddie is visibly steadier here — useful, given a role.
 - Half-hearted rumours: kids say Hollis cursed him; adults say that crossing's always been bad. Nobody investigates either.
-- **The survivor node.** Someone who nearly stepped out two weeks ago and got grabbed by a friend. Embarrassed, not traumatised — they've told nobody because the story is *"I almost walked in front of a train for no reason."* This is where PC knowledge catches up to player knowledge.
-- **The lead is the overlap:** two independent people describing **a boy's bedroom, a humidifier, and counting stairs** — and neither has a sick child. Solvable by reasoning, not lore. It points at the Brandts without naming them and makes the breakthrough a *demographic* question: who in this town has a kid who's been sick a long time?
-- **TP at the Center buys real help** — adults who'll vouch for the kids, a phone, the bulletin, Wesley making a call. No strings, no catch. *(And if [[Ren Sołtys|Ren]] came out of Ep3 badly, she is already here.)*
+- **The survivor node.** Someone who nearly stepped out two weeks ago and got grabbed by a friend. Embarrassed, not traumatised — they've told nobody because the story is *"I almost walked in front of a train for no reason."* Where PC knowledge catches up to player knowledge.
+- **The lead is the overlap:** two independent people describing **a boy's bedroom, a humidifier, and counting stairs** — and neither has a sick child. Solvable by reasoning, not lore. Makes the breakthrough a *demographic* question: who in this town has a kid who's been sick a long time?
+- **TP at the Center buys real help** — adults who'll vouch for the kids, a phone, the bulletin, Wesley making a call. No strings, no catch.
+
+> [!danger] Ren is not available
+> She is **nine days hollow** for the whole of this episode. If the party goes looking for her — and they will, because she was useful — they find a girl in a chair at her mother's house who doesn't answer to her name. **The Center is bringing meals to the Sołtys house.**
+>
+> If the party asks Wesley about her, he is kind, concerned, and already involved. Nothing sinister happens on screen.
 
 ### Act 2 — The Brandts, Eddie, the shoebox
 - Alma. Denny, 11, bed-bound.
-- **[[Eddie Park|Eddie]] is the gate, three times over:** he knows the hiding spot and has the shoebox; he has to **vouch for the party** with Alma (four strange twelve-year-olds are not giving a widow's dying son an unlabelled bottle); and he hasn't been back to that house in a year.
+- **[[Eddie Park|Eddie]] is the gate, three times over:** he knows the hiding spot and has the shoebox; he has to **vouch for the party** with Alma (four strange teenagers are not giving a widow's dying son an unlabelled bottle); and he hasn't been back to that house in a year.
 - **The shoebox is the episode's centrepiece.** Stratified: notebook at the bottom, deteriorating scraps in the middle, the locket on top. Lifted out in order it's a man coming apart — **the hollowing lecture delivered as a prop, topside, in front of [[Gern]].** Full contents in [[Lowell Brandt]].
+- **The scraps now also have to carry the colour tell** (see the revised handoff above). Lowell watched his own earlier prints fade and wrote it down; somewhere in the middle layer is a line to the effect of *the marks go away when you come back, and the ones that don't are the ones that never did.*
 - The companion is never named. *"He is the only one who never told me to stop."*
 
 ### Act 3 — The cure, and the vial fills
 - The elixir works. **Full cure — the boy living is the light in a grim episode.**
 - **Cost of the lost year:** Denny is left with a **permanent disability** (a bad leg), otherwise healthy.
 - **The disease replaces the liquid** — the vial refills with black ichor, warm to the touch, moving a little on its own. That is now the release object.
-- **Eddie's punch.** The cure was in the box for a year. He couldn't have known — a vial in a dead man's effects means nothing without the pages, and the pages were under it. Wesley will handle it beautifully: *"You couldn't have known."* True, kind, and the beginning of Eddie never having to weigh anything again.
+- **Eddie's punch.** The cure was in the box for a year. He couldn't have known — a vial in a dead man's effects means nothing without the pages, and the pages were under it. Wesley handles it beautifully: *"You couldn't have known."* True, kind, and the beginning of Eddie never having to weigh anything again.
 - **The party's counter is not absolution.** It's *"you opened it — that part was yours."* Saving-grace, one line, at the moment it can land.
 
 ### Act 4 — The delve
-- **Objective: [[The Pit Room]] (room 9).** Lowell's live white print. The party has never been in 9, but as of Ep3 they have stood in the [[The Octagonal Vestibule|Octagonal Vestibule]] *twice* and walked past this spoke — **this is the door they didn't take last time.** Picking the spoke collapses the others until reset: no bailing.
-- **Discovery beat:** the scraps *describe* the room rather than naming it — a pit with penned animals, a wide crossing and a narrow one, something big asleep on a hide. Let someone at the table say *"wait, that's the room off the vestibule."* Same trick as the humidifier.
-- **Encounter:** Dogman Chief (HP 52) + 3 Pit Wolves — locked at **Hard @ level 2**. Retune upward if Ep3's sigil-clear pushed them to level 3.
-- **It's a hold, not a kill.** They need roughly a minute of contact with the print to burn the vial. Beat the room, stealth the Chief, drop the wolves into their own pit — whatever they invent.
+- **Objective: [[The Pit Room]] (room 9).** Lowell's live white print — **the first white print the party has ever seen.**
+- **Route caveat, post-Session 5.** The [[The Octagonal Vestibule|Vestibule]] presented **eight doors** last visit and sealed every spoke but the one they took. It does not present a stable map. Decide whether Room 9 is reachable through the Vestibule again or whether they route via the [[The Bell Junction|Bell Junction]] and the corridor beyond.
+- **Discovery beat:** the scraps *describe* the room rather than naming it — a pit with penned animals, a wide crossing and a narrow one, something big asleep on a hide. Let someone at the table say *"wait, that's the room off the vestibule."*
+- **Encounter:** Dogman Chief (HP 52) + 3 Pit Wolves — locked at **Hard @ level 2.** Retune upward if Ep3 pushed them to level 3, and note they now have a **+1 Warhammer** in the party.
+- **It's a hold, not a kill.** They need roughly a minute of contact with the print to burn the vial.
 - **The print is the wrong shape.** Not arms-open like Wendell's: on his side, one arm out toward the crossing. Still trying to get across.
 - **Clearing or bypassing 9 opens the Down-Stairs (10) → Floor 2 → [[Episode — The Click]].**
 
@@ -129,28 +144,30 @@ Optional-depth lore, delivered — innocently — from the hands of the man they
 
 Mercer's register is **clinical and industrial**: no sides, no enemy, no salvation. He describes the emptying observationally and speculates about an **apparatus** — something built, with intent, and a purpose he can't name. Critically, **he illustrates the nullprint too**, and calls it something like a *discharge figure* or an *index*. Same shape as Figure 9, different caption, and his is fifty years older.
 
-**Why it cracks [[Gern]]:** his authority rests on holding the only text that explains what they're seeing. Now there are two texts that both get the phenomena right and disagree completely about why — and the older one didn't need a cosmology to do it. The true reading is also the bleak one: no one to pray to, no side, no rescue. Gern's temptation will be to reject it *because* it's cold, which is a discernment failure dressed as faith — his arc delivered as a prop. See [[Certaintism]].
+**Why it cracks [[Gern]]:** his authority rests on holding the only text that explains what they're seeing. Now there are two texts that both get the phenomena right and disagree completely about why — and the older one didn't need a cosmology to do it. The true reading is also the bleak one: no one to pray to, no side, no rescue. Gern's temptation will be to reject it *because* it's cold, which is a discernment failure dressed as faith. See [[Certaintism]].
 
 > [!note] Ep3 already loaded this gun
-> [[Ren Sołtys|Ren]]'s notebook is the same shape of argument in a twelve-year-old's handwriting — right about the *what*, silent on the *why*, and more accurate than scripture. Session 4 also put the **Mill charter's stewardship language** and **Elias Mercer's obsessive siting** in the party's hands. Mercer's *index* caption is the third strike, and by now it should feel like a case rather than a revelation.
+> [[Ren Sołtys|Ren]]'s notebook is the same shape of argument in a fifteen-year-old's handwriting — right about the *what*, silent on the *why*, and more accurate than scripture. Session 4 also put the **Mill charter's stewardship language** and **[[Elias Mercer]]'s obsessive siting** in the party's hands. Mercer's *index* caption is the third strike, and by now it should feel like a case rather than a revelation.
 
 ## Aftermath & seeds
 
 - **[[Eddie Park|Eddie]]'s disposition** set by whether he was treated as a witness or a wound. Wesley counter-cultivates either way: *"they used you" / "they made you dig him up."*
-- **The rule generalises, and Ep3's cluster resolves.** White prints mean ghosts. The seven outlines at the foot of the shaft stair now sort themselves: the pale ones are the dead of 1991, and they are *still out there*. **[[Wendell Pace]]'s is black, in [[The Pillared Reach]], being eaten right now** — and there is no safe operation available to them. Let them work out what that means.
-- **The mill grounds.** Every walk across them from here on is a walk through the 1991 dead. See [[Ghosts]].
+- **The colour rule generalises.** White means dead and there's a ghost; black means alive and still being eaten. **[[Wendell Pace]]'s is black, in [[The Pillared Reach]]** — and there is no safe operation available to them. Let them work out what that means.
+- **The 1991 dead left seven white prints, permanently**, somewhere in and around [[The Mill]]. Nobody has ever separated one out. Every walk across those grounds from here is a walk through them. See [[Ghosts]].
 - **The Mercer funeral custom.** [[Old Man]] has been carrying Timothy's photocopies since Session 4: eighty years of the Mercer family burning an object belonging to the deceased on the grave and working the ash into the grass. Once the party knows what release is, that clipping stops being an eccentricity. **Do not connect it for them.**
-- **Denny lives.** A cure came out of that hole in the ground, in a town full of sick and grieving people. That's the temptation Lowell died of and Wesley is dying of, now handed to the players as a good deed they performed themselves. Best Act-1 seed in the episode.
+- **[[Ren Sołtys|Ren]] wakes up in Ep5** and finds nine days with nothing in them. That, not resentment, is what sends her to Wesley.
+- **Denny lives.** A cure came out of that hole in the ground, in a town full of sick and grieving people. That's the temptation Lowell died of and Wesley is dying of, now handed to the players as a good deed they performed themselves.
 - **Floor 2 is open.**
 
 ## Open dials
 - Stat tuning for the ghost at the level-2/3 band ([[Ghosts]]).
-- Whether burning destroys the print or lifts it as ash. *(Ep3's sigil-clear already used "the chalk goes to ordinary dust" — a rhyme is available.)*
+- Whether burning destroys the print or lifts it as ash. *(Ep3's sigil-clear used "the chalk goes to ordinary dust" — a rhyme is available.)*
 - Ray Kubiak's name; the survivor's identity.
-- Whether the party is level 3 by now, and whether the Pit Room needs a bump.
+- Party level, and whether the Pit Room needs a bump given the +1 Warhammer.
+- **Where the colour tell actually lands** — the shoebox scraps, Mercer's register, or the Pit Room itself.
 
 ## Links
-[[Ghosts]] · [[Nullprints]] · [[Lowell Brandt]] · [[Eddie Park]] · [[Gern]] · [[Reverend Hollis]] · [[Wesley Crane]] · [[The Community Center]] · [[The Pit Room]] · [[The Octagonal Vestibule]] · [[The Mill Sector]] · [[Certaintism]] · [[Hollowing and Agency-Loss]] · [[The Library]] · [[Elias Mercer]] · [[Wendell Pace]] · [[The 1991 Mill Incident]] · [[Time Points]] · [[Episode 3 — Second Shift]] · [[Episode 2 — The Hush]] · [[Ren Sołtys]] · [[The Negotiation System]] · [[The Cast and the Permanent Cast]]
+[[Ghosts]] · [[Nullprints]] · [[Lowell Brandt]] · [[Eddie Park]] · [[Gern]] · [[Reverend Hollis]] · [[Wesley Crane]] · [[The Community Center]] · [[The Pit Room]] · [[The Octagonal Vestibule]] · [[The Bell Junction]] · [[The Recall]] · [[The Mill Sector]] · [[Certaintism]] · [[Hollowing and Agency-Loss]] · [[The Library]] · [[Elias Mercer]] · [[Wendell Pace]] · [[The 1991 Mill Incident]] · [[Time Points]] · [[Episode 3 — Second Shift]] · [[Session 5 — Second Shift]] · [[Ren Sołtys]] · [[The Negotiation System]] · [[The Cast and the Permanent Cast]]
 
 ## Source
-Conversation, 2026-08 — full break: ghost cosmology (see [[Nullprints]], [[Ghosts]]), the [[Eddie Park]] rebuild as Gern's foil, [[Lowell Brandt]] and the Severance trap, the Hollis paired-fact misdirection, the Kubiak cold open with possession-as-commute, the shoebox/locket structure collapsing the episode to one delve, and the Pit Room as the live print. **Renumbered 3 → 4 and wired to [[Episode 3 — Second Shift]]'s handoffs (conversation, 2026-08-14).**
+Conversation, 2026-08 — ghost cosmology, the [[Eddie Park]] rebuild as Gern's foil, [[Lowell Brandt]] and the Severance trap, the Hollis paired-fact misdirection, the Kubiak cold open, the shoebox/locket structure, the Pit Room as the live print. Renumbered 3 → 4 (2026-08-14). **Revised 2026-08-28:** the Ep3 print-cluster handoff cut and replaced (colour tell is now first-contact here), Ren marked unavailable, ages corrected, Vestibule routing flagged, and the "late" register claimed exclusively for this episode.
