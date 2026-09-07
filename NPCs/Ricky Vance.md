@@ -5,10 +5,10 @@ created: 2026-06-14T00:00:00.000Z
 disposition_start: 2
 domain: Cast
 featured_episode: Episode 2 — The Hush
-role: recruit (Tank's inverted-mirror foil; the control-mask kid)
-source: [wesley bizarro plot v5 §3, campaign bible v0.4 §9, "Ricky deep-dive (conversation, 2026-06)"]
+role: recruit (Tank's inverted-mirror foil; the control-mask kid); the one Wesley-driven hollowing
+source: [wesley bizarro plot v5 §3, campaign bible v0.4 §9, "Ricky deep-dive (conversation, 2026-06)", "conversation 2026-08-29 (post-play revision: the hands, the doubt, Wesley-driven hollowing)"]
 status: canonical
-tags: [embers, npc, recruit, order, foil]
+tags: [embers, npc, recruit, order, foil, wesley-driven]
 title: Ricky Vance
 type: npc
 visibility: mixed
@@ -21,55 +21,96 @@ Up: [[Cast & NPCs]]
 **17, [[Tank]]'s crewmate and the architect of the dare-night prank — the cool, technical "Iceman" whose flawless control is a borrowed costume, stitched from an absent father he's spent his life trying to be. [[Wesley Crane]]'s most wedge-able recruit, and his most dangerous on the failure path.**
 
 > [!danger] DM-only
-> Ricky's recruit nature, his lever, and the rescue mechanics below are secret. To the table he's a jock who got "shipped off to military school" — until he isn't.
+> Ricky's recruit nature and his lever are secret. To the table he's a jock who got taken by something in the woods and came back wrong.
 
 ## Profile
-17. A jock and one of [[Tank]]'s crew — the wide receiver to Tank's linebacker, offense to defense, a natural pairing with a natural edge of competition. He **proposed the prank** on the night of [[Session 1 — The Dare]] (scare [[Bash Whitlock|Bash]] and [[Gern]] off the mill grounds inside an hour). Cool under pressure, technically precise, high game-IQ — the kid who never looks rattled.
+17. A jock and one of [[Tank]]'s crew — wide receiver to Tank's linebacker. He **proposed the prank** on the night of [[Session 1 — The Dare]]. Cool under pressure, technically precise, high game-IQ — the kid who never looks rattled.
 
-The control is a costume. His father, **[[Wade Vance]]**, is **active military and almost never home** — always needed for something he can't talk about — so the house is held together by a **frazzled mom** and by Ricky, who keeps every plate of his life spinning by *emulating the absent man:* be disciplined, be unflappable, be the steady hand the household is missing. He is parentified into playing his own father. **Military school** was Dad's old standing disciplinary threat — almost certainly never serious, but Ricky is exactly the kind of kid who amplifies a thing like that.
+The control is a costume. His father, **[[Wade Vance]]**, is **active military and almost never home**, so the house is held together by a **frazzled mom** and by Ricky, who keeps every plate spinning by *emulating the absent man.* He is parentified into playing his own father.
 
 ## The foil — [[Tank]]'s inverted mirror
 Both are elite athletes over-functioning for a father; the masks are reversed.
-- **Tank:** real discipline *inside*, an easy chaos performed *outside*; a father **present but broken**, whose hope is a weight Tank carries.
-- **Ricky:** chaos at home, rigid control performed outside; a father **absent but idealized**, whose role Ricky strains to *embody*.
+- **Tank:** real discipline *inside*, easy chaos performed *outside*; a father **present but broken**.
+- **Ricky:** chaos at home, rigid control performed outside; a father **absent but idealized**.
 
-Tank launders his wanting through an audience; Ricky launders his fear through a costume of order. Because they're mirror images, **[[Tank]] (a PC) is uniquely able to see through Ricky** — the one person who knows what a mask that good is hiding. (Mechanically: Tank-led recognition is a strong reach on Ricky.)
+Tank launders his wanting through an audience; Ricky launders his fear through a costume of order. **[[Tank]] is uniquely able to see through him** — the one person who knows what a mask that good is hiding.
 
 ## Dare night → the capture
-He chained the gate and left, meaning to circle back and watch Bash & Gern lose their nerve; he found the grounds **empty** (the party had already fled below) and went looking — which left him alone when the adult [[The Hush]] broke off the hatch and took *him* instead. The former two-session pilot has been **split into two episodes:** [[Session 1 — The Dare|Session 1 (The Dare)]] is the PCs' prologue (they never learn Ricky was taken); **[[Episode 2 — The Hush]] cold-opens on Ricky's capture, from his POV** — the players discover what happened to the kid who set them up.
+He chained the gate and left, meaning to circle back; found the grounds **empty** and went looking — which left him alone when the adult [[The Hush]] took him. [[Episode 2 — The Hush]] cold-opened on his capture from his POV.
 
-## The rescue (Episode 2 climax)
-The town's cover story is "his dad shipped him off to military school." The truth: the Hush has him, and **his father, [[Wade Vance]], has gone missing too — because he's out searching.** Dad's bond to his son is strong enough to **break the [[The Reality Filter|Filter]]'s fog** (the same way grief broke [[Russ]]) — he's the second Filter-resistant adult the PCs meet, and his military training is *why* he can track the creature when no other adult will. When the PCs narrow down the Hush's den, they run into him there, and he plays a hand in the rescue (exact role flexes to how the players run the scene).
+**He was not hollowed.** The den is a monster's cache, not a dungeon pocket. The abduction is pure terror — total helplessness, the one thing he has organized his whole self against.
 
-**Most of the glory goes to Dad** — so the rescue does *not* ingratiate Ricky with the party, and he will never publicly admit the kids he set up pulled him out (that would detonate the Iceman image he survives by). Outcome bands set his disposition:
-- **Clean** (Ricky unscathed, Dad unhurt) → a small, *private* uptick: no public warmth ever, but later, when he could easily throw a PC under the bus, he doesn't. Neutral → Sympathetic.
-- **Messy** (Ricky out, but Dad is **gravely wounded** in the chaos) → Ricky blames the party → Wary, or Hostile if it got ugly. See the lever below for why this cuts so deep.
-- **Disaster** (egregious failure only) → Dad dies; Hostile, and a hard accelerant into Wesley. *(Reserve the father's death for a later, higher-stakes beat — the players barely know him in Ep2.)*
+## The rescue — AS PLAYED (Sessions 3–4)
 
-> [!note] No dungeon-touch here
-> Ricky is **not** hollowed by the Hush — the den is a monster's cache, not a dungeon pocket. We don't want ember/hollowing lore dumped on players who can't read it yet (or to accidentally protect the PCs via the pocket). The abduction is pure terror: total helplessness, the one thing Ricky has organized his whole self against. The Filter blurs the supernatural specifics afterward, but **the helplessness sticks** — and that's what drives him to Wesley.
+> [!danger] Supersedes the planned version
+> The designed rescue had **[[Wade Vance|Wade]] present and taking most of the credit**, specifically so the rescue would *not* ingratiate Ricky with the party. **None of that happened.**
+>
+> **The party found him alone, tracked the Hush from the drag-marks at the mill, killed it, and carried him out. No Wade. No [[Patricia Vance|Patricia]]. Clean, and entirely theirs.**
 
-## The lever (build key: [[The Cast and the Permanent Cast]])
-**Pressure-point — where Ricky hands over the wheel.** He's a kid holding a household together by imitating a steady authority who isn't there, and dare night proved his worst fear: control fails, and when it fails you get hunted. He is *desperate for a steady hand to anchor to.* [[Wesley Crane|Wesley]] is exactly that — *"you were right to be that scared; you can't trust yourself out there alone; my structure never fails."* The cast: Ricky outsources his safety to Wesley's system.
+**Disposition: Clean band.** Neutral → **Sympathetic**, privately. He owes them, publicly and privately, and he knows it.
 
-This is why a **messy/disaster rescue is so corrosive** — it isn't just a disposition penalty, it's *thematic confirmation:* chaos cost him again, and this time it laid up the very symbol of order he was straining to embody. With his anchor broken, the father-shaped hole gets bigger, and Wesley steps into it. The botch literally manufactures the vacuum Wesley fills.
+**But the shame vector is gone**, and something better replaced it.
 
-**Saving-grace — what the party can offer that Wesley can't.** Wesley's help makes you *need the system.* The party's move is to show Ricky he can survive chaos by being **trusted inside it** — include him in the unscripted rescue instead of managing him; let [[Bash Whitlock|Bash]] or [[Gern]] extend a hand without making him grovel for it. Peer-trust in the middle of the mess is the one thing Wesley structurally cannot counterfeit (*"you don't need a perfect system — you need to know you can handle it when it goes sideways, and you can"*). [[Tank]]'s mirror-recognition is the sharpest version.
+## What actually happened to him
 
-## Hollowed-and-survived qualifier — later in Act 1
-Not the Hush captivity. [[Wesley Crane|Wesley]] gets to him fast; before long Ricky is helping him **delve**, and his hollowed-and-survived event happens there — situational, timing **TBD**, and *probably not* the one [[Wesley's Recruits|manufactured]] hollowing (just a natural consequence of being Wesley's most committed recruit). See [[The Other Party (Rival or Evil)]] for the "Gathering Hollows" qualifier.
+**Three nights in a pit, breathed on by spores.** Not eaten, not injured — *stored*. His cold open had his grip fail eight feet up a wall, and his reaction was to blame himself: *"That's not bad luck. It's just stupidity."*
+
+**His body doesn't work right any more.** Light weight, can't finish a first set, and then his hands simply open. *"My arms just quit."* Doctors find nothing — **the [[The Reality Filter|Filter]] won't let them.**
+
+For a kid whose entire self is control of his own body, that is the deepest wound available.
+
+## The doubt — and its mechanical cause
+
+**He went back to the cave and there was nothing there.** Per [[The Recall]], a dungeon-native killed outside is gone by the next sunrise — no mark, no smell, nothing.
+
+So the only evidence the Hush ever existed is **a Polaroid**, and photographs are easy to talk yourself out of.
+
+> *"I mean — three days, no water. I know what I saw."*
+>
+> *A beat too long.*
+>
+> *"...I* think *I know what I saw. It was dark down there the whole time. And I hadn't eaten."*
+
+**Do not let anyone talk him back into it.** He'll keep doing this all summer, and the person who eventually tells him *"no, it was real"* is going to own him.
+
+## The lever — REVISED
+
+**Pressure-point: nobody can tell him what's wrong with him, and one man can.**
+
+The old pitch (*"you can't trust yourself out there alone; my structure never fails"*) still applies, but the **hands are the wedge**, and it's better because it's *true*:
+
+- The party saved him and **cannot fix this.**
+- Doctors say he's fine.
+- **[[Wesley Crane|Wesley]] doesn't say "you're fine." He says "I know exactly what that is."**
+
+**And Wesley is the only adult in Mercer Falls who won't rationalize the Hush:** *"That boy didn't get lost. People don't come back from getting lost looking like that."* True, kind, and the hook.
+
+For a kid organized entirely around control of his own body, **a diagnosis is a more fatal offer than a father figure.** Nothing about it requires the party to have failed him. It only requires that they couldn't help — which they can't.
+
+**Saving-grace — what the party can offer that Wesley can't.** Peer-trust in the middle of the mess: he can survive chaos by being *trusted inside it*, not managed through it. And now, specifically: **believe him out loud, before Wesley does.** The doubt is live and moving, and whoever gets there first wins him. [[Tank]]'s mirror-recognition is the sharpest version.
+
+## Hollowed-and-survived — **the Wesley-driven one**
+
+> [!danger] Ricky is the exception in the recruit ledger
+> Every Rival needs one pre-[[The Equinox Arc|Equinox]] hollowing. **Three are circumstance-driven; Ricky's is Wesley's doing**, deliberately, and it's the maximum betrayal available for three reasons:
+>
+> 1. **He's the only Rival the party has a real relationship with.** They carried him out of the woods.
+> 2. **His hands give Wesley a true reason.** *"The thing that did this to you — the fix is down there."* Not a lie. Same shape as the [[Lowell Brandt]] elixir.
+> 3. **He survived the Hush *without* being hollowed.** He is the kid luck refused to deliver, which is exactly why Wesley has to do it himself — and exactly what damns him when the party reconstructs it.
+
+**Timing: late — August.** Place it so the party can *almost* see it coming. **The near-miss is worth more than the reveal.**
 
 ## Negotiation profile (DM-only)
-- **Motivations (Interest up):** **Steadiness / a hand to anchor to** (he wants an authority — the party can be a *peer* anchor instead of a master); **Competence recognized** (he *is* good; treated as capable, not coddled); **his father** (a route reaches through the bond — *"your dad trusted you to hold your own"*).
-- **Pitfalls (Interest down):** **Pity / being managed** (coddling = the helplessness he can't stand; reads as contempt); **Public exposure of weakness** (anything threatening the Iceman image — above all, that Bash/Gern saved him); **using dare night / the prank as ammo** (shame, doubly loaded because it also names the fracture inside [[The Party]]).
-- **Reachable through:** peer-trust shown in chaos; [[Tank]]-recognition; naming what's true without pity — *"you knew that night was wrong before any of us did."*
-- **Wesley's counter-cultivation** (after Ep2): reframes PC respect as condescension — *"they only see who you used to be"* — and, if the rescue went badly, leans on the wounded-father guilt: *"they did that to him."*
+- **Motivations (Interest up):** **Steadiness / a hand to anchor to** · **Competence recognized** (treated as capable, not coddled) · **his father** · **being believed** *(new, and currently the strongest)*.
+- **Pitfalls (Interest down):** **Pity / being managed** · **Public exposure of weakness** · **using dare night as ammo** · **agreeing that maybe he imagined it.**
+- **Reachable through:** peer-trust shown in chaos; [[Tank]]-recognition; naming what's true without pity; **telling him the monster was real and meaning it.**
+- **Wesley's counter-cultivation:** reframes PC respect as condescension — *"they only see who you used to be"* — and, increasingly, *"they got you out. Fine. Can they tell you why your hands don't work?"*
 
-> [!note] Dad — [[Wade Vance]]
-> Ricky's father is statted as an Ep2 rescue ally — an absentee-military cover over a classified-operator truth ("whoa, Ricky's dad is a badass"), Filter-broken by love but *trained* enough to act on it. His **unit** is a Tier-3 faction seed (a mundane, cosmology-blind, extremely capable human outfit). See his note.
+> [!note] [[Wade Vance]] — thread left open
+> He searched three days for his son and now says *"he got turned around out there."* That's either the Filter working perfectly on a Filter-resistant man, or a father who can't afford to think about it. **Undecided, and it matters for [[Episode 4 — The Crossing]].**
 
 ## Connections
-[[Tank]] · [[The Party]] · [[Bash Whitlock]] · [[Gern]] · [[Wade Vance]] · [[Wesley's Recruits]] · [[Wesley Crane]] · [[The Hush]] · [[The Reality Filter]] · [[Russ]] · [[The Community Center]] · [[The Cast and the Permanent Cast]] · [[Session 1 — The Dare]] · [[Episode 2 — The Hush]] · [[The Negotiation System]] · [[The Other Party (Rival or Evil)]] · [[The Equinox Ritual]]
+[[Tank]] · [[The Party]] · [[Bash Whitlock]] · [[Gern]] · [[Wade Vance]] · [[Patricia Vance]] · [[Wesley's Recruits]] · [[Wesley Crane]] · [[The Hush]] · [[The Recall]] · [[The Reality Filter]] · [[Russ]] · [[The Community Center]] · [[The Cast and the Permanent Cast]] · [[Session 1 — The Dare]] · [[Episode 2 — The Hush]] · [[Episode 3 — Second Shift]] · [[The Negotiation System]] · [[The Other Party (Rival or Evil)]] · [[The Equinox Ritual]]
 
 ## Source
-wesley bizarro plot v5 §3 (Ricky, 99) · campaign bible v0.4 §9 (Rival Sketches, 754) · Session 0 player notes (2026-06) · Ricky deep-dive: Tank-mirror, the Vance-dad rescue, pressure-point ↔ saving-grace (conversation, 2026-06). Episode 1 → Episode 2 reference fix after the pilot split (conversation, 2026-07).
+wesley bizarro plot v5 §3 · campaign bible v0.4 §9 · Ricky deep-dive (2026-06). **Revised 2026-08-29** against play: the rescue ran clean and Wade-free, so the shame vector is dead; **the hands and the doubt replace it**, the doubt's cause is [[The Recall]], and Ricky is confirmed as **the one Wesley-driven hollowing** among the four Rivals, timed late (August).
