@@ -22,6 +22,11 @@ Up: [[Episodes]]
 > [!note] Renumbered 3 → 4 (2026-08-14)
 > Session 4 resolved Episode 2 early and clean — Ricky rescued without [[Wade Vance|Wade]] or [[Patricia Vance|Patricia]], no delve, and [[Panels]], Grace Tabernacle and the [[Mercer Falls Historical Society|Historical Society]] all still unvisited. [[Episode 3 — Second Shift]] takes the Ep3 slot; this episode moves back one.
 
+> [!warning] Revised 2026-09 — the print moved to Floor 2
+> **Lowell's live white print is no longer in [[The Pit Room]].** It now sits in **[[The Wash]], room 2 of [[Floor 2 — The Works]]** — the second room past the Floor-1 down-stairs.
+>
+> **Consequences:** the Pit Room is demoted from *destination* to *gate* (clear it or bypass it, then descend). **Floor 2 opens during this episode rather than after it**, and the party's first taste of the gremlin floor is the Ep4 climax. The Ep4 hold-the-print fight gains a much better stage — standing water, a sluice the crew can pull, and gremlins that multiply when wet. See Act 4.
+
 > [!danger] What Ep3 hands this episode — REVISED 2026-08-28
 > **The seven-print cluster is cut.** Nullprints now fade to nothing as the victim recovers ([[Nullprints]]), so the 1991 *survivors* left nothing — what remains of them is notches. The party arrives here **without** having seen a black/white contrast.
 >
@@ -31,7 +36,7 @@ Up: [[Episodes]]
 > - **[[The Recall]] and the persistence rule** — proven by their own graffiti experiment, which also proves the tally marks they've been following belong to a *person* crossing multiple resets.
 > - **[[Ren Sołtys|Ren]] is hollowed and gone for nine days**, which is all of this episode. She is not available as a resource, and the party is holding her notebook, which she cannot consent to them using.
 >
-> **So the colour tell is now a first-contact reveal here**, not a payoff. Lowell's print in [[The Pit Room]] is the first white one they've ever seen, and the black/white rule lands cold. That is a cleaner beat than the deduction it replaces — but it means **the tell must be teachable inside this episode.** The shoebox scraps or Mercer's register carry it.
+> **So the colour tell is now a first-contact reveal here**, not a payoff. Lowell's print is the first white one they've ever seen, and the black/white rule lands cold. That is a cleaner beat than the deduction it replaces — but it means **the tell must be teachable inside this episode.** The shoebox scraps or Mercer's register carry it.
 
 ## Design commitments
 
@@ -128,13 +133,14 @@ Third person. Two or three minutes. **Asymmetry is the goal:** the players see a
 - **The party's counter is not absolution.** It's *"you opened it — that part was yours."* Saving-grace, one line, at the moment it can land.
 
 ### Act 4 — The delve
-- **Objective: [[The Pit Room]] (room 9).** Lowell's live white print — **the first white print the party has ever seen.**
+
+- **Objective: [[The Wash]] — room 2 of [[Floor 2 — The Works]].** Lowell's live white print: **the first white print the party has ever seen.** *(Revised 2026-09; previously [[The Pit Room]].)*
+- **[[The Pit Room]] (9) is now the gate, not the destination.** Clear or bypass it, take the **Down-Stairs (10)**, pass [[The Tollgate]], and the Wash is the next room. **This episode therefore opens Floor 2 during its own climax** rather than as an aftermath note.
 - **Route caveat, post-Session 5.** The [[The Octagonal Vestibule|Vestibule]] presented **eight doors** last visit and sealed every spoke but the one they took. It does not present a stable map. Decide whether Room 9 is reachable through the Vestibule again or whether they route via the [[The Bell Junction|Bell Junction]] and the corridor beyond.
-- **Discovery beat:** the scraps *describe* the room rather than naming it — a pit with penned animals, a wide crossing and a narrow one, something big asleep on a hide. Let someone at the table say *"wait, that's the room off the vestibule."*
-- **Encounter:** Dogman Chief (HP 52) + 3 Pit Wolves — locked at **Hard @ level 2.** Retune upward if Ep3 pushed them to level 3, and note they now have a **+1 Warhammer** in the party.
-- **It's a hold, not a kill.** They need roughly a minute of contact with the print to burn the vial.
-- **The print is the wrong shape.** Not arms-open like Wendell's: on his side, one arm out toward the crossing. Still trying to get across.
-- **Clearing or bypassing 9 opens the Down-Stairs (10) → Floor 2 → [[Episode — The Click]].**
+- **Gate encounter:** Dogman Chief (HP 52) + 3 Pit Wolves — locked at **Hard @ level 2.** Retune upward if Ep3 pushed them to level 3, and note they now have a **+1 Warhammer** in the party. As a gate it is now genuinely *bypassable* — stealth past the wide crossing is a legitimate win, where before it sat on top of the objective.
+- **The hold, in a far better room.** They need roughly a minute of contact with the print to burn the vial. In the Wash that means **holding position in standing water while the gremlins work the sluice and the level rises** — and per [[The Gremlins]], water on a gremlin buds a Wet Spawn (one per gremlin per fight). The encounter escalates on its own without the DM adding anything. Bias the wandering table toward **Sparkjacks**, whose lightning arcs through shared water.
+- **The print is the wrong shape.** Not arms-open like Wendell's: on his side, one arm out toward the crossing. Still trying to get across. **The room now rhymes with the shape** — a flooded chamber with a broken bridge, which is the last place a man who died trying to cross would end up.
+- **Discovery beat, changed.** The old version had the scraps describe [[The Pit Room]] so someone could say *"wait, that's the room off the vestibule."* That recognition is gone — the Wash is territory they have never seen. Instead the scraps describe **standing water, a fallen bridge, a room that is always wet**, and recognition lands on *arrival*, as confirmation rather than deduction. The Pit Room becomes a landmark they pass. **Flagged as an open dial** — if the deduction beat matters more than the new stage, move the print back.
 
 **Alternative route in:** a possessed body walks the route. If the party is brave or stupid enough to let it take someone and follow, it walks them to the mill and then down, stopping at the first print. Legitimate, and a genuinely horrible thing to volunteer for.
 
@@ -157,17 +163,19 @@ Mercer's register is **clinical and industrial**: no sides, no enemy, no salvati
 - **The Mercer funeral custom.** [[Old Man]] has been carrying Timothy's photocopies since Session 4: eighty years of the Mercer family burning an object belonging to the deceased on the grave and working the ash into the grass. Once the party knows what release is, that clipping stops being an eccentricity. **Do not connect it for them.**
 - **[[Ren Sołtys|Ren]] wakes up in Ep5** and finds nine days with nothing in them. That, not resentment, is what sends her to Wesley.
 - **Denny lives.** A cure came out of that hole in the ground, in a town full of sick and grieving people. That's the temptation Lowell died of and Wesley is dying of, now handed to the players as a good deed they performed themselves.
-- **Floor 2 is open.**
+- **[[Floor 2 — The Works|Floor 2]] is open, and they have seen its first two rooms** — the Tollgate and the Wash — which means they have met the gremlins and probably learned what water does to them. That is the on-ramp to **[[Episode — The Mirror|Ep5]]**, which runs on Floor 2.
 
 ## Open dials
 - Stat tuning for the ghost at the level-2/3 band ([[Ghosts]]).
 - Whether burning destroys the print or lifts it as ash. *(Ep3's sigil-clear used "the chalk goes to ordinary dust" — a rhyme is available.)*
 - Ray Kubiak's name; the survivor's identity.
 - Party level, and whether the Pit Room needs a bump given the +1 Warhammer.
-- **Where the colour tell actually lands** — the shoebox scraps, Mercer's register, or the Pit Room itself.
+- **Where the colour tell actually lands** — the shoebox scraps, Mercer's register, or the Wash itself.
+- **The lost recognition beat** (Act 4) — whether the new stage is worth the deduction it costs.
+- How much of [[Floor 2 — The Works|Floor 2]] the party pushes into once they are already down there with the objective cleared.
 
 ## Links
-[[Ghosts]] · [[Nullprints]] · [[Lowell Brandt]] · [[Eddie Park]] · [[Gern]] · [[Reverend Hollis]] · [[Wesley Crane]] · [[The Community Center]] · [[The Pit Room]] · [[The Octagonal Vestibule]] · [[The Bell Junction]] · [[The Recall]] · [[The Mill Sector]] · [[Certaintism]] · [[Hollowing and Agency-Loss]] · [[The Library]] · [[Elias Mercer]] · [[Wendell Pace]] · [[The 1991 Mill Incident]] · [[Time Points]] · [[Episode 3 — Second Shift]] · [[Session 5 — Second Shift]] · [[Ren Sołtys]] · [[The Negotiation System]] · [[The Cast and the Permanent Cast]]
+[[Ghosts]] · [[Nullprints]] · [[Lowell Brandt]] · [[Eddie Park]] · [[Gern]] · [[Reverend Hollis]] · [[Wesley Crane]] · [[The Community Center]] · [[The Pit Room]] · [[Floor 2 — The Works]] · [[The Wash]] · [[The Tollgate]] · [[The Gremlins]] · [[The Octagonal Vestibule]] · [[The Bell Junction]] · [[The Recall]] · [[The Mill Sector]] · [[Certaintism]] · [[Hollowing and Agency-Loss]] · [[The Library]] · [[Elias Mercer]] · [[Wendell Pace]] · [[The 1991 Mill Incident]] · [[Time Points]] · [[Episode 3 — Second Shift]] · [[Session 5 — Second Shift]] · [[Ren Sołtys]] · [[Episode — The Mirror]] · [[The Negotiation System]] · [[The Cast and the Permanent Cast]]
 
 ## Source
-Conversation, 2026-08 — ghost cosmology, the [[Eddie Park]] rebuild as Gern's foil, [[Lowell Brandt]] and the Severance trap, the Hollis paired-fact misdirection, the Kubiak cold open, the shoebox/locket structure, the Pit Room as the live print. Renumbered 3 → 4 (2026-08-14). **Revised 2026-08-28:** the Ep3 print-cluster handoff cut and replaced (colour tell is now first-contact here), Ren marked unavailable, ages corrected, Vestibule routing flagged, and the "late" register claimed exclusively for this episode.
+Conversation, 2026-08 — ghost cosmology, the [[Eddie Park]] rebuild as Gern's foil, [[Lowell Brandt]] and the Severance trap, the Hollis paired-fact misdirection, the Kubiak cold open, the shoebox/locket structure, the Pit Room as the live print. Renumbered 3 → 4 (2026-08-14). **Revised 2026-08-28:** the Ep3 print-cluster handoff cut and replaced (colour tell is now first-contact here), Ren marked unavailable, ages corrected, Vestibule routing flagged, and the "late" register claimed exclusively for this episode. **Revised 2026-09:** the live white print relocated from [[The Pit Room]] to [[The Wash]] (room 2 of [[Floor 2 — The Works]]); the Pit Room demoted to a bypassable gate; Floor 2 now opens during this episode; the hold-the-print fight restaged in rising water against [[The Gremlins|gremlins]]; the recognition beat changed and flagged.
