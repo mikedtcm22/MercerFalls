@@ -28,22 +28,30 @@ The **foreground of play** — Monster-of-the-Week episodes, each with town inve
 | 2 | [[Episode 2 — The Hush]] | Mid–late June | [[Ricky Vance]] | **played** (Sessions 3–4) |
 | 3 | [[Episode 3 — Second Shift]] | Early July | [[Ren Sołtys]] (debut) | **in play** — Session 5 played; **Session 6 next** |
 | 4 | [[Episode 4 — The Crossing]] | Mid July | [[Eddie Park]] (debut) | outline |
+| 5 | [[Episode — The Mirror]] | Late July | ⚠ **open** — see below | provisional |
 
-**Run materials.** Ep1: [[Session 1 — The Dare]] · [[Session 1 — DM Screen]] · [[Episode 1 — The Dare — Play Log]]. Ep2: [[Episode 2 — The Hush — Town-Time Investigation Map]] · [[Episode 2 — The Hush — Play Log]]. Ep3: [[Session 5 — Second Shift]] (play log) · [[The Siren]] · [[The Spiral Stair Room]] · [[Ren Sołtys]] · [[Ruth Bielak]] · [[Stan Prokop]]. Ep4: [[Ghosts]] · [[Nullprints]] · [[Lowell Brandt]].
+**Run materials.** Ep1: [[Session 1 — The Dare]] · [[Session 1 — DM Screen]] · [[Episode 1 — The Dare — Play Log]]. Ep2: [[Episode 2 — The Hush — Town-Time Investigation Map]] · [[Episode 2 — The Hush — Play Log]]. Ep3: [[Session 5 — Second Shift]] (play log) · [[The Siren]] · [[The Spiral Stair Room]] · [[Ren Sołtys]] · [[Ruth Bielak]] · [[Stan Prokop]]. Ep4: [[Ghosts]] · [[Nullprints]] · [[Lowell Brandt]] · [[The Wash]]. Ep5: [[The Mercer Mirror]] · [[The Long Gallery]] · [[The Black Rotunda]] · [[Floor 2 — The Works]] · [[The Gremlins]] · [[Russ]] · [[Panels]].
 
 > [!danger] Where Session 6 opens
 > **Mid-delve, in [[The Buzzsaw Room]], no long rest.** The party rang the [[The Bell Junction|Bell Junction]] bell, found the portal, and took it *away* from the Siren. They have to find their way back to the archway. **Decisions outstanding:** whether the [[The Octagonal Vestibule|Vestibule]] spokes re-open · what's left of Wesley's inert Buzzsaw sigil · the wax-in-the-ears ruling · what [[The Recall|the graffiti and the hammer-hole]] show.
 
 > [!note] Ep3 is the first Wesley-caused monster
-> [[The Hush]] had nothing to do with him. **From [[Episode 3 — Second Shift]] on, the monster of the week exists *because* of something he did** — unattributed, but true on the DM side, so he becomes the common denominator once the players start connecting episodes. Ep3 is also the party's **first sigil-clear**; Ep4 opens **Floor 2** via [[The Pit Room]].
+> [[The Hush]] had nothing to do with him. **From [[Episode 3 — Second Shift]] on, the monster of the week exists *because* of something he did** — unattributed, but true on the DM side, so he becomes the common denominator once the players start connecting episodes. Ep3 is also the party's **first sigil-clear**. **[[Episode 4 — The Crossing|Ep4]] opens [[Floor 2 — The Works|Floor 2]]** — [[The Pit Room]] is now the *gate* rather than the objective, and the episode's target is [[The Wash]], the second room of Floor 2. **[[Episode — The Mirror|Ep5]] then runs on Floor 2**, so the party's first two delve floors carry three consecutive episodes.
+
+> [!warning] Ep5's featured Rival is an open decision
+> [[Episode — The Mirror]] was written with [[Eddie Park]] as a **debut**. He now debuts in Ep4, so that framing is stale and there are two live options:
+> - **Eddie again (Eps 4–5).** Precedent exists — [[Ricky Vance|Ricky]] ran across Eps 1–2. The Mirror already routes through the mansion library annex where Eddie lives, so it costs nothing. Downside: three of the first five episodes are Eddie-or-Ren witness work.
+> - **[[Zander Pruitt]] instead.** The shape-variety warning below wants his debut to be something other than a fourth interview, and The Mirror is a *cursed object* episode with a research spine and [[Russ]] at the centre — a rival investigator or competitor fits it cleanly. Downside: the annex/Eddie thread has to be re-routed or run rival-free.
+>
+> Decide before Ep5 prep; it changes the town-time map more than the dungeon half.
 
 > [!note] Renumbering log
 > **2026-08-14:** The Crossing moved 3 → 4 after Session 4. Old path tombstoned at `Episodes/Episode 3 — The Crossing.md`.
+> **2026-09-13:** The Mirror promoted from the bank to **slot 5**. Path left at `Episodes/Episode — The Mirror.md` so existing `[[Episode — The Mirror]]` links keep resolving; rename-and-tombstone to `Episode 5 — The Mirror.md` still available if path hygiene is wanted.
 
 ## The bank (unnumbered, unordered — pull and place)
 
-- [[Episode — The Click]] — the first "click" (dungeon-stone at all sites). **Strong candidate for the slot after Ep4** — Floor 2 opens there, and the not-bone tooth is still homeless. *([[Zander Pruitt]] is the obvious Rival claimant.)*
-- [[Episode — The Mirror]] — the [[The Mercer Mirror|Mercer Mirror]] at [[Panels]]; Russ's 1991-sister anchor. ⭐ **The party has been carrying an ornate silver hand mirror since Session 5** — see [[Undeclared Recoveries]]. Panels is still unvisited.
+- [[Episode — The Click]] — the first "click" (dungeon-stone at all sites). **Strong candidate for the slot after Ep5** — the not-bone tooth is still homeless, and by then the party has two floors of dungeon-stone to have touched. *([[Zander Pruitt]] is the obvious Rival claimant — unless he takes Ep5, see above.)*
 - [[Episode — The Hungry House]] — [[Henry Voss]]'s feeding house; brings [[Jerry]]'s ledger forward. Voss is now named in [[Ren Sołtys|Ren]]'s notebook as the terminal case — free setup.
 - [[Episode — Storm-That-Doesn't-Move]] — Mike Tinsmith's hollowing cornerstone; Wesley's name surfaces.
 - [[Episode — First Real Wesley Suspicion]] — Doug hollowed; the pattern becomes hard to miss.
@@ -58,13 +66,13 @@ The **foreground of play** — Monster-of-the-Week episodes, each with town inve
 | Rival | Episode | Foil | Hollowing | Driver |
 |---|---|---|---|---|
 | [[Ricky Vance]] | Eps 1–2 | [[Tank]] | **Late — August** | ⭐ **[[Wesley Crane\|Wesley]]** — the only one |
-| [[Ren Sołtys]] | **Ep 3** | [[Old Man]] | **End of Ep 3** — 9 days, gone for all of Ep 4 | Circumstance |
-| [[Eddie Park]] | Ep 4 | [[Gern]] | TBD — not his debut | Circumstance |
-| [[Zander Pruitt]] | TBD | [[Bash Whitlock\|Bash]] | TBD | Circumstance |
+| [[Ren Sołtys]] | **Ep 3** | [[Old Man]] | **End of Ep 3** — 9 days, gone for all of Ep 4; wakes in Ep 5 | Circumstance |
+| [[Eddie Park]] | Ep 4, possibly Ep 5 | [[Gern]] | TBD — not his debut | Circumstance |
+| [[Zander Pruitt]] | TBD — Ep 5 candidate | [[Bash Whitlock\|Bash]] | TBD | Circumstance |
 
 [[Dominique Ferraro]] is present from the start and is **exempt** from the hollowing qualifier (the ritual needs her *blood*) — but she now has a **secret Affinity tracker** running from Ep3, and an alternative-heir branch if the party wins her. See her note.
 
-> ⚠ **Shape variety.** Ricky was a rescue; Ren and Eddie are both *witnesses who won't testify comfortably.* **Zander's debut must be a third shape** — rival investigator, competitor, or accomplice — not a fourth interview.
+> ⚠ **Shape variety.** Ricky was a rescue; Ren and Eddie are both *witnesses who won't testify comfortably.* **Zander's debut must be a third shape** — rival investigator, competitor, or accomplice — not a fourth interview. That constraint is what makes him a live candidate for Ep5, whose cursed-object-and-research spine reads nothing like an interview.
 
 ## Auto-index
 ```dataview
@@ -75,4 +83,4 @@ SORT type ASC, file.name ASC
 ```
 
 ## Source
-Wesley Bizarro Plot v5 §7; Campaign Bible v0.4 §17, §19, §16; pilot split + unnumbered-bank convention (2026-07); Session-4 reconciliation and the 3→4 renumber (2026-08-14). **2026-08-29:** Session 5 logged, Ep3 marked in-play with the Session-6 open decisions, recruit ledger rebuilt with hollowing drivers, and the silver-mirror hook wired to [[Episode — The Mirror]].
+Wesley Bizarro Plot v5 §7; Campaign Bible v0.4 §17, §19, §16; pilot split + unnumbered-bank convention (2026-07); Session-4 reconciliation and the 3→4 renumber (2026-08-14). **2026-08-29:** Session 5 logged, Ep3 marked in-play with the Session-6 open decisions, recruit ledger rebuilt with hollowing drivers, and the silver-mirror hook wired to [[Episode — The Mirror]]. **2026-09-13:** The Mirror promoted to slot 5 and its featured Rival flagged as an open decision (Eddie-again vs. Zander-debut); Ep4's Floor-2 handoff corrected ([[The Wash]], not [[The Pit Room]]); Ep4/Ep5 run materials added; The Click re-pointed at the post-Ep5 slot.
