@@ -2,7 +2,7 @@
 aliases: ["Mercer's cabin", the cabin in the woods, the interview station, the debrief cabin, the Yard Trials]
 created: 2026-10-01T00:00:00.000Z
 domain: Locations
-source: [conversation 2026-09/10 (Ep3 optional exit discovery), conversation 2026-10 (the Yard Trials)]
+source: [conversation 2026-09/10 (Ep3 optional exit discovery), conversation 2026-10 (the Yard Trials; four-document set)]
 status: canonical
 tags: [embers, location, mercer, filter, lore-unlock, episode-3]
 title: The Debrief Station
@@ -16,6 +16,9 @@ Up: [[Locations]]
 
 **A one-room cabin in the woods between the mill and [[The Mercer Mansion|the Mansion]], sitting on the head of a shaft. [[Elias Mercer]] built it because the dungeon is a one-way information valve — the operation below could keep ledgers and maps and marks, but not one word of it could be carried out. The only export channel was a man's head, and heads leak on a clock. So he put a chair sixty seconds from the door and somebody in it with a pen.**
 
+> [!note] Player-facing handout exists
+> The card, all four papers, and a log excerpt are compiled as a single clean handout for the table. Everything quoted below is readable by players.
+
 > [!danger] Optional. Conditional on how they leave.
 > The party reaches it **only if, after killing [[The Siren|the Siren]], they climb the shaft instead of walking out the way they came, and think to try the [[The Expedition Post|Room-11 skeleton key]] on the hatch at the top.**
 >
@@ -26,7 +29,7 @@ Up: [[Locations]]
 **The hatch at the top of [[The Spiral Stair Room]]** — roughly 70 feet up the incomplete iron stair, past the gaps. **The Room-11 key opens it.** No check, no puzzle.
 
 > [!note] One-way, permanently
-> **The top face is smooth and it auto-locks on close.** No handle, no keyhole, no seam worth finding. **This is an exit, never an entrance.** If they prop it, whatever they propped it with is still there when they come back and the hatch is still shut.
+> **The top face is smooth and it auto-locks on close.** No handle, no keyhole, no seam worth finding. **This is an exit, never an entrance.**
 
 They come up **in the middle of the cabin floor**, which is the first thing that tells them what this building is for.
 
@@ -43,11 +46,16 @@ Below, the operation functioned perfectly well — ledgers, route maps, chalk ma
 >
 > **Marks stay** — tallies, route glyphs, chalk, a hammer-hole, *TANK WUZ HEAR*. **Accounts don't** — anything constituting a person's *report* of the place. Paper comes up empty.
 >
-> Let the boundary be slightly soft and let the party test it. It always fails. See [[The Recall]].
+> Let the boundary be slightly soft and let the party test it. See [[The Recall]].
 
 So the only way information got out was **inside somebody**, and Mercer's own experiments had shown him how fast that drains. Hence: a door in the woods, a chair facing it, and a man already holding a pen.
 
 **Everything in this room is about the distance between the hatch and the chair.**
+
+> [!note] Mercer himself does not forget
+> He is the operator. The decay clock does not act on him — which is why **every document here is written by a man observing an effect he is exempt from**, and why the papers read as field notes on other people rather than as a sufferer's account.
+>
+> *(An earlier draft had him losing his own descent memory. Cut — it contradicts his role, and it made the point twice.)*
 
 ## The room
 
@@ -60,7 +68,7 @@ Undisturbed for decades. Thick dust. **Nobody has been here — including [[Wesl
 | **The card** | Hand-lettered, tacked by the door, worn soft at the corners |
 | **The desk** | Inkwell, dip pens, a ream of foolscap. **Topside paper** |
 | **The log book** | Decades of hands |
-| **Mercer's papers** | A bundle, tied. The reason to have come |
+| **Mercer's papers** | A tied bundle. The reason to have come |
 | **Cot, blankets, basin, tinned goods** | His. He slept here through long stretches |
 | **Kerosene lamp, a tin of spent matches** | Somebody sat in the dark up here a great many times |
 
@@ -82,56 +90,43 @@ Undisturbed for decades. Thick dust. **Nobody has been here — including [[Wesl
 > **6. NEVER SEND A MAN UP WITHOUT SOMEONE IN THE CHAIR.** An unwitnessed shift is a lost shift.
 
 > [!note] Rule 1 is the one that lands
-> *Do not ask if he is well.* A man comes up out of that place and you are instructed not to ask how he is, because the seconds cost too much. **Characterises Mercer harder than any passage in his papers.**
->
-> **Rule 4 is the one they can use.**
+> *Do not ask if he is well.* A man comes up out of that place and you are instructed not to ask how he is, because the seconds cost too much. **Characterises Mercer harder than any passage in his papers.** **Rule 4 is the one the party can use.**
 
 ---
 
-# Mercer's papers
+# Mercer's papers — four documents, chronological
 
-## 1. The dream passage
+Read in order they show a man working the problem out over three years. Hand them out in order.
 
-> *I have this morning read my own account of the fourteenth, in my own hand, and I do not recognise a line of it.*
->
-> *It is not that I doubt it. I know the hand. I know I was below. But the reading of it is the reading of a stranger's letter, and where the page says I descended a stair of some ninety feet I have nothing — not a stair, not a darkness, not the cold. There is a shape in me where it ought to be and the shape is the only thing left.*
->
-> *It is precisely the business of a dream. One wakes possessed of the whole of it, and it is gone in the time it takes to find one's slippers, and by breakfast one has only the fact of having dreamt.*
->
-> *So: the journal at the bedside. Write it before the slippers.*
-
-## 2. The margin
-
-> *Rutkowski, up at 11:40, seated 11:41, giving good account of a chamber of pillars. Called away by the whistle at 11:52 and returned at 12:20, at which time he could offer nothing but that there had been pillars, which he knew because I had said the word to him.*
->
-> *Half an hour. That is the whole of the margin. I have written it on the door.*
-
-## 3. Bragg — why the cabin exists at all
+## I — 9 April 1890 · Bragg
 
 > *Bragg went down on my instruction with paper and pencil and orders to set down everything, however small. He was below four hours. He filled — by his own account, and he was emphatic about it — the better part of a dozen sheets.*
 >
-> *They came up empty. Not smeared. Not faded. Empty.*
+> *They came up empty. Not smeared. Not faded. **Empty.***
 >
 > *He could not be made to believe it. An hour later he could not be made to care.*
 
-## 4. The boys
+**Delivers:** nothing written below comes out. **This is why the cabin exists at all.**
 
-> *The boys are better at it. I have had four of the sweeper lads down to the second level — against my own better judgment, and I will answer for it — and every one of them held the thing a day or more, where a grown man has an hour. One of them still had the whole of it a week on.*
+## II — 3 March 1891 · Rutkowski, and the margin
+
+> *Rutkowski, up at 11:40, seated 11:41, giving good account of a chamber of pillars. Called away by the whistle at 11:52 and returned at 12:20, at which time he could offer nothing but that there had been pillars — which he knew because I had said the word to him.*
 >
-> *I cannot account for this and I do not care for what it suggests about the proper use of them.*
-
-> [!danger] The party are the boys
-> They'll notice immediately, and they'll be holding [[Ren Sołtys|Ren]]'s notebook while they do.
-
-## 5. ⭐ ON THE INATTENTION OF WITNESSES
-
-> [!danger] The other half of the Filter — and the one the party lives inside
-> Everything above explains the **forgetting**, which requires the dungeon. **This document explains the rationalization**, which requires nothing at all — it happens to ordinary people who have never been near the mill, every time the party casts a spell in public.
+> *He was not evasive and he was not distressed. He simply had nothing, and was untroubled at having nothing. Pressed, he said there was **a shape where it ought to be, and the shape was the only thing left.***
 >
-> No magic-users needed in 1890. Mercer discovered it by **carrying impossible things across his own yard in front of a hundred men.**
-
-> **ON THE INATTENTION OF WITNESSES**
+> *I put it to him as a dream and he agreed at once, and with some relief. A man wakes possessed of the whole of it; it is gone in the time it takes him to find his slippers; and by breakfast he has only the fact of having dreamt. That is the shape of the thing exactly, and I have not found a better account of it in two years of asking.*
 >
+> ***Half an hour. That is the whole of the margin.** I have written it on the door.*
+>
+> *And the remedy is the same remedy: **the journal at the bedside. Write it before the slippers.***
+
+**Delivers:** the decay clock, the ~30-minute adult margin, the dream analogy, and the countermeasure.
+
+## III — ON THE INATTENTION OF WITNESSES · compiled 1891–92
+
+> [!danger] The other half of the Filter — the one the party lives inside
+> I and II explain the **forgetting**, which requires the dungeon. **This explains the rationalization**, which requires nothing at all — it happens to ordinary people who have never been near the mill, every time the party casts a spell in public.
+
 > **The first.** Carried up the jaw of the thing Bragg killed on the second level, wrapped in sacking, across the yard at shift change. Some sixty men. No remark.
 >
 > **The second.** Unwrapped. Carried openly, in both hands. Four men looked. Hoskins said it was a hog's.
@@ -167,9 +162,16 @@ Undisturbed for decades. Thick dust. **Nobody has been here — including [[Wesl
 > **So is anyone else who can hold it.**
 
 > [!note] What that last line is doing
-> Mercer knew there might be others and never met one. **Four of them are standing in his cabin reading it.**
+> Mercer knew there might be others and never met one. **Four of them are standing in his cabin reading it.** It also explains why the papers are here at all — he wasn't archiving, **he was leaving a note for whoever came next.**
+
+## IV — 1893 · The boys
+
+> *The boys are better at it. I have had four of the sweeper lads down to the second level — against my own better judgment, and I will answer for it — and every one of them held the thing a day or more, where a grown man has an hour. One of them still had the whole of it a week on.*
 >
-> It also explains why the papers are here at all. He wasn't archiving. **He was leaving a note for whoever came next.**
+> *I cannot account for this, and I do not care for what it suggests about the proper use of them.*
+
+> [!danger] The party are the boys
+> They'll notice immediately, and they'll be holding [[Ren Sołtys|Ren]]'s notebook while they do.
 
 ---
 
@@ -177,34 +179,29 @@ Undisturbed for decades. Thick dust. **Nobody has been here — including [[Wesl
 
 `DATE · NAME · DOWN · UP · REMARKS`
 
-Mostly unremarkable. Then the pattern, in row after row across decades:
-
-> *tried to tell his brother. did not take.*
-> *began twice. could not.*
-> *nothing by supper.*
-> *held four hours. best yet.*
+Mostly unremarkable. Then the pattern, in row after row across decades: *tried to tell his brother. did not take.* · *began twice. could not.* · *nothing by supper.* · *held four hours. best yet.* · *cannot say it. has tried four times now.*
 
 And the rows with **no UP time**, with a note added later in a different pen:
 
-> *did not come up. found at the gate, 4:20. 14d.*
-> *did not come up. found at the gate. 31d.*
-> *did not come up. —*
+> *did not come up. found at the gate, 4:20. **14d.***
+> *did not come up. found at the gate. **31d.***
+> *did not come up. **—***
 
 > [!danger] Two things buried in the log
 > **It teaches the exit mechanic.** Men who went down and didn't come up the stairs turned up *outside the gate instead* — exactly what happened to the party, twice.
 >
 > **That "14d / 31d" column is [[Ren Sołtys|Ren]]'s durations column**, kept by adults a century before she was born. **She reinvented a form the mill had already abandoned**, at eleven, alone. Do not point at it.
 
-**The log stops decades before the mill does.** They gave up trying to understand it and kept working the floors anyway.
+**The log stops mid-page, decades before the mill does.** The remaining pages are blank. They gave up trying to understand it and kept working the floors anyway.
 
 ## What they walk out with
 
 **Four findings, stated:**
 
-1. **Memory of the dungeon fades like a dream** — fast, roughly half an hour for an adult.
-2. **Nothing written below comes out.**
-3. **Children hold it longer than adults.**
-4. **Ordinary people rationalize the impossible on sight, instantly and sincerely — and never the same way twice.**
+1. **Nothing written below comes out.**
+2. **Memory of the dungeon fades like a dream** — roughly half an hour for an adult.
+3. **Ordinary people rationalize the impossible on sight, instantly and sincerely — and never the same way twice.**
+4. **Children hold it longer than adults.**
 
 **And one they derive themselves, which is the important one:**
 
@@ -215,19 +212,17 @@ And the rows with **no UP time**, with a note added later in a different pen:
 
 ### Two tactical rules they now own
 
-**They can cast in public and never be caught.** Confirmed by a hundred-year-old experiment.
-
-**And they can never be corroborated.** No adult ally will ever confirm anything they saw. **[[Wesley Crane|Wesley]]'s entire pitch runs on isolation, and the party just proved the isolation is structural.**
+**They can cast in public and never be caught.** **And they can never be corroborated** — no adult ally will ever confirm anything they saw. **[[Wesley Crane|Wesley]]'s entire pitch runs on isolation, and the party just proved the isolation is structural.**
 
 ### The diagnostic
 
-**It's never the same answer twice.** Two witnesses to the same event, two confident and incompatible explanations. That's a test the party can actually run.
+**It's never the same answer twice.** Two witnesses, two confident incompatible explanations. A test the party can actually run.
 
 ## Why this solves a DMing problem
 
-Players naturally read the Filter as **adults lying or stonewalling.** [[Wendell Pace|Wendell]] grasping and giving up looks evasive. [[Tomek Sołtys|Tomek]]'s *"I probably had a fever"* looks like a cover story.
+Players naturally read the Filter as **adults lying or stonewalling.** [[Wendell Pace|Wendell]] grasping and giving up looks evasive; [[Tomek Sołtys|Tomek]]'s *"I probably had a fever"* looks like a cover story.
 
-**The log and the trials end that reading permanently** — a hundred years of men *trying* and failing, and a hundred years of men sincerely explaining a two-rowed jaw as a hog's. Evidence of effort and of sincerity, not concealment.
+**The log and the trials end that reading permanently** — a hundred years of men *trying* and failing, and a hundred years of men sincerely calling a two-rowed jaw a hog's. Evidence of effort and of sincerity, not concealment.
 
 ## Afterwards
 
@@ -235,13 +230,13 @@ Players naturally read the Filter as **adults lying or stonewalling.** [[Wendell
 
 ## Open dials
 
-- **Whether Mercer's own descent account is here in full.** Recommended: in the bundle but **water-damaged and mostly illegible** — a later payout.
 - Whether the log names anyone the party would recognise as an ancestor.
-- **The jaw, the lamp and the crate.** Mercer carried them across his own yard and they are not listed among the room's contents. **Where did they end up?** The lamp especially — it still works.
+- **The jaw, the lamp and the crate.** Mercer carried them across his own yard and they are not among the room's contents. **Where did they end up?** The lamp especially — it still worked after nine months, a century ago.
+- **Lis**, in the log: no up-time and no duration at all. The only such entry.
 - Whether [[Ruth Bielak|Ruth]]'s [[Walt Bielak|Walt]] appears anywhere. *(The log stops decades too early — but a **later** log, if one existed, would be devastating.)*
 
 ## Links
 [[Elias Mercer]] · [[The Spiral Stair Room]] · [[The Expedition Post]] · [[The Reality Filter]] · [[The Recall]] · [[Nullprints]] · [[Hollowing and Agency-Loss]] · [[The Mill]] · [[The Worked Floors]] · [[The Mercer Mansion]] · [[Ren Sołtys]] · [[Wendell Pace]] · [[Tomek Sołtys]] · [[Wesley Crane]] · [[Bash Whitlock]] · [[The Embers]] · [[Episode 3 — Second Shift]]
 
 ## Source
-Design conversation, 2026-09/10 — the Episode 3 optional exit discovery and the campaign's first hard answer about the Filter. The written-thoughts rule is deliberately magical and unexplained. **The Yard Trials added 2026-10** to cover the rationalization half; a discarded draft had a Filtered scribe producing filtered minutes, which was cut because it would make the station's own interviewer unable to transcribe a report.
+Design conversation, 2026-09/10 — the Episode 3 optional exit discovery and the campaign's first hard answer about the Filter. The written-thoughts rule is deliberately magical and unexplained. **2026-10:** the Yard Trials added for the rationalization half; **Mercer's own-memory document cut** (he is the operator and is exempt), with the dream analogy folded into the Rutkowski entry.
