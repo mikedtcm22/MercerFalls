@@ -2,7 +2,7 @@
 aliases: ["Mercer's cabin", the cabin in the woods, the interview station, the debrief cabin, the Yard Trials]
 created: 2026-10-01T00:00:00.000Z
 domain: Locations
-source: [conversation 2026-09/10 (Ep3 optional exit discovery), conversation 2026-10 (the Yard Trials; four-document set)]
+source: [conversation 2026-09/10 (Ep3 optional exit discovery), conversation 2026-10 (the Yard Trials; four-document set; the Reading Glass)]
 status: canonical
 tags: [embers, location, mercer, filter, lore-unlock, episode-3]
 title: The Debrief Station
@@ -16,8 +16,10 @@ Up: [[Locations]]
 
 **A one-room cabin in the woods between the mill and [[The Mercer Mansion|the Mansion]], sitting on the head of a shaft. [[Elias Mercer]] built it because the dungeon is a one-way information valve — the operation below could keep ledgers and maps and marks, but not one word of it could be carried out. The only export channel was a man's head, and heads leak on a clock. So he put a chair sixty seconds from the door and somebody in it with a pen.**
 
-> [!note] Player-facing handout exists
-> The card, all four papers, and a log excerpt are compiled as a single clean handout for the table. Everything quoted below is readable by players.
+> [!note] What's in here
+> **Four papers, a card, a log — and [[The Reading Glass]].** The papers are the campaign's first hard answer about [[The Reality Filter|the Filter]]; the glass is the only object in the room worth carrying out. Everything else is furniture.
+>
+> A player-facing handout compiles the card, all four papers, and a log excerpt. Everything quoted below is readable by players.
 
 > [!danger] Optional. Conditional on how they leave.
 > The party reaches it **only if, after killing [[The Siren|the Siren]], they climb the shaft instead of walking out the way they came, and think to try the [[The Expedition Post|Room-11 skeleton key]] on the hatch at the top.**
@@ -69,8 +71,22 @@ Undisturbed for decades. Thick dust. **Nobody has been here — including [[Wesl
 | **The desk** | Inkwell, dip pens, a ream of foolscap. **Topside paper** |
 | **The log book** | Decades of hands |
 | **Mercer's papers** | A tied bundle. The reason to have come |
+| **⭐ [[The Reading Glass]]** | **The only item here.** See below |
 | **Cot, blankets, basin, tinned goods** | His. He slept here through long stretches |
 | **Kerosene lamp, a tin of spent matches** | Somebody sat in the dark up here a great many times |
+
+## ⭐ Searching the room — [[The Reading Glass]]
+
+**One find, and it's a good one.** A hand lens in a brass frame, grips worn smooth on both sides, lying on the desk among the papers or in the drawer beneath.
+
+Full rules in **[[The Reading Glass]]**. Short version: **ask it a question about the past of a thing, and it names a price in a fact you currently know.** Pay and you watch a full scene that answers. Decline and nothing happens, and the price never changes.
+
+**It is the DM's lifeline for a stalled table**, and the object that eventually tells [[Bash Whitlock|Bash]] the truth about his Window.
+
+> [!note] Don't put anything else in the room
+> The papers are the payload and the glass is the prize. A pile of minor loot would dilute both.
+>
+> *(A light that can't be extinguished and a tin of trackable chalk were drafted and set aside for another location.)*
 
 ## The card
 
@@ -231,12 +247,13 @@ Players naturally read the Filter as **adults lying or stonewalling.** [[Wendell
 ## Open dials
 
 - Whether the log names anyone the party would recognise as an ancestor.
-- **The jaw, the lamp and the crate.** Mercer carried them across his own yard and they are not among the room's contents. **Where did they end up?** The lamp especially — it still worked after nine months, a century ago.
+- **The jaw, the lamp and the crate.** Mercer carried them across his own yard and they are not among the room's contents. **Where did they end up?** The lamp especially — it still worked after nine months, a century ago. *(He had a mansion.)*
 - **Lis**, in the log: no up-time and no duration at all. The only such entry.
+- Whether Mercer made [[The Reading Glass]], found it, or was given it.
 - Whether [[Ruth Bielak|Ruth]]'s [[Walt Bielak|Walt]] appears anywhere. *(The log stops decades too early — but a **later** log, if one existed, would be devastating.)*
 
 ## Links
-[[Elias Mercer]] · [[The Spiral Stair Room]] · [[The Expedition Post]] · [[The Reality Filter]] · [[The Recall]] · [[Nullprints]] · [[Hollowing and Agency-Loss]] · [[The Mill]] · [[The Worked Floors]] · [[The Mercer Mansion]] · [[Ren Sołtys]] · [[Wendell Pace]] · [[Tomek Sołtys]] · [[Wesley Crane]] · [[Bash Whitlock]] · [[The Embers]] · [[Episode 3 — Second Shift]]
+[[The Reading Glass]] · [[Elias Mercer]] · [[The Spiral Stair Room]] · [[The Expedition Post]] · [[The Reality Filter]] · [[The Recall]] · [[Nullprints]] · [[Hollowing and Agency-Loss]] · [[The Mill]] · [[The Worked Floors]] · [[The Mercer Mansion]] · [[Ren Sołtys]] · [[Wendell Pace]] · [[Tomek Sołtys]] · [[Wesley Crane]] · [[Bash Whitlock]] · [[The Mercer Mirror]] · [[The Embers]] · [[Episode 3 — Second Shift]]
 
 ## Source
-Design conversation, 2026-09/10 — the Episode 3 optional exit discovery and the campaign's first hard answer about the Filter. The written-thoughts rule is deliberately magical and unexplained. **2026-10:** the Yard Trials added for the rationalization half; **Mercer's own-memory document cut** (he is the operator and is exempt), with the dream analogy folded into the Rutkowski entry.
+Design conversation, 2026-09/10 — the Episode 3 optional exit discovery and the campaign's first hard answer about the Filter. The written-thoughts rule is deliberately magical and unexplained. **2026-10:** the Yard Trials added for the rationalization half; Mercer's own-memory document cut (he is the operator and is exempt), with the dream analogy folded into the Rutkowski entry; **[[The Reading Glass]] placed here as the room's sole item.**
