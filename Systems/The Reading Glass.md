@@ -21,15 +21,15 @@ Up: [[Gear and Items]]
 > # THE READING GLASS
 > *Wondrous item, rare*
 >
-> A hand lens in a brass frame, four inches across. The grips are worn smooth on both sides. The glass is slightly cold and never fogs — except once.
+> A broad round lens in a ring of dark brass. Two grips lie folded flat across the glass; swing them out on their hinges and they lock at either side of the rim, so it is held in both hands, at arm's length, the way you'd hold a letter up to the light. The grips are worn smooth.
 >
 > ---
 >
-> **ACTION.** Hold it to an object, a place, or a mark, and ask **one question about its past.**
+> **ACTION.** Once per long rest, hold it to an object, a place, or a mark, and ask **one question about its past.**
 >
 > **THE PRICE.** The far side of the lens fogs, and a fact you currently know appears in it, **in your own handwriting.** Only you can read it.
 >
-> **You choose whether to pay.** Decline and the fog clears — nothing lost, nothing gained. **The price for that question, on that object, never changes.** Come back in a month and it is the same price.
+> **You choose whether to pay.** Decline and the fog clears — nothing lost, nothing gained, **and the use is not spent.** **The price for that question, on that object, never changes.** Come back in a month and it is the same price.
 >
 > **A narrower question costs less.** *"What is this sigil for"* is expensive. *"Was the hand that drew it left or right"* is not.
 >
@@ -40,6 +40,15 @@ Up: [[Gear and Items]]
 > ---
 >
 > **WHEN THE GAP SHOWS.** If you try to act or speak in a way that depends on what you paid, you falter mid-word. **Do something else instead, freely.** Press on and the glass takes it again: **2d6 psychic damage**, and you still cannot produce the thing.
+
+---
+
+## Player handout
+
+The item card given to the player: [Reading Glass — item card](https://claude.ai/artifact/1G6eNbUhXk2qx7HtWz5GEa) (half-letter, prints two per sheet). It carries the description, an illustration of the glass open and folded, and the ACTION / THE PRICE / IF YOU PAY text.
+
+- **The handles:** two grips hinged on the rim at **4 and 8 o'clock**, so the glass sits slightly above the hands when held. Folded, they swing in and lie across the lens in a shallow V, meeting just below the centre.
+- **Not on the handout** (DM-side unless revealed in play): fixed prices, narrower questions costing less, the shown-proof line, THE ANSWER, and *"do something else instead, freely."* The handout also doesn't state that a declined price leaves the use unspent.
 
 ---
 
@@ -79,7 +88,7 @@ Up: [[Gear and Items]]
 - **Only the holder reads the price.** It appears on the far side of the lens, in their handwriting, because it's theirs. The rest of the table sees someone go still and then either speak or not. *"What did it say?" — "...doesn't matter."* **Keep it isolating.**
 - **Write each burned memory on a slip**, in the player's own words, kept at the table. The player still knows. The character does not.
 - **Keep a short running list of each PC's knowledge**, so you can name a price without stalling. Useful anyway.
-- **No shopping.** Fixed prices mean they can't re-roll for a cheaper one. Declining is free and always available.
+- **No shopping.** Fixed prices mean they can't re-roll for a cheaper one. Declining is free, always available, and **doesn't spend the once-per-long-rest use.**
 - **The falter is the punishment, not the damage.** 2d6 at level 3 is a slap, not a threat, and it's meant to be payable repeatedly. The wall is the point.
 
 ## Where it was found
@@ -112,7 +121,7 @@ Up: [[Gear and Items]]
 
 **He can tell, and that's the point.** Artificer intuition, on a successful Arcana check: **the binding is in the whole, not the parts.** Separate frame from lens and he has a brass ring and a piece of ground glass. **He knows this before he tries**, so the constraint is his own competence rather than a DM wall — and he'll keep choosing it.
 
-**Studying it means using it, and using it costs.** He can experiment, but every trial burns something the party needs. **They won't let him spend campaign knowledge on R&D**, he'll know they're right, and it will drive him quietly insane.
+**Studying it means using it, and using it costs.** He can experiment, but every trial burns something the party needs, and he gets one per long rest. **They won't let him spend campaign knowledge on R&D**, he'll know they're right, and it will drive him quietly insane.
 
 **And it isn't a mechanism.** No optics explain it. No linkage, no resonance, nothing that *does* anything. Eventually he works out why:
 
@@ -145,3 +154,5 @@ He will think he engineered it. He will be proud of it. And **the price the glas
 
 ## Source
 Design conversation, 2026-10 — built as a stalled-table lifeline with the DM setting the price, and as the object that eventually explains [[Bash Whitlock|Bash]]'s Window. Earlier drafts had the player choosing which memory to pay and a fidelity scale tied to its value; both cut — **the DM names the price, and every scene lands at full weight.**
+
+Revised 2026-09-29 alongside the player handout: two-handled design (grips hinged at 4 and 8 o'clock, folding across the lens), replacing "four inches across" and "never fogs — except once"; added the once-per-long-rest limit, with a declined price not spending the use.
