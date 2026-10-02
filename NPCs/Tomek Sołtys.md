@@ -15,7 +15,12 @@ visibility: dm-only
 
 Up: [[Hollowed Townspeople]]
 
-**Twenty-one. Works at the Sinclair. Went into the mill on a dare at seventeen, was hollow for two weeks, and got completely better — which is the point of him. He is walking to the mill every night right now and has no idea, and he will be fine on Monday. [[Ren Sołtys|Ren]]'s brother, and the reason her notebook exists.**
+**Twenty-one. Works at the Sinclair. Went into the mill on a dare at seventeen, was hollow for two weeks, and got completely better — which was the point of him. [[Ren Sołtys|Ren]]'s brother, and the reason her notebook exists. At the end of [[Episode 3 — Second Shift]] he got through the fence, Ren followed him in, and both came out hollow. This is his second time.**
+
+> [!danger] Changed in [[Session 8 — Second Shift|Session 8]] — Tomek is not fine
+> The design had him **"fine at the Sinclair Monday morning"** — the permanent counterweight to [[Henry Voss|Voss]]. **That's gone.** He was hollowed a second time, and by Ren's own data (*repeats are always longer*) he'll be out **longer than his first two weeks** — so he is **still gone when Ren wakes** after her nine days.
+>
+> **Exact duration: held open by the DM.** The lower bound is set by canon; the upper bound isn't.
 
 ## The dare, October 1992
 
@@ -23,15 +28,15 @@ Seventeen years old. Some kids said he wouldn't stay the night at the mill. He d
 
 > *"It wasn't the same person. He would eat if you put food in front of him. Other than that, he wasn't there."* — Ren
 
-**Two weeks.** Then he was fine. Completely. And within a month the town had closed over it — nobody talked about it, and **their mother does not remember it happened.**
+**Two weeks.** Then he was fine. Completely. And within a month the town had closed over it — nobody talked about it, and **their mother does not remember it happened.** *(Per Ren's first notebook entry, read by the party in Session 8: Mama remembers it as **the flu he had in third grade**. Ren watched her hold a spoon to his face for fourteen days.)*
 
-## He is genuinely, unremarkably fine
+## He was genuinely, unremarkably fine — until now
 
-This is the whole design job he does. **Not every hollowing is terminal.** Voss is one end of the curve; Tomek is the other, and the party needs to see both.
+This was the whole design job he did. **Not every hollowing is terminal.** Voss is one end of the curve; Tomek was the other, and the party needed to see both.
 
-In daylight he goes to work, eats dinner, jokes with his sister. **Nobody but Ren would clock a thing**, and she only knows because she has watched him walk up the mill road four nights running.
+In daylight he went to work, ate dinner, joked with his sister. **Nobody but Ren would clock a thing**, and she only knew because she watched him walk up the mill road four nights running.
 
-**He is fully [[The Reality Filter|Filtered]] — which is exactly why Ren is alone.** He cannot hold the memory. Asked directly, he is friendly, undefensive, and useless:
+**He is fully [[The Reality Filter|Filtered]] — which is exactly why Ren was alone.** He cannot hold the memory. Asked directly (pre-Session 8), he is friendly, undefensive, and useless:
 
 > *"The mill? Yeah, ha — man, that was years ago. Ninety-two? I was seventeen. Couple guys said I wouldn't stay out there overnight, so, you know."*
 >
@@ -41,7 +46,7 @@ In daylight he goes to work, eats dinner, jokes with his sister. **Nobody but Re
 
 **He is not hiding anything.** The rationalization is the Filter talking, in his own mouth, cheerfully.
 
-### If they show him a photograph
+### If they show him a photograph *(once he's back)*
 
 The best available demonstration of the Filter, in daylight, on physical evidence:
 
@@ -55,27 +60,31 @@ The best available demonstration of the Filter, in daylight, on physical evidenc
 
 **This also quietly kills the take-the-notebook-to-an-adult plan** before the party ever tries it.
 
-## Now
+## Session 8
 
-**Recovered = notched.** He walks with the rest of the roster ([[Episode 3 — Second Shift]]). Normal every morning; out at the gate every night; no memory of any of it.
+- **At the gate, ~3 a.m.**, among the walkers testing the fence.
+- **[[Old Man]] broke the thrall for six seconds with [[The Modded Talkboy|the Talkboy]], took him by the shoulders, and said: *"Remember."*** He looked confused; *something registered*; then he went back to pacing.
+- **He got inside** at some point after the party went down. Ren went after him.
+- **His nullprint — the larger of two, dark — is in [[The Octagonal Vestibule]]** next to hers. What took them is held open.
+- **At dawn the party watched him and Ren walk home together, glazed.**
 
-**Where he works:** the Sinclair. *Recommended and not yet locked — put him on shift with [[Henry Voss]].* The young man who got better and the old man who didn't, in the same building, and you never have to say a word about it.
+## What he's for now
 
-## What he's for
-
-1. **The counterweight to Voss.** Recovery is real.
-2. **Ren's entire motive.** Not that he was broken — that he *got better and the town closed over it.*
-3. **The Filter, demonstrated in a person the party can talk to.**
-4. **The trigger for Ren's own hollowing.** Somebody gets through the fence; she follows him in. See [[Ren Sołtys]].
+1. **The compounding curve, in a person the party has met.** Theory 8 in Ren's book — *the more times it takes, the slower it grows back* — made flesh. He is now **moving from the Tomek end of the curve toward the Voss end.**
+2. **Ren's motive, doubled.** Not just that he got better and the town closed over it — that **it's happening to him again** and she will wake up before he does. See [[Ren Sołtys]].
+3. **The Filter, demonstrated** — once he's back.
+4. **The Sołtys house, emptied.** Both children hollow at once; a mother who won't remember why. **[[The Community Center]] brings meals.**
 
 ## Open dials
 
-- Whether the Voss/Sinclair pairing is canon.
-- Whether he ever finds out, in any episode, what actually happened to him. Recommended: **no.** He is more useful, and much sadder, permanently fine.
-- The Sołtys mother — referenced twice, never seen.
+- **How long the second hollowing runs.**
+- **Old Man's "Remember."** Whether it does anything at all. *(The recommendation below still stands — he probably never finds out.)*
+- Whether the **Voss/Sinclair pairing** is canon (recommended: on shift with [[Henry Voss]]). **Sharper now** — the young man who got better and the old man who didn't, and the young one has started down the same road.
+- Whether he ever finds out, in any episode, what actually happened to him. Recommended: **no.**
+- The Sołtys mother — referenced repeatedly, never seen. Likely on screen in Ep4.
 
 ## Links
-[[Ren Sołtys]] · [[The Reality Filter]] · [[Hollowing and Agency-Loss]] · [[Henry Voss]] · [[Hollowed Townspeople]] · [[Episode 3 — Second Shift]] · [[Session 5 — Second Shift]] · [[The Sinclair Station]]
+[[Ren Sołtys]] · [[The Reality Filter]] · [[Hollowing and Agency-Loss]] · [[Henry Voss]] · [[Hollowed Townspeople]] · [[Episode 3 — Second Shift]] · [[Session 5 — Second Shift]] · [[Session 8 — Second Shift]] · [[The Octagonal Vestibule]] · [[Old Man]] · [[The Sinclair Station]] · [[The Community Center]]
 
 ## Source
-Design conversation, 2026-08 (Ep3 cold open and the recovered-but-notched counterweight). Played detail from [[Session 5 — Second Shift]] — the dare at seventeen, the two weeks, the fever rationalization, and the mother's non-memory.
+Design conversation, 2026-08 (Ep3 cold open and the recovered-but-notched counterweight). Played detail from [[Session 5 — Second Shift]] — the dare at seventeen, the two weeks, the fever rationalization, and the mother's non-memory. **[[Session 8 — Second Shift]] (2026-09-30):** Old Man's "Remember" at the gate; hollowed a second time with Ren; "fine on Monday" retired; duration held open.
