@@ -20,6 +20,21 @@ Up: [[Game Systems]]
 
 Per the [[Dungeoneering Rules]]: 10-minute increments. Each Stretch, each PC chooses one Activity. **Wandering-monster rolls happen at end of Stretch.**
 
+> [!note] Room-turn conventions used at the table (Session 8)
+> In play the DM runs a room as **one dungeon action per PC** — check for loot, investigate one thing, check for traps — not combat turns.
+> - **One thing per PC.** A PC can't investigate the desk and then the cabinet in the same room-turn.
+> - **Co-investigating = Help.** Two PCs on the same thing make **one roll with advantage**; one rolls, the other helps.
+> - **Guidance** can be cast on yourself; it doesn't stack with a second Guidance.
+
+## ⭐ Hurrying (introduced Session 8)
+
+The party may declare it is **hurrying** through rooms.
+
+- **Fewer wandering rolls:** roll **once every two rooms** instead of every room.
+- **Sloppier work:** any **d20 test in a room with a trap, hazard, or other check** — spikes, a narrow ledge, a disarm — is made at **disadvantage** while hurrying.
+
+The trade is the point: hurrying is right on a route you already know, and wrong anywhere you still need to read the room. *(First used Session 8, Cataloguing Office → Bell Junction; the roll still found the wolves.)*
+
 ## Encounter Density (default calibration)
 
 - **Frequency:** Medium (d6 every 3 Stretches)
@@ -48,6 +63,9 @@ Daily reset means PCs re-encounter the "same" room. To avoid tedium, every encou
 | **Boss** | Pre-set set-piece; one-time only across the campaign; does NOT repeat | 1/floor max |
 
 **Strategic implication:** an experienced party plans routes to avoid known guardians, bypass triggers, and only fight wandering monsters that find them — picking which fixed encounters to engage per delve by resource budget and reward.
+
+> [!note] Prepared hazards and surprise (Session 8 ruling)
+> If the party lays a hazard in a monster's path ahead of time — Bash's caltrops in a hallway — and the monsters blunder into it, **the party gets a surprise round.**
 
 ## The Stretch-Worth Principle (global room-design rule)
 
@@ -85,9 +103,10 @@ Leveling is a **narrative milestone tied to episodes**, not to dungeon descent. 
 | PC Level | Trigger |
 |---|---|
 | 2 | End of **Episode 2 — The Hush** |
-| 3+ | Later episode milestones — schedule TBD, tuned to the arc |
+| **3** | **End of [[Episode 3 — Second Shift]]** — granted after [[Session 8 — Second Shift|Session 8]]; the party starts [[Episode 4 — The Crossing|Ep4]] at level 3 |
+| 4+ | Later episode milestones — schedule TBD, tuned to the arc |
 
-The party therefore runs Episode 1 and most of Episode 2 at **level 1**, reaching **level 2 at the end of Episode 2**. Encounter tuning follows the episode clock, not the floor: e.g., the [[The Pit Room]] Floor-1 guardian is built **Hard for level 2 / Deadly for level 1**, so a party that pushes to it before the end of Episode 2 is genuinely over its head. Because descent no longer grants levels, **speedrunning deep leaves the party badly under-levelled** — a natural brake that reinforces the topside costs below. Levels 6+ tie to Tier-2 milestones (defer to Act 2).
+The party ran Episode 1 and most of Episode 2 at **level 1**, Episode 3 at **level 2**, and reaches **level 3 for Episode 4.** Encounter tuning follows the episode clock, not the floor: e.g., the [[The Pit Room]] Floor-1 guardian was built **Hard for level 2 / Deadly for level 1**, and has since been retuned (two giant hyenas) for a level-3 party. Because descent no longer grants levels, **speedrunning deep leaves the party badly under-levelled** — a natural brake that reinforces the topside costs below. Levels 6+ tie to Tier-2 milestones (defer to Act 2).
 
 > [!warning] Reconcile
 > Earlier pacing notes assumed the stairs-found cadence ("Level 2 by mid-July, Level 5 by equinox"). Any such references (plot / countdown / calendar notes) may need updating to the episode cadence.
@@ -98,11 +117,12 @@ PCs *may* push to Floor 5 fast and ignore the town — a valid strategic choice 
 
 ## Retreating
 
-Location-based, not timer-based. Returning to the entrance is the way out. However you leave **of your own free will**, the dungeon's time dilation spits you onto the [[The Mill|mill]] grounds a fixed **3-Time-Point dwell** after you entered (see [[Death, TPK, and the Lost Day]] and [[Time Points]]); being **hollowed** returns you as if no time passed at all — you pay in agency instead.
+Location-based, not timer-based. Returning to the entrance is the way out. However you leave **of your own free will**, the dungeon's time dilation spits you onto the [[The Mill|mill]] grounds a fixed **3-Time-Point dwell** after you entered (see [[Death, TPK, and the Lost Day]] and [[Time Points]]); being **hollowed** returns you as if no time passed at all — you pay in agency instead. *(Hollowing does **not** excuse a PC from the heat of being out — see that note.)*
 
 - **Soft Retreat:** travel back through cleared floors; Stretches and wandering rolls happen normally. The deeper you went, the longer the trip.
+- **The Spiral Stair hatch (Floor 1):** a **one-way exit** from [[The Spiral Stair Room]] (8) to [[The Debrief Station]] in the woods, opened with the Room-11 key. One room from the Pit Room. Used to escape it in Session 8.
 - **Surfacing Ritual (panic button):** any PC, as their Stretch Activity, makes a **DC 15 ability check (Wisdom or Charisma — player picks flavor)**. Entity-flavored escape — your [[The Embers|ember]] pulls you out (*the warmth in your chest catches and surges, and the dungeon releases you*). **Success:** the ember carries the whole party all the way out — deposited **home** rather than onto the grounds — at the usual 3-TP dwell after entry (so you can still surface late if you went in short), each gaining **1 level of exhaustion**. **Failure:** next wandering roll is automatic and uses the harder end of the table.
 - **Wesley's Sigil** is the anti-ember-exclusive mirror of Surfacing (dungeon-flavored, costs persistent monsters); the portal moves you through *space*, not time, so it still bills the 3-TP dwell — not available to PCs except as an escape ridden in the moment (see [[Wesley's Sigils]], [[Session 1 — The Dare]]).
 
 ## Source
-Campaign Bible v0.4, §10 (Dungeon Mechanics). Player-facing complement: [[Dungeoneering Rules]]. The Stretch-Worth Principle: design conversation, 2026-07. The 3-TP dwell / time-dilation cross-reference: conversation, 2026-06. **Leveling changed from stairs-found/per-floor to episode-milestone (level 2 = end of Episode 2), 2026-07.**
+Campaign Bible v0.4, §10 (Dungeon Mechanics). Player-facing complement: [[Dungeoneering Rules]]. The Stretch-Worth Principle: design conversation, 2026-07. The 3-TP dwell / time-dilation cross-reference: conversation, 2026-06. **Leveling changed from stairs-found/per-floor to episode-milestone (level 2 = end of Episode 2), 2026-07.** **2026-10-01 ([[Session 8 — Second Shift]]):** hurrying rule, room-turn/co-investigation conventions, prepared-hazard surprise, level 3 at end of Ep3, the Spiral Stair hatch as a retreat route.
