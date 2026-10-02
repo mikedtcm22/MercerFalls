@@ -16,8 +16,8 @@ Up: [[Bestiary]]
 
 **Bound to [[Wesley's Sigils|Wesley's sigil]] in [[The Spiral Stair Room]] since he drew it, about a week before [[Episode 3 — Second Shift]] opens. She has no face of her own. She wears the one that listener would come home for, and what she offers is permission to stop.**
 
-> [!note] Status — partially fought
-> **[[Session 7 — Second Shift|Session 7]]: full party TPK.** Both harpies killed; **the Siren survives.** The return fight is a duel — see below.
+> [!note] Status — defeated
+> **[[Session 7 — Second Shift|Session 7]]: full party TPK**; both harpies killed. **[[Session 8 — Second Shift|Session 8]]: killed in the return duel** — [[Gern]]'s Toll the Dead. **She dissolved; the sigil is clear.** See *The return fight — as played* below.
 
 ## The register — the whole monster in one rule
 
@@ -38,11 +38,13 @@ Up: [[Bestiary]]
 
 **The [[Nullprints|notch]] decides *whether*. Distance decides *when*.** Her reach is a **radius from the mill that grows every night.** Full table in [[Episode 3 — Second Shift]].
 
-**As of Session 7 all four PCs are notched**, and so is [[Wendell Pace|Wendell]] (recovered) and [[Ruth Bielak|Ruth]] (protection removed by the party).
+**As of Session 7 all four PCs are notched**, and so is [[Wendell Pace|Wendell]] (recovered) and [[Ruth Bielak|Ruth]] (protection removed by the party). **The reach ended with her death** — the walkers woke at the gate at dawn after Session 8.
 
 ## The charm
 
 **DC 15 Wis. One target at a time — lowest roller gets charmed.** Clean, fast, ran well; keep it.
+
+**Desperation escalation (Session 8):** as she was hurt and cornered the song intensified — **DC 16, then DC 17** on her last attempt.
 
 **Run charmed as behaviour, not damage.** Don't take the player's turn. They walk to her willingly and are *pleased about it.* The grapple is *"for all intents and purposes a grapple, but since you're charmed it's just an embrace."*
 
@@ -52,6 +54,9 @@ Up: [[Bestiary]]
 
 > [!note] Action economy — the party always gets one round
 > Charm, Draining Kiss and the carry are each an action. **She cannot charm and kill on the same turn.** Don't compress it, or the kill reads as arbitrary.
+
+> [!note] Design lesson — the charm gate
+> **Every damaging option she has requires a charmed target.** With the Talkboy running she had nothing but flight, and that's what the return fight looked like. Correct for an earned capstone. **For any future charm-gated monster, decide in advance whether you want that collapse** — or give it one ungated option.
 
 ## Acoustic countermeasures — precedents set in play
 
@@ -65,7 +70,7 @@ Real but small, which is exactly what [[Ruth Bielak|Ruth]]'s discovery needed to
 
 ## The countermeasure that works
 
-**[[The Modded Talkboy]]** — **action, 30-foot radius, full immunity to her song, 6 charges, then the tape breaks.** The action cost sidelines whoever holds it; the radius means **anyone she carries above 30 feet is outside the bubble.**
+**[[The Modded Talkboy]]** — **action, 30-foot radius, full immunity to her song.** The action cost sidelines whoever holds it; the radius means **anyone she carries above 30 feet is outside the bubble.** *(The 6-charge cap was not counted in Session 8 — see that note.)*
 
 ## Non-negotiables
 
@@ -86,9 +91,17 @@ Real but small, which is exactly what [[Ruth Bielak|Ruth]]'s discovery needed to
 
 **The party comes back with full slots, full rages, and the Talkboy. They should win, and they should** — they earned it across three sessions and a TPK. This is the episode's capstone, not another grinder.
 
-**If you want one complication instead of the harpies:** she's had a day, and **she knows their names now.** She uses them.
+### As played — [[Session 8 — Second Shift|Session 8]]
 
-**Clearing it.** *The green goes out. That's all. No sound. The chalk on the floor is just chalk now* — **and it looks exactly like the dead white chalk they found in the Millrace**, which is the rhyme that tells them what they just did to somebody.
+- **[[Gern]] held the Talkboy** and pressed play at the top of every round. Nobody rolled a save until the very end.
+- **[[Tank]]** raged, hit, **pushed her into the stairs** (+1d4), and later **pushed her off a perch** (fly speed, no hover — she fell 20 ft for 2d6).
+- **[[Old Man]]**: Dissonant Whispers (she fled up ~60 ft into the rafters), Vicious Mockery, thrown daggers, and an offer of surrender she spat at.
+- **[[Bash Whitlock|Bash]]**: Poison Spray, then the crossbow bolt that put her on her last legs.
+- She fled upward each time she was hit. **On her last song Tank was ~40 ft from Gern, outside the bubble — DC 17, failed, charmed** — but that was her whole turn.
+- **Gern dropped the Talkboy and cast Toll the Dead**, flavoured as a bell bearing the **Certaintist emblem** — *"By the power of certainty!"* She failed the save and **dissolved completely. No corpse.**
+- **She did not use their names.** The optional complication went unused.
+
+**Clearing it.** *The green goes out. That's all. No sound. The chalk on the floor is just chalk now.* As described at the table: **plain white chalk, "like graffiti, or a hopscotch."** *(The Millrace rhyme — dead white chalk they'd seen before — was available and not drawn. It still can be, if they look at the Buzzsaw sigil again.)*
 
 **No [[The Recall|recall]] on screen:** the fight is inside, so the bodies persist and go with the reset.
 
@@ -100,14 +113,17 @@ Real but small, which is exactly what [[Ruth Bielak|Ruth]]'s discovery needed to
 | Sanctuary vs. the song | **No.** It protects against attacks and spells that *target;* the song is ambient. |
 | Old Man's fey advantage | Doesn't stack with the ember's, but **covers Reproach.** |
 | The sigil itself | **Cannot be defaced.** Ink does nothing; a warhammer produces a green flash and a bounce. Killing the bound monsters is the only way. |
+| **Warhammer push** *(S8)* | Into a hard surface: **+1d4 bludgeoning.** Off a perch, no hover: **falls, 1d6 per 10 ft.** |
+| **The Talkboy to her ear** *(S8)* | Rolled as Toll the Dead (Wis 14). She saved; no effect. |
+| **Charm DC under desperation** *(S8)* | 15 → 16 → 17 as she's driven to the wall. |
+| **Her body** *(S8)* | **Dissolves. No corpse.** |
 
 ## Open dials
 
 - **What [[Russ]] calls her**, badly, off a VHS box. *(The party is currently calling her "Bowser.")*
-- Whether she leaves a corpse. *(Recommended: yes, and it looks like nobody.)*
 
 ## Links
-[[Episode 3 — Second Shift]] · [[The Spiral Stair Room]] · [[Wesley's Sigils]] · [[The Modded Talkboy]] · [[Nullprints]] · [[Ruth Bielak]] · [[Ren Sołtys]] · [[Wendell Pace]] · [[The Recall]] · [[Session 7 — Second Shift]] · [[Bash Whitlock]] · [[Wesley Crane]] · [[The Nightmare Engine]]
+[[Episode 3 — Second Shift]] · [[The Spiral Stair Room]] · [[Wesley's Sigils]] · [[The Modded Talkboy]] · [[Nullprints]] · [[Ruth Bielak]] · [[Ren Sołtys]] · [[Wendell Pace]] · [[The Recall]] · [[Session 7 — Second Shift]] · [[Session 8 — Second Shift]] · [[Bash Whitlock]] · [[Wesley Crane]] · [[The Nightmare Engine]]
 
 ## Source
-Design conversation, 2026-08–09 (the domestic register, the Chorus escalation, occupancy countermeasure). **Played 2026-09-25 ([[Session 7 — Second Shift]]): both harpies killed, full TPK, acoustic precedents set, harpies-stay-dead ruling locked.**
+Design conversation, 2026-08–09 (the domestic register, the Chorus escalation, occupancy countermeasure). **Played 2026-09-25 ([[Session 7 — Second Shift]]): both harpies killed, full TPK, acoustic precedents set, harpies-stay-dead ruling locked.** **Played 2026-09-30 ([[Session 8 — Second Shift]]): killed; dissolved, no corpse; sigil cleared; desperation-DC and push rulings added.**
