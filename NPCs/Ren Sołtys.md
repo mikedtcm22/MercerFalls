@@ -15,7 +15,7 @@ visibility: dm-only
 
 Up: [[Wesley's Recruits]]
 
-**Fifteen. Born here. Has a paper route in the Flats and four years of a composition notebook recording every person in Mercer Falls who went strange and came back. She is the only person in town who has noticed the pattern, because she is the only person who wrote it down before she could forget. Rival, [[Old Man]]'s foil, debuted [[Session 5 — Second Shift|Session 5]].**
+**Fifteen. Born here. Has a paper route in the Flats and four years of a composition notebook recording every person in Mercer Falls who went strange and came back. She is the only person in town who has noticed the pattern, because she is the only person who wrote it down before she could forget. Rival, [[Old Man]]'s foil, debuted [[Session 5 — Second Shift|Session 5]]. Hollowed at the end of [[Episode 3 — Second Shift]] ([[Session 8 — Second Shift|Session 8]]), alongside her brother.**
 
 ## Who she is
 
@@ -65,7 +65,7 @@ Player-facing handout exists: three pages — **WHAT I THINK** (nine theories, f
 
 **Her line to the party:** *"I don't understand how it's so short for you."*
 
-**Old Man asked to meet up and learn more, and she said yes** — *"It'd be nice for somebody to not forget all the time. It's no fun being the only one."* He gave her his number. **She already knew where he lived.**
+**Old Man asked to meet up and learn more, and she said yes** — *"It'd be nice for somebody to not forget all the time. It's no fun being the only one."* He gave her his number. **She already knew where he lived.** *(The meet-up never happened. **The diner was her last conversation with the party as herself.**)*
 
 One sour beat: the party mentioned having *"killed three or four people"* down there and **she flinched and physically shifted away.**
 
@@ -82,57 +82,63 @@ One sour beat: the party mentioned having *"killed three or four people"* down t
 
 **Pitfalls:** being thanked where anyone can hear · being asked how she knows · being described to a third party · [[Gern]] trying to save her · anyone calling it a *hobby* · **casual talk about killing.**
 
-## Her hollowing — end of [[Episode 3 — Second Shift]]
+## Her hollowing — as played, [[Session 8 — Second Shift|Session 8]]
 
-**Circumstance-driven, not [[Wesley Crane|Wesley]]-driven.**
+**Circumstance-driven, not [[Wesley Crane|Wesley]]-driven** — as designed.
 
-**The trigger is [[Tomek Sołtys|Tomek]]** — he finally gets through the fence, and she goes in after him.
+- **[[Tomek Sołtys|Tomek]] was at the gate** at ~3 a.m. with the other walkers, testing the fence. [[Old Man]] broke him out of it for six seconds with the Talkboy and said one word to him: ***"Remember."***
+- Sometime after the party went down, **Tomek got in and Ren went in after him.**
+- **After the Siren was already dead**, the party heard **a young person's scream** — *a horror-movie scream* — from the direction they'd come in. **They chose to explore the unexplored passage north instead.**
+- On the way back they found **two fresh, dark nullprints in [[The Octagonal Vestibule]]**, the smaller one Ren's, with **the marble composition book on the floor next to it.** Both "outside" and "inside" closing shots then fired: at dawn the party watched **Ren and Tomek walk home together, glazed.**
+- **The permission is still the party.** She watched four kids go in and come back in a day, twice, and said so at the diner. Her model updated the only way it ever has. **Ren is hollowed by her own methodology.**
 
-**The permission is the party.** She watched four kids go into that mill and come back **in one day**, twice now, and said so out loud at the diner. Her model updated the only way she has ever updated a model — from observation. She's wrong, because of an ember she has no way of knowing exists.
-
-**Ren is hollowed by her own methodology.** Nobody lied to her, nobody invited her, nobody was careless.
+> [!warning] Open (held by the DM)
+> - **What took them.** The Siren was dead; the cause is undecided.
+> - Whether the party ever learns **they heard her and went the other way.**
 
 **Nine days.** Gone for the whole of [[Episode 4 — The Crossing]]; back in Ep5.
 
-### The closing shot
-
-Two routes, depending on how the party exits after the Siren dies:
-
-- **Inside:** they find **Ren's and Tomek's nullprints** on the way out, with **the marble composition book lying on the floor between them.**
-- **Outside:** they pass the two of them doing the hollowed walk home, and **Ren absent-mindedly drops the notebook** as she ambles past.
-
-Either way, the cold open inverted, with the same two lines: *"Ren?"* — she goes right past. *"Ren."* — she does not turn her head.
-
-> [!danger] ⭐ The notebook is now a disposition test
-> **The party ends the episode holding four years of the most carefully guarded object in Mercer Falls, taken from someone who cannot object.** What they do with it while she is hollow sets her standing toward them going forward.
+> [!danger] ⭐ The notebook — they read it
+> **The party ends the episode holding four years of the most carefully guarded object in Mercer Falls, taken from someone who cannot object — and they have already opened it.**
+>
+> **Who did what (Session 8):** [[Tank]] argued *against* (*"It says do not read. Why would we read it?"*). [[Bash Whitlock|Bash]] pushed for it (*"more of a suggestion"*). **[[Gern]] opened it** once the others leaned in. [[Old Man]] went along. They read the theory page, the **first** entry (Tomek, October '92; Mama remembering it as a third-grade flu) and the **latest** (Wendell at Marco's, fourteen names, *"I didn't sleep last night and that's the other thing"*), then used it to work out who she'd been with.
+>
+> **Who holds it now is unconfirmed.**
 >
 > They made no promise this time — which is worse, because it means there's nothing to point at. Only what they chose.
 >
-> | What they do | Effect |
+> | What they do from here | Effect |
 > |---|---|
-> | Return it unread, or read it and say so | Strong positive. She will ask, and she'll know if they lie |
+> | **Tell her they read it** | Strong positive. She will ask, and **she'll know if they lie** |
 > | Copy it *(Bash will want to photocopy it)* | Neutral-to-negative depending on whether they tell her. **Don't editorialize when he asks** |
-> | Use it, then hand it up to an adult | Burn. The exposure she spent four years avoiding, done in her absence |
+> | **Use it, then hand it up to an adult** | Burn. The exposure she spent four years avoiding, done in her absence. ⚠ **Likeliest trap in Ep4: giving it to her mother "to give back" when they visit the house.** |
 > | Keep it and don't mention it | The worst one, and the easiest to slide into |
+>
+> *"Return it unread" is no longer available.*
 
 ### What sends her to Wesley
 
 **Not resentment.** When she comes back she opens her own notebook and finds **nine days with nothing in them.** She became the thing she spent four years insuring against, and she needs someone who can tell her how to stop it happening again.
 
+> [!danger] Sharpened by Session 8 — Tomek
+> **Tomek went in a second time.** Her own rule — *always longer the second time* — says he'll still be gone when she wakes. **She comes back, and her brother doesn't.** Her need stops being *teach me to stop this* and becomes **stop it happening to him** — which is a far stronger reason to say yes to the only adult who claims he can.
+
 Wesley is the only adult in Mercer Falls who will say *"I can teach you that,"* and mean it. **He has also known her since she was ten.** It won't be a cold approach.
 
 > [!note] How the Center gets in first
-> Somebody has to look after her for nine days. Her mother will, badly. And [[The Community Center|the Center]] brings meals to families in trouble. **Nine days of quiet, genuine kindness to the Sołtys house, before Ren is awake to see it.**
+> Somebody has to look after her for nine days. Her mother will, badly. And [[The Community Center|the Center]] brings meals to families in trouble. **Nine days of quiet, genuine kindness to the Sołtys house, before Ren is awake to see it** — now to a house with **both** children gone.
 
 ## Open dials
 
 - Her **saving-grace line** isn't locked. Currently around *"you were right and nobody asked you."*
-- Her and Tomek's **mother** — referenced repeatedly, never seen.
-- Whether the party ever learns she went in because of them.
-- Whether Old Man follows through on the meet-up before the episode ends. **If he does, it's the last conversation she has as herself.**
+- Her and Tomek's **mother** — referenced repeatedly, never seen. **Likely seen in Ep4**: Gern plans to go find Ren.
+- Whether the party ever learns she went in because of them — **or that they heard her and went the other way.**
+- **What hollowed her and Tomek.**
+- **Who holds the notebook.**
+- *Optional seed:* anything she wrote **below** comes up blank topside (see [[The Debrief Station]]'s written-thoughts rule). They read the book below; they might notice a page they remember is gone.
 
 ## Links
-[[Tomek Sołtys]] · [[Wesley's Recruits]] · [[Old Man]] · [[Wesley Crane]] · [[Ruth Bielak]] · [[Dominique Ferraro]] · [[Lowell Brandt]] · [[Henry Voss]] · [[Episode 3 — Second Shift]] · [[Session 5 — Second Shift]] · [[Session 7 — Second Shift]] · [[The Reality Filter]] · [[Hollowing and Agency-Loss]] · [[Nullprints]] · [[The Community Center]] · [[The Negotiation System]] · [[The Equinox Arc]]
+[[Tomek Sołtys]] · [[Wesley's Recruits]] · [[Old Man]] · [[Wesley Crane]] · [[Ruth Bielak]] · [[Dominique Ferraro]] · [[Lowell Brandt]] · [[Henry Voss]] · [[Episode 3 — Second Shift]] · [[Session 5 — Second Shift]] · [[Session 7 — Second Shift]] · [[Session 8 — Second Shift]] · [[The Octagonal Vestibule]] · [[The Reality Filter]] · [[Hollowing and Agency-Loss]] · [[Nullprints]] · [[The Community Center]] · [[The Negotiation System]] · [[The Debrief Station]] · [[The Equinox Arc]]
 
 ## Source
-Design conversation, 2026-08 (the notebook-as-defence-against-forgetting, the compounding deduction, the hollowed-by-her-own-methodology ending). Played detail from [[Session 5 — Second Shift]] and **[[Session 7 — Second Shift]]** — gymnastics, finding the Ruth anomaly unaided, the agreed meet-up with Old Man, and the notebook changing hands.
+Design conversation, 2026-08 (the notebook-as-defence-against-forgetting, the compounding deduction, the hollowed-by-her-own-methodology ending). Played detail from [[Session 5 — Second Shift]] and **[[Session 7 — Second Shift]]** — gymnastics, finding the Ruth anomaly unaided, the agreed meet-up with Old Man. **[[Session 8 — Second Shift]] (2026-09-30):** hollowed with Tomek in the Vestibule after the Siren's death; the unanswered scream; the party read the notebook; the Wesley motive sharpened by Tomek's second hollowing.
