@@ -49,7 +49,7 @@ Knows [[Gern]] via mother-arranged playdates (assigned, not chosen). Connected t
 ## Mechanics of note
 - **Replicated magic items (ruled Session 8):** capped by the Magic Items column for his level; **making a new one destroys the oldest.** He swapped the **Bag of Holding → Rope of Climbing**, handing out the contents first (Tank got the Room-11 key; Old Man got his record back, Mended). **Tank still has the +1 warhammer.**
 - **Tinker's Magic** as a utility engine: a dog bowl on demand (Performance 13 for quality), **ball bearings** dropped behind him in a retreat.
-- Signature kit in play: **caltrops** (earned the party a surprise round), **Grease**, **Poison Spray** (his favourite; persistently unlucky to-hit), **Witch Bolt**, hand crossbow.
+- Signature kit in play: **caltrops** (earned the party a surprise round), **Grease**, **Poison Spray** (his favourite; persistently unlucky to-hit), **Witch Bolt**, a crossbow.
 - **Level 3: Artillerist.** Had also floated experimental elixirs. *"This class is kind of boring"* (mid-fight, level 2) — the turret should fix that.
 
 ## Episode 1 — played (Awakening choice)
