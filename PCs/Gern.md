@@ -1,11 +1,12 @@
 ---
 aliases: []
-created: 2026-06-25T00:00:00.000Z
+created: 2026-06-25
 domain: PCs
-pc_class: Cleric
-source: [Session 0 player notes (2026-06), "Gern arc & Awakening-test design (conversation, 2026-06)"]
+level: 3
+pc_class: Cleric (Order Domain)
+source: [Session 0 player notes (2026-06), "Gern arc & Awakening-test design (conversation, 2026-06)", session transcript 2026-09-30, DM note 2026-10-01 (subclass)]
 status: canonical
-tags: [embers, pc, gern, order-chaos, cleric]
+tags: [embers, pc, gern, order-chaos, cleric, order-domain]
 title: Gern
 type: pc
 visibility: dm-only
@@ -18,7 +19,7 @@ Up: [[The Party]] · the inherited cage
 
 # Gern
 
-Cleric · homeschooled kid from a strict, wealthy, **[[Order and Chaos|Order]]-native religious family** (Scientology-coded; see [[Certaintism]] for the locked doctrine). Lives in [[The Districts|the Heights]]. Ideal: *there's a right way to live, and I'd rather find it than be comfortable* (earnest seeker). Flaw: *he trades conviction for inclusion, and can't yet tell being included from being liked.*
+Cleric (**Order Domain**, from level 3) · homeschooled kid from a strict, wealthy, **[[Order and Chaos|Order]]-native religious family** (Scientology-coded; see [[Certaintism]] for the locked doctrine). Lives in [[The Districts|the Heights]]. Ideal: *there's a right way to live, and I'd rather find it than be comfortable* (earnest seeker). Flaw: *he trades conviction for inclusion, and can't yet tell being included from being liked.*
 
 ## The read — conviction vs. belonging
 Gern's whole life is an **inherited Order**: a strict, total religion that decided what's true and good before he could weigh in, plus friendships **purchased** by amenities (the backyard pool, the day-one SNES, all the toys). He has never *chosen* a belief or a friend — both were issued to him — and he half-knows the friends come for the stuff. He's the most enclosed of the four and the most socially starved; "**new eyes this summer**" is his engine — his first real reach for connection.
@@ -29,6 +30,9 @@ The conflict the campaign pressures: **conviction and belonging are in tension, 
 - **The third position** is *discernment + courage*: keep what's true in what he was given, discard what isn't, and hold convictions he **chose and can defend even when they cost him the room** — and find the connection that only exists once he's been *seen*. Resolution (locked direction): **he ends up continuing the path that was imposed — a life of conviction — but now consciously chosen, on his own terms,** after a detour through some genuinely destructive rebellion.
 
 **The Cleric irony** is the vehicle: divine power handed to him by an entity of ambiguous benevolence at the exact moment he's trying to leave the faith his parents handed him. Did he trade one unseen power-granting authority for another? By the end his magic should feel like it flows from his **own** conviction, not an inherited or borrowed one. See [[Certaintism]] for exactly how his doctrine reads the phenomena around him — and gets it backwards.
+
+> [!danger] DM-only — the player picked the Order Domain
+> **Chosen at level 3, after Episode 3.** The domain literally named for the jaw he came in on, from a kid whose ember is ~20% Order ([[The Embers]]) and whose household is Order-native. **Don't comment on it at the table.** It's the player leaning into the cage — which is exactly where the arc says he has to start before the rebellion can mean anything. Every Order-domain feature is a small daily vote for "the doctrine decides." Worth remembering when the Chaos pitch finally lands.
 
 ## Awakening test — "The Obelisk and the Two Gates" (locked)
 A pulley sits at his hands. A massive, sturdy stone **obelisk** — a relic of his received faith — hangs by rope above the center of a **balance**, a spinning saw to either side. Two tall gates, each topped by a pan: one fronts a **warm party** (faces turned toward him, a kept seat, laughter); the other a **dark cave-mouth** (nothing). At decision time the party is the obvious magnet and the cave looks like pure exile. Carved at the pulley:
@@ -59,12 +63,13 @@ Then Gern himself dissolves from the scene with his ember (the figures simply re
   - **The "freedom" crowd / "elsewhere"** — the **Chaos** lever, and where his rebellion actually goes: whoever or whatever lets him dump conviction and call it liberation (a reinvent-yourself clique, a stands-for-nothing scene, reckless self-erasure).
   - **[[The Community Center]] / [[Wesley Crane]]** — present as an *Order*-coded belonging temptation his hunger is vulnerable to, **but not the destination of his rebellion**; the dedicated Wesley-orbit dynamic is reserved for the future zealot Rival foil and isn't built yet.
   - **The homeschool→school transition** — when everyone goes back to school in the fall, Gern is the outsider again; a structural loneliness spike to time a temptation against (he'll be in a different daily situation than the rest of the party).
+  - **⭐ [[The Reading Glass]]** *(new, Session 8)* — a Mercer object that sells true visions of the past for a piece of what you know. In a Certaintist's hands it's a second, competing revelation engine. See below.
 
 ## At the mill / relationships
 Gern came to the mill on a **dare**, taken gladly and at face value — being included is the whole prize, and he can't conceive it's a setup ([[Tank]]'s crew's prank, architected by [[Ricky Vance]]; see [[Session 1 — The Dare]], [[The Party]]). Structurally the most isolated PC, reachable in the relationship web only through [[Bash Whitlock]] (their mother-arranged playdates). The prank-reveal hits him hard precisely *because* being included meant so much.
 
 ## Household & Time Points
-**Strict parents (locked).** −1 Night TP per the [[Time Points]] backstory modifiers. Confirmed in play (Session 3) — Gern was out of the house on 1 Night point and went home rather than risk a parental consequence, same as [[Tank]]. Also grounds the mechanical bite of being the [[Episode 2 — The Hush|episode's named scapegoat]]: any further heat that reaches his parents can tighten this further.
+**Strict parents (locked).** −1 Night TP per the [[Time Points]] backstory modifiers. Confirmed in play (Session 3) — Gern was out of the house on 1 Night point and went home rather than risk a parental consequence, same as [[Tank]]. Also grounds the mechanical bite of being the [[Episode 2 — The Hush|episode's named scapegoat]]: any further heat that reaches his parents can tighten this further. **Session 8:** out from ~2 a.m. (sleepwalked to the lawn) until ~5 a.m. — *"I don't know how I'm going to explain this to my parents."* Heat check pending at the start of Ep4. **If he's ever hollowed, his heat gets worse, not better** — see [[Death, TPK, and the Lost Day]].
 
 ## Episode 1 — played (Awakening choice)
 > [!note] Sessions 1–2 — full account in [[Episode 1 — The Dare — Play Log]]
@@ -76,5 +81,18 @@ Gern came to the mill on a **dare**, taken gladly and at face value — being in
 > [!note] Full account in [[Episode 2 — The Hush — Play Log]]
 > Woke on the mill grounds beside Bash; recited the [[Certaintism|Affirmation]] on discovering the dungeon was real. Took the sole hit as **the accusation's named scapegoat** — Blake and Tyler cornered him alone, he rolled a **3** on Persuasion, and only Bash's mother watching from the window ended it. Brought the **Tome of Conviction** to the party that evening; the nullprint illustration matched Wendell's mark exactly, corroborated in front of everyone. Rolled a **10** on a religion check and surfaced the **dampening doctrine** — conviction can mitigate nullprinting — which, per [[Certaintism]], is now armed as the scripture that could justify either of his two false self-readings. Tank dismissed him outright; Old Man engaged only philosophically; only Bash took him seriously.
 
+## Episode 3 — played (Sessions 5–8)
+> [!note] Full accounts in [[Session 7 — Second Shift]] and [[Session 8 — Second Shift]]
+> **Session 7:** charmed on a natural 1 and taken by Draining Kiss; clocked the green sigil (natural 20 Arcana) as the same figure the man drew in Session 1; asked Dominique to join the crew.
+> **Session 8 — the episode's MVP:**
+> - **Volunteered to carry [[The Modded Talkboy|the Talkboy]]** and spent the whole Siren fight pressing play, keeping the bubble on the party — *"a brave soul honorable enough to sacrifice all of his actions."*
+> - **Killed [[The Siren]]** — dropped the Talkboy and cast Toll the Dead, flavoured as **a bell bearing the Certaintist emblem**: *"By the power of certainty!"* The first monster the party has truly beaten, killed **in the name of his parents' faith.**
+> - **Found [[The Stone of Quietude]]** by matching the room to the photo he's carried since Session 1 (and burned every charge on Ace Ventura).
+> - **Took [[The Reading Glass]]** from the cabin's curio cabinet. **The DM gave Kenny the rules privately; in character Gern says he doesn't know what it does yet.** Whether he is *concealing* it or genuinely hasn't worked it out is **held open** — it matters: a Certaintist sitting on a private source of revelation, keeping it from the party, is a conviction-vs-belonging beat in its own right.
+> - **Opened [[Ren Sołtys|Ren]]'s notebook** once the others leaned in, then used it investigatively. *(Pitfall watch from Ren's note: "Gern trying to save her.")* His plan for Ep4: find her and see if she's okay.
+> - Goodberry as Capri Suns and Fruit Roll-Ups; Healing Word and Infestation in the Pit Room retreat.
+>
+> **Level 3: Order Domain.** Mentioned wanting Spiritual Weapon; had weighed Life (for Aid) before settling.
+
 ## Source
-Session 0 player notes (2026-06); Gern arc & Awakening-test design (conversation, 2026-06). See [[Order and Chaos]], [[The Embers]], [[The Entity]], [[The Ember Chamber]]. Awakening choice recorded from play (Sessions 1–2): [[Episode 1 — The Dare — Play Log]]. Household/TP modifier and Session-3 summary added 2026-07-31: [[Episode 2 — The Hush — Play Log]].
+Session 0 player notes (2026-06); Gern arc & Awakening-test design (conversation, 2026-06). See [[Order and Chaos]], [[The Embers]], [[The Entity]], [[The Ember Chamber]]. Awakening choice recorded from play (Sessions 1–2): [[Episode 1 — The Dare — Play Log]]. Household/TP modifier and Session-3 summary added 2026-07-31: [[Episode 2 — The Hush — Play Log]]. **Episode 3 summary and Order Domain subclass added 2026-10-01: [[Session 7 — Second Shift]], [[Session 8 — Second Shift]].**
