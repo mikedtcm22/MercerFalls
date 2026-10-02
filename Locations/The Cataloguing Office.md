@@ -33,18 +33,36 @@ Three dials, no dice:
 
 ## What's worth a Stretch (loot is real and leaves the dungeon)
 Opportunity, not obligation — but the loot genuinely works and genuinely leaves, so players learn to trust that placed items are takeable:
-1. **Read the ledgers** (History/Investigation) — concrete intel: finds-by-floor foreshadowing what's deep, a partial old floor-map, early Mercer-papers material. Information persists in the players' Atlas notes (see [[The Keystone Tablet]]).
+1. **Read the ledgers** (History/Investigation) — concrete intel: finds-by-floor foreshadowing what's deep, a partial old floor-map, early Mercer-papers material. Information persists in the players' Atlas notes (see [[The Keystone Tablet]]). *(As read in [[Session 8 — Second Shift|Session 8]]: entries record **objects, not names** — "odd skull," a date, and a number that seems to mark where it was found.)*
 2. **Take useful gear** that leaves with them — a lamp that never burns down (a minor "weird effect" item topside), fine calipers/dividers (tool advantage on a later glyph-lock), a loupe; tagged curios [[Jerry's Pawn Shop|Jerry]] will buy — a modest, deliberate faucet of odd artifacts into the topside world.
 3. **The plate camera** — take the freshly-exposed plate; developed later it shows the party in the office: an early "the dungeon is doing something to us" clue and a genuinely weird artifact that left the dungeon.
 4. **Wind the phonograph** — a dictation cylinder of a clerk's voice reading catalogue entries, flat and by the end not quite human. No mechanical payoff; a big tonal one.
 
 ## Reset & persistence
-- The office is architecture-class dressing: it **restocks on the daily [[Floor Reset and the Intelligence Gradient|floor reset]]** — supplies refill, plates blank, the "just stepped out" tableau resets. This is why it stays eerily fresh, and why it's a renewable (deliberately low-yield) node.
-- **Items carried out to the surface persist normally** (as found keystones do). Loot is real. There is deliberately **no "nothing leaves the dungeon" rule** — some artifacts leaving the dungeon, occasionally with weird topside effects, is a feature the campaign wants (recommend promoting this as a general line in [[Gear and Items]]).
+- The office is architecture-class dressing: **consumable supplies restock** on the daily [[Floor Reset and the Intelligence Gradient|floor reset]] — ink refills, plates blank, tea is hot again, the "just stepped out" tableau resets. This is why it stays eerily fresh, and why it's a renewable (deliberately low-yield) node.
+- **⭐ Writing in the office persists (DM ruling, 2026-10-01).** Ledger entries, pages, and anything a visitor writes and leaves here **stay.** If the office wiped its own paperwork, nothing in those ledgers would have survived a century. This is a deliberate exception to the general "dropped effects don't survive the reset" line in [[Floor Reset and the Intelligence Gradient]].
+- **Items carried out to the surface persist normally** (as found keystones do). Loot is real. There is deliberately **no "nothing leaves the dungeon" rule** — some artifacts leaving the dungeon, occasionally with weird topside effects, is a feature the campaign wants (recommend promoting this as a general line in [[Gear and Items]]). *(Written **accounts** of the dungeon are a separate matter — see the written-thoughts rule in [[The Debrief Station]].)*
 - Governor: generic supplies and curios restock (farmable but low practical value); marquee one-off items (a specific weird artifact) are taken once.
 
+## ⭐ Old Man's note to "the Archivist" (Session 8)
+
+On the third delve [[Old Man]] noticed the fountain pen still dripping — Bash: *"somebody's always just been in here writing something"* — and left a page on the desk:
+
+> ***To the Archivist — call me.*** *(followed by his home phone number)*
+
+**Per the ruling above, it stays.** It is now part of the office's paperwork, and the operation files everything.
+
+> [!danger] DM-only — the Archivist, a possibility (nothing decided)
+> The party has named the unseen writer **"the Archivist."** That may become real. One live option: **the Archivist is the name of whatever instantiation of [[Order and Chaos|Order]] exists in this reality** — an avatar of the full being, not the being itself — and a potential fight somewhere in the **level 15–20** band.
+>
+> This sits comfortably on top of the existing DM-truth below (the office as an Order-machine keeping its last user's operation running forever): the office would be one of the Archivist's hands.
+>
+> **Meta-rhyme for the endgame:** the DM's Discord transcription tool is also called *Archivist*, and announces *"Archivist now recording"* in a pleasant female voice at the start of every session. **The entity has been listening the whole time.**
+>
+> **Do not answer the note** in any way that implies a mind for now. Whether, when and how the Archivist ever "calls back" is open.
+
 ## The Mercer seed (DM-only)
-The tools and paperwork map one-to-one onto what the PCs are about to do — map, document, collect. Mercer is the party a century early, and privately he is [[Wesley Crane|Wesley]]'s future too. The ledgers here and the sealed papers in [[The Mercer Mansion]] are one archive split across surface and dungeon; a PC who eventually connects them scores a real forensic win. Who maintains the office now is left open in play — the DM-truth being [[The Dungeon|the dungeon]] itself, an Order-machine that keeps its last user's operation running on a loop forever (agency-loss rendered as an office that never closes). See [[Elias Mercer]], [[Order and Chaos]].
+The tools and paperwork map one-to-one onto what the PCs are about to do — map, document, collect. Mercer is the party a century early, and privately he is [[Wesley Crane|Wesley]]'s future too. The ledgers here and the sealed papers in [[The Mercer Mansion]] are one archive split across surface and dungeon; a PC who eventually connects them scores a real forensic win. Who maintains the office now is left open in play — the DM-truth being [[The Dungeon|the dungeon]] itself, an Order-machine that keeps its last user's operation running on a loop forever (agency-loss rendered as an office that never closes). See [[Elias Mercer]], [[Order and Chaos]], and the Archivist note above.
 
 ## Session 1 vs steady-state
 - **S1 (pre-cleared):** no fight. [[Wesley Crane|Wesley]]'s fresh footprints run straight down the century-old aisle without stopping — to him the office is furniture (a cold character beat). Atmosphere plus the party's first forensic breadcrumbs: his hours-old trail laid over Mercer's century-old workplace, the two users a hundred years apart.
@@ -52,7 +70,7 @@ The tools and paperwork map one-to-one onto what the PCs are about to do — map
 - **Optional DM texture (later delves):** faint signs a *modern* hand has worked these desks (a newer pencil, a coffee-ring among the 1880s teacups) — a forensic breadcrumb linking Wesley's present to Mercer's past, if you want to spatialize the "Wesley = Mercer's future" thread.
 
 ## Connections
-[[The Mill Sector]] · [[Elias Mercer]] · [[Wesley Crane]] · [[The Mercer Mansion]] · [[Forensic Delving]] · [[Gear and Items]] · [[Floor Reset and the Intelligence Gradient]] · [[The Keystone Tablet]] · [[Jerry's Pawn Shop]] · [[The Nightmare Engine]] · [[Session 1 — The Dare]]
+[[The Mill Sector]] · [[Elias Mercer]] · [[Wesley Crane]] · [[The Mercer Mansion]] · [[Forensic Delving]] · [[Gear and Items]] · [[Floor Reset and the Intelligence Gradient]] · [[The Keystone Tablet]] · [[Jerry's Pawn Shop]] · [[The Nightmare Engine]] · [[Session 1 — The Dare]] · [[Session 8 — Second Shift]] · [[Old Man]] · [[The Debrief Station]] · [[Order and Chaos]]
 
 ## Source
-Floor-1 map `Floor-1_96x86.png` (room 2) + design conversation, 2026-07. Elias-as-previous-user: [[Elias Mercer]]; campaign bible v0.4 §6. Portable-loot / persistence ruling: design conversation, 2026-07 (supersedes the earlier "gallery / nothing-leaves" proposal). Earl→Jerry (2026-07).
+Floor-1 map `Floor-1_96x86.png` (room 2) + design conversation, 2026-07. Elias-as-previous-user: [[Elias Mercer]]; campaign bible v0.4 §6. Portable-loot / persistence ruling: design conversation, 2026-07 (supersedes the earlier "gallery / nothing-leaves" proposal). Earl→Jerry (2026-07). **2026-10-01:** office-writing-persists ruling, Old Man's note to the Archivist ([[Session 8 — Second Shift]]), and the Archivist-as-Order-avatar possibility (DM, undecided).
