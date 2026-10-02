@@ -1,10 +1,10 @@
 ---
 age: 71
 aliases: [Ruth, Mrs. Bielak]
-created: 2026-08-29T00:00:00.000Z
+created: 2026-08-29
 domain: NPCs
-role: The anomaly — protection removed by the party in S7; now a walker. The lunch-pail quest.
-source: [conversation 2026-08 (Ep3 design), "conversation 2026-09 (Walt, the lunch pail)", session transcript 2026-09-25]
+role: The anomaly — protection removed by the party in S7; walking ended with the Siren in S8; safe but unprotected. The lunch-pail quest.
+source: [conversation 2026-08 (Ep3 design), "conversation 2026-09 (Walt, the lunch pail)", session transcript 2026-09-25, session transcript 2026-09-30]
 status: canonical
 tags: [embers, npc, hollowed, episode-3, notch, quest]
 title: Ruth Bielak
@@ -16,7 +16,7 @@ visibility: dm-only
 
 Up: [[Hollowed Townspeople]]
 
-**71, widowed, on Ellis Street. Hollowed in autumn 1994 because she went into the mill looking for her husband's lunch pail. For five years she was the only previously-hollowed person inside the [[The Siren|Siren]]'s radius who never walked — protected by a broken tape player. Then in [[Session 7 — Second Shift|Session 7]] the party fixed it for her, and now she walks.**
+**71, widowed, on Ellis Street. Hollowed in autumn 1994 because she went into the mill looking for her husband's lunch pail. For five years she was the only previously-hollowed person inside the [[The Siren|Siren]]'s radius who never walked — protected by a broken tape player. In [[Session 7 — Second Shift|Session 7]] the party fixed it for her and she started walking. In [[Session 8 — Second Shift|Session 8]] they killed the Siren, and she stopped. She is safe, she can hear Walt at the right speed — and nothing is protecting her anymore.**
 
 > [!danger] Street correction
 > Run in play as **Ellis Street** — the innermost ring, alongside [[Stan Prokop]] and the first three walkers. Earlier drafts said Delaney; **Ellis is canon.** It also sharpens the anomaly: she was as close as anyone and still wasn't out there.
@@ -48,11 +48,17 @@ She sleeps in the front room with a portable cassette player on the windowsill p
 >
 > **[[Old Man]] rolled a natural 27 to talk her into lending it overnight** to "fix" it. **[[Bash Whitlock|Bash]] cast Mending.** They returned it working, and she was delighted: *"I can finally hear my Walt the way he used to sound again."* Bash earned inspiration for the kindness — and said the quiet part out loud: ***"I just signed her death warrant."***
 >
-> **That same night, testing [[The Modded Talkboy|the Talkboy]], Ruth was among the walkers.**
->
-> **Cash this slowly.** Don't underline it. Just have her out there again the next night, and the night after. She is now one of the two people the party has personally put on that road — [[Wendell Pace|Wendell]] is the other, and he's there for the opposite reason.
+> **That same night, testing [[The Modded Talkboy|the Talkboy]], Ruth was among the walkers.** She was out there again at the start of Session 8.
 
-She is a walker for the rest of the episode, including the Session 8 cold open.
+## How it came out — Session 8
+
+**The Siren died, and the walking stopped.** Ruth woke at the mill gate at dawn with the others and, like them, found a reason to be going home. **The death warrant never came due.** Nobody got hurt; she got her husband's real voice back.
+
+**The cost that's left is quieter:**
+- **She is notched and unprotected.** She was hollowed in '94; her occupancy defence is gone and the party removed it. **Anything that calls on that frequency again reaches her first** — she is the closest notched person to the mill who has nothing in the way.
+- **The kindness and the harm are now the same object.** A working tape player on a windowsill.
+
+**Don't cash it.** Leave it as a standing fact. If a future caller ever comes, she's already on the list, and the party put her there.
 
 ## The lunch pail — a minor quest object
 
@@ -87,7 +93,7 @@ She is a walker for the rest of the episode, including the Session 8 cold open.
 - **Held in reserve:** making Walt one of the hollowed seven. Devastating, promotes Ruth to an Act-2 figure, doesn't expire. See [[Walt Bielak]].
 
 ## Links
-[[Walt Bielak]] · [[The Worked Floors]] · [[The Modded Talkboy]] · [[Ren Sołtys]] · [[Dominique Ferraro]] · [[Bash Whitlock]] · [[Wendell Pace]] · [[Nullprints]] · [[The Siren]] · [[Hollowing and Agency-Loss]] · [[The 1991 Mill Incident]] · [[Mercer Falls Historical Society]] · [[Episode 3 — Second Shift]] · [[Session 7 — Second Shift]] · [[Hollowed Townspeople]]
+[[Walt Bielak]] · [[The Worked Floors]] · [[The Modded Talkboy]] · [[Ren Sołtys]] · [[Dominique Ferraro]] · [[Bash Whitlock]] · [[Wendell Pace]] · [[Nullprints]] · [[The Siren]] · [[Hollowing and Agency-Loss]] · [[The 1991 Mill Incident]] · [[Mercer Falls Historical Society]] · [[Episode 3 — Second Shift]] · [[Session 7 — Second Shift]] · [[Session 8 — Second Shift]] · [[Hollowed Townspeople]]
 
 ## Source
-Design conversation, 2026-08 (occupancy countermeasure, the Talkboy chain). 2026-09: Walt's 1991 death, the 1994 search, the lunch pail. **Played 2026-09-25 ([[Session 7 — Second Shift]]): Ellis Street locked, the waterfall bench added, and the party repaired the recorder — she now walks.**
+Design conversation, 2026-08 (occupancy countermeasure, the Talkboy chain). 2026-09: Walt's 1991 death, the 1994 search, the lunch pail. **Played 2026-09-25 ([[Session 7 — Second Shift]]): Ellis Street locked, the waterfall bench added, and the party repaired the recorder — she walks.** **Played 2026-09-30 ([[Session 8 — Second Shift]]): the Siren's death ended the walking; Ruth safe, unprotected.**
