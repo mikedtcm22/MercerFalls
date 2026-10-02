@@ -59,9 +59,24 @@ Because the hollowed surface "instantly" while free-willed survivors are held th
 
 **The dungeon walk of shame** is *witnessable* — by townspeople (the [[The Reality Filter|Filter]] handles civilians: they perceive the strangeness, don't follow up, rationalize it by morning) and, crucially, by other ember-bearers and PCs who didn't delve and are along the route. **PCs and ember-bearers are not Filtered — they remember.** Staking out [[The Mill]] or a route home lets PCs witness adherent walks, recruit walks, and eventually each other's — a major forensic channel that doesn't require entering the dungeon (pairs with [[Forensic Delving]]).
 
+## ⭐ Hollowing does not dodge heat (DM ruling, 2026-10-01)
+
+> [!danger] Don't let the lost day become a get-out-of-jail card
+> A player must never be able to **drop in the dungeon on purpose** to skip sneaking home. **A hollowed PC still faces the heat check** for being out — and the autopilot makes it *worse*, not better.
+>
+> **Why:** the body walks home with no regard for the fact that it needs to sneak. Front door, lights, the stair that creaks, straight past the kitchen. **Its odds of getting caught go up.**
+>
+> **Scaling by household** (per the [[Time Points]] strict/lax modifiers):
+> - **Strict parents** — the autopilot return is a **worse** heat roll than a careful sneak. *(e.g. [[Tank]], [[Gern]].)*
+> - **Lax parents** — the DM may gloss it. *(First instance: [[Old Man]], [[Session 8 — Second Shift|Session 8]] — glossed.)*
+>
+> **What the Filter does and doesn't do here:** it softens how a parent *explains* the state their kid is in (sick, tired, "something going around"). **It does not hide that the kid was out.** An empty bed at 2 a.m. and a kid coming through the front door at dawn are ordinary facts, and ordinary parents notice them.
+>
+> **The exact mechanic is not yet set** — a penalty to the sneak roll, an automatic catch for strict households, or a per-household table. Tracked in [[Outstanding Design Questions]].
+
 ## What a lost day looks like
 
-The hollowed PC's body, after reconstituting, spends the **remainder of that day and the whole next day** on **auto-pilot** — flat affect, default behaviors, *present without will.* They wake in their own bed with no memory of the walk home or of the lost day; the body is intact, the world is normal, and the Filter covered the late return with the parents. They show up to scheduled things and say almost nothing; they don't push, ask, or insist. Anything time-locked (Wesley's countdown, NPC plotlines) advances unimpeded.
+The hollowed PC's body, after reconstituting, spends the **remainder of that day and the whole next day** on **auto-pilot** — flat affect, default behaviors, *present without will.* They wake in their own bed with no memory of the walk home or of the lost day; the body is intact and the world is normal. **The Filter shapes how their parents read their state the next day — not whether the parents noticed them coming home** (see the heat ruling above). They show up to scheduled things and say almost nothing; they don't push, ask, or insist. Anything time-locked (Wesley's countdown, NPC plotlines) advances unimpeded.
 
 > [!note] What they *do* and don't forget
 > They keep everything up to the moment they dropped — the descent, the fight, the warmth. They lose only the reconstitution/walk home and the lost day itself. So they know they went in and came out changed; they just can't account for how they got home or where the day went. (Keeps the party's shared "we all have this now" hook intact.)
@@ -89,4 +104,4 @@ Lost days are **not skipped — they are narrated, with the player watching.** T
 The daily reset (see [[Floor Reset and the Intelligence Gradient]]) operates independently — it never compounds on a TPK; every morning is a fresh dungeon.
 
 ## Source
-Campaign Bible v0.4, §13 (Death, TPK, and the Lost Day), cross-referencing §3 (hollowing) and §5 (the Surfeit counter); the 3-TP dwell / time-dilation model + free-willed-vs-hollowed currencies + the puppeted-lost-day lever (conversation, 2026-06).
+Campaign Bible v0.4, §13 (Death, TPK, and the Lost Day), cross-referencing §3 (hollowing) and §5 (the Surfeit counter); the 3-TP dwell / time-dilation model + free-willed-vs-hollowed currencies + the puppeted-lost-day lever (conversation, 2026-06). **2026-10-01:** hollowing-does-not-dodge-heat ruling (DM), after Old Man's hollowing in [[Session 8 — Second Shift]]; mechanic pending.
