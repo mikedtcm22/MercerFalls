@@ -28,6 +28,7 @@ The dungeon resets daily, between delves. This is intrinsic — [[Order and Chao
 - **[[Nullprints|Nullprints]]** — see the disambiguation below
 - Residue (semi-physical agency-substance; fades on its own hours-to-days timeline regardless of reset — see [[Forensic Delving]])
 - Found keystones (carried by PCs — see [[The Keystone Tablet]])
+- **Writing left in [[The Cataloguing Office]]** — its ledgers, and anything a visitor writes and leaves there *(DM ruling 2026-10-01; see below)*
 
 **What does NOT persist:** drag marks, blood trails, residue-ash and scorch; spent supplies (torches, flares, wrappers); dropped personal effects and tools; monster corpses (and loot on them — **loot during the delve**).
 
@@ -37,7 +38,9 @@ The dungeon resets daily, between delves. This is intrinsic — [[Order and Chao
 > - **Residue-ash / scorch** (e.g. the ash-rings around the [[The Buzzsaw Room|Buzzsaw]] platform) — the *smoke*, physical soot. **Cleared by reset**, like blood and drag-marks.
 > - **[[Nullprints|The nullprint]]** — the machine's ledger entry, seared into the stone underneath. **Not cleared by reset.** It persists for months or years, and it fades only because **the dungeon is slowly eating it.** This is why [[Wendell Pace]]'s mark is still in [[The Pillared Reach]] and [[Lowell Brandt]]'s trail is still readable a year on.
 >
-> A dropped **notebook or personal effect does not persist** — which is why nothing a delver caches below survives the night, and why everything [[Lowell Brandt|Lowell]] ever brought out came home in his pockets instead.
+> A dropped **notebook or personal effect does not persist** — which is why nothing a delver caches below survives the night, and why everything [[Lowell Brandt|Lowell]] ever brought out came home in his pockets instead. *(This is why the party had to pick up [[Ren Sołtys|Ren]]'s notebook the night they found it — [[Session 8 — Second Shift]].)*
+>
+> **Exception — the Cataloguing Office.** Paperwork *in the office* is the office's own record and stays: the century-old ledgers, and [[Old Man]]'s note to "the Archivist." If the office wiped its paper, nothing in those ledgers would have survived. The exception is about the office as an archive, not a general cache — a notebook dropped in a corridor still goes.
 
 The daily reset operates independently of TPK — every morning is a fresh dungeon, never compounded (see [[Death, TPK, and the Lost Day]]).
 
@@ -57,10 +60,13 @@ Layered on top of the reset. The dungeon seems to get smarter deeper down.
 
 Floor 1 is a knowable place; Floor 12 is a different dungeon every time — and **both facts are about Wesley, not the dungeon.** When the PCs work this out (late Act 2 at earliest), the entire dungeon retroactively becomes an extension of their antagonist: they've been crawling around inside Wesley all along.
 
+> [!note] Floor 1 static reset, applied (Session 8)
+> The [[The Pit Room|Pit Room]] Chief comes back each day at full HP **with no memory** of the "mutinous dogman" who poisoned him. The party's disguise-and-stew approach meets a fresh Chief every time.
+
 ## The Wesley-Status Forensic Signal
 
 > [!danger] DM-only — tracking Wesley without seeing him
 > When Wesley is **active**, the gradient operates as designed (shuffling on 3+, contents on 6+, layouts on 10+). When Wesley is **incapacitated** (injured, away, captured), the gradient-shuffle **stops** — the intrinsic daily reset continues, but deep floors come back *static*. Attentive PCs may notice: "Floor 5 is the same configuration today as yesterday — that shouldn't happen." This is the **late-Act-1 forensic handle** for tracking Wesley's status indirectly (pairs with the residue and sigil signals in [[Forensic Delving]]).
 
 ## Source
-Campaign Bible v0.4, §10 (Floor Reset §10/897; Floor Intelligence Gradient §10/918), cross-referencing §3 (The Dungeon's Nature — machine-not-mind, Wesley as user). **Nullprint / residue / residue-ash disambiguation added 2026-08** — see [[Nullprints]].
+Campaign Bible v0.4, §10 (Floor Reset §10/897; Floor Intelligence Gradient §10/918), cross-referencing §3 (The Dungeon's Nature — machine-not-mind, Wesley as user). **Nullprint / residue / residue-ash disambiguation added 2026-08** — see [[Nullprints]]. **2026-10-01:** Cataloguing Office writing exception (DM ruling); Floor-1 static reset applied to the Pit Room Chief ([[Session 8 — Second Shift]]).
