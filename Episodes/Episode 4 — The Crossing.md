@@ -27,16 +27,31 @@ Up: [[Episodes]]
 >
 > **Consequences:** the Pit Room is demoted from *destination* to *gate* (clear it or bypass it, then descend). **Floor 2 opens during this episode rather than after it**, and the party's first taste of the gremlin floor is the Ep4 climax. The Ep4 hold-the-print fight gains a much better stage — standing water, a sluice the crew can pull, and gremlins that multiply when wet. See Act 4.
 
-> [!danger] What Ep3 hands this episode — REVISED 2026-08-28
+> [!danger] ⭐ What Ep3 actually handed this episode — [[Session 8 — Second Shift|Session 8]] (2026-09-30)
+> **The party arrives at level 3** (Gern Order Domain, Bash Artillerist; Tank and Old Man TBD).
+>
+> - **Old Man opens hollow.** Hollowed in the Pit Room; the rest of that day and all of the next on autopilot. **Lax parents — heat glossed.** The other three get **heat checks** for being out ~2–5 a.m. (Gern and Tank strict).
+> - **[[Dominique Ferraro|Dominique]] wasn't told they went back down.** Her designed grievance — *"I found out by watching"* — never fired in Ep3. **If she runs into Old Man looking the way Bash did, it fires now.**
+> - **Ren and Tomek are both hollow.** The Sołtys house has **two** empty children; Tomek's second time runs longer than Ren's nine days. **The Center is bringing meals.**
+> - **The party has read Ren's notebook** (Gern opened it; Tank objected). Holder unconfirmed. *"Return it unread"* is gone; *"tell her we read it"* is the best remaining outcome.
+> - **Gern's plan: go find Ren.** That puts the party at the Sołtys house early — and puts the **likeliest burn** in reach: **handing the notebook to her mother "to give back."** Don't steer.
+> - **They heard Ren scream and went the other way.** They don't know it was her. Whether they ever learn is open.
+> - **New tools:** [[The Stone of Quietude]] (Gern), [[The Reading Glass]] (**Gern, not Bash** — player knows the rules, character claims not to), Mercer's **paper III** (Tank), the Debrief card (unconfirmed), and **a one-way emergency exit** from mid–Floor 1 ([[The Spiral Stair Room]] top hatch → [[The Debrief Station]]; Tank holds the key).
+> - **The party has coined "the Archivist"** for whoever writes in the Cataloguing Office, and **Old Man left it his phone number.** The note stays. See [[The Cataloguing Office]].
+> - **Old Man wants to visit the [[Mercer Falls Historical Society|Historical Society]]** — where Dominique works.
+
+> [!danger] What Ep3 hands this episode — REVISED 2026-08-28 (still true)
 > **The seven-print cluster is cut.** Nullprints now fade to nothing as the victim recovers ([[Nullprints]]), so the 1991 *survivors* left nothing — what remains of them is notches. The party arrives here **without** having seen a black/white contrast.
 >
 > **What they do arrive with:**
-> - **The compounding curve, from [[Ren Sołtys|Ren]]'s notebook.** Every second entry is longer than the first; [[Henry Voss]]'s first *logged* entry is longer than anyone's second. They know hollowing is cumulative and that they are somehow exempt.
+> - **The compounding curve, from [[Ren Sołtys|Ren]]'s notebook.** Every second entry is longer than the first; [[Henry Voss]]'s first *logged* entry is longer than anyone's second. They know hollowing is cumulative and that they are somehow exempt. *(S8: theory 8 — "the more times it takes, the slower it grows back" — was read aloud.)*
 > - **The first sigil-clear.** A drawn chalk figure can bind a monster. Wesley's fingerprint is two episodes deep and still unattributed.
 > - **[[The Recall]] and the persistence rule** — proven by their own graffiti experiment, which also proves the tally marks they've been following belong to a *person* crossing multiple resets.
 > - **[[Ren Sołtys|Ren]] is hollowed and gone for nine days**, which is all of this episode. She is not available as a resource, and the party is holding her notebook, which she cannot consent to them using.
 >
 > **So the colour tell is now a first-contact reveal here**, not a payoff. Lowell's print is the first white one they've ever seen, and the black/white rule lands cold. That is a cleaner beat than the deduction it replaces — but it means **the tell must be teachable inside this episode.** The shoebox scraps or Mercer's register carry it.
+>
+> *(S8 adds: the DM told the table that ember-bearer prints are **faint** and Ren's and Tomek's are **much darker.** Intensity is now known; colour isn't.)*
 
 ## Design commitments
 
@@ -66,7 +81,10 @@ Up: [[Episodes]]
 **Keep the evidence damning and the man pathetic.** Hollis stonewalls out of humiliation (the sessions failed; the library digging is undignified), never out of menace. Shifty and petty, not sinister-competent. The gap between a strong circumstantial case and an obviously unimpressive man is what keeps him a herring — the exact inverse of the Wesley reveal (a beloved, impressive man with no evidence against him at all). Those two shapes side by side all summer is the point.
 
 > [!note] Live hook from Session 4
-> Hollis told Bash to **come back in a couple of days** for the sermon he was "germinating." Still unclaimed as of Session 5, and can open this episode cold.
+> Hollis told Bash to **come back in a couple of days** for the sermon he was "germinating." Still unclaimed as of Session 8, and can open this episode cold.
+
+> [!note] Mercer material now has two doors (post-S8)
+> Old Man has said he wants to go to the **Historical Society**, and [[Dominique Ferraro|Dominique]] works there. Hollis-at-the-Library-microfilm and Dominique-at-the-Historical-Society are now **competing channels to the same archive.** That's useful: if Dominique ever mentions that the Reverend has been asking for Mercer boxes, it reinforces the herring with a true fact from a trusted source. **And it's where the party is likeliest to discover the free option with her** — *"could you just pull the Mercer files for us?"* — which is the −1 engine in her tracker.
 
 **The line to build it on.** Wesley, asked about Hollis, refuses the bait: *"Reverend Hollis and I want the same thing for this town. We just disagree about the road."* Generous, exactly what a good man says, and **literally true.**
 
@@ -102,7 +120,7 @@ Third person. Two or three minutes. **Asymmetry is the goal:** the players see a
 **Then hand them the paper.** Two paragraphs in the Ledger, under the fold, with the word *apparently* in it — and on the same page, the notice for Saturday's one-year memorial vigil at the Community Center for **Lowell A. Brandt.**
 
 > [!note] Deliberate contrast with Ep3
-> The sleepwalking **never made the paper** — the Filter swallowed a week of it whole. Kubiak's death does, because a man hit by a train is unignorable. If the party notices that one made the Ledger and the other didn't, that's a real and correct read on how the Filter works. Reward it.
+> The sleepwalking **never made the paper** — the Filter swallowed a week of it whole. Kubiak's death does, because a man hit by a train is unignorable. If the party notices that one made the Ledger and the other didn't, that's a real and correct read on how the Filter works. Reward it. *(They now hold Mercer's paper III, which says exactly this — "it is never the same answer twice." A party that connects the two has earned it.)*
 
 ## The four acts
 
@@ -113,8 +131,10 @@ Third person. Two or three minutes. **Asymmetry is the goal:** the players see a
 - **The lead is the overlap:** two independent people describing **a boy's bedroom, a humidifier, and counting stairs** — and neither has a sick child. Solvable by reasoning, not lore. Makes the breakthrough a *demographic* question: who in this town has a kid who's been sick a long time?
 - **TP at the Center buys real help** — adults who'll vouch for the kids, a phone, the bulletin, Wesley making a call. No strings, no catch.
 
-> [!danger] Ren is not available
-> She is **nine days hollow** for the whole of this episode. If the party goes looking for her — and they will, because she was useful — they find a girl in a chair at her mother's house who doesn't answer to her name. **The Center is bringing meals to the Sołtys house.**
+> [!danger] Ren is not available — and neither is Tomek
+> She is **nine days hollow** for the whole of this episode. If the party goes looking for her — **and Gern has already said he will** — they find a girl in a chair at her mother's house who doesn't answer to her name. **Her brother is the same, in the next room**, on his second time. **The Center is bringing meals to the Sołtys house.**
+>
+> **The notebook is in the party's hands, and the mother is right there.** Handing it to her is the burn in Ren's disposition table. Let them choose.
 >
 > If the party asks Wesley about her, he is kind, concerned, and already involved. Nothing sinister happens on screen.
 
@@ -124,6 +144,7 @@ Third person. Two or three minutes. **Asymmetry is the goal:** the players see a
 - **The shoebox is the episode's centrepiece.** Stratified: notebook at the bottom, deteriorating scraps in the middle, the locket on top. Lifted out in order it's a man coming apart — **the hollowing lecture delivered as a prop, topside, in front of [[Gern]].** Full contents in [[Lowell Brandt]].
 - **The scraps now also have to carry the colour tell** (see the revised handoff above). Lowell watched his own earlier prints fade and wrote it down; somewhere in the middle layer is a line to the effect of *the marks go away when you come back, and the ones that don't are the ones that never did.*
 - The companion is never named. *"He is the only one who never told me to stop."*
+- **[[The Reading Glass]] is in Gern's pocket here.** The locket, the shoebox and the crossing are all perfect objects for it. If the table stalls, it's the designed lifeline — and Gern holding it during his faith-cracking episode is a pressure in itself. **Price it to hurt.**
 
 ### Act 3 — The cure, and the vial fills
 - The elixir works. **Full cure — the boy living is the light in a grim episode.**
@@ -136,9 +157,11 @@ Third person. Two or three minutes. **Asymmetry is the goal:** the players see a
 
 - **Objective: [[The Wash]] — room 2 of [[Floor 2 — The Works]].** Lowell's live white print: **the first white print the party has ever seen.** *(Revised 2026-09; previously [[The Pit Room]].)*
 - **[[The Pit Room]] (9) is now the gate, not the destination.** Clear or bypass it, take the **Down-Stairs (10)**, pass [[The Tollgate]], and the Wash is the next room. **This episode therefore opens Floor 2 during its own climax** rather than as an aftermath note.
-- **Route caveat, post-Session 5.** The [[The Octagonal Vestibule|Vestibule]] presented **eight doors** last visit and sealed every spoke but the one they took. It does not present a stable map. Decide whether Room 9 is reachable through the Vestibule again or whether they route via the [[The Bell Junction|Bell Junction]] and the corridor beyond.
-- **Gate encounter:** Dogman Chief (HP 52) + 3 Pit Wolves — locked at **Hard @ level 2.** Retune upward if Ep3 pushed them to level 3, and note they now have a **+1 Warhammer** in the party. As a gate it is now genuinely *bypassable* — stealth past the wide crossing is a legitimate win, where before it sat on top of the objective.
+- **Route — resolved by S8:** the party now routes **Cataloguing Office → Vestibule → [[The Bell Junction|Bell Junction]] → [[The Spiral Stair Room|Spiral Stair Room]] → north to the Pit Room** from their own map. Use that.
+- **Gate encounter — retuned and already engaged.** As played in S8: **Dogman Chief + 2 giant hyenas** — the right weight for level 3. The party has **already met the Chief, fooled him with Disguise Self, and poisoned him**, and is planning *"ten times more poisonous stew."* **Floor 1 resets static: he comes back fresh and remembers nothing**, so the trick meets a new contested roll each time. As a gate it's **genuinely bypassable** — by stealth, by the narrow ledge (Bash now has a Rope of Climbing), or by talking.
+  - **The escape hatch changes the stakes.** The top hatch is one room back and Tank has the key — **fleeing the gate costs no notch and no lost day.** Don't raise the gate to compensate. **Put the pressure on Floor 2**, where there is no hatch.
 - **The hold, in a far better room.** They need roughly a minute of contact with the print to burn the vial. In the Wash that means **holding position in standing water while the gremlins work the sluice and the level rises** — and per [[The Gremlins]], water on a gremlin buds a Wet Spawn (one per gremlin per fight). The encounter escalates on its own without the DM adding anything. Bias the wandering table toward **Sparkjacks**, whose lightning arcs through shared water.
+  - **Check [[The Stone of Quietude]] against Floor 2** before they walk in with it — a throwable, concentration-free 20-ft *Silence* will flatten anything voice- or sound-keyed.
 - **The print is the wrong shape.** Not arms-open like Wendell's: on his side, one arm out toward the crossing. Still trying to get across. **The room now rhymes with the shape** — a flooded chamber with a broken bridge, which is the last place a man who died trying to cross would end up.
 - **Discovery beat, changed.** The old version had the scraps describe [[The Pit Room]] so someone could say *"wait, that's the room off the vestibule."* That recognition is gone — the Wash is territory they have never seen. Instead the scraps describe **standing water, a fallen bridge, a room that is always wet**, and recognition lands on *arrival*, as confirmation rather than deduction. The Pit Room becomes a landmark they pass. **Flagged as an open dial** — if the deduction beat matters more than the new stage, move the print back.
 
@@ -152,30 +175,38 @@ Mercer's register is **clinical and industrial**: no sides, no enemy, no salvati
 
 **Why it cracks [[Gern]]:** his authority rests on holding the only text that explains what they're seeing. Now there are two texts that both get the phenomena right and disagree completely about why — and the older one didn't need a cosmology to do it. The true reading is also the bleak one: no one to pray to, no side, no rescue. Gern's temptation will be to reject it *because* it's cold, which is a discernment failure dressed as faith. See [[Certaintism]].
 
-> [!note] Ep3 already loaded this gun
-> [[Ren Sołtys|Ren]]'s notebook is the same shape of argument in a fifteen-year-old's handwriting — right about the *what*, silent on the *why*, and more accurate than scripture. Session 4 also put the **Mill charter's stewardship language** and **[[Elias Mercer]]'s obsessive siting** in the party's hands. Mercer's *index* caption is the third strike, and by now it should feel like a case rather than a revelation.
+> [!note] Ep3 already loaded this gun — and S8 loaded it again
+> [[Ren Sołtys|Ren]]'s notebook is the same shape of argument in a fifteen-year-old's handwriting — right about the *what*, silent on the *why*, and more accurate than scripture. Session 4 also put the **Mill charter's stewardship language** and **[[Elias Mercer]]'s obsessive siting** in the party's hands.
+>
+> **Session 8 added Mercer's own hand:** paper III from [[The Debrief Station]] (*On the Inattention of Witnesses*) — clinical, cosmology-free, and right — and **[[The Reading Glass]], a Mercer object, in Gern's pocket.** The Library register is now the **fourth** strike, not the third.
+>
+> **Consider narrowing the register** to what the cabin papers *don't* cover — the **nullprint "index" caption** and the *apparatus* speculation — so it lands as new information rather than repetition. *(And note Gern just killed the Siren "by the power of certainty" and took the Order Domain at level 3. The crack has more to break.)*
 
 ## Aftermath & seeds
 
 - **[[Eddie Park|Eddie]]'s disposition** set by whether he was treated as a witness or a wound. Wesley counter-cultivates either way: *"they used you" / "they made you dig him up."*
-- **The colour rule generalises.** White means dead and there's a ghost; black means alive and still being eaten. **[[Wendell Pace]]'s is black, in [[The Pillared Reach]]** — and there is no safe operation available to them. Let them work out what that means.
+- **The colour rule generalises.** White means dead and there's a ghost; black means alive and still being eaten.
+  > [!warning] Pre-existing conflict — Wendell's print
+  > This bullet originally read *"[[Wendell Pace]]'s is black, in [[The Pillared Reach]]."* **But Wendell recovered in [[Session 7 — Second Shift|Session 7]]**, and under the fade-on-recovery rule his print should be gone. Needs a fix: either drop the Wendell example, or **[[Tomek Sołtys|Tomek]]'s or [[Ren Sołtys|Ren]]'s fresh black prints in the Vestibule** take its place — both alive, both still being eaten, and the party has already stood over them.
 - **The 1991 dead left seven white prints, permanently**, somewhere in and around [[The Mill]]. Nobody has ever separated one out. Every walk across those grounds from here is a walk through them. See [[Ghosts]].
 - **The Mercer funeral custom.** [[Old Man]] has been carrying Timothy's photocopies since Session 4: eighty years of the Mercer family burning an object belonging to the deceased on the grave and working the ash into the grass. Once the party knows what release is, that clipping stops being an eccentricity. **Do not connect it for them.**
-- **[[Ren Sołtys|Ren]] wakes up in Ep5** and finds nine days with nothing in them. That, not resentment, is what sends her to Wesley.
+- **[[Ren Sołtys|Ren]] wakes up in Ep5** and finds nine days with nothing in them — **and her brother still gone.** That, not resentment, is what sends her to Wesley.
 - **Denny lives.** A cure came out of that hole in the ground, in a town full of sick and grieving people. That's the temptation Lowell died of and Wesley is dying of, now handed to the players as a good deed they performed themselves.
 - **[[Floor 2 — The Works|Floor 2]] is open, and they have seen its first two rooms** — the Tollgate and the Wash — which means they have met the gremlins and probably learned what water does to them. That is the on-ramp to **[[Episode — The Mirror|Ep5]]**, which runs on Floor 2.
 
 ## Open dials
-- Stat tuning for the ghost at the level-2/3 band ([[Ghosts]]).
-- Whether burning destroys the print or lifts it as ash. *(Ep3's sigil-clear used "the chalk goes to ordinary dust" — a rhyme is available.)*
+- Stat tuning for the ghost at **level 3** ([[Ghosts]]).
+- Whether burning destroys the print or lifts it as ash. *(Ep3's sigil-clear used "the chalk goes to ordinary chalk" — a rhyme is available.)*
 - Ray Kubiak's name; the survivor's identity.
-- Party level, and whether the Pit Room needs a bump given the +1 Warhammer.
+- ~~Party level, and whether the Pit Room needs a bump~~ — **settled by S8:** level 3; Pit Room retuned to Chief + 2 giant hyenas.
 - **Where the colour tell actually lands** — the shoebox scraps, Mercer's register, or the Wash itself.
 - **The lost recognition beat** (Act 4) — whether the new stage is worth the deduction it costs.
 - How much of [[Floor 2 — The Works|Floor 2]] the party pushes into once they are already down there with the objective cleared.
+- **The Wendell-print conflict** in the aftermath (above).
+- **Heat-check mechanic** for hollowed PCs — see [[Death, TPK, and the Lost Day]].
 
 ## Links
-[[Ghosts]] · [[Nullprints]] · [[Lowell Brandt]] · [[Eddie Park]] · [[Gern]] · [[Reverend Hollis]] · [[Wesley Crane]] · [[The Community Center]] · [[The Pit Room]] · [[Floor 2 — The Works]] · [[The Wash]] · [[The Tollgate]] · [[The Gremlins]] · [[The Octagonal Vestibule]] · [[The Bell Junction]] · [[The Recall]] · [[The Mill Sector]] · [[Certaintism]] · [[Hollowing and Agency-Loss]] · [[The Library]] · [[Elias Mercer]] · [[Wendell Pace]] · [[The 1991 Mill Incident]] · [[Time Points]] · [[Episode 3 — Second Shift]] · [[Session 5 — Second Shift]] · [[Ren Sołtys]] · [[Episode — The Mirror]] · [[The Negotiation System]] · [[The Cast and the Permanent Cast]]
+[[Ghosts]] · [[Nullprints]] · [[Lowell Brandt]] · [[Eddie Park]] · [[Gern]] · [[Reverend Hollis]] · [[Wesley Crane]] · [[The Community Center]] · [[The Pit Room]] · [[Floor 2 — The Works]] · [[The Wash]] · [[The Tollgate]] · [[The Gremlins]] · [[The Octagonal Vestibule]] · [[The Bell Junction]] · [[The Spiral Stair Room]] · [[The Recall]] · [[The Mill Sector]] · [[Certaintism]] · [[Hollowing and Agency-Loss]] · [[The Library]] · [[Elias Mercer]] · [[Wendell Pace]] · [[The 1991 Mill Incident]] · [[Time Points]] · [[Episode 3 — Second Shift]] · [[Session 5 — Second Shift]] · [[Session 8 — Second Shift]] · [[Ren Sołtys]] · [[Tomek Sołtys]] · [[Dominique Ferraro]] · [[Mercer Falls Historical Society]] · [[The Debrief Station]] · [[The Reading Glass]] · [[The Stone of Quietude]] · [[The Cataloguing Office]] · [[Episode — The Mirror]] · [[The Negotiation System]] · [[The Cast and the Permanent Cast]]
 
 ## Source
-Conversation, 2026-08 — ghost cosmology, the [[Eddie Park]] rebuild as Gern's foil, [[Lowell Brandt]] and the Severance trap, the Hollis paired-fact misdirection, the Kubiak cold open, the shoebox/locket structure, the Pit Room as the live print. Renumbered 3 → 4 (2026-08-14). **Revised 2026-08-28:** the Ep3 print-cluster handoff cut and replaced (colour tell is now first-contact here), Ren marked unavailable, ages corrected, Vestibule routing flagged, and the "late" register claimed exclusively for this episode. **Revised 2026-09:** the live white print relocated from [[The Pit Room]] to [[The Wash]] (room 2 of [[Floor 2 — The Works]]); the Pit Room demoted to a bypassable gate; Floor 2 now opens during this episode; the hold-the-print fight restaged in rising water against [[The Gremlins|gremlins]]; the recognition beat changed and flagged.
+Conversation, 2026-08 — ghost cosmology, the [[Eddie Park]] rebuild as Gern's foil, [[Lowell Brandt]] and the Severance trap, the Hollis paired-fact misdirection, the Kubiak cold open, the shoebox/locket structure, the Pit Room as the live print. Renumbered 3 → 4 (2026-08-14). **Revised 2026-08-28:** the Ep3 print-cluster handoff cut and replaced (colour tell is now first-contact here), Ren marked unavailable, ages corrected, Vestibule routing flagged, and the "late" register claimed exclusively for this episode. **Revised 2026-09:** the live white print relocated from [[The Pit Room]] to [[The Wash]] (room 2 of [[Floor 2 — The Works]]); the Pit Room demoted to a bypassable gate; Floor 2 now opens during this episode; the hold-the-print fight restaged in rising water against [[The Gremlins|gremlins]]; the recognition beat changed and flagged. **Revised 2026-10-01 after [[Session 8 — Second Shift]]:** actual Ep3 handoff (Old Man hollow, Dominique uninformed, Ren and Tomek hollow, the notebook read, new tools, the Archivist); Sołtys-house trap; route resolved; gate retuned and escape-hatch note; Mercer writings re-scoped as the fourth strike; Historical Society as a second Mercer channel; Wendell-print conflict flagged.
