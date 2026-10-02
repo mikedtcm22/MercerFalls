@@ -1,11 +1,12 @@
 ---
 aliases: [Ep3 — Second Shift, Second Shift, The Sleepwalkers]
-created: 2026-08-14T00:00:00.000Z
+created: 2026-08-14
 domain: Episodes
 featured_rival: "[[Ren Sołtys]]"
 monster: "[[The Siren]] + 2 harpies — bound to [[Wesley's Sigils|Wesley's sigil]] in [[The Spiral Stair Room]]"
-source: [conversation 2026-08 (Ep3 rebuild), "conversation 2026-08-28 (notch mechanism, timeline, Ren's hollowing)", "conversation 2026-08-29 (radius model, Dominique package, Stan Prokop)", session transcript 2026-08-28]
-status: in-play
+played: [2026-08-28, 2026-09-09, 2026-09-25, 2026-09-30]
+source: [conversation 2026-08 (Ep3 rebuild), "conversation 2026-08-28 (notch mechanism, timeline, Ren's hollowing)", "conversation 2026-08-29 (radius model, Dominique package, Stan Prokop)", session transcript 2026-08-28, session transcript 2026-09-25, session transcript 2026-09-30]
+status: played
 tags: [embers, episode, ren, dominique, notch, sigil, siren]
 title: Episode 3 — Second Shift
 type: episode
@@ -19,17 +20,27 @@ Up: [[Episodes]]
 
 **The Flats is sleepwalking to the mill. The party goes down to stop it, gets taken apart by a [[The Siren|Siren]] bound to [[Wesley's Sigils|Wesley's sigil]], and spends the rest of the episode working out how to fight something that kills you by making you love it. Featured Rival: [[Ren Sołtys]] (debut, and hollowed in the last thirty seconds). Wesley fingerprint: present, unattributed.**
 
-> [!note] Status — in play
-> **[[Session 5 — Second Shift]] played 2026-08-28.** Cold open through the first delve. **The party never reached the Siren** — they rang the [[The Bell Junction|Bell Junction]] bell, found the portal, and took it *away* from the singing. Session 6 opens mid-delve in [[The Buzzsaw Room]], no long rest.
+> [!note] Status — played (Sessions 5–8)
+> **[[Session 5 — Second Shift|S5]] (08-28)** cold open and first delve · **[[Session 6 — Second Shift|S6]] (09-09)** Floor-1 loops · **[[Session 7 — Second Shift|S7]] (09-25)** the TPK and the town half · **[[Session 8 — Second Shift|S8]] (09-30)** the return, the kill, the cabin, the closer. **Party is level 3.** See *How it actually ended* below; the design sections are kept for reference.
+
+## How it actually ended — Session 8
+
+- **The return was immediate** — 3 a.m., straight from the lawns, no town day in between. Gern carried the Talkboy and pressed play every round. **The Siren never got a save out of anyone in the bubble**; her one charm all fight was on Tank when he climbed out of range. **Gern killed her with Toll the Dead** — a Certaintist bell. She dissolved; **the sigil went to plain white chalk.**
+- **Takeaway #3 landed only partly.** The tally marks, boot prints and torch from the Act 4 design weren't presented; the dead chalk circle is still there to be read. The party's attention went to the **Cataloguing Office's wet pen** instead, and they now talk about **"the Archivist"** — see [[The Cataloguing Office]].
+- **The optional exit fired.** The Room-11 key opened the top hatch; [[The Debrief Station]] gave them **paper III** (only), the card, and [[The Reading Glass]] (to **Gern**). [[The Stone of Quietude]] came out of a loose brick in the stair room.
+- **The closer fired both ways.** A scream from the way they'd come in — **after the Siren was dead** — and they chose the Pit Room instead. They found **Ren's and Tomek's nullprints in the Vestibule with the notebook between them**, **read it**, and at dawn watched the two of them walk home glazed. **What took them is held open.**
+- **[[Tomek Sołtys|Tomek]] was hollowed too — a second time.** "Fine at the Sinclair Monday" is retired.
+- **[[Old Man]] was hollowed in [[The Pit Room]]** on a poisoned-stew gambit; Tank, Bash and Gern escaped up the stair and out the hatch.
+- **At dawn the walkers woke at the gate** and each invented a different reason to be going home — paper III, acted out an hour after they read it.
 
 ## The four things that must land
 
-| # | Takeaway | Vehicle |
-|---|---|---|
-| 1 | **A hollowing normally costs far more than a day, it compounds — and it does neither to the PCs.** | [[Ren Sołtys\|Ren]]'s durations against their own repeat lost day |
-| 2 | **[[Certaintism]] isn't the only working theory.** | The notebook is right about the *what* and silent on the *why*; a monster held by a chalk line |
-| 3 | **Someone else is active down there, and it started about a week ago.** | The sigil is *drawn*. Chalk, tallies, boot prints — and their own graffiti proving marks survive resets ([[The Recall]]) |
-| 4 | **Ren introduced; ends the episode hollowed, with a reason to seek out Wesley.** | Structural — fires on every branch |
+| # | Takeaway | Vehicle | Landed? |
+|---|---|---|---|
+| 1 | **A hollowing normally costs far more than a day, it compounds — and it does neither to the PCs.** | [[Ren Sołtys\|Ren]]'s durations against their own repeat lost day | **Yes** — S7 diner, and the theory page read aloud in S8 |
+| 2 | **[[Certaintism]] isn't the only working theory.** | The notebook is right about the *what* and silent on the *why*; a monster held by a chalk line | **Yes** — plus Mercer's paper III |
+| 3 | **Someone else is active down there, and it started about a week ago.** | The sigil is *drawn*. Chalk, tallies, boot prints — and their own graffiti proving marks survive resets ([[The Recall]]) | **Partly** — the graffiti persisted; the sigil-drawer's evidence went unshown; "the Archivist" now competes for the credit |
+| 4 | **Ren introduced; ends the episode hollowed, with a reason to seek out Wesley.** | Structural — fires on every branch | **Yes** — and sharpened by Tomek |
 
 ## The mechanism — two independent conditions
 
@@ -60,7 +71,8 @@ Keep it in **streets**, not miles, so the table can draw it.
 | 1–2 | Ellis, Delaney — the mill-road blocks | 3 |
 | 3–6 | Out through the near Flats | 9 |
 | **7–8 (Session 5)** | **Reaches Tank's and Old Man's street** | **11** |
-| Next | The far Flats, then the transitional blocks toward the Heights | ? |
+| Later (S7–S8) | All four PCs' lawns; Wendell and Ruth among the walkers | — |
+| **After the Siren's death** | **Stops.** Walkers wake at the gate at dawn | 0 |
 
 **Why the PCs weren't walking earlier isn't severity — it's geography.** The circle reached their street on night seven. The ember doesn't decide whether she can reach them; it decides that **they wake up.**
 
@@ -77,6 +89,8 @@ Keep it in **streets**, not miles, so the table can draw it.
 | 2–3 | **[[Episode 2 — The Hush\|Ep 2]].** Wendell hollowed. Ricky out of the pit |
 | 3–6 | Circle widens. Ren opens a new column |
 | **7–8** | **Ep 3 opens.** Nine walkers, then eleven |
+| S7 | TPK. Lost day. The Talkboy built |
+| **S8** | **The Siren killed; sigil cleared. Ren and Tomek hollowed. Walking stops** |
 
 > [!danger] The guilt hook
 > Ren dates the walking to **the week before last — the night the party was in the dungeon.** They went into the mill and the town started walking to it within a day. False inference, completely reasonable, and the truth is standing right next to it: the last thing that changed down there was a man in a work coat stepping into a chalk circle while they watched. **Don't correct it.**
@@ -120,9 +134,9 @@ Keep it in **streets**, not miles, so the table can draw it.
 
 **The shaft.** Geometry and stat block in [[The Spiral Stair Room]] and [[The Siren]]. Run her **at full strength**; show **both kill routes** at least once. The drop is the one they'll remember, because the horror isn't being grabbed — it's that they went willingly.
 
-**Fleeing is real and it works.** She's tethered; the harpies won't leave her. **Anyone who gets out under their own power takes no notch** — [[Bash Whitlock|Bash]] and [[Gern]] currently have zero.
+**Fleeing is real and it works.** She's tethered; the harpies won't leave her. **Anyone who gets out under their own power takes no notch.**
 
-**Three branches:** full wipe (intended) · partial · **they win — let them.** **Do not railroad the loss.**
+**Three branches:** full wipe (intended) · partial · **they win — let them.** **Do not railroad the loss.** *(Played: full wipe, Session 7.)*
 
 ## Act 3 — town
 
@@ -151,6 +165,9 @@ Keep it in **streets**, not miles, so the table can draw it.
 
 > [!danger] Step 4 is the whole scene
 > If someone **declines the off-ramp** — doesn't accept the apology, says *"no, you're right"* — that's the single most valuable thing any PC does for her all summer (**+2**). If everyone takes it gratefully and moves to the intel, the drift starts and nobody at the table feels a thing.
+
+> [!note] As played (S7) — the confrontation never fired
+> Bash told her everything before she had to ask. **In S8 they went back down without telling her** — the grievance is still live, and Old Man's hollowing is a way for her to find out by watching. See [[Episode 4 — The Crossing]].
 
 ### What she brings
 
@@ -203,20 +220,20 @@ She warned them, they went anyway, and she's spent a day and a half watching fou
 
 **Put the roster on the map and it's a picture, not a calculation.** Every previously-hollowed person inside the radius is walking — **except one dot, well inside the innermost ring, dark.**
 
-**[[Ruth Bielak]], on Delaney.** Two blocks off the mill road, hollowed in '94, never once out there. **She should have been in the first three.**
+**[[Ruth Bielak]], on Ellis.** Hollowed in '94, never once out there. **She should have been in the first three.** *(Found by Ren herself in S7.)*
 
 The anomaly as a hole in a circle: legible to any player who looks at the map, no statistics, no misdirection. And it points straight at *why is that one house different* — which is exactly the question Dominique is best equipped to go answer.
 
 ### [[The Community Center]] — [[Wesley Crane|Wesley]]
 
-Structurally the redundancy for Ren: if they skipped or burned her, he keeps the episode running.
+Structurally the redundancy for Ren: if they skipped or burned her, he keeps the episode running. *(Not reached in play.)*
 
 > [!danger] The eccentricity: he keeps a notebook
 > Small, cheap, back pocket, soft at the corners. Names and dates and a word or two. Unembarrassed: *"I can't hold it all. Never could. So I write it down."*
 >
 > **Reads as:** a man who runs a community center and remembers people. **Is:** four years of candidates.
 >
-> **The rhyme is the point.** Two people in this episode keep notebooks of hollowed townspeople — one out of fear, one out of appetite, physically indistinguishable. **If the party has Ren's book in a backpack while he opens his, draw no attention to it. Ever.**
+> **The rhyme is the point.** Two people in this episode keep notebooks of hollowed townspeople — one out of fear, one out of appetite, physically indistinguishable. **If the party has Ren's book in a backpack while he opens his, draw no attention to it. Ever.** *(Old Man keeps a third — see [[Old Man]].)*
 
 His list overlaps Ren's almost exactly. If you want the sharp version, he thumbs past a page with **their four names on it**, dated mid-June: *"Somebody said you'd been out at the mill overnight and looked half dead for a couple days after. I keep an eye on that kind of thing. Nobody keeps an eye on kids in this town. Somebody should."* Every word true.
 
@@ -228,66 +245,64 @@ His list overlaps Ren's almost exactly. If you want the sharp version, he thumbs
 
 ### [[Panels]]
 
-**1 TP to ingratiate** and Russ recommends **MIDNIGHT SHIFT #11, "The Lorelei Waltz"** — the villain sings people off a bridge; the hero beats her with a dictaphone played back warped. He hands them the solution as a plot summary and nobody notices.
+**1 TP to ingratiate** and Russ recommends **MIDNIGHT SHIFT #11, "The Lorelei Waltz"** — the villain sings people off a bridge; the hero beats her with a dictaphone played back warped. He hands them the solution as a plot summary and nobody notices. *(Not reached in play.)*
 
 ### [[Ruth Bielak]] and the Talkboy
 
-Her husband died in '89; she sleeps with a cassette of his voice on the windowsill, seven years, every night. **The belt is stretched. It runs slow.** *"He sounds slower than he was. I keep meaning to get it fixed."*
+Her husband died in '91; she sleeps with a cassette of his voice on the windowsill, every night. **The belt is stretched. It runs slow.** *"He sounds slower than he was. I keep meaning to get it fixed."*
 
 **She isn't protected by anything clever. She's protected by a broken tape player.**
 
 > [!danger] This cannot come from the party
 > Four kids do not get told about a dead husband's voice on a cassette. **The party goes door to door and gets names. Dominique goes to one house and stays.** That's what she's for — and it's precisely the skill that will be used on the party in September.
 
-**[[Bash Whitlock|Bash]] gets the mechanism.** Dominique gets the fact; Bash gets the why. The belt, the drag, playback dropped about an octave — **it isn't that the voice is comforting, it's that it's on her frequency.** Her notch is occupied; nothing else can get in. **Content is irrelevant. Any recording. Only speed matters.** He's right, and he should get to be right out loud.
-
-> **THE TALKBOY** *([[Jerry]]'s, six dollars, bin of dead Christmas toys)*
-> Any recording, played on SLOW. **3 charges** — the tape stretches further every pass.
-> **Bonus action.** Until the start of your next turn, allies within 30 ft are **immune to the Siren's song and to Luring Song.**
-> **First use only:** she hears a human voice at the wrong speed and it isn't hers. **DC 13 Wis or stunned until the end of her next turn.**
-> After the third charge the tape is unreadable.
-
-**Let the party decide who carries it.** Tank is the natural answer — free bonus action after round one, no ranged attack. **Don't steer.** Let whoever records it choose what goes on the tape, on screen, before they know what it's for.
-
-> [!note] The wax problem — needs a ruling
-> The party landed on **wax in the ears** at the end of Session 5. Recommended: let it fail informatively — it muffles the sound, but the pull isn't acoustic where it matters. Then Gern's *other* idea (ringing the Bell Junction bell to drown her out) makes Ruth's discovery a **refinement of something they already guessed** rather than a handout.
+**[[Bash Whitlock|Bash]] gets the mechanism.** Dominique gets the fact; Bash gets the why. **Content is irrelevant. Any recording. Only speed matters.** *(As played: Old Man's Performance made the connection; Bash Mended the player and built [[The Modded Talkboy]].)*
 
 ## Act 4 — the return
 
-**3 TP.** Same route, fast. **Charm drops to DC 13.** **Draining Kiss and Take Me Home stay live.** Three Talkboy charges against a six-round fight means whoever holds it covers half and has to choose which half. **She is not weaker. They are equipped.**
+**3 TP.** Same route, fast. **Draining Kiss and Take Me Home stay live.** **She is not weaker. They are equipped.**
+
+> [!note] As played (S8)
+> Charm ran at **DC 15, escalating to 16–17** as she grew desperate (not the designed DC 13). The harpies stayed dead. The Talkboy was held by **Gern** and run every round. **The fight was as easy as the "too easy" dial feared — and that was correct for a capstone.** Her design gates every damaging option behind a charm; with the Talkboy up she could only flee. See [[The Siren]].
 
 **Clearing it.** *The green goes out. That's all. No sound. The chalk on the floor is just chalk now.* **This costs Wesley significant delve progress** — he has to redraw, and they will never know.
 
-**What the room gives them:** the sigil was *drawn* — chalk, human hand, a compass-steady ten-foot circle. **Tally marks nearby, same as Session 2, with a fresh stroke added.** A spent torch. Adult boot prints, work sole, ~size 11.
+**What the room gives them:** the sigil was *drawn* — chalk, human hand, a compass-steady ten-foot circle. **Tally marks nearby, same as Session 2, with a fresh stroke added.** *(Not presented in S8. Chalk persists, so the circle and tallies can still be read on a later visit; boot prints and the torch can't.)*
 
 ## The closer — Ren goes in
 
-Full treatment in [[Ren Sołtys]]. **Circumstance-driven, not Wesley-driven.** The trigger is **[[Tomek Sołtys|Tomek]]** — deliberately held back from the mid-episode hollowing, which is [[Stan Prokop]]'s, so that Tomek is available for this. **The permission is the party**: she watched four kids go in and come back in one day, and her model updated the only way she has ever updated a model. She's wrong because of an ember she can't know about. **Ren is hollowed by her own methodology.**
+Full treatment in [[Ren Sołtys]]. **Circumstance-driven, not Wesley-driven.** The trigger is **[[Tomek Sołtys|Tomek]]**. **The permission is the party**: she watched four kids go in and come back in one day, and her model updated the only way she has ever updated a model. She's wrong because of an ember she can't know about. **Ren is hollowed by her own methodology.**
 
-On the mill road in the small hours she comes down toward them with the notebook still in her hand. *"Ren?"* She goes right past. *"Ren."* She does not turn her head. **The cold open, inverted, same two lines.** Then: *you take the notebook out of her hand. She lets you.*
+> [!note] As played (S8)
+> Tomek was at the gate when the party arrived; Old Man told him *"Remember."* Later — **after the Siren was dead** — the party heard a scream and went the other way. They found **both prints and the notebook in the Vestibule**, read it, and at dawn watched **Ren and Tomek** walk home glazed. **Both closing shots fired.** What took them is held open.
 
 **Nine days.** Gone for all of [[Episode 4 — The Crossing]].
 
 ## Aftermath
 
-- The walking stops that night. Nobody notices except the party.
-- **Tomek is fine.** Completely. At the Sinclair Monday morning.
-- **[[Stan Prokop]] is not.** He's at Marco's next to [[Wendell Pace|Wendell]] — two glassy bussers, and Marco doesn't connect it.
+- **The walking stopped that night.** The walkers woke at the gate at dawn, confused, and each found a different reason to be heading home.
+- **Tomek is not fine.** Hollowed a second time; by Ren's own rule he'll be out longer than two weeks — **still gone when she wakes.** Duration held open. See [[Tomek Sołtys]].
+- **Ren** — nine days. **The party holds her notebook and has read it.** See [[Ren Sołtys]] for the disposition table.
+- **[[Ruth Bielak|Ruth]]** — safe. Her walking ended with the Siren; she has Walt at the right speed and nothing protecting her.
+- **[[Old Man]]** — hollowed in the Pit Room; opens Ep4 on autopilot.
+- **[[Dominique Ferraro|Dominique]]** — not told they went back down.
+- **[[Stan Prokop]]** — not reached in play; his status is whatever the DM wants it to be.
 - **Ricky is still doubting**, and his hands still don't work.
-- Ren's mother has nine days of a daughter who isn't there, and **the Center brings meals to families in trouble.**
-- The Community Center is on their map, with a closed door at the back nobody mentioned.
+- Ren's mother has a **daughter and a son** who aren't there, and **the Center brings meals to families in trouble.**
+- **New in the party's hands:** [[The Stone of Quietude]], [[The Reading Glass]], Mercer's paper III, the Debrief card (unconfirmed), and a one-way exit from mid–Floor 1 into [[The Debrief Station]].
+- **Level 3.**
 
 ## Open dials
 
 - **Ren's saving-grace line** isn't locked.
-- **The Act 4 fight may be too easy** with the Talkboy plus a party who knows the room.
+- **What hollowed Ren and Tomek** *(S8, held open).*
+- **Tomek's second duration** *(S8, held open).*
 - **Ruth's tape content** is unwritten. What Walt is saying matters more than it looks.
 - **Marcy at the Center** — already a recruit in June, or later?
 - What Russ calls the Siren off a VHS box.
-- Whether the radius keeps growing after the sigil clears *(no — it stops that night)*.
 
 ## Links
-[[Ren Sołtys]] · [[Tomek Sołtys]] · [[Dominique Ferraro]] · [[Stan Prokop]] · [[Ruth Bielak]] · [[The Siren]] · [[The Spiral Stair Room]] · [[The Bell Junction]] · [[The Recall]] · [[Nullprints]] · [[Hollowing and Agency-Loss]] · [[Wesley's Sigils]] · [[The Community Center]] · [[Wesley Crane]] · [[Ricky Vance]] · [[Wendell Pace]] · [[Henry Voss]] · [[Panels]] · [[Jerry]] · [[The Reality Filter]] · [[Certaintism]] · [[Time Points]] · [[Session 5 — Second Shift]] · [[Episode 4 — The Crossing]]
+[[Ren Sołtys]] · [[Tomek Sołtys]] · [[Dominique Ferraro]] · [[Stan Prokop]] · [[Ruth Bielak]] · [[The Siren]] · [[The Spiral Stair Room]] · [[The Bell Junction]] · [[The Recall]] · [[Nullprints]] · [[Hollowing and Agency-Loss]] · [[Wesley's Sigils]] · [[The Community Center]] · [[Wesley Crane]] · [[Ricky Vance]] · [[Wendell Pace]] · [[Henry Voss]] · [[Panels]] · [[Jerry]] · [[The Reality Filter]] · [[Certaintism]] · [[Time Points]] · [[The Modded Talkboy]] · [[The Stone of Quietude]] · [[The Reading Glass]] · [[The Debrief Station]] · [[The Pit Room]] · [[The Cataloguing Office]] · [[Session 5 — Second Shift]] · [[Session 6 — Second Shift]] · [[Session 7 — Second Shift]] · [[Session 8 — Second Shift]] · [[Episode 4 — The Crossing]]
 
 ## Source
-Conversation, 2026-08 — Ep3 rebuilt after Session 4. Revised 2026-08-28 onto correct canon (the notch, one-week timeline, wipe-then-town order, Ren's hollowing). **Revised again 2026-08-29:** escalation model changed from severity-ordering to **a growing radius**, [[Stan Prokop]] added as the mid-episode hollowing, the full [[Dominique Ferraro]] confrontation and intel written, and Ruth reframed as a hole in a circle.
+Conversation, 2026-08 — Ep3 rebuilt after Session 4. Revised 2026-08-28 onto correct canon (the notch, one-week timeline, wipe-then-town order, Ren's hollowing). **Revised again 2026-08-29:** escalation model changed from severity-ordering to **a growing radius**, [[Stan Prokop]] added as the mid-episode hollowing, the full [[Dominique Ferraro]] confrontation and intel written, and Ruth reframed as a hole in a circle. **Closed out 2026-10-01** after [[Session 8 — Second Shift]]: status played, as-played resolution, takeaways scored, aftermath rewritten (Tomek, Ruth, Old Man, the notebook), level 3.
