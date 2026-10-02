@@ -1,9 +1,10 @@
 ---
 aliases: []
-created: 2026-06-25T00:00:00.000Z
+created: 2026-06-25
 domain: PCs
+level: 3
 pc_class: Bard
-source: [embers_old_man_arc_and_battle_plan.md, embers_awakening_scene_design.md, session transcript 2026-08-28]
+source: [embers_old_man_arc_and_battle_plan.md, embers_awakening_scene_design.md, session transcript 2026-08-28, session transcript 2026-09-30]
 status: canonical
 tags: [embers, pc, old-man, order-chaos, bard]
 title: Old Man
@@ -41,13 +42,20 @@ The room asks the one question that's defined his life (carry them or save mysel
 
 - **Fey creature — advantage on saves vs. spells and magical effects.** Declared at the table in [[Session 5 — Second Shift]]. ⚠ **Does not stack** with the ember's charm advantage against [[The Siren]], but **does** cover Reproach and any other magical effect in that fight.
 - **Countersong is a level-6 feature and he will try it anyway.** Have a ruling ready: action + expend a Bardic Inspiration die, Performance vs. the effect's DC, allies within 30 ft get advantage until his next turn. A bard against a thing that steals people with a song is the single most on-theme thing available to him all summer.
-- **Disguise Self is his signature move**, used twice now — as [[Ricky Vance|Ricky]] in Ep2, and as a **dogman** in Session 5. He ended Session 5 **still disguised as a dogman** and wants a clipboard to pose as "the inspector." A dogman fluent in English with a clipboard is good enough to work once; let it.
+- **Disguise Self is his signature move**, used four times now — as [[Ricky Vance|Ricky]] in Ep2, as a **dogman** in Session 5, and twice in Session 8 as **the Pit Room Chief's twin** (it held against the Chief's Int check). Spell save DC 13.
+- **Session 8 spell kit in play:** Dissonant Whispers (drove the Siren up into the rafters), Vicious Mockery, Tasha's Hideous Laughter (resisted), thrown daggers, Bardic Inspiration to Tank.
+
+## ⭐ His notebook
+
+**Old Man keeps a notebook with a page on each party member.** He wrote in it in the dungeon in Session 8 (*"Dying horny?"* — on Tank's page). Ren keeps one out of fear; Wesley keeps one out of appetite; **Old Man keeps one to manage people.** Don't draw the rhyme.
+
+It's also **the cleanest proof object at the table** for the Debrief Station's written-thoughts rule: he wrote below, and as an ember-bearer, his notes come up intact. See [[The Debrief Station]].
 
 ## Relationships
 Fellow [[The Districts|Flats]] kid with [[Tank]] (same street). **Old Man and Tank are the same wound from opposite social positions** — both load-bearing kids carrying a parent's collapse. At the mill by **coincidence**; he clocked the prank and quietly moved to soften it. He knows it was a setup: a held truth he may have to weigh later.
 
 ## Household & Time Points
-**Lax parents (locked).** +1 Night TP per the [[Time Points]] backstory modifiers. Genuinely unsupervised in play — he's the one with spare evening points most sessions, confirmed across Sessions 1–5. *(Comes with an ambient nightly rough-rest risk — see [[Time Points]].)*
+**Lax parents (locked).** +1 Night TP per the [[Time Points]] backstory modifiers. Genuinely unsupervised in play — he's the one with spare evening points most sessions, confirmed across Sessions 1–5. *(Comes with an ambient nightly rough-rest risk — see [[Time Points]].)* **Session 8: hollowed while out all night — DM is glossing his heat this time because of the lax household.** The general rule (hollowing makes heat *worse*) is in [[Death, TPK, and the Lost Day]].
 
 ## Episode 1 — played (Awakening choice)
 > [!note] Sessions 1–2 — full account in [[Episode 1 — The Dare — Play Log]]
@@ -56,11 +64,11 @@ Fellow [[The Districts|Flats]] kid with [[Tank]] (same street). **Old Man and Ta
 
 ## Episode 2 — played (Session 3)
 > [!note] Full account in [[Episode 2 — The Hush — Play Log]]
-> Talked down [[Petey]]'s account of both the lost day and the adult Hush sighting; remained a **committed skeptic** (Hume, the black swan) even while sitting on firsthand evidence he can't explain. Redeemed his **Epiphone Thunderbird** and picked up a **miner's helmet**; cultivated **Timothy** at [[The Library]] into a standing research favor. Cast **Disguise Self as Ricky Vance** for the party's decoy plan.
+> Talked down [[Petey]]'s account of both the lost day and the adult Hush sighting; remained a **committed skeptic** (Hume, the black swan) even while sitting on firsthand evidence he can't explain. Redeemed his **Epiphone Thunderbird** and picked up a **miner's helmet** (*"Tommy"* scrawled inside); cultivated **Timothy** at [[The Library]] into a standing research favor. Cast **Disguise Self as Ricky Vance** for the party's decoy plan.
 
-## Episode 3 — in play (Session 5)
+## Episode 3 — played (Sessions 5–8)
 
-> [!note] Full account in [[Session 5 — Second Shift]]
+> [!note] Session 5 — full account in [[Session 5 — Second Shift]]
 > Woke on his own lawn at 2:40 a.m., nine houses from his door. **Failed the second Wisdom save at the mill gate** and walked to the fence mid-sentence; [[Tank]] shook him out of it. **His Siren-voice was his old guitar teacher, who moved away.**
 > Ran the [[Ren Sołtys|Ren]] conversation. Disguised himself as a dogman, tried to befriend a wolf pack, **rolled a natural 1**, took 10 damage.
 
@@ -71,5 +79,19 @@ Fellow [[The Districts|Flats]] kid with [[Tank]] (same street). **Old Man and Ta
 >
 > **This is his flaw firing exactly as designed** — the eloquent line, believed by the speaker, spent on someone who couldn't afford it. He will not connect it. **Do not connect it for him**, and do not punish it in the moment; let it land in [[Episode 4 — The Crossing]] when she's gone.
 
+> [!note] Session 7 — full account in [[Session 7 — Second Shift]]
+> Lured up a catwalk and shoved off (Siren-voice: a Vonnegut lecture on library cassette). **Natural 27 Persuasion** to borrow Ruth's tape player; Performance 13 to make the slow-speech connection. Asked Ren to meet up and gave her his number — **the meet-up never happened.** Openly flirting with Dominique.
+
+> [!note] Session 8 — full account in [[Session 8 — Second Shift]]
+> - At the gate, with the Talkboy running, took **[[Tomek Sołtys|Tomek]]** by the shoulders and said one word: ***"Remember."***
+> - Read the Cataloguing Office ledgers (objects, not names); tried to match the **"Tommy"** in his helmet against them — no luck.
+> - **Left a note on the office desk: *"To the Archivist — call me,"* with his home phone number.** It stays (DM ruling). See [[The Cataloguing Office]] — the Archivist may turn out to be very real.
+> - In the Siren fight: Dissonant Whispers, Vicious Mockery, daggers, and *"You have one chance to give yourself up."*
+> - **Kept watch below the hatch** while the others searched [[The Debrief Station]] — *"we've been killing things and dying sort of routinely."* Had Tank pocket the papers for him; read on Mercer: *"I guess we're going to hit the Historical Society sometime."*
+> - Floated *"maybe we have the dogmen wrong — maybe we're the real villains."*
+> - **Hollowed in [[The Pit Room]]** — disguised as the Chief's twin, he served the Chief poisoned stew (Deception 16), then took an Incite Rampage hyena bite. His faint nullprint is in that room. **He spends the rest of that day and the next on autopilot** — he opens Ep4 hollow.
+>
+> **Let the Ren overshare land now.** She's gone, the notebook is in the party's hands, and the last thing he said to her was "let's meet up."
+
 ## Source
-[[Source Documents]] — embers_old_man_arc_and_battle_plan.md; embers_awakening_scene_design.md. Awakening choice from [[Episode 1 — The Dare — Play Log]]. Household/TP and Session-3 summary 2026-07-31. **Session-5 state added 2026-08-29:** fey advantage, the countersong ruling, the dogman disguise, and **the Ren overshare** as a live consequence.
+[[Source Documents]] — embers_old_man_arc_and_battle_plan.md; embers_awakening_scene_design.md. Awakening choice from [[Episode 1 — The Dare — Play Log]]. Household/TP and Session-3 summary 2026-07-31. **Session-5 state added 2026-08-29:** fey advantage, the countersong ruling, the dogman disguise, and **the Ren overshare** as a live consequence. **Sessions 7–8 added 2026-10-01:** the notebook, "Remember," the Archivist note, the Pit Room hollowing, lax-household heat gloss.
