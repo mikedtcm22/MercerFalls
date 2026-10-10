@@ -44,15 +44,15 @@ Keep it, and let it be useless **on purpose**. The party spends a Stretch and a 
 Douse a gremlin and it **buds**: one **Wet Spawn** arrives at the start of the next round. **Cap: one bud per gremlin per fight.** Wet Spawns are CR 1/8 — 10 HP, AC 13, no rig, no Nimble Escape, unequipped (contraptions do not copy).
 
 Consequences worth running:
-- **[[The Wash]] (room 2) stops being a crossing and becomes a clock.** Any fight there escalates every round the party keeps splashing — which is exactly the room where [[Episode 4 — The Crossing|Ep4]] demands a one-minute stationary hold in standing water while the crew works the sluice. The set piece builds itself.
-- It explains why the floor is *full*, and why the reset refills it.
+- **[[The Wash]] (room 2) stops being a crossing and becomes a clock.** Any fight there escalates every round the party keeps splashing — which is exactly the room where [[Episode 4 — The Crossing|Ep4]] demands a one-minute stationary hold while the crew works the sluice. The set piece builds itself.
+- It explains why the floor is *full*.
 - It shuts off the obvious cheese before a player tries it.
 - Casters with water effects have to actually think.
 - **It cuts both ways.** A competent Foreman pulls his people *out* of water; Wet Spawns are the crew's problem too. Let the gremlins play it correctly.
 
-**3. Feeding after midnight. Optional, cosmological.**
+**3. Feeding after midnight. Retired below; banked for topside.**
 
-The dungeon has no midnight. Rule that **the reset is the transformation** — whatever the floor does at reset, it does to them. A quiet [[Cosmology Seeds|cosmology seed]] about what the reset actually *is*. Drop it if it is clutter.
+The dungeon has no midnight, and under replenishment ([[Floor Reset and the Intelligence Gradient]]) there's no nightly wipe to stand in for one. The cocoons in [[The Warren Wall]] simply hatch between visits. Keep the rule in the research scene as movie trivia, banked like sunlight: it only matters if a mogwai ever ends up topside with a clock and a refrigerator.
 
 ## Roster
 
@@ -95,13 +95,19 @@ The **Brain Gremlin** from *Gremlins 2*, wearing a dead foreman's clothes and ru
 ## The caged mogwai
 
 > [!danger] The reveal in [[The Warren Wall]]
-> Past the screw-jack press, in the deepest cell of the warren: a birdcage wired shut with coat hanger. Inside, something small and furry with enormous eyes, **soaked through and shivering**, surrounded by a rigged drain that keeps him that way. **They wet him when they want more of themselves.** He is a factory, and he has been one for a long time.
+> Past the jack, at the back of the nest: a birdcage wired shut with coat hanger. Inside, something small and furry with enormous eyes, **soaked through and shivering**, under a dripping coffee can that keeps him that way. **They wet him when they want more of themselves.** He is a factory, and he has been one for a long time.
 >
-> **Every gremlin on this floor came out of him.** That recontextualizes the entire floor in one beat, and it is what makes the crank's price worth paying.
+> **Every gremlin on this floor came out of him.** That recontextualizes the entire floor in one beat, and it is what makes the jack's price worth paying.
 
 **What he gives:** fits the tunnels (retrieves things, opens latches from the far side, scouts a room) · knows the floor cold (point a direction and he reacts — a crude but honest information channel) · **will not go near [[The Wash]]**, and will not explain why until they work it out · is the only thing on this floor that is not hostile, which matters after two floors of nothing but teeth.
 
-**What he costs:** a walking hazard. Rain, a canteen, a bad fall into water. And **the floor resets** — rescuing him and leaving him there means he is back in the cage tomorrow, drained and wet, with no memory of them. The only permanent rescue is taking him out of the dungeon, and Mercer Falls has a river, a falls, a lake, and it is summer in Ohio. **Leave that unsolved.** Let the party carry it for weeks.
+**Freeing him starves the floor.** The dungeon still replenishes dead gremlins on its own; he is the *surplus* — the cocoons, the growth between visits. While he is alive and loose, take **−2 off the Shift Boss's reinforcement pool**, stacking with wrecking the warren.
+
+**What he costs:**
+- **A walking hazard.** Rain, a canteen, a bad fall into water — and what buds off him isn't him.
+- **Death is his only reset.** Per replenishment, freed and alive he stays free between delves and **remembers the party.** If he dies, he is replenished back in the cage — wet, under the drip, and a stranger to them.
+- **The gremlins hunt him.** He's their factory, and they remember who let him out.
+- **Taking him topside** is a choice now, not the only rescue — and Mercer Falls has a river, a falls, a lake, and it is summer in Ohio. **Leave that unsolved.**
 
 **Do not stat him for combat.** 6–7 HP, hides, useless in a fight. Something they protect, not something they deploy. He wears a **brass mill tag on a string** with a number stamped on it, matching the hatch keys. Let them name him.
 
@@ -128,6 +134,8 @@ Roughly half medium, half hard, with **entry 1 deliberately not a combat** — a
 
 **Emergence is the default presentation.** Per the ductwork rule in [[Floor 2 — The Works]], a wandering hit means they come *out of the woodwork* mid-room, inside the party's formation — not in through a door. A party that has mapped a room's grates converts the ambush into a normal fight.
 
+**Survivors remember.** Under replenishment, any gremlin that lives through an encounter carries it into the next visit — faces, tricks, grudges. A crew that ran from the party once comes back expecting them.
+
 **Room-keyed swaps** (the table is a default, not a straitjacket): [[The Wash]] → bias Sparkjacks. [[The Spans]] → Batwings and Bottle Rockets. [[The Bucket Line]] → Fanboys. [[The Door Machine]] → Chewers, because a Chewer eating a component mid-assembly is the best bad thing that can happen to them all night.
 
 ## Escalation and drift
@@ -142,12 +150,13 @@ Two adjustments when it does:
 
 ## Open dials
 - Shift Boss and Spider Gremlin stat tuning, set once the arrival level is known.
-- Whether the *midnight = reset* rule is used or cut.
+- **The factory question.** As written, the mogwai is the *surplus* and the dungeon replenishes the rest. The alternative — he's the *only* source, so freeing him lets the party slowly empty the floor — is a bigger reward that eventually kills the floor's wandering economy.
 - Where the sunlight rule eventually cashes in.
 - Whether gremlins appear beyond the Mill sector.
+- Whether a dungeon native like the mogwai can leave the dungeon, and what he is topside.
 
 ## Connections
-[[Floor 2 — The Works]] · [[The Nightmare Engine]] · [[Dungeon Mechanics]] · [[Combatscape Layers]] · [[The Warren Wall]] · [[The Wash]] · [[The Spans]] · [[The Shift Floor]] · [[The Tinker's Bench]] · [[Russ]] · [[Panels]] · [[Mercer Falls Historical Society]] · [[Episode 4 — The Crossing]] · [[Episode — The Mirror]] · [[Cosmology Seeds]] · [[The Hush]] · [[The Dogmen]]
+[[Floor 2 — The Works]] · [[The Nightmare Engine]] · [[Dungeon Mechanics]] · [[Combatscape Layers]] · [[Floor Reset and the Intelligence Gradient]] · [[The Warren Wall]] · [[The Wash]] · [[The Spans]] · [[The Shift Floor]] · [[The Tinker's Bench]] · [[Russ]] · [[Panels]] · [[Mercer Falls Historical Society]] · [[Episode 4 — The Crossing]] · [[Episode — The Mirror]] · [[Cosmology Seeds]] · [[The Hush]] · [[The Dogmen]]
 
 ## Source
-Design conversation, 2026-09 — the Gremlins reskin (chosen over a Tommyknocker skin for table accessibility), the three-rules treatment (sunlight kept but inert and banked, water live with a one-bud cap, midnight-as-reset optional), the contraption roster with break points, the d12 wandering table at the level-3 band, the caged mogwai, and the level 4–5 drift with the retreat-to-a-rig ruling.
+Design conversation, 2026-09 — the Gremlins reskin (chosen over a Tommyknocker skin for table accessibility), the three-rules treatment (sunlight kept but inert and banked, water live with a one-bud cap), the contraption roster with break points, the d12 wandering table at the level-3 band, the caged mogwai, and the level 4–5 drift with the retreat-to-a-rig ruling. **2026-10-10:** midnight-as-reset option retired under the replenishment ruling ([[Floor Reset and the Intelligence Gradient]]); the mogwai's costs revised (death is his only reset; the gremlins hunt him; topside is a choice, not the only rescue); freeing him made a lasting −2 to the reinforcement pool; survivors-remember note added to the wandering table.
