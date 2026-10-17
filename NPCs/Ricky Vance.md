@@ -87,7 +87,19 @@ The old pitch (*"you can't trust yourself out there alone; my structure never fa
 
 For a kid organized entirely around control of his own body, **a diagnosis is a more fatal offer than a father figure.** Nothing about it requires the party to have failed him. It only requires that they couldn't help — which they can't.
 
-**Saving-grace — what the party can offer that Wesley can't.** Peer-trust in the middle of the mess: he can survive chaos by being *trusted inside it*, not managed through it. And now, specifically: **believe him out loud, before Wesley does.** The doubt is live and moving, and whoever gets there first wins him. [[Tank]]'s mirror-recognition is the sharpest version.
+**Saving-grace — what the party can offer that Wesley can't.** Peer-trust in the middle of the mess: he can survive chaos by being *trusted inside it*, not managed through it. And now, specifically: **believe him out loud, before Wesley does.** The doubt is live and moving, and whoever gets there first wins him. [[Tank]]'s mirror-recognition was the sharpest version — **see below: it's now closed.**
+
+## Session 9 — Tank paid with the hands
+
+> [!danger] Tank can never hold this fact again
+> In [[Session 9 — The Crossing Remembers|Session 9]] Tank used [[The Reading Glass]] on Lowell Brandt's finger bone and **paid with *"Ricky Vance has a weird chronic problem with his hands lately."*** Tank said it aloud, confused; **Bash, Gern and Old Man retain it** (Old Man even riffed on Ricky fumbling at the goal line). Tank's player treated the price as free.
+>
+> **Consequences.**
+> - **The Tank-recognition saving grace is closed.** Told about Ricky's hands, Tank agrees pleasantly and doesn't retain it. If he tries to act on it, he falters (2d6 psychic if he presses).
+> - **When Ricky finally confides in Tank, Tank will forget by the next scene.** From Ricky's side, his best friend didn't care. That is the strongest push toward Wesley available — and the cleanest way to land the August near-miss.
+> - **Proposed (not decided):** reroute Ricky's saving grace through Old Man or Bash, who still hold the fact.
+
+**Timing note:** the August near-miss can now land squarely on Tank's blank.
 
 ## Hollowed-and-survived — **the Wesley-driven one**
 
@@ -102,15 +114,15 @@ For a kid organized entirely around control of his own body, **a diagnosis is a 
 
 ## Negotiation profile (DM-only)
 - **Motivations (Interest up):** **Steadiness / a hand to anchor to** · **Competence recognized** (treated as capable, not coddled) · **his father** · **being believed** *(new, and currently the strongest)*.
-- **Pitfalls (Interest down):** **Pity / being managed** · **Public exposure of weakness** · **using dare night as ammo** · **agreeing that maybe he imagined it.**
-- **Reachable through:** peer-trust shown in chaos; [[Tank]]-recognition; naming what's true without pity; **telling him the monster was real and meaning it.**
-- **Wesley's counter-cultivation:** reframes PC respect as condescension — *"they only see who you used to be"* — and, increasingly, *"they got you out. Fine. Can they tell you why your hands don't work?"*
+- **Pitfalls (Interest down):** **Pity / being managed** · **Public exposure of weakness** · **using dare night as ammo** · **agreeing that maybe he imagined it** · ***being forgotten by Tank*** *(Session 9 — unavoidable if he confides in him)*.
+- **Reachable through:** peer-trust shown in chaos; ~~[[Tank]]-recognition~~ *(closed, Session 9)*; naming what's true without pity; **telling him the monster was real and meaning it.**
+- **Wesley's counter-cultivation:** reframes PC respect as condescension — *"they only see who you used to be"* — and, increasingly, *"they got you out. Fine. Can they tell you why your hands don't work?"* After Session 9, also: *"Tank doesn't even remember you told him, does he?"*
 
 > [!note] [[Wade Vance]] — thread left open
 > He searched three days for his son and now says *"he got turned around out there."* That's either the Filter working perfectly on a Filter-resistant man, or a father who can't afford to think about it. **Undecided, and it matters for [[Episode 4 — The Crossing]].**
 
 ## Connections
-[[Tank]] · [[The Party]] · [[Bash Whitlock]] · [[Gern]] · [[Wade Vance]] · [[Patricia Vance]] · [[Wesley's Recruits]] · [[Wesley Crane]] · [[The Hush]] · [[The Recall]] · [[The Reality Filter]] · [[Russ]] · [[The Community Center]] · [[The Cast and the Permanent Cast]] · [[Session 1 — The Dare]] · [[Episode 2 — The Hush]] · [[Episode 3 — Second Shift]] · [[The Negotiation System]] · [[The Other Party (Rival or Evil)]] · [[The Equinox Ritual]]
+[[Tank]] · [[The Party]] · [[Bash Whitlock]] · [[Gern]] · [[Wade Vance]] · [[Patricia Vance]] · [[Wesley's Recruits]] · [[Wesley Crane]] · [[The Hush]] · [[The Recall]] · [[The Reality Filter]] · [[Russ]] · [[The Community Center]] · [[The Cast and the Permanent Cast]] · [[Session 1 — The Dare]] · [[Episode 2 — The Hush]] · [[Episode 3 — Second Shift]] · [[The Negotiation System]] · [[The Other Party (Rival or Evil)]] · [[The Equinox Ritual]] · [[The Reading Glass]] · [[Session 9 — The Crossing Remembers]]
 
 ## Source
-wesley bizarro plot v5 §3 · campaign bible v0.4 §9 · Ricky deep-dive (2026-06). **Revised 2026-08-29** against play: the rescue ran clean and Wade-free, so the shame vector is dead; **the hands and the doubt replace it**, the doubt's cause is [[The Recall]], and Ricky is confirmed as **the one Wesley-driven hollowing** among the four Rivals, timed late (August).
+wesley bizarro plot v5 §3 · campaign bible v0.4 §9 · Ricky deep-dive (2026-06). **Revised 2026-08-29** against play: the rescue ran clean and Wade-free, so the shame vector is dead; **the hands and the doubt replace it**, the doubt's cause is [[The Recall]], and Ricky is confirmed as **the one Wesley-driven hollowing** among the four Rivals, timed late (August). **Revised 2026-10-17:** Tank paid the Reading Glass with Ricky's hands ([[Session 9 — The Crossing Remembers|Session 9]]); the Tank-recognition route is closed.
