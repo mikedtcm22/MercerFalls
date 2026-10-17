@@ -17,7 +17,7 @@ Up: [[Lore & Cosmology]]
 **The seared, human-shaped mark left where a person was hollowed. Not a stain — a *file.* The dungeon's ledger entry recording the transaction, which the dungeon then eats. When it finishes eating, the person is well again and the mark is gone.**
 
 > [!danger] DM-only
-> The *existence* of nullprints is player-facing (the party has seen Wendell's; [[Gern]] can name it from the [[Certaintism|Tome of Conviction]] as **Figure 9**). Everything below — that it's a live file, that its lifetime tracks the victim's recovery, that it can be operated on — is behind the screen.
+> The *existence* of nullprints is player-facing (the party has seen Wendell's; [[Gern]] can name it from the [[Certaintism|Tome of Conviction]] as **Figure 9**). Everything below — that it's a live file, that its lifetime tracks the victim's recovery, that crossing the threshold puts a hollowed person back on it, that it can be operated on — is behind the screen.
 
 ## What it is
 
@@ -35,8 +35,8 @@ This is the single most useful forensic fact in the campaign, because it makes a
 | Victim | Print lifetime |
 |---|---|
 | **Ember-bearer** | Faint smudge. **Gone in about a day** — which is why the party's own prints vanish between delves |
-| **Ordinary, recovering** | Days to weeks, tracking their recovery |
-| **Terminal case** ([[Henry Voss]]) | **Years.** There is a lifetime's worth to digest and he never comes back |
+| **Ordinary, recovering** | Days to weeks, tracking their recovery. Each later hollowing runs longer |
+| **Cycler** ([[Henry Voss]]) | Never finishes. He keeps walking back in, waking on his print, and falling again deeper — each new print darker and longer than the last |
 | **Dead** | **Permanent** — see below |
 
 > Residue (the semi-physical agency-substance that hangs in a chamber for hours-to-days) is the **smoke**. The nullprint underneath it is the **filing**.
@@ -50,7 +50,7 @@ This is the single most useful forensic fact in the campaign, because it makes a
 | **Black** — dark, sunken, visibly thinning | The person is **alive**, still being consumed, and **still not right** |
 | **White** — pale ash, frozen, no further change | The person is **dead**. There is a [[Ghosts\|ghost]]. |
 
-A party that learns this can walk a chamber and read who is still out there and who isn't. **And an *old* black print is the loudest signal in the dungeon** — it means somebody has been down for a very long time and has not come back. One of the highest-value [[Forensic Delving|forensic]] reads in the campaign.
+A party that learns this can walk a chamber and read who is still out there and who isn't. **And an *old* black print is the loudest signal in the dungeon** — it means somebody went down a very long time ago and has never walked back in. One of the highest-value [[Forensic Delving|forensic]] reads in the campaign. (A cycler like Voss doesn't leave old prints; he leaves fresh, ever-deeper ones.)
 
 ## The notch — what's left when the print is gone
 
@@ -67,7 +67,7 @@ The notch is what makes a person **audible to the dungeon and to things bound to
 | **Hollowed, recovered** | **Susceptible.** [[Tomek Sołtys\|Tomek]] and most of the roster |
 | Hollowed, **ember-bearer** | Susceptible, but **the ember wakes them** — and spending itself hurts |
 | **Currently hollowed** | **Not susceptible.** Nothing in there to call. [[Wendell Pace\|Wendell]] is the control group |
-| Terminal | Not susceptible. Already gone |
+| Cycler | Not susceptible while hollow; walks back in by routine regardless |
 
 **The cruel shape of this:** the people most at risk are the ones who look completely fine.
 
@@ -83,52 +83,65 @@ The notch is what makes a person **audible to the dungeon and to things bound to
 
 So a serial victim like [[Lowell Brandt]] leaves a descending trail of mostly-eaten closed scars and **exactly one live print** — the last.
 
-## The two operations
+## Coming back, and the two rituals
 
-The same object supports two rituals, and confusing them is lethal.
+> [!important] Decided 2026-10-17 (Session 9 prep)
+> No restoration *rite*. One way back that needs no ritual, and two burning rituals that need **different kinds of object**. **The wrong object won't catch.** Nothing about burning a print is lethal.
 
-### 1. Restoration (subject alive)
+### The threshold (subject alive — no ritual)
 
-Bring a hollowed person to their **live black print** and a comparatively simple rite returns their agency **instantly and fully**, on the spot. [[Wesley Crane]] knows it. Source of his knowledge: presumably the Mercer papers — **open**.
+**A hollowed person who sets foot across the archway into [[The Cataloguing Office]] is removed on the spot and reconstitutes at their live black print — themselves.** A corpse run, World of Warcraft–style. **"Set foot" is literal: carried, walked or wheeled, it counts.**
 
-Three things keep this from deflating the horror:
+- **They still have to get out.** Restored, they're alone wherever they last fell, with whatever is there. Fall again and the dungeon gets a **deeper print**, and the next hollowing runs longer.
+- **The perpetual trap.** Anyone who fell deep can only be themselves underground, for as long as they survive down there. Their body's routine walks them back in; they wake, fail to get out, fall deeper. That's [[Lowell Brandt|Lowell's]] last summer (the Severance trap) and [[Henry Voss]] to this day.
+- **[[Wesley Crane|Wesley]]'s edge** is only knowing it works, and where they'll wake. He doesn't walk Lowell to the print; he waits beside it.
+- **Wesley's exit glyph is still an equivalent-exchange door** — every body that walks out spawns another tough monster on his next delve.
+- **The skim.** Agency renews, but *the capacity that renews it* degrades slightly each time.
+- **PCs, same rule.** An ember-bearer's faint print lasts about a day. A hollowed PC carried in during the lost day wakes alone wherever they fell.
+- **Search and rescue.** If the party carries hollowed [[Ren Sołtys|Ren]] (or Tomek) across, she wakes alone on her Vestibule print and wanders, looking for her brother. The party has to find her before something takes her down again. Run as a full scene.
+- **The party already holds the tell:** Lowell's scrap *"woke on my own shape again."*
 
-- **You have to get them there.** A will-less adult cannot be led anywhere they don't already have a routine for; and once restored, they still have to **survive the walk out.** The practical result of restoration-without-extraction is that a person **ceases to exist as themselves anywhere outside the dungeon** — the [[Lowell Brandt|Severance trap]].
-- **[[Wesley Crane|Wesley]]'s exit glyph is an equivalent-exchange door** — every body that walks out spawns another tough monster on his next delve.
-- **The skim.** Agency renews, but *the capacity that renews it* degrades slightly each time. Enough cycles and there is nothing left to renew — see [[Henry Voss]].
+### Release (white print — the dead)
 
-### 2. Release (subject dead)
+Burning a **white print** with the right object closes the file and lets the [[Ghosts|ghost]] move on. A mercy, not a kill. **The theme is moving on.**
 
-Burning the **white print** of a dead person closes the file and lets the [[Ghosts|ghost]] move on. A mercy, not a kill.
+**It requires a counter-claim.** The ledger's assertion is *this person had no will*, and a keepsake is no rebuttal. What works is **proof that their unfinished business is finished** — a completed errand. Place it on the print and burn it there. Anything else **won't catch**.
 
-**It requires a counter-claim.** Ember-fire alone does nothing; the ledger's assertion is *this person had no will*, and a keepsake is weak rebuttal. What works is an object proving that **a choice of theirs outlived them** — ideally a completed errand. Place it on the print and burn it there.
+### Filter-break (black print — the living)
 
-> [!danger] Never perform release on a live black print.
-> It would almost certainly **kill them.** A loaded gun in the party's hands from Ep4 onward.
+The rhyme to release, with a different object. **The theme is coming back to yourself.** Burn, on a living person's black print, **something that represents an aspect of their life they're avoiding or running away from**, and they come back **out from under [[The Reality Filter]]**.
+
+- **DM shorthand: the *unfaced thing*.** How it's described in-world is open.
+- **Hidden from players for a long time.** If they stumble into it — an accidental Filter-break — allow it and don't explain how.
+- **A finished-errand counter-claim on a black print won't catch**, and an unfaced thing on a white print won't catch. The same object never works on both.
+- **Both rituals require intimacy.** You can't lay a ghost to rest without learning what they never finished; you can't break someone free without knowing what they run from.
+- **Accidental-fit watch (Ep4):** Ren's medal and notebook don't fit (pride she carries; her defence). **Ren's question list with *Can I come next time?* struck out is the strongest fit in the campaign** — she's running from needing anyone. Old Man carries it.
 
 ## Consequences already in play
 
-- **[[Wendell Pace]]'s print is in [[The Pillared Reach]]**, black, and being eaten right now. The party stood on it in Episode 1. No safe operation is available: restoration is out of reach, release would kill him. **And he is not walking at night** — the one person visibly wrong is the one person the Siren can't reach.
+- **[[Wendell Pace]]'s print is in [[The Pillared Reach]]**, black, and being eaten right now. The party stood on it in Episode 1. Under the threshold rule he *can* be put back — carried across the archway, he wakes alone in the Pillared Reach. **And he is not walking at night** — the one person visibly wrong is the one person the Siren can't reach.
 - **The [[The 1991 Mill Incident|1991]] dead left prints too.** Seven men hollowed and dead within days — **seven white prints, permanent**, and seven active ghosts in and around [[The Mill]] ever since. The *survivors* of 1991 left black prints that finished digesting years ago; what's left of them is notches, which is why several are on the night roster. See [[Ghosts]].
 - **A hollowed PC who dies aboveground during the lost day** ([[Death, TPK, and the Lost Day]] — death outside the dungeon is permanent) leaves a *faint* white print and becomes a ghost. Do not raise this at the table; let them find it.
 
 ## The de-hollowing horizon (Act 2/3)
 
-The release rite is the **precursor to a genuine de-hollowing method** — and eventually to the campaign's answer for deliberately breaking someone out of [[The Reality Filter]]. Locked: **possible, and out of reach at Act-1 levels.** The catch is that the procedure requires the subject be **hollowed first** — so giving someone their sight means taking their agency, permanently skimming them, and betting you can give it back.
+The filter-break is the campaign's answer for deliberately breaking someone out of [[The Reality Filter]]. Locked: **possible, and out of reach at Act-1 levels.** The catch is that it requires the subject be **hollowed first** — so giving someone their sight means taking their agency, permanently skimming them, and betting they come back.
 
-That is [[Wesley Crane|Wesley]]'s exact move, performed by the heroes, for good reasons. Two guardrails:
+That is [[Wesley Crane|Wesley]]'s exact move, performed by the heroes, for good reasons. Guardrails:
 - Keep it distinct from [[Russ]] and [[Wade Vance]], who are Filter-resistant **organically**, through grief and love. Surgical vs. earned; the contrast should sting.
 - Decide before the PCs have it whether an **unwilling** target is mechanically possible. They will try to weaponize it.
 
 ## Open dials
 
 - **Does burning destroy the print or transform it?** Proposed: the white ash **lifts off the stone**, leaving clean rock. Rhymes with the sigil-clear in Ep3 ("the chalk goes to ordinary dust").
-- **Where the restoration rite is written down.** Mercer papers is the obvious answer and wires into [[The Mercer Mansion]].
-- **Whether the skim has a floor** — is [[Henry Voss]] empty, or merely very slow?
+- **Does the filter-break also end the hollowing?** Rec: no — it changes how they come back, not when, so it never becomes a cure.
+- **Does Wesley know the filter-break?** Rec: no; seeing is the opposite of what he sells. Mercer may have.
+- **How the unfaced thing is described in-world.**
+- **Whether the skim has a floor** — is [[Henry Voss]] emptying, or merely cycling slower each time?
 - **Whether a notch can be closed.** Currently: no, and nobody in the setting knows otherwise.
 
 ## See also
-[[Ghosts]] · [[Hollowing and Agency-Loss]] · [[The Recall]] · [[Death, TPK, and the Lost Day]] · [[Certaintism]] · [[Forensic Delving]] · [[Floor Reset and the Intelligence Gradient]] · [[Wesley Crane]] · [[Lowell Brandt]] · [[Wendell Pace]] · [[Henry Voss]] · [[Tomek Sołtys]] · [[Ren Sołtys]] · [[The 1991 Mill Incident]] · [[Episode 3 — Second Shift]] · [[Episode 4 — The Crossing]] · [[The Reality Filter]]
+[[Ghosts]] · [[Hollowing and Agency-Loss]] · [[The Recall]] · [[Death, TPK, and the Lost Day]] · [[Certaintism]] · [[Forensic Delving]] · [[Floor Reset and the Intelligence Gradient]] · [[Wesley Crane]] · [[Lowell Brandt]] · [[Wendell Pace]] · [[Henry Voss]] · [[Tomek Sołtys]] · [[Ren Sołtys]] · [[The 1991 Mill Incident]] · [[Episode 3 — Second Shift]] · [[Episode 4 — The Crossing]] · [[The Reality Filter]] · [[The Cataloguing Office]] · [[Session 9 — The Crossing Remembers]]
 
 ## Source
-Conversation, 2026-08 — nullprint consumption model, black/white colour tell, open vs. closed prints, restoration and release, the skim, the de-hollowing horizon. **Revised 2026-08-28:** prints now fade *to nothing* on recovery rather than persisting for years (only terminal and dead cases endure), and **the notch** added as the permanent residue — the mechanism behind Episode 3's susceptibility rule. Supersedes the earlier "prints persist for months or years regardless" treatment.
+Conversation, 2026-08 — nullprint consumption model, black/white colour tell, open vs. closed prints, restoration and release, the skim, the de-hollowing horizon. **Revised 2026-08-28:** prints fade *to nothing* on recovery rather than persisting for years (only terminal and dead cases endure), and **the notch** added. **Revised 2026-10-17 (Session 9 prep):** the restoration rite retired in favour of **the threshold rule** (literal, carried counts; reconstitute at the live print); re-falls deepen the print; **Henry Voss reframed as a cycler**; the black-print **filter-break** ritual added with its own object (the *unfaced thing*); **wrong objects won't catch**, retiring "release on a black print kills."
