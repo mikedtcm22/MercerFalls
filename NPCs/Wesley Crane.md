@@ -26,6 +26,8 @@ Up: [[Cast & NPCs]]
 ## Profile
 ~30s, in Mercer Falls about five years. Runs the spiritual community center, leads grief groups, gave the eulogy at a beloved teacher's funeral. Genuinely warm, genuinely well-liked. Recruits troubled-but-talented locals (see [[Wesley's Recruits]]). He came deliberately: working in an inner city before this, he chased an obscure footnote to the **Mercer papers** ([[Elias Mercer]]'s legacy) — a thread most would have glossed over — and in the fragments he scraped together he saw the potential for *a method to make people better.* He left almost immediately and has given his life to finishing what he believes Mercer started, performing an entry ritual that gave him contact and protection. **He believes he is using a tool. He is the tool.**
 
+**Also a fellow at the [[Mercer Falls Historical Society]]** (established in play, [[Session 9 — The Crossing Remembers|Session 9]]) — where the Mercer papers he followed here are kept, and where [[Dominique Ferraro]] works.
+
 ## Who he actually is — the savior who never needed saving
 The key to Wesley: **he has never been broken.** He's spent his whole life on the *outside* of suffering — competent, clear-eyed, never himself addicted or grieving or lost — looking in at people who are. What he's actually felt across all those years isn't empathy; it's **frustration.** He sees, with real and maddening clarity, the obvious thing a person should do — and watches them not do it, and spiral, again and again. The successes kept him going; the accumulating failures wore him toward hopelessness. The Mercer papers didn't offer him healing (he was never sick) — they offered **leverage:** a way to make people better whether they cooperate or not.
 
@@ -58,7 +60,9 @@ This filter generates both halves of every Rival (see [[Wesley's Recruits]] and 
 - **The saving-grace the party plays to** = the inverse — the kid's own buried agency, the choice that's genuinely theirs to trust. The party **cannot out-care Wesley** (he out-cares everyone, lavishly); the one thing he structurally *cannot* offer is **help aimed at the kid not needing him** — peer-trust, treating them as someone who can be trusted to choose, knowing when the cast comes off. That's why acknowledgment-as-an-equal reaches them, and why Wesley counter-cultivates by reframing PC respect as condescension: peer-trust is the single move that breaks his pitch. The danger stays real — trusting a not-quite-healed kid to walk can mean watching them fall.
 
 ## The dungeon's user
-Wesley is Order's current operator of the containment system. Without a user the dungeon is a static deathtrap; with Wesley it adapts, resets, reshuffles, and pressures intruders. Most of what PCs read as the dungeon "thinking" is Wesley operating it through escalating [[Wesley's Sigils]] granted by his anti-ember relic. **Wesley's progression and the dungeon's escalation are the same thing** — the principal axis of antagonist scaling (see [[Dungeon Mechanics]]). Damage him — clear his sigils, kill [[Wesley's Adherents]], exhaust him — and the dungeon feels less alive: floors stay cleared, resets slip. [[Elias Mercer]] ran it before him (DM-private previous-user thread).
+Wesley is Order's current operator of the containment system. Without a user the dungeon is a static deathtrap; with Wesley it adapts, resets, reshuffles, and pressures intruders. Most of what PCs read as the dungeon "thinking" is Wesley operating it through escalating [[Wesley's Sigils]] granted by his anti-ember relic. **Wesley's progression and the dungeon's escalation are the same thing** — the principal axis of antagonist scaling (see [[Dungeon Mechanics]]). Damage him — clear his sigils, kill [[Wesley's Adherents]], exhaust him — and the dungeon feels less alive: floors stay cleared, resets slip. [[Elias Mercer]] ran it before him (DM-private previous-user thread). **First seed to players: Bash's photocopy C** (Session 9) — Constance Mercer's 1891 letter, "Father goes down every Sunday… the works below will not keep without a hand on them," with pencil tallies in the margin.
+
+**The threshold rule ([[Nullprints]], 2026-10-17).** A hollowed person who crosses into [[The Cataloguing Office]] wakes on their live print, themselves. There is no restoration rite; **Wesley's edge is only knowing this works, and where people will wake.** In [[Lowell Brandt]]'s Severance trap he didn't walk Lowell to his print — **he waited beside it for Lowell to appear.**
 
 ## The relic (anti-ember)
 An artifact he extracted early; the prototype of what the campaign calls **anti-embers** (parallel to the PCs' [[The Embers]] but dungeon/Order-side). Fire-vocabulary: *steady, banked, even — a coal burning a long time without consuming itself.*
@@ -87,6 +91,16 @@ He's been bringing people down for a while — as labor, and as hollowing-candid
 
 **The irony he leaves with:** he assumes they'll die (candidates) or wake hollowed (candidates) — he has no idea they're about to be claimed by [[The Entity]] in the adjacent [[The Ember Chamber]] and walk out *powered.* His miscalculation here is the seed of the whole PC-vs-Wesley shadow war. *(Session 1 is pure opportunism — he did not arrange the dare; the* engineered*-hollowing version of this tactic is saved for a later recruit — see [[Wesley's Recruits]].)*
 
+## In play — Session 9 (Episode 4)
+
+> [!important] First face-to-face with a PC as himself
+> - **Bash met him at the Historical Society,** introduced by [[Dominique Ferraro|Dominique]] after she recognised the style of Mercer's writing on Bash's Debrief Station card. He introduced himself as "one of the fellows at the Historical Society," pulled a Mercer family compendium, and let Bash photocopy pages (three, per prep). His favourite Mercer theme: the work ethic, **"the important work."**
+> - **On descendants:** *"I don't think any of the direct descendants live in Mercer Falls anymore"* — the last direct line moved one town over for a banking career. **True and protective:** it hides Dominique. *(Owed: the banker and his town.)*
+> - **What he now knows:** Dominique's cousin is chasing Elias Mercer; and, depending on what she showed him, that a kid holds a document in Mercer's hand he's never seen. **Open:** did she show him the card or only describe it? *(Rec: described — he wants to see it.)* *Watch:* he may have seen photocopy C go through the copier.
+> - **Bash will recognise him at the vigil** as the Historical Society man — a step toward *common denominator* ahead of Episodes 6–8, but consistent with the preservationist cover.
+> - **Other intel pipes this week:** Mrs. Sołtys (the Center feeds her daily) knows a boy was "up by the mill" the night Ren came home wrong. If the party cures Denny with Lowell's elixir, Alma tells the Center — and Wesley learns, for the first time, what Lowell was searching for and that four kids brought it up.
+> - **Proposed (not decided):** a 1993 Historical Society volunteer survey of the closed mill, led by Wesley, explains Lowell's first entry in Ren's notebook; before the 1996 storefront, his grief group met in the Historical Society reading room; if the party pushes for crossing gates, he "makes a few calls" and takes the halo.
+
 ## Long arc: Order's user → Chaos's champion
 - **Phase 1 (Sessions 1–late Act 2): Order's User.** Power/knowledge-hungry; building a clockwork community via the community center; recruits are parts in his structure, valued but not as individuals.
 - **The Break (late Act 2):** a [[The Mercer Mansion]] document (the Mercer papers) makes the previous-user truth unavoidable. He sees his own future in [[Elias Mercer]]'s. There isn't enough self left to recover.
@@ -96,13 +110,16 @@ He's been bringing people down for a while — as labor, and as hollowing-candid
 ## Act 1 plan & the equinox
 His objective is **opening [[The Mercer Gate]]** via the autumn-equinox ritual (Sunday, Sept 22) — and the gate is **genuinely required:** it's his access to deeper [[Elias Mercer|Mercer]] research materials toward the Work. The lock needs three elements: dungeon materials ([[The Three Ritual Items]]), a [[Elias Mercer|Mercer]] **bloodline anchor** ([[Dominique Ferraro]]), and **four hollowed-but-conscious witnesses** (the recruits). **He has modified the ritual** to also attempt producing **steered anti-embers** in those witnesses — using a rite he must run anyway as cover for his first **human trial of the Work at group scale.** That's why the recruits' anti-embers, filed elsewhere as a "side-effect," are the side he secretly cares about most. **The gate opens whether Wesley lives or dies** — kill him early and [[Dominique Ferraro]] (bloodline anchor and his heir) completes what's left, *unless she's pulled back.* See [[The Equinox Ritual]], [[Aftermath Branches]], [[Where the PCs Can Disrupt]], [[The Other Party (Rival or Evil)]].
 
+> [!note] Open (raised Session 9): which side of Dominique's family carries the Mercer line
+> She's Bash's **maternal cousin**. If the line runs through the Ferraros, **Bash is Mercer too** — a backup anchor, who just asked Wesley where Mercer's descendants went.
+
 He also pulls [[The Keystone Theft]] around the Floor 3 window — confirming he's been watching the PCs and locking his identity to the chalk-cartography style.
 
 ## At the equinox negotiation
 **Wesley is not negotiable** — too hollowed to reach. Treated as Hostile (Interest 1, Patience 1), no real motivations to hit. His role is the antagonist running the opposing campaign: counter-arguing the Rivals, progressing the Ritual Progress Track, occasionally attacking. The obstacle, not the target. See [[The Negotiation System]].
 
 ## Connections
-[[Elias Mercer]] (his predecessor / future) · [[Dominique Ferraro]] (bloodline anchor & heir) · [[Wesley's Recruits]] · [[Wesley's Adherents]] · [[The Community Center]] · [[The Mercer Mansion]] · [[The Mercer Gate]] · [[Wesley's Sigils]] · [[The Keystone Theft]] · [[The Equinox Ritual]] · [[The Cast and the Permanent Cast]] · [[Russ]] (the only adult who distrusts him)
+[[Elias Mercer]] (his predecessor / future) · [[Dominique Ferraro]] (bloodline anchor & heir) · [[Wesley's Recruits]] · [[Wesley's Adherents]] · [[The Community Center]] · [[Mercer Falls Historical Society]] · [[The Mercer Mansion]] · [[The Mercer Gate]] · [[Wesley's Sigils]] · [[The Keystone Theft]] · [[The Equinox Ritual]] · [[The Cast and the Permanent Cast]] · [[Russ]] (the only adult who distrusts him) · [[Nullprints]] · [[Lowell Brandt]] · [[Session 9 — The Crossing Remembers]]
 
 ## Source
-campaign bible v0.4 §2, §5, §6 (376–568), §9 (Wesley at Equinox, 864) · wesley bizarro plot v5 §3, §6, §9 · Wesley deep-characterization pass + The Work / ritual-as-human-trials (conversation, 2026-06)
+campaign bible v0.4 §2, §5, §6 (376–568), §9 (Wesley at Equinox, 864) · wesley bizarro plot v5 §3, §6, §9 · Wesley deep-characterization pass + The Work / ritual-as-human-trials (conversation, 2026-06) · **Session 9 play and prep conversation, 2026-10-17** (Historical Society fellow; met Bash; descendants answer; threshold-rule edge)
