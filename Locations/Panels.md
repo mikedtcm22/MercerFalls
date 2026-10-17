@@ -24,13 +24,16 @@ A horror-VHS wall (alphabetized, Russ's personal secondhand collection), a long-
 ## In play — the research hub
 Under the Nightmare Engine, **Panels is the answer key and Russ is the guide.** When a PC describes a monster, Russ often recognizes it from memory (he's a generalist with a deep love of late-70s-to-mid-80s creature features); when he can't, he points them at the right shelf. A visit gives the party an **edge** — the canonical weakness, habits, kill condition — but is **never required** to beat a monster. The strategic question is whether the Time Point is worth it this episode. Russ's first significant appearance is the Episode 1 first-contact scene over the [[The Hush]] source film.
 
-**Back-room access is rapport-gated** (bible §12): multiple Time Points invested, a dungeon antique or two he's clocked as "real," and his quiet decision they're his kind of customer. Once unlocked, Russ becomes a high-end magic-item channel (purchase / trade / gift) and the back room is a candidate **gear-stash** location. Two named real pieces live there: **[[The Mercer Mirror]]** (Episode 4) and a **brass compass that doesn't point north** (a paperweight; what it points to is held loose, to be locked alongside the Floor 1 Compass-Keystone). Also a small, un-prominent framed photo of his sister **Annie**, who died in [[The 1991 Mill Incident]].
+**Back-room access is rapport-gated** (bible §12): multiple Time Points invested, a dungeon antique or two he's clocked as "real," and his quiet decision they're his kind of customer. Once unlocked, Russ becomes a high-end magic-item channel (purchase / trade / gift) and the back room is a candidate **gear-stash** location. Two named real pieces live there: **[[The Mercer Mirror]]** (half of a twinned Mercer pair — the door the [[Episode 5 — The Mirror|Episode 5]] vampire comes through at night; its twin hangs in [[The Long Gallery]]) and a **brass compass that doesn't point north** (a paperweight; what it points to is held loose, to be locked alongside the Floor 1 Compass-Keystone). Also a small, un-prominent framed photo of his sister **Annie**, who died in [[The 1991 Mill Incident]].
+
+> [!note] Episode 5 (planned, 2026-10-17)
+> At night, after closing, **fog seeps from the corner of the back-room mirror** — the vampire's way into town. A shop needs no invitation, so the back room is open to it; houses aren't. **Covering the mirror while it's out** strands it topside before dawn (Zander's plan). After the episode the Panels mirror is still half of a working door, opening onto wherever Wesley hangs its twin. See [[Episode 5 — The Mirror]].
 
 > [!danger] DM-only
 > Russ is **Filter-touched, not yet Filter-broken** ([[The Reality Filter]]) — his Filter runs at half-strength, so he half-notices anomalies and is the **only adult in town quietly distrustful of [[Wesley Crane]]**. He's the leading candidate for the campaign's first significant Filter-break. The Mirror is showing him real things; his B-movie expertise becoming load-bearing, and the truth of Annie's death, are his break triggers. Reserved capstone line for that moment: *"I knew that guy was bad news."*
 
 ## Connections
-[[Russ]] · [[Marco's Diner]] · [[The Districts]] · [[The Mercer Mirror]] · [[The Hush]] · [[Gear and Items]] · [[Forensic Delving]] · [[The 1991 Mill Incident]] · [[Wesley Crane]] · [[The Reality Filter]] · [[Episode 4 — The Mirror]]
+[[Russ]] · [[Marco's Diner]] · [[The Districts]] · [[The Mercer Mirror]] · [[The Hush]] · [[Gear and Items]] · [[Forensic Delving]] · [[The 1991 Mill Incident]] · [[Wesley Crane]] · [[The Reality Filter]] · [[Episode 5 — The Mirror]]
 
 ## Source
-Campaign Bible v0.4, §12 (Russ at Panels). Russ at Panels — Character Sketch (Episode-1 prep).
+Campaign Bible v0.4, §12 (Russ at Panels). Russ at Panels — Character Sketch (Episode-1 prep). **2026-10-17:** Mercer Mirror re-pointed from the retired Episode 4/5 echo to the Episode 5 vampire design.
