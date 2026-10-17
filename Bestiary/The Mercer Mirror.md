@@ -1,35 +1,37 @@
 ---
-title: The Mercer Mirror
-type: monster
+aliases: [the Mirror, the Mercer family mirror, the Mercer twins, the Mercer twin, the Panels mirror, the Long Gallery mirror]
+created: 2026-06-14T00:00:00.000Z
 domain: Bestiary
-status: stub
+featured_episode: "[[Episode 5 — The Mirror]]"
+source: [wesley bizarro plot v5 §7 Ep4 (lines 340–343) — retired monster concept, "conversation 2026-10-17 (twinned door, guard, lock, ritual item #1)"]
+status: provisional
+tags: [embers, mercer, artifact, mirror, episode-5, ritual-item]
+title: The Mercer Mirror
+type: item
 visibility: dm-only
-aliases: [the Mirror, the Mercer family mirror]
-tags: [embers, monster, episode-4, mercer, artifact]
-source: ["wesley bizarro plot v5 §7 Ep4 (lines 340–343)"]
-created: 2026-06-14
-featured_episode: "[[Episode 4 — The Mirror]]"
 ---
 
 # The Mercer Mirror
 
 Up: [[Bestiary]]
 
-**A cursed Mercer-family antique mirror that reflects figures not in the room — Episode 4's monster, and the first material thread tying the PCs' problems to the Mercer family. Predates [[Wesley Crane]] by decades.** Lightly sketched — design when prepping [[Episode 4 — The Mirror]].
+> [!warning] No longer a monster (2026-10-17)
+> The earlier concept — an **Order-touched echo from one of [[Elias Mercer|Mercer]]'s earliest experiments**, Episode 4's monster, zero Wesley fingerprint — is **retired**, along with the destroy / seal / extract resolution menu and the Eddie-at-the-annex route. The mirror is now an **object**: a twinned pair. Episode 5's monster is the vampire that guards it. See **[[Episode 5 — The Mirror]]**. *(Note path kept in Bestiary so existing links resolve.)*
 
-## Concept
-An antique mirror now in the back room at [[Panels]] ([[Russ]]'s comic shop). It reflects something other than the room — figures in the reflection that aren't present, occasional movement when no one's looking. A kid who looked at it too long has nightmares of the same figure walking *out* of the mirror toward him.
+**A pair of Mercer looking-glasses that work as a door — for anything that casts no reflection.** One hangs in the back room at [[Panels]]; its twin is fixed in [[The Long Gallery]] on [[Floor 2 — The Works|Floor 2]].
 
-> [!danger] DM-only
-> **The cause.** The thing in the mirror is an **Order-touched echo from one of [[Elias Mercer|Mercer]]'s earliest experiments** — one of several scattered Mercer artifacts that pre-date Wesley by decades. Not Wesley's doing at all; this is older. See [[Order and Chaos]]. Wesley fingerprint level: **none** — but the Mercer name now enters the PCs' research and [[Eddie Park]] is pulled into orbit. A [[Cosmology Seeds|cosmology seed]]: first material connection between the weird problems and the Mercer family specifically.
+## The pair
+- **The door rule.** The twins pass anything without a reflection. Ordinary mirrors are not doors; only the pair connects.
+- **The guard.** The dungeon set a guard on its own back door — a vampire, the one thing that can walk through what it guards. It rests *in the glass*, between the pair (a resting place, not a walkable space).
+- **The lock.** While the guard lives, the dungeon twin cannot leave the dungeon.
+- **Mercer glass doesn't break.** Russ's hammer rings off it.
+- **The dungeon twin is item #1 of [[The Three Ritual Items]].** [[Wesley Crane|Wesley]] woke the guard trying to take it, and takes it at the end of Ep5 once the party kills the guard.
 
-## Provenance (auction thread)
-On display in [[The Mercer Mansion]] for decades → sold at a [[Mercer Falls Historical Society|Society]] auction in 1983 when funds got tight → cycled through estate sales → Russ bought it cheap in 1989 thinking it a curio. Investigation of the auction provenance is a pullable thread (and the route to the library annex and [[Eddie Park]]).
+## Provenance (canon, unchanged)
+On display in [[The Mercer Mansion]] for decades → sold at a [[Mercer Falls Historical Society|Society]] auction in 1983 when funds got tight → cycled through estate sales → [[Russ]] bought it cheap in 1989 thinking it a curio.
 
-## Resolution paths
-- **Destroy it** — Russ's preference, easiest
-- **Seal it** — Eddie can help research how
-- **Extract** whatever's in it back to the dungeon — careful handling lets the PCs keep the mirror as a high-value, dangerous magic item
+## After Episode 5
+Wesley holds the far twin. The Panels twin is still half of a working door — it opens wherever the far twin now hangs, for anything without a reflection. If Cole turned in Ep5, he is the only thing left in town that can use it.
 
 ## Source
-Wesley Bizarro Plot v5 §7 Episode 4 (lines 340–343).
+Wesley Bizarro Plot v5 §7 Episode 4 (lines 340–343) — original monster concept, now retired. **Conversation, 2026-10-17** — rebuilt as the twinned door, the guard, the lock, and ritual item #1; see [[Episode 5 — The Mirror]].
