@@ -16,12 +16,10 @@ Up: [[Gear and Items]]
 
 **A hand lens found in [[The Debrief Station|Mercer's cabin]]. Ask it a question about the past of a thing and it shows you a scene that answers — but first it names a price, in your own handwriting, and the price is always a memory. It is the DM's lifeline for a stalled table, and it is the object that will eventually tell [[Bash Whitlock|Bash]] the truth about his Window.**
 
-> [!danger] In play — [[Gern]] has it, not Bash
-> **Found [[Session 8 — Second Shift|Session 8]] in the cabin's curio cabinet** (Gern, Investigation 18 with Tank helping). The DM sent **Kenny the item text privately as player knowledge.** In character Gern told the party he'd found *"a cool-looking magnifying glass — maybe it does something neat, maybe it'll decode a message,"* and that he **doesn't know how it works yet.**
+> [!danger] In play — passed around the whole party (as of [[Session 9 — The Crossing Remembers|Session 9]])
+> **Found [[Session 8 — Second Shift|Session 8]] in the cabin's curio cabinet** (Gern, Investigation 18 with Tank helping). The DM sent **Kenny the item text privately as player knowledge.**
 >
-> **Open (held by the DM):** whether Gern is *concealing* what it does or genuinely hasn't worked it out. That matters for his arc — see [[Gern]].
->
-> **Consequence for the Bash payoff below:** it now routes through Gern. Nothing is lost yet; see *The Bash payoff — rerouted* at the end of this note.
+> **Session 9:** Gern asked the Glass about itself, then **explained it openly to the party** — the Session 8 conceal-or-not dial is resolved: *not concealing.* His gloss: *"You lose certainty, replaced with doubt."* All four PCs have now held it; it moves from hand to hand.
 
 ---
 
@@ -50,12 +48,39 @@ Up: [[Gear and Items]]
 
 ---
 
+## Table rulings (Session 9) — all endorsed
+
+> [!important] The Glass is meant to be used, and to cause chaos
+> Kids passing round a mildly cursed object is exactly the intended play. These rulings stand.
+
+- **Once per *person* per long rest.** Four charges a day for the party, not one.
+- **Shopping is the point.** Pass it round until someone has a price they'll pay. **Prices are fixed per holder, per question, per object** — a different holder gets their own price for the same question.
+- **Say it, then pay.** A holder may announce the fact aloud before accepting; only the payer loses it, and the party keeps it.
+- **What follows for pricing:** anything the group can hold for the payer is cheap. The knife lives in what each kid is willing to give up — promises, kindnesses, private feelings, a route only they walked. **Use the falter.**
+- **Tank treats every price as free** ("I don't even remember that anyway"). Price him with promises.
+
+### Price ledger
+
+| Session | Holder | Object | Question | Price | Outcome |
+|---|---|---|---|---|---|
+| 9 | Tank | Lowell's finger bone | Everything about it | Ricky Vance has a chronic problem with his hands lately | **Paid** (others retain) |
+| 9 | Bash | Lowell's finger bone | Whose, how old, everything | The dungeon moves forward in time rather than looping | Declined — locked |
+| 9 | Gern | The mill-road crossing | The moments before Ray Kubiak died | The Spiral Stair sigil is the one the hooded man drew in Session 1 | **Paid** (Bash retains) |
+| 9 | Old Man | A mining helmet | Complete history and fate of its owner | His agreement to meet Ren to go over her findings | Declined — locked |
+| 9 | Bash | His mirror rig | How do I make it do that again? | Dominique knows about the place under the mill | Declined — locked |
+| 9 | Tank | Ren's notebook | How old is it? | Signal whistles are for humans, not dogs | **Paid** |
+| 9 | Gern | The Glass itself | Its own past | His memory of visiting Ruth | **Paid** |
+
+**Falters primed:** Gern on the sigil link (the Spiral Stair Room is on the delve route); Gern if Dominique raises the Ruth visit (it's where he asked her to join the crew); Tank on Ricky's hands, permanently — see [[Ricky Vance]].
+
+---
+
 ## Player handout
 
 The item card given to the player: [Reading Glass — item card](https://claude.ai/artifact/1G6eNbUhXk2qx7HtWz5GEa) (half-letter, prints two per sheet). It carries the description, an illustration of the glass open and folded, and the ACTION / THE PRICE / IF YOU PAY text.
 
 - **The handles:** two grips hinged on the rim at **4 and 8 o'clock**, so the glass sits slightly above the hands when held. Folded, they swing in and lie across the lens in a shallow V, meeting just below the centre. *(Described at the table as "an oversized magnifying glass with two handles that swivel in and out of each other.")*
-- **Not on the handout** (DM-side unless revealed in play): fixed prices, narrower questions costing less, the shown-proof line, THE ANSWER, and *"do something else instead, freely."* The handout also doesn't state that a declined price leaves the use unspent.
+- **Not on the handout** (DM-side unless revealed in play): fixed prices, narrower questions costing less, the shown-proof line, THE ANSWER, and *"do something else instead, freely."* The handout also doesn't state that a declined price leaves the use unspent. **Nor the Session 9 per-person ruling** — the card still reads "once per long rest."
 
 ---
 
@@ -97,12 +122,14 @@ The item card given to the player: [Reading Glass — item card](https://claude.
 - **Only the holder reads the price.** It appears on the far side of the lens, in their handwriting, because it's theirs. The rest of the table sees someone go still and then either speak or not. *"What did it say?" — "...doesn't matter."* **Keep it isolating.**
 - **Write each burned memory on a slip**, in the player's own words, kept at the table. The player still knows. The character does not.
 - **Keep a short running list of each PC's knowledge**, so you can name a price without stalling. Useful anyway.
-- **No shopping.** Fixed prices mean they can't re-roll for a cheaper one. Declining is free, always available, and **doesn't spend the once-per-long-rest use.**
+- **Shopping across holders is fine** (Session 9 ruling). A single holder still can't re-roll their own price. Declining is free, always available, and **doesn't spend that holder's use.**
 - **The falter is the punishment, not the damage.** 2d6 at level 3 is a slap, not a threat, and it's meant to be payable repeatedly. The wall is the point.
 
 ## Where it was found
 
 [[The Debrief Station]] — the cabin at the head of the shaft, reachable only by climbing out through the one-way hatch after the [[The Siren|Siren]] dies. **Undisturbed for a century.** [[Elias Mercer]] presumably used it for exactly what the party will: asking a place what happened in it. **As played, it sat in the cabin's curio cabinet**, among a strange skull, a lantern and other oddities.
+
+**Session 9 — the Glass on itself:** Gern's vision showed **Elias Mercer showing it to a man in a chair, then shelving it in the cabinet.** *Open:* who the man in the chair was.
 
 ---
 
@@ -149,27 +176,24 @@ He will think he engineered it. He will be proud of it. And **the price the glas
 >
 > Related, and equally undecided: the Window's content is *"something terrible happening to Dominique."* If the mirror has always charged the same way, the bleakest reading is that he has been buying visions of his cousin with **his capacity to read her** — which would explain why he cannot see what she is actually doing. **Don't commit. It costs nothing to leave the door open.**
 
-### The Bash payoff — rerouted (after Session 8)
+### The Bash payoff — status after Session 9
 
-**Everything above still works; it just has to pass through Gern first.** Two natural routes, neither forced:
-
-- **Bash sees it from the outside.** The first time Gern uses it in front of him, Bash watches someone go still behind the lens and come back — and recognises *that*. *"That's what I look like."* Arguably a harder hit than holding it, because he is seeing his own Window from across the room.
-- **Gern hands it over** — or Bash asks for it — once Gern's reason for keeping it quiet runs out.
-
-**Gern's own read is the third layer.** An Order Domain cleric from a Certaintist house holding a Mercer object that sells true visions of the past for a piece of yourself is its own pressure on his faith, independent of Bash. See [[Gern]], [[Certaintism]].
+- **Bash has held it twice and declined twice.** He has seen two prices and **no vision**, so *"that's the same thing happening to me"* is still fully loaded.
+- **The mirror question is locked:** *"How do I make it do that again?"* costs **forgetting that Dominique knows about the place under the mill.** If he ever pays, he stops knowing she knows — so he stops telling her, leaves her at the threshold every time, and her ledger drains. **The Window would be feeding her fall.** Hold this gun.
+- **Gern's own read is still the third layer.** An Order Domain cleric from a Certaintist house holding a Mercer object that sells true visions of the past for a piece of yourself is its own pressure on his faith, independent of Bash. See [[Gern]], [[Certaintism]].
 
 ## Open dials
 
 - Whether Mercer made it, found it, or was given it.
 - Whether a scene can be shown to more than one person. *(Recommended: no. The isolation is half the item.)*
-- What happens if someone asks the glass about **the glass.**
+- ~~What happens if someone asks the glass about the glass.~~ *Answered Session 9:* Mercer showing it to a man in a chair. Who that man was is still open.
 - Whether anything can restore a burned memory. *(Recommended: nothing in Act 1, and probably nothing ever.)*
-- **Whether Gern is concealing it or doesn't understand it** *(Session 8 — held open).*
+- ~~Whether Gern is concealing it or doesn't understand it.~~ *Resolved Session 9: he explained it openly.*
 
 ## Links
-[[The Debrief Station]] · [[Elias Mercer]] · [[Bash Whitlock]] · [[Gern]] · [[The Mercer Mirror]] · [[Dominique Ferraro]] · [[The Reality Filter]] · [[Nullprints]] · [[Wesley Crane]] · [[Gear and Items]] · [[Certaintism]] · [[Episode 3 — Second Shift]] · [[Session 8 — Second Shift]]
+[[The Debrief Station]] · [[Elias Mercer]] · [[Bash Whitlock]] · [[Gern]] · [[The Mercer Mirror]] · [[Dominique Ferraro]] · [[The Reality Filter]] · [[Nullprints]] · [[Wesley Crane]] · [[Gear and Items]] · [[Certaintism]] · [[Episode 3 — Second Shift]] · [[Session 8 — Second Shift]] · [[Session 9 — The Crossing Remembers]] · [[Ricky Vance]]
 
 ## Source
 Design conversation, 2026-10 — built as a stalled-table lifeline with the DM setting the price, and as the object that eventually explains [[Bash Whitlock|Bash]]'s Window. Earlier drafts had the player choosing which memory to pay and a fidelity scale tied to its value; both cut — **the DM names the price, and every scene lands at full weight.**
 
-Revised 2026-09-29 alongside the player handout: two-handled design (grips hinged at 4 and 8 o'clock, folding across the lens), replacing "four inches across" and "never fogs — except once"; added the once-per-long-rest limit, with a declined price not spending the use. **Found in play 2026-09-30 ([[Session 8 — Second Shift]]) by Gern, in the curio cabinet; Bash payoff rerouted.**
+Revised 2026-09-29 alongside the player handout: two-handled design (grips hinged at 4 and 8 o'clock, folding across the lens), replacing "four inches across" and "never fogs — except once"; added the once-per-long-rest limit, with a declined price not spending the use. **Found in play 2026-09-30 ([[Session 8 — Second Shift]]) by Gern, in the curio cabinet; Bash payoff rerouted.** **Revised 2026-10-17 ([[Session 9 — The Crossing Remembers|Session 9]]):** per-person charges, shopping and say-it-then-pay endorsed; price ledger added; the Glass-on-the-Glass and Gern-concealing dials resolved; Bash's mirror price locked.
